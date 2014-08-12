@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Ingen</WorkTagNone>
+  <WorkTagIntellectual>Intelligent</WorkTagIntellectual>
+  <WorkTagManualDumb>Dum arbeidskraft</WorkTagManualDumb>
+  <WorkTagManualSkilled>Dyktig Arbeidskraft</WorkTagManualSkilled>
+  <WorkTagViolent>Voldelig</WorkTagViolent>
+  <WorkTagCaring>Omsorgsfull</WorkTagCaring>
+  <WorkTagSocial>Sosial</WorkTagSocial>
+  <WorkTagScary>Skummel</WorkTagScary>
+  <WorkTagArtistic>Kunstnerisk</WorkTagArtistic>
+  <WorkTagCrafting>Håndverk</WorkTagCrafting>
+  <WorkTagCooking>Matlaging</WorkTagCooking>
+  <WorkTagFirefighting>Brannslukking</WorkTagFirefighting>
+  <WorkTagCleaning>Vasking</WorkTagCleaning>
+  <WorkTagHauling>Flytting</WorkTagHauling>
+  <WorkTagPlantWork>Plante arbeid</WorkTagPlantWork>
+  <WorkTagMining>Gruvedrift</WorkTagMining>
+
+</LanguageData>

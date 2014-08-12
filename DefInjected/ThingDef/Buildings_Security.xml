@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Sandbags.label>Sandsäckar</Sandbags.label>
+  <Sandbags.description>Skydd från vapeneld.</Sandbags.description>
+
+  <TurretGun.label>Improviserat kanontorn</TurretGun.label>
+  <TurretGun.description>Ett ömtåligt improviserat kanontorn som automatiskt skjuter på fiender i närheten. Exploderar när det skadats.</TurretGun.description>
+
+  <Turret_MortarIncendiary.label>Brandbombsgranatkastare</Turret_MortarIncendiary.label>
+  <Turret_MortarIncendiary.description>En granatkastare som kastar brandbomber. Kräver bemanning. Exploderar när den skadats.</Turret_MortarIncendiary.description>
+
+  <Turret_MortarBomb.label>Granatkastare</Turret_MortarBomb.label>
+  <Turret_MortarBomb.description>En granatkastare som kastar explosiva granater. Kräver bemanning. Exploderar när den skadats.</Turret_MortarBomb.description>
+
+</LanguageData>

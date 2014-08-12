@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Golv av träplankor. För den där varma, hemlika känslan.</WoodPlankFloor.description>
+
+  <MetalTile.label>Metallpanel</MetalTile.label>
+  <MetalTile.description>Metallpaneler, för den där rymdskeppslooken.</MetalTile.description>
+
+  <PavedTile.label>Gjuten kakel</PavedTile.label>
+  <PavedTile.description>Funktionell betongkakel. Snabbt att ta sig fram över, men inte särskilt vackert.</PavedTile.description>
+
+  <StoneTile.label>Stenkakel</StoneTile.label>
+  <StoneTile.description>Massiv stenkakel för en slottskänsla.</StoneTile.description>
+ 
+  <CarpetRed.label>Röd matta</CarpetRed.label>
+  <CarpetRed.description>Plyschmatta i en förtjusande rosa nyans.</CarpetRed.description>
+
+  <CarpetGreen.label>Grön matta</CarpetGreen.label>
+  <CarpetGreen.description>Grön matta med en distinkt naturkänsla.</CarpetGreen.description>
+ 
+  <CarpetBlue.label>Blå matta</CarpetBlue.label>
+  <CarpetBlue.description>Tåkramande plyschmatta i en kylig blå färg.</CarpetBlue.description>
+
+  <Concrete.label>Betong</Concrete.label>
+  <Concrete.description>Snabbgjuten betong, snabb att ta sig fram över, men rätt ful. Du behöver kunna gräva ut marken för att gjuta denna.</Concrete.description>
+ 
+  <SmoothStone.label>Slät sten</SmoothStone.label>
+  <SmoothStone.description>Slätad naturlig sten. Snabb att ta sig fram över och underbar att se på.</SmoothStone.description>
+
+  <RoughHewnRock.label>Grovhuggen sten</RoughHewnRock.label>
+
+</LanguageData>

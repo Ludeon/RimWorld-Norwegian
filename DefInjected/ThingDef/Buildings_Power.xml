@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PowerConduit.label>Kraftledning</PowerConduit.label>
+  <PowerConduit.description>En uppsättning av elektriska kablar för att leda omkring ström.</PowerConduit.description>
+
+  <SolarGenerator.label>Solpanel</SolarGenerator.label>
+  <SolarGenerator.description>Producerar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>Geotermisk generator</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Producerar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator.description>
+
+  <Battery.label>Batteri</Battery.label>
+  <Battery.description>Lagrar elektricitet när det finns för mycket kraft, och avger när det inte gör det. Varning - Laddade batterier tenderar att explodera när de värms eller blöts ner.</Battery.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Sand.label>Sand</Sand.label>
+
+  <Soil.label>Jord</Soil.label>
+ 
+  <SoilRich.label>Bördig jord</SoilRich.label>
+
+  <Gravel.label>Grus</Gravel.label>
+ 
+  <RoughStone.label>Grov sten</RoughStone.label>
+
+</LanguageData>

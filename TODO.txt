@@ -1,0 +1,4 @@
+-  Finish main translation
+-  Finish DefInjected translation
+-  Re-Translate bad translation
+-  Spelling/Grammar checking
