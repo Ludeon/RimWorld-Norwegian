@@ -2,3 +2,4 @@
 -  Finish DefInjected translation
 -  Re-Translate bad translation
 -  Spelling/Grammar checking
+-  Remake flag to proportions
