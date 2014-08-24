@@ -26,4 +26,18 @@
   <Always>Allow</Always>
   <Never>Do not allow</Never>
   
+  <!-- pawn activity -->
+  <Consciousness>Consciousness</Consciousness>
+  <Sight>Sight</Sight>
+  <Hearing>Hearing</Hearing>
+  <Moving>Moving</Moving>
+  <Working>Working</Working>
+  <Talking>Talking</Talking>
+  <Eating>Eating</Eating>
+  <Breathing>Breathing</Breathing>
+  <BloodFiltration>Blood filtration</BloodFiltration>
+  <BloodPumping>Blood pumping</BloodPumping>
+  <Metabolism>Metabolism</Metabolism>
+
+
 </LanguageData>

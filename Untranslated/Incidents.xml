@@ -68,6 +68,6 @@
   <LetterAgentRevealed>{0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now.</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>A headache pierces your skull like a nail!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region. For a few days, everyone's mood will be quite a bit worse.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Every colonists of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some peoples' mood will be quite a bit worse.</LetterIncidentPsychicDrone>
   
 </LanguageData>

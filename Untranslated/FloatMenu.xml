@@ -24,6 +24,7 @@
 
 	<ForbiddenLower>forbidden</ForbiddenLower>
 	<SociallyImproperLower>socially improper</SociallyImproperLower>
+  <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
 	<BurningLower>burning</BurningLower>
 	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
 	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
@@ -62,6 +63,10 @@
   <CannotDeposit>Cannot deposit {0} in {1}</CannotDeposit>
 
   <Drop>Drop {0}</Drop>
+  
+  <UseMedicalBed>Rest until fully healed</UseMedicalBed>
+  <NotInjured>Not injured</NotInjured>
+  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepPod>Enter cryptosleep pod</EnterCryptosleepPod>

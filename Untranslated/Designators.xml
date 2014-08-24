@@ -55,6 +55,8 @@
   <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
   
+  <DesignatorClaim>Claim</DesignatorClaim>
+  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
