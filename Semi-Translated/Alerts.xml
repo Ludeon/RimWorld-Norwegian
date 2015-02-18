@@ -7,78 +7,78 @@
 
 
   <AlertNeedStockpile>Trenger lagrings plass</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Kolonistene dine trenger en plass for å lagre ting. Angi et LAGER for dem til å lagre ting i.\n\nFinn lager i sone delen av arkitekt menyen nederst til venstre.</AlertNeedStockpileDesc>
+  <AlertNeedStockpileDesc>Kolonistene dine trenger en plass for å lagre ting. Angi en lagringsplass hvor kolonistene kan lagre ting i.\n\nDu finner lagrings verktøyet i menyen nede til venstre.</AlertNeedStockpileDesc>
 
-  <AlertUnforbidStartingResources>Uforby resusser</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Start resurssene på kartet er forbydd. \n\nFor at kolonistene skal ta dem, må du uforby dem ved å velge dem og trykke på uforby kommandoen nederst på skjermen.</AlertUnforbidStartingResourcesDesc>
+  <AlertUnforbidStartingResources>Tilatt resusser</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Start resurssene på kartet er markert som forbudt. \n\nFor at kolonistene skal kunne bruke dem. Du må tilatte dem ved å velge dem og trykke på tilatt knappen, alternativt (F).</AlertUnforbidStartingResourcesDesc>
 
-  <AlertEquipStartingWeapons>Bruk våpen</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Kolonistene dine kom med noen våpen. Bruk dem!\n\nVelg hver kolonist og høyre-klikk på våpenet du vil at de skal bruke.</AlertEquipStartingWeaponsDesc>
+  <AlertEquipStartingWeapons>Gi kolonistene dine våpen</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Kolonistene dine kom med et par våpen våpen. Bruk dem!\n\nVelg hver kolonist og høyre-klikk på våpenet du vil at de skal bruke.</AlertEquipStartingWeaponsDesc>
 
   <NeedSawmill>Trenger sagbruk</NeedSawmill>
-  <NeedSawmillDesc>Du trenger en form for sagbruk å hogge stokker til mer allsidige planker.\n\nBygg et hånd sagbruk eller et elektrisk sagbruk.</NeedSawmillDesc>
+  <NeedSawmillDesc>Du trenger en form for sagbruk å hogge stokker til mer allsidige planker.\n\nBygg et manuelt sagbruk eller et elektrisk sagbruk.</NeedSawmillDesc>
 
   <EquipStartingEquipment>Ta utstyret ditt</EquipStartingEquipment>
-  <EquipStartingEquipmentDesc>Du landet med noen våpen. Ta dem fra landings område ditt.\n\nFor å bruke noe, velg en kolonist og høyre klikk på tingen du vil bruke.</EquipStartingEquipmentDesc>
+  <EquipStartingEquipmentDesc>Kolonistene dine landet med noen våpen. Ta dem fra landings område ditt.\n\nFor å bruke noe, velg en kolonist og høyre klikk på tingen du vil bruke.</EquipStartingEquipmentDesc>
 
   <MentalBreakSoon>Mentalt gal snart</MentalBreakSoon>
-  <MentalBreakSoonDesc>Disse kolonistene nærmer seg det punket der de går gal:\n\n{0}\nForbedre disse kolonistenes psykologi snart eller vil dårlige ting skje.</MentalBreakSoonDesc>
+  <MentalBreakSoonDesc>Disse kolonistene viser tegn til psykotiske problemer:\n\n{0}\nForbedre disse kolonistenes psyke snart ellers vil dårlige ting begynne å skje.</MentalBreakSoonDesc>
 
-  <MentalBreakImminent>Mentalt gal straks</MentalBreakImminent>
-  <MentalBreakImminentDesc>Disse kolonister er kritisk stresset og kan bli gal når som helst:\n\n{0}</MentalBreakImminentDesc>
+  <MentalBreakImminent>Nært mentalt sammenbrudd</MentalBreakImminent>
+  <MentalBreakImminentDesc>Disse kolonistene vil slå fra seg dersom du ikke oppfyller behovene deres.:\n\n{0}</MentalBreakImminentDesc>
 
   <ColonistNeedsRescue>Kolonist trenger hjelp</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister trenger hjelp</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>Disse kolonistene ligger skadet på bakken:\n\n{0}\nSend en annen kolonist å redde dem og bære dem tilbake til sengen.\n\n(For å redde, velg en annen kolonist og høyre klikk på offret og velg Redd.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Disse kolonistene er paralysert og ligger skadet på bakken:\n\n{0}\nSend en annen kolonist å redde dem og bære dem tilbake til sengen deres.\n\n(For å redde, velg en annen kolonist og høyre klikk på offret og velg Redd.)</ColonistsNeedRescueDesc>
 
   <BuildARoom>Bygg et rom</BuildARoom>
   <BuildARoomDesc>Et rom består av separate veggstykker med en dør.\n\nBruk arkitekt menyen nederst til venstre av skjermen for å designere hvor du vil ha ting bygget. Når du designerer noe som skal bli bygget, vil kolonistene dine gjøre arbeidet de kan.</BuildARoomDesc>
 
-  <NeedGrowingZone>Trenger plante område</NeedGrowingZone>
-  <NeedGrowingZoneDesc>Du har ingen plante områder.\n\nPlasser et plante område på fruktbar jord gjennom arkitekt menyen.</NeedGrowingZoneDesc>
+  <NeedGrowingZone>Trenger dyrkningssone</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Du har ingen plante områder.\n\nPlasser et dyrkningssone område på fruktbar jord gjennom arkitekt menyen.</NeedGrowingZoneDesc>
 
   <NeedDefenses>Trenger forsvar</NeedDefenses>
-  <NeedDefensesDesc>Du har vært her en stund og du har helt sikkert blitt sett. Pirat angrep vil starte snart.\n\nDu burde forberede forsvar.\n\n Bygg noen kanoner.</NeedDefensesDesc>
+  <NeedDefensesDesc>Du har vært her en stund og du har helt sikkert blitt sett. Pirater vil snart begynne å angripe kolonien.\n\nDu burde forberede forsvar.\n\n Bygg noen kanoner.</NeedDefensesDesc>
 
-  <NeedDoctor>Trenger en doktor</NeedDoctor>
-  <NeedDoctorDesc>Disse kolonistene trenger medisinsk hjelp, men du har ingen friske kolonister valgt som doktorer.\n\n{0}\nVelg en frisk kolonist til doktor arbeidstypen. Hvis de ikke får medisinsk hjelp, kan sårene aldri bli friskere og kan bli permamente.</NeedDoctorDesc>
+  <NeedDoctor>Trenger doktor</NeedDoctor>
+  <NeedDoctorDesc>Disse kolonistene trenger medisinsk hjelp, men du har ingen friske kolonister valgt som doktorer.\n\n{0}\nVelg en frisk kolonist til doktor arbeidstypen. Hvis kolonistene ikke får medisinsk hjelp, kan skadene av sårene bli permamente.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMiner>Need gruvearbeider</NeedMiner>
+  <NeedMinerDesc>Du har designert et område som skal utgraves, men du har ingen kolonister som er valgt til å ta seg av arbeidsoppgaven.\n\nVelg en kolonist til å utføre arbeidet gjennom arbeidsfordelings-menyen.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>Trenger oppsynsmannn</NeedWarden>
+  <NeedWardenDesc>Du har en fange, men ingen kolonist er valgt som oppsynsmann.\n\nVelg en kolonist som skal være oppsynsmann gjennom arbeidsfordelings-menyen.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
-  <LowFoodDesc>You only have {0} nutrition worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFood>Lite mat</LowFood>
+  <LowFoodDesc>Du har bare {0} næring i lageret ditt. dDette er farligt lavt.\n\nGro, kjøp, finn, eller drep en mat-kilde.</LowFoodDesc>
 
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Trenger senger til kolonistene</NeedColonistBeds>
+  <NeedColonistBedsDesc>Du har flere kolonister enn du har senger. Noen vil mangle et sted å sove.\n\nenten lag noen senger, eller velg en fange seng og tildel den til en kolonist.\n\nHvis du ikke har nok resurser, kan det være en god ide å tildele soveplasser, de er gratis og trenger ikke tid får de kan tas i bruk.</NeedColonistBedsDesc>
 
-  <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food. You'll need a food source like a nutrient paste dispenser and some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
+  <Starvation>Sult</Starvation>
+  <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nSkaff dem noe å spise. Du vil trenge en mat kilde som en nærings-pasta dispenser og mat til å mate den. Også, pass på at de ikke er utarbeidet.</StarvationDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Utmattelse</Exhaustion>
+  <ExhaustionDesc>Disse kolonistene er utmattet og trenger hvile:\n\n{0}\nGi dem hvile. De vil trenge en seng som er markert for kolonist bruk. Også, pass på at de ikke er utarbeidet.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Trenger mat beholder</NeedFoodHopper>
+  <NeedFoodHopperDesc>Du har en nærings pasta dispenser uten en beholder ved siden av.\n\nFor å virke, må nærings-pasta dispenseren trekke mat fra en beholder fylt med rå mat.\n\nBygg en beholder ved siden av dispenseren slik at den berører en av sidene.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Building needs power</BuildingNeedsPower>
-  <BuildingsNeedPower>Buildings need power</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <BuildingNeedsPower>En bygning trenger strøm</BuildingNeedsPower>
+  <BuildingsNeedPower>Flere bygninger trenger strøm</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Disse strøm-brukende bygningene er totalt adskilt fra alle strøm kilder:\n\n{0}\nKoble de til en strøm generator eller til et batteri.</BuildingsNeedPowerDesc>
+  <AndMore>Og mer</AndMore>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>Ingen måltids kilde</NeedMealSource>
+  <NeedMealSourceDesc>Du mangler en skikkelig måte å lage måltid fra råmat.\n\nBygg en nærings-pasta dispenser eller en kokeplate.\n\n(Den kan ikke være i et fange-område, ellers vil ikke kolonistene kunne bruke den.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Need home region</NeedHomeRegion>
-  <NeedHomeRegionDesc>You need to define a HOME REGION where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home region using the ZONES section of the ARCHITECT menu.</NeedHomeRegionDesc>
+  <NeedHomeRegion>Trenger hjemme region</NeedHomeRegion>
+  <NeedHomeRegionDesc>Du må definere et område som HJEMME REGION hvor kolonistene vil vaske, slokke branner, og reparere ting.\n\nDefiner en HJEMME REGION gjennom SONE delen av ARKITEKT menyen.</NeedHomeRegionDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+  <NeedBatteries>Trenger batterier</NeedBatteries>
+  <NeedBatteriesDesc>Du har bare solcellepanel og ingen batteri. Dette betyr at du vil miste strøm hver gang solen går ned.\n\nBygg et batteri eller to for å holde elektriske apparater på gjennom natten.</NeedBatteriesDesc>
 
-  <NoTradingCapacity>No trading capacity</NoTradingCapacity>
+  <NoTradingCapacity>Ingen handelskapasitet</NoTradingCapacity>
   <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
 
   <NeedResearchProject>Need research project</NeedResearchProject>
