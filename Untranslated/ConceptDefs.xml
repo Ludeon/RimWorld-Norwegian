@@ -40,7 +40,7 @@
 
   <ConceptText_StorageTab>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.</ConceptText_StorageTab>
 
-  <ConceptText_SetGrowingZonePlant>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</ConceptText_SetGrowingZonePlant>
+  <ConceptText_SetGrowingZonePlant>You can set what growers in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</ConceptText_SetGrowingZonePlant>
   
   <ConceptText_SpacePause>Hit SPACE to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit SPACE!</ConceptText_SpacePause>
 

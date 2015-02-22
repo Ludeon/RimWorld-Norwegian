@@ -32,9 +32,6 @@
 	<MessageRecruitFail>{0} failed to recruit {1} ({2} chance).</MessageRecruitFail>
 	<MessageRecruitFailBecauseLoyalty>{0} failed to recruit {1} (prisoner below loyalty threshold).</MessageRecruitFailBecauseLoyalty>
 	
-  <MessagePoorlyTreated>{0} has received poor-quality treatment from {1} ({2} chance).</MessagePoorlyTreated>
-  <MessageWellTreated>{0} has received good-quality treatment from {1} ({2} chance).</MessageWellTreated>
-	
   <MessageTraderCannotAfford>Trader cannot afford this deal.</MessageTraderCannotAfford>
   <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>

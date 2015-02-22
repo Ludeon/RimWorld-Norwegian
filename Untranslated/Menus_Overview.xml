@@ -1,15 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
+  <SkillMax>MAX</SkillMax>
 
-  <!-- Tab titles -->
-  <WorkTab>Work</WorkTab>
-  <FactionsTab>Factions</FactionsTab>
-  <StatisticsTab>Statistics</StatisticsTab>
-  <HistoryTab>History</HistoryTab>
-  <WorldTab>World</WorldTab>
 
   <!-- Work tab -->
+  <WorkTab>Work</WorkTab>
   <ManualPriorities>Manual priorities</ManualPriorities>
   <HigherPriority>Higher priority</HigherPriority>
   <LowerPriority>Lower priority</LowerPriority>
@@ -17,16 +12,15 @@
   <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
   <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
   <NoneBrackets>(none)</NoneBrackets>
-
   
   <!-- Factions tab -->
+  <FactionsTab>Factions</FactionsTab>
   <Hostile>Hostile</Hostile>
   <HostileTo>Enemy of {0}</HostileTo>
   <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
 
-  
   <!-- Statistics tab -->
-  <Storyteller>Storyteller</Storyteller>
+  <StatisticsTab>Statistics</StatisticsTab>
   <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
   <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
   <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
@@ -37,7 +31,9 @@
   <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
 
 
+
   <!-- History tab -->
+  <HistoryTab>History</HistoryTab>
   <SelectGraph>Select graph</SelectGraph>
   <Last30Days>Last 30 days</Last30Days>
   <Last100Days>Last 100 days</Last100Days>
@@ -46,6 +42,7 @@
   <Day>Day</Day>
   <Value>Value</Value>
   <External>External</External>
+  
   
   
 </LanguageData>

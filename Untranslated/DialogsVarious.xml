@@ -26,9 +26,6 @@
   <!-- Zone naming -->
   <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
   <ZoneNameIsInvalid>Please enter a valid zone name.</ZoneNameIsInvalid>
-  
-  <!-- Pawn naming -->
-  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
@@ -78,9 +75,7 @@
   <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
   <DoForever>Do forever</DoForever>
   <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Drop on floor</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Take to best stockpile</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Take to nearest stockpile</BillStoreMode_NearestStockpileAnyPriority>
+  
   
   <!-- Def Card -->
   <Type>Type</Type>
@@ -115,7 +110,6 @@
   <Diet>Diet</Diet>
   <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
   <BasePrice>Base price</BasePrice>
-  <Covers>Covers</Covers>
   
   <!-- Trade -->
   <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
