@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+  <MessageSiegersAssaulting>Beleirende {0} fra {1} angriper kolonien.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} fra {1} begynner angripet deres.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} fra {1} har oppdaget dere og begynt angripet tidlig.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} fra {1} har bestemt seg for å kidnappe dem de kan og dra.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} fra {1} reiser vekk.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} fra {1} har gitt opp og reiser vekk.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfreds med skaden gjort og reiser vekk.</MessageRaidersSatisfiedLeaving>
+
+  
+  <MessageFightersFleeing>{0} fra {1} rømmer vekk.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Vennlige {0} fra {1} reiser vekk.</MessageFriendlyFightersLeaving>
+
+
+
+  <MessageShipHasLeftCommsRange>{0} har forlatt kommunikasjonsområde.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Du trenger et omløpbanehandelsmerke for å handle med et skip.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Oppgave fullført: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} er fult helbredet.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Fangen {0} flykter.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} har vellyket rekrutter {1} ({2} sjanse).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} mislyktes å rekruttere {1} ({2} sjanse).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} mislyktes å rekruttere {1} (fange under lojalitets terskelen).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessagePoorlyTreated>{1} behandlet {0} (dårlig kvalitet, {2} sjanse for god kvalitet).</MessagePoorlyTreated>
+  <MessageWellTreated>{1} behandlet {0} (god kvalitet, {2} sjanse for god kvalitet).</MessageWellTreated>
+	
+  <MessageTraderCannotAfford>Forhandleren har ikke råd til denne avtalen.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolonien har ikke råd til denne avtalen.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Du har ikke nok sølv klart til å handle.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Forhandleren har ikke nok sølv.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritisk melding: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Må utpeke høstbare tilstrekkelig modne planter.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Må utpeke trebærende tilstrekkelig modne trær.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Må utpeke planter.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Må utpeke fraktbare elementer.</MessageMustDesignateHaulable>
+  
+  <MessageNoMedicalBeds>Det er ingen medisinske senger tilgjengelig.</MessageNoMedicalBeds>
+  
+  <PawnDiedBecauseOf>{0} har dødd på grunn av {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} er ikke lenger for skadet til å gå.</MessageNoLongerDowned>
+  
+  
+</LanguageData>

@@ -17,3 +17,9 @@ LINK COMMING
 ==============
 Translators:
 -Darky
+-ApertureAlex
+
+==============
+Progress
++ fixed flag to correct proportions (and colour)
++ keyed folder translated

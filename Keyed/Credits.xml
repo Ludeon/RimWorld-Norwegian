@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomanser</Credit_Ludomancer>
+  <Credit_MusicAndSound>Musikk og lyd</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Ytterligere programmering</Credit_AdditionalProgramming>
+  <Credit_GameArt>Spillkunst</Credit_GameArt>
+  <Credit_MenuArt>Menykunst</Credit_MenuArt>
+
+  <Credits_TitleTesting>Testgruppe</Credits_TitleTesting>
+  <Credit_Tester>Testere</Credit_Tester>
+
+  <Credits_TitleLanguage>{0} språk</Credits_TitleLanguage>
+  <Credit_Writer>Forfatter</Credit_Writer>
+  <Credit_Translator>Oversetter</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
+
+    
+</LanguageData>

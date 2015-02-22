@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>En lokal {0} har blitt gal. Den vil angripe alle den ser.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Noen form for psykisk bølge har feid seg over landskapet. Kolonistene dine har det fint, men...\n\nDet ser ut til at mange {0} i området har blitt drevet gale.</AnimalInsanityMultiple>
+
+  <CropBlight>En mystisk sykdom har drept alle avlingene dine.</CropBlight>
+
+  <EclipseIncident>En av denne planetens måner har gått i bane foran sola. En solformørkelse har begynt.</EclipseIncident>
+
+  <MiracleHeal>{0} har opplevd en mirakuløs helbredning!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>En gruppe {0} fra {1} har ankommet i nærheten.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>En gruppe {0} fra {1} har ankommet med kapsler i nærheten.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>En gruppe {0} fra {1} har landet rett oppå deg!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>De vil forberede seg en stund, så vil de angripe.\n\nGjør klar et forsvar eller angrip dem forebyggende.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>De angriper umiddelbart.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Det ser ut til at de har lyst til å beleire kolonien din.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>En gruppe vennlige {0} fra {1} har ankommet i nærheten.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>En gruppe vennlige {0} fra {1} har landet fra bane i nærheten.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>En gruppe vennlige {0} fra {1} har landet inn fra bane rett oppå deg!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>De vil gjøre seg klare først før de rykker inn for å hjelpe deg.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>De rykker in for å hjelpe deg umiddelbart.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Det ser ut til at de kommer til å bruke beleirings taktikker for å hjelpe deg.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>Du har oppdaget en livredningskapsel lande hard i nærheten.\n\nOm noen har overlevd fallet så ville de vært hardt skadd.</RefugeePodCrash>
+
+  <CargoPodCrash>Du har oppdaget en klase kapsler krasje i nærheten.\n\nKanskje du kan finne noe brukbart i vraket.</CargoPodCrash>
+
+  <AnElectricalConduit>et elektrisk kabelrør</AnElectricalConduit>
+  <AWallsPowerConduit>en veggs kabelrør</AWallsPowerConduit>
+  <ShortCircuit>En feil i {0} har forårsaket en kortslutning.\n\nHele {1} watt av energi i de tilkoblede batteriene har blitt utladet i en elektrisk eksplosjon.</ShortCircuit>
+  <ShortCircuitWasLarge>Denne store mengden strøm har forårsaket en eksplosjon av betydelig størrelse.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Det er virkelig en stor eksplosjon. Wow.</ShortCircuitWasHuge>
+
+  <LetterSolarFlare>Sola blusset opp og en solfakkel har begynt.\n\nDen intense radiasjonen vil skru av alt elektrisk utstyr.\n\nDet burde blåse over om en dag eller to.</LetterSolarFlare>
+
+  <TraderArrival>Et handelsskip passerer i nærheten.\n\nDe blir kjent som {0}. De er en {1}.</TraderArrival>
+
+  <SingleTravelerPassing>En {0} fra {1} passerer i nærheten. HECAP blir kalt {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>En gruppe reisende fra {0} passerer i nærheten.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>En {0} fra {1} besøker kolonien.\n\nHECAP blir kalt {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>En gruppe fra {0} besøker kolonien.</GroupVisitorsArrive>
+  <VisitorsLeaving>De besøkende fra {0} drar nå.</VisitorsLeaving>
+
+  <WandererJoin>En {0} kalt NAME har ankommet og blir med kolonien. HECAP er en {1}.</WandererJoin>
+  
+  
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>En stor bit av et eldgammelt skip har krasjlandet i nærheten.\n\nKolonistene dine kan føle det i sine bakerste tanker, formane unevnelige handlinger. Den må ha en kunstig intelligens med psykiske evner om bord. Det ser ut til at dette ikke er en vennlig intelligens.\n\nDestruer den så tidlig som mulig.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Det eldgamle skipet har begynt å avgi en psykisk puls som har drevet nærliggende dyr gale.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Den krasjlandede skipsdelen har begynt å avgi en psykisk puls som har drevet {0} gal.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Våknet for {0} dager siden</AwokeDaysAgo>
+  <PsychicDroneLevel>Psykisk puls nivå: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Lav</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Middels</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Høy</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Ekstrem</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Den krasjlande skipsdelen stråler ny ut en enda kraftigere psykisk puls. Enhver menneske i området føler seg nå mer urolig, livredd og paranoid.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} har blitt avslørt som en agent av fienden din {1}.\n\nNå prøver de å flykte.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Enhver kolonist av den {0} kjønn vrir seg i smerte!\n\nNoen fjern maskin av hat pisker seg. Den sender ut en kraftig psykisk puls over hele denne regionen, på en frekvens som ser ut til å bare påvirke den {0} kjønn. I et par dager vil humøret til noen bli mye verre.</LetterIncidentPsychicDrone>
+  
+</LanguageData>

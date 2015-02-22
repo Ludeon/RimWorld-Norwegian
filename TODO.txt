@@ -1,5 +1,4 @@
--  Finish main translation
 -  Finish DefInjected translation
--  Re-Translate bad translation
--  Spelling/Grammar checking
--  Remake flag to proportions
+-  Omskriving av dårlige oversettelser
+-  Retting av skrivefeil
+-  nutrient paste dispenser oversettelse

@@ -2,20 +2,20 @@
 <LanguageData>
 
   <WorkTagNone>Ingen</WorkTagNone>
-  <WorkTagIntellectual>Intelligent</WorkTagIntellectual>
-  <WorkTagManualDumb>Dum arbeidskraft</WorkTagManualDumb>
-  <WorkTagManualSkilled>Dyktig Arbeidskraft</WorkTagManualSkilled>
-  <WorkTagViolent>Voldelig</WorkTagViolent>
-  <WorkTagCaring>Omsorgsfull</WorkTagCaring>
-  <WorkTagSocial>Sosial</WorkTagSocial>
-  <WorkTagScary>Skummel</WorkTagScary>
+  <WorkTagIntellectual>Intellektuelt</WorkTagIntellectual>
+  <WorkTagManualDumb>Ufagkyndig arbeid</WorkTagManualDumb>
+  <WorkTagManualSkilled>Fagkyndig arbeid</WorkTagManualSkilled>
+  <WorkTagViolent>Vold</WorkTagViolent>
+  <WorkTagCaring>Omsorg</WorkTagCaring>
+  <WorkTagSocial>Sosialt</WorkTagSocial>
+  <WorkTagScary>Skummelt</WorkTagScary>
   <WorkTagArtistic>Kunstnerisk</WorkTagArtistic>
   <WorkTagCrafting>Håndverk</WorkTagCrafting>
   <WorkTagCooking>Matlaging</WorkTagCooking>
   <WorkTagFirefighting>Brannslukking</WorkTagFirefighting>
   <WorkTagCleaning>Vasking</WorkTagCleaning>
-  <WorkTagHauling>Flytting</WorkTagHauling>
-  <WorkTagPlantWork>Plante arbeid</WorkTagPlantWork>
-  <WorkTagMining>Gruvedrift</WorkTagMining>
+  <WorkTagHauling>Frakting</WorkTagHauling>
+  <WorkTagPlantWork>Jordbruk</WorkTagPlantWork>
+  <WorkTagMining>Graving</WorkTagMining>
 
 </LanguageData>

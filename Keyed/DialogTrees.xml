@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>Representanten til {0} slenger noen skjellsord på skjermen og frakobler.</FactionGreetingHostile>
+  <FactionGreetingWary>Representanten til {0} hilser {1} varsomt og spør hva DU vil.</FactionGreetingWary>
+  <FactionGreetingWarm>Representanten til {0} hilser {1} varmt og spør hvordan det går med kolonien.</FactionGreetingWarm>
+
+  <Disconnect>Frakoble</Disconnect>
+
+  <OfferGift>Tilby gave</OfferGift>
+  <NeedSilverLaunchable>trenger {0} sølv tilgjengelig</NeedSilverLaunchable>
+  <NotEnoughSilver>Ikke nok sølv.</NotEnoughSilver>
+  <SilverForGoodwill>{0} sølv for {1} velvilje</SilverForGoodwill>
+  <SilverGiftSent>Representanten til {0} takker deg.\n\n(Velvilje forbedret med {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Ønsk umiddelbar militær bistand ({0} velvilje)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjelpe deg med å slåss mot en part som ikke er deres fiende. Dette inkluderer noen av de som truer deg, {1}. Har du fortsatt lyst til å spørre dem om bistand?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ja, ring dem uansett.</CallConfirm>
+  <CallCancel>Nei, glem det.</CallCancel>
+  <MilitaryAidSent>Representanten til {0} gjør seg enig i å sende deg krigere.</MilitaryAidSent>
+  
+  
+</LanguageData>
