@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Auto-lagerer</Autosaving>
+  <Autosaving>Autolagring</Autosaving>
   
-  <GameStartDialog>Tre av dere våkner i cryptosøvn sarkofager til lyden av sirener og ødelagt metall. Dere kommer dere såvidt til nødkapslene før skipet rives til småbiter.\n\nLitt senere, lander dere på en ukjent rimworld.\n\nMens biter av det ødlagte romskipet detter ned rundt dere, lager dere planer for å overleve.</GameStartDialog>
+  <GameStartDialog>De tre av dere våkner opp i deres kryptosøvn sarkofager til lyden av sirener og skjærende metall, Dere kommer så vidt til livredningskapslene før skipet blir revet løst.\n\nEn tid senere lander dere på denne ukjente rimverdenen.\n\nImens deler av det opprevne stjerneskipet faller rundt dere, begynner dere å lage planer for å overleve.</GameStartDialog>
 
   <Colony>Koloni</Colony>
   
-  <ChangeLanguageFromMainMenu>Du kan bare skifte språket fra hovedmenyen.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Du kan bare endre språk fra instillingskjermen på hovedmenyen.</ChangeLanguageFromMainMenu>
 
   <AndLower>og</AndLower>
   <DisabledLower>deaktivert</DisabledLower>
@@ -15,21 +15,30 @@
   <CloseButton>Lukk</CloseButton>
 
 
-  <VersionIndicator>Verisjon {0}</VersionIndicator>
-  <DevelopmentBuildLower>utviklings bygg</DevelopmentBuildLower>
+  <VersionIndicator>Versjon {0}</VersionIndicator>
+  <DevelopmentBuildLower>utviklings utgave</DevelopmentBuildLower>
   <CompiledOn>Kompilert {0}</CompiledOn>
 
 	<MeatLabel>{0} kjøtt</MeatLabel>
-  <MeatDesc>Rått kjøtt av en {0}.</MeatDesc>
+  <MeatDesc>Ferskt kjøtt av et {0}.</MeatDesc>
 
-	<CorpseLabel>{0} lik</CorpseLabel>
-	<CorpseDesc>Dødt lik av en {0}.</CorpseDesc>
+  <LeatherLabel>{0} lær</LeatherLabel>
+  <LeatherDesc>Lær framstilt fra huden til et {0}.</LeatherDesc>
+
+  <CorpseLabel>{0} lik</CorpseLabel>
+	<CorpseDesc>Dødt lik av et {0}.</CorpseDesc>
+  <DeadLabel>{0} (død)</DeadLabel>
 
 
 	<BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
-  <FrameLabelExtra> (bygning)</FrameLabelExtra>
+  <FrameLabelExtra> (bygg)</FrameLabelExtra>
   
-  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(ulike)</VariousLabel>
+
   <!-- History events -->
   <ColonistDied>Kolonist døde</ColonistDied>
   

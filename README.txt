@@ -17,3 +17,4 @@ LINK COMMING
 ==============
 Translators:
 -Darky
+-ApertureAlex

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Mørkt</Dark>
+  <Lit>Belysning</Lit>
+  <LitBrightly>Sterk belysning</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Ingen</NoneQuality>
+  <PlantQuality>Plante</PlantQuality>
+  <RawQuality>Rått</RawQuality>
+  <MealAwfulQuality>Forferdelig</MealAwfulQuality>
+  <MealSimpleQuality>Simpel</MealSimpleQuality>
+  <MealFineQuality>Fin</MealFineQuality>
+  <MealLavishLavish>Overdådig</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Spiser aldri</NeverEats>
+  <Omnivorous>Alteter</Omnivorous>
+  <Herbivorous>Planteeter</Herbivorous>
+  <Carnivorous>Kjøtteter</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Ubestemt</Unspecified>
+  <Always>Tillat</Always>
+  <Never>Ikke tillat</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>veldig billig</PriceTypeVeryCheap>
+  <PriceTypeCheap>billig</PriceTypeCheap>
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeExpensive>dyr</PriceTypeExpensive>
+  <PriceTypeExorbitant>skyhøy</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>Generelt</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Generelt</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Rustning</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primær</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Jobb</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Kamp</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sosialt</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Diverse</StatCategory_PawnMisc>
+  <StatCategory_Building>Bygging</StatCategory_Building>
+  
+  <EquippedStatOffsets>Påvirkning av utrustning</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Påvirkning når utstyr er laget av dette</StuffOfEquipmentStatModifiers>
+  
+</LanguageData>

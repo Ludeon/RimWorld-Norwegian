@@ -2,67 +2,67 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>Lag verden</CreateWorld>
-  <NewColony>Ny koloni</NewColony>
+  <CreateWorld>Skap ny verden</CreateWorld>
+  <NewColony>Lag ny koloni</NewColony>
   <BackToGame>Tilbake til spillet</BackToGame>
   <Save>Lagre</Save>
   <Load>Last inn koloni</Load>
-  <Options>Alternativer</Options>
-  <Mods>Mods</Mods>
-  <Credits>Kreditt</Credits>
-  <QuitToMainMenu>Avslutt til hovedmenyen</QuitToMainMenu>
-  <QuitToOS>Avslutt spillet</QuitToOS>
+  <Options>Innstillinger</Options>
+  <Mods>Modifikasjoner</Mods>
+  <Credits>Medvirkende</Credits>
+  <QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
+  <QuitToOS>Avslutt til skrivebord</QuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forumer</Forums>
+  <LudeonBlog>Ludeon blogg</LudeonBlog>
+  <Forums>Forumet</Forums>
   <OfficialWiki>Offisiell wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's design bok</TynansDesignBook>
-  <HelpTranslate>Hjelp å oversette RimWorld</HelpTranslate>
+  <HelpTranslate>Hjelp med å oversette RimWorld</HelpTranslate>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generer</WorldGenerate>
-  <WorldSaveAndFinish>Lagre og finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
+  <ReviewWorld>Gjennomgå verden</ReviewWorld>
+  <WorldGenerate>Generer verden</WorldGenerate>
+  <WorldSaveAndFinish>Lagre og fortsett</WorldSaveAndFinish>
+  <Reset>Tilbakestill</Reset>
   <WorldSize>Størrelse</WorldSize>
   <WorldSeed>Frø</WorldSeed>
-  <RandomizeSeed>Randomiser frø</RandomizeSeed>
+  <RandomizeSeed>Tilfeldig frø</RandomizeSeed>
 
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Velg verden</SelectWorld>
+  <SelectWorld>Velg Verden</SelectWorld>
   <WorldChooseButton>Velg</WorldChooseButton>
-  <NoWorldsFilesFound>Ingen verdner ble funnet. Lag en ny først.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ingen verden funnet, lag en verden først.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Bygg {0} er nå tilgjengelig. Sjekk ludeon.com for mer info.</BuildNowAvailable>
-	<BuildUpToDate>Du har den nyeste verisjonen.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Feil ved henting av verisjon info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Laster verisjon info...</LoadingVersionInfo>
+  <BuildNowAvailable>Utgave {0} er nå tilgjengelig. Sjekk ludeon.com for mer info.</BuildNowAvailable>
+	<BuildUpToDate>Utgaven er oppdatert.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Feil ved å finne versjon: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Laster inn info om versjon...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Generer verden</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Hent modder</GetMods>
-  <OpenModsDataFolder>Åpen mods mappen</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Er du sikker på at du vil slå av kjerne modden? `Spillet vil ikke funke med mindre du har en mod som erstatter alle kjerne funskjonene.\n\nHusk, andre modder can overstyre standarer med å bruke det samme defName.</ConfirmDisableCoreMod>
-  <Author>Laget av</Author>
+  <GetMods>Skaff modifikasjoner</GetMods>
+  <OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere core modifikasjonen? Spillet vil ikke fungere i det hele tatt hvis ikke du har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i core modifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
+  <Author>Forfatter</Author>
 
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
-  <MustChooseChallengeScale>Please choose a challenge scale.</MustChooseChallengeScale>
-  <ChallengeScale>Challenge scale</ChallengeScale>
-  <ChallengeScaleTip>When the storyteller sends threats after you, they will be {0} as large as in Challenge mode.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Builder mode</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Casual</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Rough</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Challenge</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Serious challenge</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Extreme challenge</ChallengeScale_ExtremeChallenge>
+  <HowStorytellersWork>AI historiefortelleren skaper hendelser som pirat plyndringer, ressurs forsyninger, eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
+  <MustChooseChallengeScale>Vennlight velg en utfordrings skala.</MustChooseChallengeScale>
+  <ChallengeScale>Utfordrings skala</ChallengeScale>
+  <ChallengeScaleTip>Når historiefortelleren sender trussler etter deg, vil de være {0} så store som i Utfordrende modus.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Sandkasse modus</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Vanlig</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Vanskelig</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Utfordrende</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Seriøst utfordrende</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Ekstremt utfordrende</ChallengeScale_ExtremeChallenge>
 
 
 
@@ -75,63 +75,66 @@
 
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <WorldRenderMode>Mode</WorldRenderMode>
-  <WorldRenderModeFull>Full</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <SelectLandingSite>Velg landingsområde</SelectLandingSite>
+  <SelectSite>Velg område</SelectSite>
+  <MustSelectLandingSite>Vennligst velg et landingsområde.</MustSelectLandingSite>
+  <CannotLandBiome>Du kan ikke lande i denne biomen: {0}</CannotLandBiome>
+  <WorldRenderMode>Modus</WorldRenderMode>
+  <WorldRenderModeFull>Fullt</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Høyde</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Fruktbarhet</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Nedbør</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biomer</WorldRenderModeBiomes>
+  <BiomeNotImplemented>biome ikke implementert</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} har allerede en base her.</BaseAlreadyThere>
   <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Avg Temp</AvgTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-
+  <Terrain>Terreng</Terrain>
+  <Elevation>Høyde</Elevation>
+  <Fertility>Fruktbarhet</Fertility>
+  <AvgTemp>Gjennomsnittlig Temperatur</AvgTemp>
+  <Rainfall>Nedbør</Rainfall>
+  <HasCoast0>Nordlig kyst</HasCoast0>
+  <HasCoast1>Østlig kyst</HasCoast1>
+  <HasCoast2>Sørlig kyst</HasCoast2>
+  <HasCoast3>Vestlig kyst</HasCoast3>
+  <FactionBase>Partens base</FactionBase>
 
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>Male</Male>
-  <Female>Female</Female>
+  <CreateCharacters>Skap karakter</CreateCharacters>
+  <FirstNameDesc>Karakterens fornavn.\n\nDette blir bare vist i visse vinduer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karakterens forkortede identifikator.\n\nDette blir vist i de fleste sammenhenger. Det kan være fornavnet og etternavnet, eller et helt separat kallenavn.</ShortIdentifierDesc>
+  <LastNameDesc>Karakterens etternavn.\n\nDette blir bare vist i visse vinduer.</LastNameDesc>
+  <Randomize>Tilfeldig</Randomize>
+  <AgeIndicator>alder {0}</AgeIndicator>
+  <Backstory>Bakgrunn</Backstory>
+  <IncapableOf>Ute av stand til</IncapableOf>
+  <Traits>Trekk</Traits>
+  <TraitsDoNothing>Trekk er for øyeblikket bare morsomme historiebiter; de fleste av dem gjør ingenting. Dette vil endre seg i videre utgaver.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanent effekt på humør</PermanentMoodEffect>
+  <Skills>Ferdigheter</Skills>
+  <NoneLower>ingen</NoneLower>
+  <Adulthood>Voksenliv</Adulthood>
+  <Childhood>Barndom</Childhood>
+  <Male>Mannlig</Male>
+  <Female>Kvinnelig</Female>
+  <Pain>Smerte</Pain>
   
   
   <!--=========== Misc ==========-->
   <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
+  <Advanced>Avansert</Advanced>
+  <Next>Neste</Next>
+  <Back>Tilbake</Back>
   
-  <Gameplay>Gameplay</Gameplay>
+  <Gameplay>Spilling</Gameplay>
 
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Vil du virkelig avslutte? Du vil miste all ulagret fremgang.</ConfirmQuit>
   
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Hver person trenger et gyldig navn.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world...</GeneratingWorld>
-  <GeneratingMap>Generating map...</GeneratingMap>
+  <GeneratingWorld>Generer verden...</GeneratingWorld>
+  <GeneratingMap>Generer kart...</GeneratingMap>
 
 </LanguageData>
