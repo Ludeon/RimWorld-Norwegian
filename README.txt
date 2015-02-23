@@ -18,3 +18,6 @@ LINK COMMING
 Translators:
 -Darky
 -ApertureAlex
+-TheUnknownKiller
+-IllusionDistort
+-2villa1
