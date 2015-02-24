@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!-- =========== bases =========== -->
+
+  <ThingDef Name="ResourceBase" Abstract="True">
+    <thingClass>ThingWithComponents</thingClass>
+    <label>unspecified resource</label>
+    <category>Item</category>
+    <eType>Item</eType>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useStandardHealth>true</useStandardHealth>
+    <selectable>true</selectable>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>75</stackLimit>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+    </comps>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <rotatable>false</rotatable>
+    <pathCost>15</pathCost>
+  </ThingDef>
+
+
+  <ThingDef Name="ChunkBase" Abstract="True">
+    <eType>Chunk</eType>
+    <category>Item</category>
+    <thingClass>Thing</thingClass>
+    <altitudeLayer>Item</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <statBases>
+      <MaxHealth>300</MaxHealth>
+      <Flammability>0</Flammability>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <pathCost>55</pathCost>
+    <graphicOverdraw>false</graphicOverdraw>
+    <drawerType>MapMeshOnly</drawerType>
+    <randomizeRotationOnSpawn>true</randomizeRotationOnSpawn>
+    <designateHaulable>true</designateHaulable>
+    <saveCompressible>true</saveCompressible>
+    <stackLimit>1</stackLimit>
+    <tradeability>Never</tradeability>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase" Name="StoneBlocksBase" Abstract="True">
+    <description>Blocks of solid stone. Mostly only useful for building very strong, long-lasting, simple structures.</description>
+    <graphicPath>Things/Item/Resource/StoneBlocks</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Stone_Drop</soundInteract>
+    <soundDrop>Stone_Drop</soundDrop>
+    <useStandardHealth>false</useStandardHealth>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>0.6</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1.0</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>StoneBlocks</li>
+    </thingCategories>
+    <stuffProps>
+      <categories>
+        <li>Stony</li>
+      </categories>
+      <appearance>Bricks</appearance>
+      <statOffsets>
+        <WorkToMake>140</WorkToMake>
+        <Beauty>2</Beauty>
+      </statOffsets>
+      <statFactors>
+        <Beauty>1.2</Beauty>
+        <MarketValue>0.4</MarketValue>
+        <MaxHealth>2.4</MaxHealth>
+        <Flammability>0</Flammability>
+        <WorkToMake>4.5</WorkToMake>
+        <DoorOpenSpeed>0.45</DoorOpenSpeed>
+        <BedRestEffectiveness>0.9</BedRestEffectiveness>
+        <MeleeWeapon_Cooldown>1.35</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+  <ThingDef Name="BuildingNaturalBase" Abstract="True">
+    <category>Building</category>
+    <selectable>true</selectable>
+    <drawerType>MapMeshOnly</drawerType>
+  </ThingDef>
+
+
+  <ThingDef Name="RockBase" ParentName="BuildingNaturalBase" Abstract="True" >
+    <eType>Rock</eType>
+    <thingClass>Mineable</thingClass>
+    <graphicPath>Things/Building/Linked/Rock_Atlas</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <linkDrawerType>CornerFiller</linkDrawerType>
+    <altitudeLayer>BuildingTall</altitudeLayer>
+    <passability>Impassable</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <neverMultiSelect>true</neverMultiSelect>
+    <rotatable>false</rotatable>
+    <saveCompressible>true</saveCompressible>
+    <filthLeaving>RockRubble</filthLeaving>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <mineable>true</mineable>
+    <statBases>
+      <Flammability>0</Flammability>
+    </statBases>
+    <building>
+      <isNaturalRock>true</isNaturalRock>
+      <soundMined>CollapseRock</soundMined>
+      <canBuildNonEdificesUnder>false</canBuildNonEdificesUnder>
+    </building>
+    <linkFlags>
+      <li>Rock</li>
+      <li>MapEdge</li>
+    </linkFlags>
+  </ThingDef>
+
+
+
+
+  <!-- =========== Misc chunks =========== -->
+  
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkSlagSteel</defName>
+    <label>steel slag chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkSlag</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkSlag_Drop</soundDrop>
+    <thingCategories>
+      <li>Chunks</li>
+    </thingCategories>
+    <smeltProducts>
+      <Steel>8</Steel>
+    </smeltProducts>
+  </ThingDef>
+
+
+
+
+  <!-- =========== Stone solids, chunks, and blocks =========== -->
+
+  
+  
+  
+  <ThingDef ParentName="RockBase">
+    <defName>Sandstone</defName>
+    <label>sandstone</label>
+    <description>A sedimentary rock composed of sand particles compressed together.</description>
+    <defaultColor>(126,104,94)</defaultColor>
+    <statBases>
+      <MaxHealth>400</MaxHealth>
+    </statBases>
+    <building>
+      <mineableThing>ChunkSandstone</mineableThing>
+      <mineableDropChance>0.20</mineableDropChance>
+    </building>
+  </ThingDef>
+  
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkSandstone</defName>
+    <label>sandstone chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkStone</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <defaultColor>(126,104,94)</defaultColor>
+    <thingCategories>
+      <li>StoneChunks</li>
+    </thingCategories>
+    <butcherProducts>
+      <BlocksSandstone>20</BlocksSandstone>
+    </butcherProducts>
+  </ThingDef>
+  
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksSandstone</defName>
+    <label>sandstone blocks</label>
+    <description>Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily.</description>
+    <defaultColor>(126,104,94)</defaultColor>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>0.5</MeleeWeapon_SharpDamageMultiplier>
+    </statBases>
+    <stuffProps>
+      <color>(126,104,94)</color>
+      <soundImpactStuff>BulletImpactGround</soundImpactStuff>
+      <stuffAdjective>sandstone</stuffAdjective>
+      <statFactors>
+        <Beauty>1.1</Beauty>  
+        <MarketValue>0.4</MarketValue>
+        <MaxHealth>2.4</MaxHealth>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="RockBase">
+    <defName>Granite</defName>
+    <label>granite</label>
+    <description>A very hard igneous rock.</description>
+    <defaultColor>(105,95,97)</defaultColor>
+    <statBases>
+      <MaxHealth>900</MaxHealth>
+    </statBases>
+    <building>
+      <mineableThing>ChunkGranite</mineableThing>
+      <mineableDropChance>0.20</mineableDropChance>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkGranite</defName>
+    <label>granite chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkStone</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <defaultColor>(105,95,97)</defaultColor>
+    <thingCategories>
+      <li>StoneChunks</li>
+    </thingCategories>
+    <butcherProducts>
+      <BlocksGranite>20</BlocksGranite>  
+    </butcherProducts>
+  </ThingDef>
+
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksGranite</defName>
+    <label>granite blocks</label>
+    <description>Blocks of solid granite. Granite is a very hard stone.</description>
+    <defaultColor>(105,95,97)</defaultColor>
+    <statBases>
+      <MarketValue>2.1</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>0.65</MeleeWeapon_SharpDamageMultiplier>
+    </statBases>
+    <stuffProps>
+      <color>(105,95,97)</color>
+      <soundImpactStuff>BulletImpactGround</soundImpactStuff>
+      <stuffAdjective>granite</stuffAdjective>
+      <statFactors>
+        <MarketValue>0.5</MarketValue>
+        <MaxHealth>2.7</MaxHealth>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+
+
+  <ThingDef ParentName="RockBase">
+    <defName>Limestone</defName>
+    <label>limestone</label>
+    <description>A sedimentary rock formed from the compacted remains of ancient seashells.</description>
+    <defaultColor>(158,153,135)</defaultColor>
+    <statBases>
+      <MaxHealth>700</MaxHealth>
+    </statBases>
+    <building>
+      <mineableThing>ChunkLimestone</mineableThing>
+      <mineableDropChance>0.20</mineableDropChance>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkLimestone</defName>
+    <label>limestone chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkStone</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <defaultColor>(158,153,135)</defaultColor>
+    <thingCategories>
+      <li>StoneChunks</li>
+    </thingCategories>
+    <butcherProducts>
+      <BlocksLimestone>20</BlocksLimestone>
+    </butcherProducts>
+  </ThingDef>
+
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksLimestone</defName>
+    <label>limestone blocks</label>
+    <description>Blocks of solid limestone.</description>
+    <defaultColor>(158,153,135)</defaultColor>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+    </statBases>
+    <stuffProps>
+      <color>(158,153,135)</color>
+      <soundImpactStuff>BulletImpactGround</soundImpactStuff>
+      <stuffAdjective>limestone</stuffAdjective>
+      <statFactors>
+        <MarketValue>0.4</MarketValue>
+        <MaxHealth>2.55</MaxHealth>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="RockBase">
+    <defName>Slate</defName>
+    <label>slate</label>
+    <description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage.</description>
+    <defaultColor>(70,70,70)</defaultColor>
+    <statBases>
+      <MaxHealth>500</MaxHealth>
+    </statBases>
+    <building>
+      <mineableThing>ChunkSlate</mineableThing>
+      <mineableDropChance>0.20</mineableDropChance>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkSlate</defName>
+    <label>slate chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkStone</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <defaultColor>(90,90,90)</defaultColor>
+    <thingCategories>
+      <li>StoneChunks</li>
+    </thingCategories>
+    <butcherProducts>
+      <BlocksSlate>20</BlocksSlate>
+    </butcherProducts>
+  </ThingDef>
+
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksSlate</defName>
+    <label>slate blocks</label>
+    <description>Blocks of solid slate. A dull-looking rock that chips easily.</description>
+    <defaultColor>(70,70,70)</defaultColor>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+    </statBases>
+    <stuffProps>
+      <color>(70,70,70)</color>
+      <soundImpactStuff>BulletImpactGround</soundImpactStuff>
+      <stuffAdjective>slate</stuffAdjective>
+      <statFactors>
+        <Beauty>1.1</Beauty>
+        <MarketValue>0.38</MarketValue>
+        <MaxHealth>2.3</MaxHealth>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="RockBase">
+    <defName>Marble</defName>
+    <label>marble</label>
+    <description>A soft metamorphic rock.</description>
+    <defaultColor>(132,135,132)</defaultColor>
+    <statBases>
+      <MaxHealth>450</MaxHealth>
+    </statBases>
+    <building>
+      <mineableThing>ChunkMarble</mineableThing>
+      <mineableDropChance>0.20</mineableDropChance>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="ChunkBase">
+    <defName>ChunkMarble</defName>
+    <label>marble chunk</label>
+    <graphicPath>Things/Item/Chunk/ChunkStone</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundDrop>ChunkRock_Drop</soundDrop>
+    <defaultColor>(132,135,132)</defaultColor>
+    <thingCategories>
+      <li>StoneChunks</li>
+    </thingCategories>
+    <butcherProducts>
+      <BlocksMarble>20</BlocksMarble>
+    </butcherProducts>
+  </ThingDef>
+
+  <ThingDef ParentName="StoneBlocksBase">
+    <defName>BlocksMarble</defName>
+    <label>marble blocks</label>
+    <description>Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt.</description>
+    <defaultColor>(132,135,132)</defaultColor>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+    </statBases>
+    <stuffProps>
+      <color>(132,135,132)</color>
+      <soundImpactStuff>BulletImpactGround</soundImpactStuff>
+      <stuffAdjective>marble</stuffAdjective>
+      <statFactors>
+        <Beauty>1.35</Beauty>
+        <MarketValue>0.45</MarketValue>
+        <MaxHealth>2.2</MaxHealth>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+</Defs>

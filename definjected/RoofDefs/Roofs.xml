@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Roofs>
+
+  <RoofDef>
+    <EType>Roof</EType>
+    <DefName>RoofConstructed</DefName>
+    <Label>constructed roof</Label>
+    <isThickRoof>false</isThickRoof>
+    <filthLeaving>BuildingRubble</filthLeaving>
+  </RoofDef>
+
+
+  <RoofDef>
+    <EType>Roof</EType>
+    <DefName>RoofRockThin</DefName>
+    <Label>rock roof (thin)</Label>
+    <isThickRoof>false</isThickRoof>
+    <isNatural>true</isNatural>
+    <filthLeaving>RockRubble</filthLeaving>
+  </RoofDef>
+
+
+  <RoofDef>
+    <EType>Roof</EType>
+    <DefName>RoofRockThick</DefName>
+    <Label>overhead mountain</Label>
+    <isThickRoof>true</isThickRoof>
+    <isNatural>true</isNatural>
+    <collapseLeavingThingDef>CollapsedRocks</collapseLeavingThingDef>
+    <filthLeaving>RockRubble</filthLeaving>
+  </RoofDef>
+
+</Roofs>

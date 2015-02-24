@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef Name="PlantBase" Abstract="True">
+    <eType>Plant</eType>
+    <category>Plant</category>
+    <thingClass>Plant</thingClass>
+    <altitudeLayer>LowPlant</altitudeLayer>
+    <useStandardHealth>True</useStandardHealth>
+    <statBases>
+      <Flammability>0.8</Flammability>
+    </statBases>
+    <tickerType>Rare</tickerType>
+    <selectable>False</selectable>
+    <neverMultiSelect>True</neverMultiSelect>
+    <drawerType>MapMeshOnly</drawerType>
+    <shaderType>CutoutPlant</shaderType>
+    <plant>
+      <harvestDestroys>true</harvestDestroys>
+      <soundHarvesting>Harvest_Standard</soundHarvesting>
+      <soundHarvestFinish>Harvest_Standard_Finish</soundHarvestFinish>
+      <harvestWork>150</harvestWork>
+      <sowWork>150</sowWork>
+      <fertilityMin>0.5</fertilityMin>
+      <fertilityFactorGrowthRate>1.0</fertilityFactorGrowthRate>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.48</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <growMinGlow>Overlit</growMinGlow>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.00</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+  <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantRaspberry</defName>
+    <label>raspberry bush</label>
+    <description>A bushy plant which yields delicious red berries.</description>
+    <statBases>
+      <MaxHealth>120</MaxHealth>
+    </statBases>
+    <graphicPath>Things/Plant/Raspberry</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <sunShadowInfo>
+      <baseWidth>0.6</baseWidth>
+      <baseHeight>0.6</baseHeight>
+      <tallness>0.2</tallness>
+    </sunShadowInfo>
+    <fillPercent>0.25</fillPercent>
+    <pathCost>30</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/Bush_Leafless</leaflessGraphicPath>
+      <harvestWork>150</harvestWork>
+      <harvestTag>Standard</harvestTag>
+      <harvestDestroys>false</harvestDestroys>
+      <harvestedThingDef>RawBerries</harvestedThingDef>
+      <harvestYieldRange>
+        <min>2</min>
+        <max>5</max>
+      </harvestYieldRange>
+      <fertilityMin>0.5</fertilityMin>
+      <wildCommonalityMaxFraction>3.0</wildCommonalityMaxFraction>
+      <wildClusterSizeRange>
+        <min>2</min>
+        <max>5</max>
+      </wildClusterSizeRange>
+      <wildClusterRadius>4</wildClusterRadius>
+      <visualSizeRange>
+        <min>0.7</min>
+        <max>1.1</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.40</growthPer20kTicks>
+      <topWindExposure>0.3</topWindExposure>
+      <seedShootRadius>10</seedShootRadius>
+      <lifespanDays>60</lifespanDays>
+      <fertilityFactorGrowthRate>0.5</fertilityFactorGrowthRate>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantBush</defName>
+    <label>bush</label>
+    <description>A short shrub. Does not typically talk.</description>
+    <statBases>
+      <MaxHealth>120</MaxHealth>
+    </statBases>
+    <graphicPath>Things/Plant/Bush</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <sunShadowInfo>
+      <baseWidth>0.37</baseWidth>
+      <baseHeight>0.37</baseHeight>
+      <tallness>0.2</tallness>
+    </sunShadowInfo>
+    <fillPercent>0.25</fillPercent>
+    <pathCost>30</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>30</nutrition>
+    </ingestible>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/Bush_Leafless</leaflessGraphicPath>
+      <harvestWork>130</harvestWork>
+      <fertilityMin>0.4</fertilityMin>
+      <wildClusterSizeRange>
+        <min>2</min>
+        <max>5</max>
+      </wildClusterSizeRange>
+      <wildClusterRadius>4</wildClusterRadius>
+      <visualSizeRange>
+        <min>0.7</min>
+        <max>1.1</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.40</growthPer20kTicks>
+      <topWindExposure>0.3</topWindExposure>
+      <seedShootRadius>10</seedShootRadius>
+      <lifespanDays>60</lifespanDays>
+      <fertilityFactorGrowthRate>0.5</fertilityFactorGrowthRate>
+    </plant>
+  </ThingDef>
+
+
+
+  <!--======================= Wild plants - carpets ========================-->
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantGrass</defName>
+    <label>grass</label>
+    <description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>2</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Grass</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <hideAtSnowDepth>0.5</hideAtSnowDepth>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>30</nutrition>
+    </ingestible>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/Grass_Leafless</leaflessGraphicPath>
+      <harvestWork>40</harvestWork>
+      <fertilityMin>0.05</fertilityMin>
+      <maxMeshCount>9</maxMeshCount>
+      <visualSizeRange>
+        <min>0.4</min>
+        <max>0.6</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.25</growthPer20kTicks>
+      <topWindExposure>0.4</topWindExposure>
+      <seedShootRadius>10</seedShootRadius>
+      <seedEmitChancePerDay>0.2</seedEmitChancePerDay>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>0.90</fertilityFactorGrowthRate>
+      <fertilityFactorPlantChance>0.90</fertilityFactorPlantChance>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantDandelion</defName>
+    <label>dandelions</label>
+    <description>A common small flower. Though it is often considered a weed, it is pleasant to look at.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>5</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Dandelion</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <hideAtSnowDepth>0.5</hideAtSnowDepth>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>30</nutrition>
+    </ingestible>
+    <plant>
+      <sowTags>
+        <li>Ground</li>
+      </sowTags>
+      <fertilityMin>0.05</fertilityMin>
+      <maxMeshCount>25</maxMeshCount>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>0.4</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.25</growthPer20kTicks>
+      <topWindExposure>0.3</topWindExposure>
+      <seedShootRadius>2.5</seedShootRadius>
+      <seedEmitChancePerDay>0.2</seedEmitChancePerDay>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>1</fertilityFactorGrowthRate>
+      <fertilityFactorPlantChance>1.0</fertilityFactorPlantChance>
+      <wildClusterSizeRange>
+        <min>2</min>
+        <max>6</max>
+      </wildClusterSizeRange>
+      <wildClusterRadius>4</wildClusterRadius>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantAstragalus</defName>
+    <label>astragalus</label>
+    <description>A small perennial wildflower that grows in alpine climates.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>5</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Astragalus</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <hideAtSnowDepth>0.5</hideAtSnowDepth>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>30</nutrition>
+    </ingestible>
+    <plant>
+      <fertilityMin>0.05</fertilityMin>
+      <maxMeshCount>25</maxMeshCount>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>0.4</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.25</growthPer20kTicks>
+      <topWindExposure>0.3</topWindExposure>
+      <seedShootRadius>2.5</seedShootRadius>
+      <seedEmitChancePerDay>0.2</seedEmitChancePerDay>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>1</fertilityFactorGrowthRate>
+      <fertilityFactorPlantChance>1.0</fertilityFactorPlantChance>
+      <wildClusterSizeRange>
+        <min>2</min>
+        <max>6</max>
+      </wildClusterSizeRange>
+      <wildClusterRadius>4</wildClusterRadius>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantMoss</defName>
+    <label>moss</label>
+    <description>A wild moss that grows in clumps in areas of low light and high humidity. Very hardy and frost-resistant.</description>
+    <statBases>
+      <MaxHealth>120</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Moss</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <hideAtSnowDepth>0.5</hideAtSnowDepth>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>10</nutrition>
+    </ingestible>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/Moss_Leafless</leaflessGraphicPath>
+      <harvestWork>60</harvestWork>
+      <fertilityMin>0.05</fertilityMin>
+      <maxMeshCount>9</maxMeshCount>
+      <visualSizeRange>
+        <min>0.4</min>
+        <max>0.6</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.1</growthPer20kTicks>
+      <topWindExposure>0.0</topWindExposure>
+      <seedShootRadius>10</seedShootRadius>
+      <lifespanDays>45</lifespanDays>
+      <fertilityFactorGrowthRate>0.90</fertilityFactorGrowthRate>
+      <fertilityFactorPlantChance>0.90</fertilityFactorPlantChance>
+    </plant>
+  </ThingDef>
+
+
+  <!--============================ Wild - Trees ============================-->
+
+  <ThingDef ParentName="PlantBase" Name="TreeBase" Abstract="True">
+    <statBases>
+      <MaxHealth>300</MaxHealth>
+    </statBases>
+    <description>A tree.</description>
+    <altitudeLayer>BuildingTall</altitudeLayer>
+    <selectable>true</selectable>
+    <fillPercent>0.35</fillPercent>
+    <sunShadowInfo>
+      <baseWidth>0.3</baseWidth>
+      <baseHeight>0.3</baseHeight>
+      <tallness>0.3</tallness>
+    </sunShadowInfo>
+    <passability>PassThroughOnly</passability>
+    <pathCost>130</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>50</nutrition>
+    </ingestible>
+    <plant>
+      <soundHarvesting>Harvest_Tree</soundHarvesting>
+      <soundHarvestFinish>Harvest_Tree_Finish</soundHarvestFinish>
+      <harvestWork>1000</harvestWork>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestedThingDef>WoodLog</harvestedThingDef>
+      <harvestYieldRange>
+        <min>10</min>
+        <max>50</max>
+      </harvestYieldRange>
+      <harvestTag>Wood</harvestTag>
+      <harvestMinGrowth>0.40</harvestMinGrowth>
+      <sowTags>
+        <li>Ground</li>
+      </sowTags>
+      <sowWork>1500</sowWork>
+      <blockAdjacentSow>true</blockAdjacentSow>
+      <visualSizeRange>
+        <min>1.3</min>
+        <max>2.0</max>
+      </visualSizeRange>
+      <fertilityMin>0.3</fertilityMin>
+      <growthPer20kTicks>0.05</growthPer20kTicks>
+      <topWindExposure>0.25</topWindExposure>
+      <seedShootRadius>15</seedShootRadius>
+      <lifespanDays>150</lifespanDays>
+      <fertilityFactorGrowthRate>0.5</fertilityFactorGrowthRate>
+      <wildClusterSizeRange>
+        <min>8</min>
+        <max>30</max>
+      </wildClusterSizeRange>
+      <wildClusterRadius>8</wildClusterRadius>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="TreeBase">
+    <defName>PlantTreeOak</defName>
+    <label>oak tree</label>
+    <description>A strong hardwood tree. Slow-going, but its wood is very strong.</description>
+    <graphicPath>Things/Plant/TreeOak</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <statBases>
+      <Beauty>5</Beauty>
+    </statBases>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/TreeOak_Leafless</leaflessGraphicPath>
+      <growthPer20kTicks>0.02</growthPer20kTicks>
+      <harvestWork>1000</harvestWork>
+      <harvestYieldRange>
+        <min>10</min>
+        <max>50</max>
+      </harvestYieldRange>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="TreeBase">
+    <defName>PlantTreePoplar</defName>
+    <label>poplar tree</label>
+    <description>A softwood tree. Grows fast, but yield little useful wood.</description>
+    <graphicPath>Things/Plant/TreePoplar</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <statBases>
+      <Beauty>3</Beauty>
+    </statBases>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/TreePoplar_Leafless</leaflessGraphicPath>
+      <growthPer20kTicks>0.032</growthPer20kTicks>
+      <harvestWork>650</harvestWork>
+      <harvestYieldRange>
+        <min>10</min>
+        <max>30</max>
+      </harvestYieldRange>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="TreeBase">
+    <defName>PlantTreePine</defName>
+    <label>pine tree</label>
+    <description>A large conifer.</description>
+    <graphicPath>Things/Plant/TreePine</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <statBases>
+      <Beauty>5</Beauty>
+    </statBases>
+    <plant>
+      <visualSizeRange>
+        <min>1.3</min>
+        <max>3.0</max>
+      </visualSizeRange>
+      <growthPer20kTicks>0.032</growthPer20kTicks>
+      <harvestWork>700</harvestWork>
+      <harvestYieldRange>
+        <min>10</min>
+        <max>30</max>
+      </harvestYieldRange>
+    </plant>
+    <sunShadowInfo>
+      <baseWidth>0.2</baseWidth>
+      <baseHeight>0.2</baseHeight>
+      <tallness>0.3</tallness>
+    </sunShadowInfo>
+  </ThingDef>
+
+  <ThingDef ParentName="TreeBase">
+    <defName>PlantTreeBirch</defName>
+    <label>birch tree</label>
+    <description>A northern tree known for its thin, paper-like bark.</description>
+    <graphicPath>Things/Plant/TreeBirch</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <statBases>
+      <Beauty>3</Beauty>
+    </statBases>
+    <plant>
+      <leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
+      <growthPer20kTicks>0.032</growthPer20kTicks>
+      <harvestWork>700</harvestWork>
+      <harvestYieldRange>
+        <min>10</min>
+        <max>30</max>
+      </harvestYieldRange>
+      <leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
+    </plant>
+    <sunShadowInfo>
+      <baseWidth>0.15</baseWidth>
+      <baseHeight>0.1</baseHeight>
+      <tallness>0.3</tallness>
+    </sunShadowInfo>
+  </ThingDef>
+
+</Defs>

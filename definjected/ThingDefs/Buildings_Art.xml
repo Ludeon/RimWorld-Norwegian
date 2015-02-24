@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!--================================ Abstract bases ======================================-->
+
+  <ThingDef Name="BuildingBase" Abstract="True">
+    <category>Building</category>
+    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>BuildingRubble</filthLeaving>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase" Name="SculptureBase" Abstract="True">
+    <thingClass>Building_Art</thingClass>
+    <eType>BuildingComplex</eType>
+    <label>Art</label>
+    <description>A work of art.</description>
+    <altitudeLayer>Waist</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <castEdgeShadows>true</castEdgeShadows>
+    <useStandardHealth>true</useStandardHealth>
+    <size>(1,1)</size>
+    <statBases>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li>
+        <compClass>CompArt</compClass>
+        <nameMaker>NamerSculpture</nameMaker>
+        <descriptionMaker>ArtSculpture</descriptionMaker>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <recipeMaker>
+      <workSpeedStat>SculptingSpeed</workSpeedStat>
+      <workSkill>Artistic</workSkill>
+      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+      <effectWorking>Sculpt</effectWorking>
+      <soundWorking>Recipe_Sculpt</soundWorking>
+      <recipeUsers>
+        <li>TableSculpting</li>
+      </recipeUsers>
+    </recipeMaker>
+  </ThingDef>
+
+  
+  
+  <!--================================ Concrete ======================================-->
+
+  <ThingDef ParentName="SculptureBase">
+    <defName>SculptureSmall</defName>
+    <label>small sculpture</label>
+    <description>A torso-sized piece of material sculpted into an artistic form.</description>
+    <graphicClass>Graphic_Random</graphicClass>
+    <graphicPath>Things/Building/Art/SculptureSmall</graphicPath>
+    <minifiedDef>MinifiedSculpture</minifiedDef>
+    <fillPercent>0.35</fillPercent>
+    <statBases>
+      <MaxHealth>90</MaxHealth>
+      <Beauty>30</Beauty>
+      <WorkToMake>25000</WorkToMake>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>70</costStuffCount>
+  </ThingDef>
+
+  <ThingDef ParentName="SculptureBase">
+    <defName>SculptureLarge</defName>
+    <label>large sculpture</label>
+    <description>A person-sized piece of material sculpted into an artistic form.</description>
+    <graphicClass>Graphic_Random</graphicClass>
+    <graphicPath>Things/Building/Art/SculptureLarge</graphicPath>
+    <graphicOverdraw>true</graphicOverdraw>
+    <minifiedDef>MinifiedSculpture</minifiedDef>
+    <fillPercent>0.5</fillPercent>
+    <statBases>
+      <MaxHealth>150</MaxHealth>
+      <Beauty>65</Beauty>
+      <WorkToMake>50000</WorkToMake>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>135</costStuffCount>
+  </ThingDef>
+
+  <ThingDef ParentName="SculptureBase">
+    <defName>SculptureGrand</defName>
+    <label>grand sculpture</label>
+    <description>A car-sized piece of material sculpted into an artistic form.</description>
+    <graphicClass>Graphic_Random</graphicClass>
+    <graphicPath>Things/Building/Art/SculptureGrand</graphicPath>
+    <graphicOverdraw>true</graphicOverdraw>
+    <minifiedDef>MinifiedSculpture</minifiedDef>
+    <fillPercent>0.5</fillPercent>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHealth>250</MaxHealth>
+      <Beauty>140</Beauty>
+      <WorkToMake>100000</WorkToMake>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>260</costStuffCount>
+  </ThingDef>
+
+
+
+
+
+
+</Defs>

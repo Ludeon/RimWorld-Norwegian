@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <HediffDef Name="DiseaseBase" Abstract="True">
+    <hediffClass>Hediff_Staged</hediffClass>
+    <naturallyHealed>false</naturallyHealed>
+    <defaultLabelColor>(0.8, 0.8, 0.35)</defaultLabelColor>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Anesthetic</defName>
+    <label>anesthetic</label>
+    <disappearsAfterTicks>15000</disappearsAfterTicks>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Consciousness</activity>
+                <setMax>0.1</setMax>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Concussion</defName>
+    <label>concussion</label>
+    <disappearsAfterTicks>25000</disappearsAfterTicks>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Consciousness</activity>
+                <setMax>0.1</setMax>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>CryptosleepSickness</defName>
+    <label>cryptosleep sickness</label>
+    <disappearsAfterTicks>10000</disappearsAfterTicks>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <vomitFrequency>0.4</vomitFrequency>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Consciousness</activity>
+                <setMax>0.7</setMax>
+              </li>
+              <li>
+                <activity>Manipulation</activity>
+                <setMax>0.6</setMax>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>FoodPoisoning</defName>
+    <label>food poisoning</label>
+    <disappearsAfterTicks>30000</disappearsAfterTicks>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <vomitFrequency>0.1</vomitFrequency>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Consciousness</activity>
+                <setMax>0.5</setMax>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+
+  
+  
+
+</Defs>

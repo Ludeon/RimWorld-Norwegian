@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+
+
+  <ThingDef Name="BuildingBase" Abstract="True">
+    <category>Building</category>
+    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>BuildingRubble</filthLeaving>
+  </ThingDef>
+
+
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>NutrientPasteDispenser</defName>
+    <eType>BuildingComplex</eType>
+    <label>nutrient paste dispenser</label>
+    <thingClass>Building_NutrientPasteDispenser</thingClass>
+    <graphicPath>Things/Building/Production/NutrientDispenser</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <altitudeLayer>BuildingTall</altitudeLayer>
+    <passability>Impassable</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <statBases>
+      <WorkToMake>2200</WorkToMake>
+      <MaxHealth>350</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste.</description>
+    <building>
+      <wantsHopperAdjacent>true</wantsHopperAdjacent>
+      <foodCostPerDispense>6</foodCostPerDispense>
+      <soundDispense>DispensePaste</soundDispense>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>200</basePowerConsumption>
+      </li>
+    </comps>
+    <size>(3,4)</size>
+    <costList>
+      <Steel>90</Steel>
+    </costList>
+    <interactionSquareOffset>(0,0,3)</interactionSquareOffset>
+    <hasInteractionCell>true</hasInteractionCell>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Production</designationCategory>
+    <staticSunShadowHeight>0.75</staticSunShadowHeight>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>N</designationHotKey>
+  </ThingDef>
+
+
+
+  
+  
+
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>Hopper</defName>
+    <eType>BuildingComplex</eType>
+    <label>hopper</label>
+    <thingClass>Building_Storage</thingClass>
+    <graphicPath>Things/Building/Production/Hopper</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <altitudeLayer>Waist</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.5</fillPercent>
+    <pathCost>70</pathCost>
+    <building>
+      <fixedStorageSettings>
+        <priority>Important</priority>
+        <allowances>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </allowances>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <allowances>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+          <exceptedThingDefs>
+            <li>Human_Meat</li>
+          </exceptedThingDefs>
+        </allowances>
+      </defaultStorageSettings>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <castEdgeShadows>true</castEdgeShadows>
+    <statBases>
+      <WorkToMake>450</WorkToMake>
+      <MaxHealth>100</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>Holds resources for use by machines like nutrient paste dispensers.</description>
+    <costList>
+      <Steel>15</Steel>
+    </costList>
+    <tickerType>Never</tickerType>
+    <rotatable>true</rotatable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <designationCategory>Production</designationCategory>
+    <staticSunShadowHeight>0.3</staticSunShadowHeight>
+    <itemSurface>true</itemSurface>
+    <placeWorkers>
+      <li>PlaceWorker_NextToHopperAccepter</li>
+    </placeWorkers>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>H</designationHotKey>
+  </ThingDef>
+
+
+
+  <!-- ========================= Work tables ==========================-->
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableButcher</DefName>
+    <EType>BuildingComplex</EType>
+    <label>butcher table</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A heavy table for butchering dead creatures into pieces of raw meat.</Description>
+    <graphicPath>Things/Building/Production/TableButcher</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <CostList>
+      <WoodLog>60</WoodLog>
+    </CostList>
+    <constructEffect>ConstructWood</constructEffect>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>60</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>ButcherCorpseFlesh</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <designationHotKey>B</designationHotKey>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableTailor</DefName>
+    <EType>BuildingComplex</EType>
+    <label>tailor's workbench</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A workbench equipped for cloth refinement and clothing production.</Description>
+    <graphicPath>Things/Building/Production/TableTailor</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <CostList>
+      <WoodLog>60</WoodLog>
+      <Steel>50</Steel>
+    </CostList>
+    <constructEffect>ConstructWood</constructEffect>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2500</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>120</basePowerConsumption>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+    </comps>
+    <designationHotKey>P</designationHotKey>
+  </ThingDef>
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableSmithing</DefName>
+    <EType>BuildingComplex</EType>
+    <label>smithing bench</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A workbench equipped for weapons and tools production.</Description>
+    <graphicPath>Things/Building/Production/TableSmithing</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <CostList>
+      <WoodLog>70</WoodLog>
+      <Steel>120</Steel>
+    </CostList>
+    <constructEffect>ConstructWood</constructEffect>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>3000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>210</basePowerConsumption>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+    </comps>
+    <designationHotKey>M</designationHotKey>
+  </ThingDef>
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableSculpting</DefName>
+    <EType>BuildingComplex</EType>
+    <label>sculptor's table</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A workbench equipped for artistic sculpting.</Description>
+    <graphicPath>Things/Building/Production/TableSculpting</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <CostList>
+      <WoodLog>70</WoodLog>
+      <Steel>120</Steel>
+    </CostList>
+    <constructEffect>ConstructWood</constructEffect>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2500</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <designationHotKey>O</designationHotKey>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableMachining</DefName>
+    <EType>BuildingComplex</EType>
+    <label>machining table</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A table and tools for assembling and disassembling machine components like mechanoids bodies and ammunition.</Description>
+    <graphicPath>Things/Building/Production/TableMachining</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <CostList>
+      <Steel>250</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>3000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>ButcherCorpseMechanoid</li>
+      <li>MakeArtilleryShell</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>350</basePowerConsumption>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+      <li>
+        <compClass>CompGlower</compClass>
+        <glowRadius>5</glowRadius>
+        <glowColor>(73,123,138,0)</glowColor>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <constructEffect>ConstructMetal</constructEffect>
+    <researchPrerequisite>Machining</researchPrerequisite>
+    <designationHotKey>N</designationHotKey>
+  </ThingDef>
+
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>CookStove</defName>
+    <EType>BuildingComplex</EType>
+    <label>cook stove</label>
+    <ThingClass>Building_WorkTable_HeatPush</ThingClass>
+    <Description>A simple stove and attached countertop for preparing meals.</Description>
+    <graphicPath>Things/Building/Production/TableCookStove</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <constructEffect>ConstructMetal</constructEffect>
+    <CostList>
+      <Steel>80</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>CookMealSimple</li>
+      <li>CookMealFine</li>
+      <li>CookMealLavish</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>350</basePowerConsumption>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <heatPerTickWhileWorking>0.25</heatPerTickWhileWorking>
+    </building>
+    <designationHotKey>O</designationHotKey>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableStonecutter</DefName>
+    <EType>BuildingComplex</EType>
+    <label>stonecutter's table</label>
+    <ThingClass>Building_WorkTable_HeatPush</ThingClass>
+    <Description>A work table equipped to cut rough stone into usable blocks.</Description>
+    <graphicPath>Things/Building/Production/TableStonecutter</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <constructEffect>ConstructMetal</constructEffect>
+    <CostList>
+      <WoodLog>60</WoodLog>
+      <Steel>30</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>MakeStoneBlocks</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <researchPrerequisite>Stonecutting</researchPrerequisite>
+    <designationHotKey>U</designationHotKey>
+  </ThingDef>
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>Brewery</DefName>
+    <EType>BuildingComplex</EType>
+    <label>brewery</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A work station with all the equipment needed to brew beer.</Description>
+    <graphicPath>Things/Building/Production/TableBrewery</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <constructEffect>ConstructWood</constructEffect>
+    <CostList>
+      <WoodLog>120</WoodLog>
+      <Steel>30</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>BrewBeer</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <researchPrerequisite>Brewing</researchPrerequisite>
+    <designationHotKey>Y</designationHotKey>
+  </ThingDef>
+  
+  
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>ElectricSmelter</DefName>
+    <EType>BuildingComplex</EType>
+    <label>electric smelter</label>
+    <ThingClass>Building_WorkTable_HeatPush</ThingClass>
+    <Description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</Description>
+    <graphicPath>Things/Building/Production/ElectricSmelter</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <constructEffect>ConstructMetal</constructEffect>
+    <CostList>
+      <Steel>170</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>3500</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>PassThroughOnly</Passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>ExtractMetalFromSlag</li>
+      <li>SmeltWeapon</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>700</basePowerConsumption>
+        <startElectricalFires>true</startElectricalFires>
+      </li>
+      <li>
+        <compClass>CompGlower</compClass>
+        <glowRadius>6</glowRadius>
+        <glowColor>(217,112,33,0)</glowColor>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <heatPerTickWhileWorking>0.5</heatPerTickWhileWorking>
+    </building>
+    <researchPrerequisite>ElectricSmelting</researchPrerequisite>
+    <designationHotKey>L</designationHotKey>
+  </ThingDef>
+
+
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>Crematorium</DefName>
+    <EType>BuildingComplex</EType>
+    <label>crematorium</label>
+    <ThingClass>Building_WorkTable_HeatPush</ThingClass>
+    <Description>Cremates corpses.</Description>
+    <graphicPath>Things/Building/Production/Crematorium</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <shaderType>CutoutComplex</shaderType>
+    <costStuffCount>150</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costList>
+      <Steel>40</Steel>
+    </costList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <UseStandardHealth>True</UseStandardHealth>
+    <statBases>
+      <WorkToMake>4500</WorkToMake>
+      <MaxHealth>300</MaxHealth>
+      <Flammability>0</Flammability>
+    </statBases>
+    <Size>(3,2)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <fillPercent>1</fillPercent>
+    <Passability>Impassable</Passability>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>CremateCorpse</li>
+      <li>BurnApparel</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>250</basePowerConsumption>
+        <startElectricalFires>true</startElectricalFires>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+      <li>
+        <compClass>CompGlower</compClass>
+        <glowRadius>6</glowRadius>
+        <glowColor>(217,112,33,0)</glowColor>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <heatPerTickWhileWorking>0.6</heatPerTickWhileWorking>
+    </building>
+    <researchPrerequisite>Cremation</researchPrerequisite>
+    <designationHotKey>R</designationHotKey>
+  </ThingDef>
+
+
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>ResearchBench</defName>
+    <eType>Building_ResearchBench</eType>
+    <label>research bench</label>
+    <thingClass>Building_ResearchBench</thingClass>
+    <graphicPath>Things/Building/Production/ResearchBench</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <altitudeLayer>Waist</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <castEdgeShadows>true</castEdgeShadows>
+    <statBases>
+      <MaxHealth>250</MaxHealth>
+      <WorkToMake>2800</WorkToMake>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>Researchers work here to discover new things.</description>
+    <size>(2,5)</size>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>90</costStuffCount>
+    <costList>
+      <Steel>60</Steel>
+    </costList>
+    <fillPercent>0.5</fillPercent>
+    <interactionSquareOffset>(2,0,0)</interactionSquareOffset>
+    <hasInteractionCell>true</hasInteractionCell>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Production</designationCategory>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <itemSurface>true</itemSurface>
+    <designationHotKey>N</designationHotKey>
+  </ThingDef>
+
+
+
+  <!-- ========== Hydroponics ==============-->
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>HydroponicsBasin</defName>
+    <eType>BuildingComplex</eType>
+    <label>hydroponics basin</label>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicPath>Things/Building/Production/HydroponicsBasin</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>60</pathCost>
+    <castEdgeShadows>true</castEdgeShadows>
+    <constructEffect>ConstructMetal</constructEffect>
+    <statBases>
+      <WorkToMake>2800</WorkToMake>
+      <MaxHealth>180</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>For growing food. Hydroponics basins grow a few plants quickly. The basin requires power to work, and plants will die if power is cut.</description>
+    <size>(1,4)</size>
+    <costList>
+      <Steel>125</Steel>
+    </costList>
+    <inspectorTabs>
+      <li>ITab_Growing</li>
+    </inspectorTabs>
+    <graphicOverdraw>false</graphicOverdraw>
+    <fertility>2.0</fertility>
+    <building>
+      <defaultPlantToGrow>PlantPotato</defaultPlantToGrow>
+      <plantsDestroyWithMe>true</plantsDestroyWithMe>
+      <sowTag>Hydroponic</sowTag>
+    </building>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>70</basePowerConsumption>
+      </li>
+    </comps>
+    <researchPrerequisite>Hydroponics</researchPrerequisite>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Production</designationCategory>
+    <staticSunShadowHeight>0.03</staticSunShadowHeight>
+    <designationHotKey>Y</designationHotKey>
+  </ThingDef>
+
+
+
+  
+  
+  
+  <!--
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableSawmillHand</DefName>
+    <EType>BuildingComplex</EType>
+    <label>hand sawmill</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A small muscle-powered sawmill for cutting logs into wood planks.</Description>
+    <graphicPath>Things/Building/Production/TableSawmillHand</graphicPath>
+    <CostList>
+      <WoodLog>60</WoodLog>
+      <Steel>10</Steel>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <WorkToMake>850</WorkToMake>
+    <UseStandardHealth>True</UseStandardHealth>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>Impassable</Passability>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>MakeWoodPlanks_Hand</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="BuildingBase">
+    <DefName>TableSawmillElectric</DefName>
+    <EType>BuildingComplex</EType>
+    <label>electric sawmill</label>
+    <ThingClass>Building_WorkTable</ThingClass>
+    <Description>A small electrically-powered sawmill for cutting logs into wood planks.</Description>
+    <graphicPath>Things/Building/Production/TableSawmillElectric</graphicPath>
+    <CostList>
+      <li>
+        <thingDef>WoodPlank</thingDef>
+        <count>50</count>
+      </li>
+      <li>
+        <thingDef>Steel</thingDef>
+        <count>30</count>
+      </li>
+    </CostList>
+    <AltitudeLayer>Waist</AltitudeLayer>
+    <WorkToMake>850</WorkToMake>
+    <UseStandardHealth>True</UseStandardHealth>
+    <Size>(3,1)</Size>
+    <graphicOverdraw>False</graphicOverdraw>
+    <DesignationCategory>Production</DesignationCategory>
+    <Passability>Impassable</Passability>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionSquareOffset>(0,0,-1)</interactionSquareOffset>
+    <itemSurface>True</itemSurface>
+    <recipes>
+      <li>MakeWoodPlanks_Electric</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompPowerTrader</compClass>
+        <startElectricalFires>true</startElectricalFires>
+        <basePowerConsumption>250</basePowerConsumption>
+        <soundPowerOn>PowerOnSmall</soundPowerOn>
+        <soundPowerOff>PowerOffSmall</soundPowerOff>
+      </li>
+    </comps>
+  </ThingDef>
+  -->
+
+
+  
+  
+  
+  
+
+
+</ThingDefs>

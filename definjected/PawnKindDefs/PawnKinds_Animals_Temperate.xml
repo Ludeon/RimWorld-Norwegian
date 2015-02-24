@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PawnKindDef>
+    <defName>Deer</defName>
+    <label>deer</label>
+    <race>Deer</race>
+    <pointsCost>75</pointsCost>
+    <standardBodygraphicPath>Things/Pawn/Animal/Deer</standardBodygraphicPath>
+    <dessicatedBodygraphicPath>Things/Pawn/Animal/CritterDessicatedMedium</dessicatedBodygraphicPath>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <wildSpawn_EcoSystemWeight>0.7</wildSpawn_EcoSystemWeight>
+    <wildSpawn_GroupSizeRange>
+      <min>3</min>
+      <max>9</max>
+    </wildSpawn_GroupSizeRange>
+  </PawnKindDef>
+
+  <PawnKindDef>
+    <defName>Tortoise</defName>
+    <label>tortoise</label>
+    <race>Tortoise</race>
+    <pointsCost>50</pointsCost>
+    <standardBodygraphicPath>Things/Pawn/Animal/Tortoise</standardBodygraphicPath>
+    <dessicatedBodygraphicPath>Things/Pawn/Animal/CritterDessicatedSmall</dessicatedBodygraphicPath>
+    <wildSpawn_EcoSystemWeight>0.4</wildSpawn_EcoSystemWeight>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+  </PawnKindDef>
+
+  <PawnKindDef>
+    <defName>Hare</defName>
+    <label>hare</label>
+    <race>Hare</race>
+    <pointsCost>50</pointsCost>
+    <standardBodygraphicPath>Things/Pawn/Animal/Hare</standardBodygraphicPath>
+    <dessicatedBodygraphicPath>Things/Pawn/Animal/CritterDessicatedSmall</dessicatedBodygraphicPath>
+    <wildSpawn_EcoSystemWeight>0.25</wildSpawn_EcoSystemWeight>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+  </PawnKindDef>
+
+  <PawnKindDef>
+    <defName>Elk</defName>
+    <label>elk</label>
+    <race>Elk</race>
+    <pointsCost>75</pointsCost>
+    <standardBodygraphicPath>Things/Pawn/Animal/Elk</standardBodygraphicPath>
+    <dessicatedBodygraphicPath>Things/Pawn/Animal/CritterDessicatedMedium</dessicatedBodygraphicPath>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <wildSpawn_EcoSystemWeight>0.9</wildSpawn_EcoSystemWeight>
+    <wildSpawn_GroupSizeRange>
+      <min>3</min>
+      <max>9</max>
+    </wildSpawn_GroupSizeRange>
+  </PawnKindDef>
+
+  <PawnKindDef>
+    <defName>Alphabeaver</defName>
+    <label>alphabeaver</label>
+    <race>Alphabeaver</race>
+    <pointsCost>75</pointsCost>
+    <standardBodygraphicPath>Things/Pawn/Animal/Beaver</standardBodygraphicPath>
+    <dessicatedBodygraphicPath>Things/Pawn/Animal/CritterDessicatedSmall</dessicatedBodygraphicPath>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <wildSpawn_EcoSystemWeight>0.9</wildSpawn_EcoSystemWeight>
+    <wildSpawn_GroupSizeRange>
+      <min>3</min>
+      <max>9</max>
+    </wildSpawn_GroupSizeRange>
+  </PawnKindDef>
+
+
+</Defs>

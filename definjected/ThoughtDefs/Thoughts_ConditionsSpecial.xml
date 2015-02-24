@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThoughtDefs>
+
+
+  <ThoughtDef>
+    <defName>Imprisoned</defName>
+    <workerClass>ThoughtWorker_Imprisoned</workerClass>
+    <stages>
+      <li>
+        <label>imprisoned</label>
+        <description>I hate being locked up.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>SharedBedroom</defName>
+    <workerClass>ThoughtWorker_SharedBedroom</workerClass>
+    <stages>
+      <li>
+        <label>sharing bedroom</label>
+        <description>Sharing a room with others is annoying. I want some privacy. </description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>ColonistLeftUnburied</defName>
+    <workerClass>ThoughtWorker_ColonistLeftUnburied</workerClass>
+    <nullifyingTraits>
+      <li>Psychopath</li>
+    </nullifyingTraits>
+    <stages>
+      <li>
+        <label>colonist left unburied</label>
+        <description>One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+  <ThoughtDef>
+    <defName>HappyNude</defName>
+    <workerClass>ThoughtWorker_PsychologicallyNude</workerClass>
+    <requiredTraits>
+      <li>Nudist</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>happily nude</label>
+        <description>I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings!</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>Naked</defName>
+    <workerClass>ThoughtWorker_PsychologicallyNude</workerClass>
+    <nullifyingTraits>
+      <li>Nudist</li>
+    </nullifyingTraits>
+    <stages>
+      <li>
+        <label>naked</label>
+        <description>I'm naked. This is humiliating.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+
+
+
+  <ThoughtDef>
+    <defName>MasochistPain</defName>
+    <workerClass>ThoughtWorker_MasochistPain</workerClass>
+    <requiredTraits>
+      <li>Masochist</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>in a little pain</label>
+        <description>Ow... Heh heh heh... I could get used to this!</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+      <li>
+        <label>in a moderate amount of pain</label>
+        <description>Ughhh... It hurts, but I love it! Keep it coming!</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+      <li>
+        <label>experiencing acute pain</label>
+        <description>Ouch... I think something's broken... But what an exquisite feeling!</description>
+        <baseMoodEffect>15</baseMoodEffect>
+      </li>
+      <li>
+        <label>in shock from exceptional pain</label>
+        <description>Ahhh... Am I in heaven?</description>
+        <baseMoodEffect>20</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+  <ThoughtDef>
+    <defName>ProsthophileHappy</defName>
+    <workerClass>ThoughtWorker_HasBionicBodyPart</workerClass>
+    <requiredTraits>
+      <li>Prosthophile</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>has a bionic bodypart</label>
+        <description>I'm a product of modern technology! I can do everything better!</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>ProsthophobeUnhappy</defName>
+    <workerClass>ThoughtWorker_HasBionicBodyPart</workerClass>
+    <requiredTraits>
+      <li>Prosthophobe</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>has a bionic bodypart</label>
+        <description>They turned me into a technological abomination... If only they had given me a choice...</description>
+        <baseMoodEffect>-12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>BrawlerUnhappy</defName>
+    <workerClass>ThoughtWorker_IsCarryingRangedWeapon</workerClass>
+    <requiredTraits>
+      <li>Brawler</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>brawler has ranged weapon</label>
+        <description>I hate shooting from a distance. I want to get up close and personal!</description>
+        <baseMoodEffect>-20</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</ThoughtDefs>

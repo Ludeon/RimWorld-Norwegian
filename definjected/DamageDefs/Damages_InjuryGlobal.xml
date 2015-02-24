@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DamageDef Name="GlobalInjuryBase" Abstract="True">
+    <workerClass>DamageWorker_AddGlobalInjury</workerClass>
+    <interruptJobs>false</interruptJobs>
+    <hasForcefulImpact>false</hasForcefulImpact>
+    <makesBlood>false</makesBlood>
+  </DamageDef>
+
+  <DamageDef ParentName="GlobalInjuryBase">
+    <defName>Bleeding</defName>
+    <label>bleeding</label>
+    <deathMessage>{0} has bled to death.</deathMessage>
+    <hediff>BloodLoss</hediff>
+  </DamageDef>
+
+  <DamageDef ParentName="GlobalInjuryBase">
+    <defName>Suffocation</defName>
+    <label>suffocation</label>
+    <deathMessage>{0} has suffocated to death.</deathMessage>
+    <hediff>Suffocation</hediff>
+  </DamageDef>
+
+  <DamageDef ParentName="GlobalInjuryBase">
+    <defName>Starvation</defName>
+    <label>starvation</label>
+    <deathMessage>{0} has starved to death.</deathMessage>
+    <hediff>Starvation</hediff>
+  </DamageDef>
+
+  <DamageDef ParentName="GlobalInjuryBase">
+    <defName>Hypothermia</defName>
+    <label>hypothermia</label>
+    <deathMessage>{0} has succumbed to hypothermia.</deathMessage>
+    <hediff>Hypothermia</hediff>
+  </DamageDef>
+
+</Defs>

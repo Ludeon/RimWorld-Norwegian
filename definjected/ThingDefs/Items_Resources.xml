@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Resources>
+
+
+  <!-- =========== bases =========== -->
+
+  <ThingDef Name="ResourceBase" Abstract="True">
+    <thingClass>ThingWithComponents</thingClass>
+    <label>unspecified resource</label>
+    <category>Item</category>
+    <eType>Item</eType>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useStandardHealth>true</useStandardHealth>
+    <selectable>true</selectable>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>75</stackLimit>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+    </comps>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <rotatable>false</rotatable>
+    <pathCost>15</pathCost>
+  </ThingDef>
+
+  <ThingDef Name="ResourceVerbBase" ParentName="ResourceBase" Abstract="True">
+    <eType>Equipment</eType>
+    <thingClass>Equipment</thingClass>
+    <equipmentType>Primary</equipmentType>
+    <techLevel>Neolithic</techLevel>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+
+  <!--=============== Pure stuffs: Basics ====================-->
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Silver</defName>
+    <label>silver</label>
+    <description>This metal is mostly used as a commodity currency. It can also be used for making attractive decorations.</description>
+    <graphicPath>Things/Item/Resource/Silver</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <resourceReadoutPriority>First</resourceReadoutPriority>
+    <soundInteract>Silver_Drop</soundInteract>
+    <soundDrop>Silver_Drop</soundDrop>
+    <useStandardHealth>false</useStandardHealth>
+    <resourceReadoutAlwaysShow>true</resourceReadoutAlwaysShow>
+    <statBases>
+      <MarketValue>1</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>0.5</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1.1</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>500</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <smallVolume>true</smallVolume>
+      <color>(180,173,150)</color>
+      <constructEffect>ConstructMetal</constructEffect>
+      <soundImpactStuff>BulletImpactMetal</soundImpactStuff>
+      <statOffsets>
+        <Beauty>6</Beauty>
+      </statOffsets>
+      <statFactors>
+        <MaxHealth>0.7</MaxHealth>
+        <Flammability>0.2</Flammability>
+        <Beauty>3</Beauty>
+        <WorkToMake>1.2</WorkToMake>
+        <MeleeWeapon_Cooldown>1</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Gold</defName>
+    <label>gold</label>
+    <description>The most seductive metal of them all. Millions have died in attempting to feed the endless human thirst for gold. This soft metal is little use on its own, but is strikingly beautiful and very rare.</description>
+    <graphicPath>Things/Item/Resource/Gold</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Silver_Drop</soundInteract>
+    <soundDrop>Silver_Drop</soundDrop>
+    <useStandardHealth>false</useStandardHealth>
+    <statBases>
+      <MarketValue>15</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>0.3</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1.15</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>400</stackLimit>
+    <stuffProps>
+      <stuffAdjective>golden</stuffAdjective>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <smallVolume>true</smallVolume>
+      <color>(255,235,122)</color>
+      <constructEffect>ConstructMetal</constructEffect>
+      <soundImpactStuff>BulletImpactMetal</soundImpactStuff>
+      <statOffsets>
+        <Beauty>18</Beauty>
+      </statOffsets>
+      <statFactors>
+        <MaxHealth>0.6</MaxHealth>
+        <Flammability>0.2</Flammability>
+        <Beauty>6</Beauty>
+        <WorkToMake>1.3</WorkToMake>
+        <MeleeWeapon_Cooldown>1.1</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Steel</defName>
+    <label>steel</label>
+    <description>An iron-carbon metal alloy used for building structures, tools, and weapons.</description>
+    <graphicPath>Things/Item/Resource/Metal</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>1</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <useStandardHealth>false</useStandardHealth>
+    <slagDef>ChunkSlagSteel</slagDef>
+    <defaultColor>(255,255,255)</defaultColor>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(102,102,105)</color>
+      <soundImpactStuff>BulletImpactMetal</soundImpactStuff>
+      <statFactors>
+        <MaxHealth>1</MaxHealth>
+        <Beauty>1</Beauty>
+        <Flammability>0.2</Flammability>
+        <MeleeWeapon_Cooldown>1</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Plasteel</defName>
+    <label>plasteel</label>
+    <description>Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure.</description>
+    <graphicPath>Things/Item/Resource/Plasteel</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useStandardHealth>false</useStandardHealth>
+    <statBases>
+      <MarketValue>27</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>1.2</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1.0</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(160,178,181)</color>
+      <soundImpactStuff>BulletImpactMetal</soundImpactStuff>
+      <statFactors>
+        <MaxHealth>2.8</MaxHealth>
+        <Beauty>1.2</Beauty>
+        <Flammability>0.1</Flammability>
+        <WorkToMake>2.0</WorkToMake>
+        <MeleeWeapon_Cooldown>0.8</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="ResourceVerbBase">
+    <defName>WoodLog</defName>
+    <label>wood</label>
+    <description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</description>
+    <graphicPath>Things/Item/Resource/WoodLog</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <equippedTexturePath>Things/Item/Resource/WoodLog_Equipped</equippedTexturePath>
+    <soundInteract>Wood_Drop</soundInteract>
+    <soundDrop>Wood_Drop</soundDrop>
+    <statBases>
+      <MarketValue>1.4</MarketValue>
+      <MaxHealth>150</MaxHealth>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+      <MeleeWeapon_DamageAmount>8</MeleeWeapon_DamageAmount>
+      <MeleeWeapon_Cooldown>2.2</MeleeWeapon_Cooldown>
+      <MeleeWeapon_SharpDamageMultiplier>0.3</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>0.8</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <equippedAngleOffset>-55</equippedAngleOffset>
+    <stuffProps>
+      <stuffAdjective>wooden</stuffAdjective>
+      <categories>
+        <li>Woody</li>
+      </categories>
+      <color>(133,97,67)</color>
+      <constructEffect>ConstructWood</constructEffect>
+      <appearance>Planks</appearance>
+      <soundImpactStuff>BulletImpactWood</soundImpactStuff>
+      <statOffsets>
+        <Beauty>2</Beauty>
+      </statOffsets>
+      <statFactors>
+        <MaxHealth>0.5</MaxHealth>
+        <Beauty>1.25</Beauty>
+        <Flammability>1</Flammability>
+        <WorkToMake>0.7</WorkToMake>
+        <DoorOpenSpeed>1.2</DoorOpenSpeed>
+        <MeleeWeapon_Cooldown>0.9</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+    <isBodyPart>true</isBodyPart>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <artificialBodyPartsTags>
+      <li>Poor</li>
+    </artificialBodyPartsTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <meleeDamageDef>Blunt</meleeDamageDef>
+      </li>
+    </verbs>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Uranium</defName>
+    <label>uranium</label>
+    <description>An extremely hard, dense metal. While it is best known for its use powering nuclear reactors, its physical properties also make it excellent in some roles as a tool, weapon, or armor.</description>
+    <graphicPath>Things/Item/Resource/Uranium</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MarketValue>5</MarketValue>
+      <MeleeWeapon_SharpDamageMultiplier>1.1</MeleeWeapon_SharpDamageMultiplier>
+      <MeleeWeapon_BluntDamageMultiplier>1.4</MeleeWeapon_BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <smallVolume>true</smallVolume>
+      <color>(100,100,100)</color>
+      <constructEffect>ConstructMetal</constructEffect>
+      <soundImpactStuff>BulletImpactMetal</soundImpactStuff>
+      <statFactors>
+        <MaxHealth>2.5</MaxHealth>
+        <WorkToMake>1.9</WorkToMake>
+        <Beauty>0.4</Beauty>
+        <Flammability>0.0</Flammability>
+        <DoorOpenSpeed>0.9</DoorOpenSpeed>
+        <MeleeWeapon_Cooldown>1.35</MeleeWeapon_Cooldown>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+
+
+
+  
+  
+  <!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Cloth</defName>
+    <label>cloth</label>
+    <description>Cloth woven from organic fibers.</description>
+    <graphicPath>Things/Item/Resource/Cloth</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <defaultColor>(162,157,152)</defaultColor>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <MarketValue>1.5</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(162,157,152)</color>
+      <allowColorGenerators>true</allowColorGenerators>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+    <colorGeneratorInTraderStock Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>5</weight>
+          <only>RGBA(0.33,0.33,0.33,1)</only>
+        </li>
+        <li>
+          <weight>10</weight>
+          <min>RGBA(0.3,0.3,0.3,1)</min>
+          <max>RGBA(0.9,0.9,0.9,1)</max>
+        </li>
+        <li>
+          <weight>5</weight>
+          <only>RGBA(0.9,0.9,0.9,1)</only>
+        </li>
+      </options>
+    </colorGeneratorInTraderStock>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Synthread</defName>
+    <label>synthread</label>
+    <description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</description>
+    <graphicPath>Things/Item/Resource/Synthread</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <MaxHealth>150</MaxHealth>
+      <MarketValue>11</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(174,219,228)</color>
+      <statOffsets>
+        <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
+        <ArmorRating_Sharp>0.03</ArmorRating_Sharp>
+        <ArmorRating_Heat>0.03</ArmorRating_Heat>
+        <ArmorRating_Electric>0.03</ArmorRating_Electric>
+      </statOffsets>
+      <statFactors>
+        <ArmorRating_Blunt>1.0</ArmorRating_Blunt>
+        <ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+        <ArmorRating_Heat>4.0</ArmorRating_Heat>
+        <ArmorRating_Electric>4.0</ArmorRating_Electric>
+        <Insulation_Cold>1.25</Insulation_Cold>
+        <Insulation_Heat>1.25</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>DevilstrandCloth</defName>
+    <label>devilstrand</label>
+    <description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</description>
+    <graphicPath>Things/Item/Resource/Cloth</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <defaultColor>(180,60,60)</defaultColor>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <MarketValue>16</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(180,60,60)</color>
+      <statOffsets>
+        <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+        <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+        <ArmorRating_Heat>0</ArmorRating_Heat>
+        <ArmorRating_Electric>0.05</ArmorRating_Electric>
+      </statOffsets>
+      <statFactors>
+        <WorkToMake>1.3</WorkToMake>
+        <ArmorRating_Blunt>1.3</ArmorRating_Blunt>
+        <ArmorRating_Sharp>2.0</ArmorRating_Sharp>
+        <ArmorRating_Heat>1</ArmorRating_Heat>
+        <ArmorRating_Electric>3</ArmorRating_Electric>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Hyperweave</defName>
+    <label>hyperweave</label>
+    <description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</description>
+    <graphicPath>Things/Item/Resource/Hyperweave</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <MarketValue>45</MarketValue>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(0,106,126)</color>
+      <statOffsets>
+        <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
+        <ArmorRating_Sharp>0.03</ArmorRating_Sharp>
+        <ArmorRating_Heat>0.03</ArmorRating_Heat>
+      </statOffsets>
+      <statFactors>
+        <WorkToMake>1.8</WorkToMake>
+        <ArmorRating_Blunt>1.6</ArmorRating_Blunt>
+        <ArmorRating_Sharp>4.0</ArmorRating_Sharp>
+        <ArmorRating_Heat>2.0</ArmorRating_Heat>
+        <ArmorRating_Electric>0</ArmorRating_Electric>
+        <Insulation_Cold>1.1</Insulation_Cold>
+        <Insulation_Heat>1.1</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+
+
+  <!--=================== Plant products ===============-->
+
+  <ThingDef Abstract="True" ParentName="ResourceBase" Name="PlantProductBase">
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Food_Drop</soundInteract>
+    <soundDrop>Food_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>5</DeteriorationRate>
+    </statBases>
+    <tickerType>Rare</tickerType>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="PlantProductBase">
+    <defName>RawHops</defName>
+    <label>hops</label>
+    <description>Raw hops. Awful and not nutritious to eat, but necessary for making beer</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/Hops</graphicPath>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>25</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  
+  <!--=============== Raw foods ====================-->
+
+  <ThingDef Abstract="True" ParentName="PlantProductBase" Name="RawFoodBase">
+    <ingestible>
+      <taste>Raw</taste>
+      <nutrition>5</nutrition>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>RawVegetable_Eat</soundEat>
+    </ingestible>
+    <thingCategories>
+      <li>PlantFoodRaw</li>
+    </thingCategories>
+  </ThingDef>
+
+
+  <ThingDef ParentName="RawFoodBase">
+    <defName>RawPotatoes</defName>
+    <label>potatoes</label>
+    <description>Raw potatoes.</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/Potatoes</graphicPath>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+    </statBases>
+    <ingestible>
+      <ingestedDirectThought>AteRawFood</ingestedDirectThought>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>30</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="RawFoodBase">
+    <defName>RawCorn</defName>
+    <label>corn</label>
+    <description>Raw corn. Nice to eat, even when raw.</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/Corn</graphicPath>
+    <statBases>
+      <MarketValue>2.1</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>60</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="RawFoodBase">
+    <defName>RawRice</defName>
+    <label>rice</label>
+    <description>Raw rice.</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/Rice</graphicPath>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+    </statBases>
+    <ingestible>
+      <ingestedDirectThought>AteRawFood</ingestedDirectThought>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>40</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  <ThingDef ParentName="RawFoodBase">
+    <defName>RawBerries</defName>
+    <label>berries</label>
+    <description>Assorted berries. Nice to eat, even when raw.</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/Berries</graphicPath>
+    <statBases>
+      <MarketValue>2.1</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>14</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="RawFoodBase">
+    <defName>RawAgave</defName>
+    <label>agave fruit</label>
+    <description>Raw agave fruit.</description>
+    <graphicPath>Things/Item/Resource/PlantFoodRaw/AgaveFruit</graphicPath>
+    <statBases>
+      <MarketValue>2.1</MarketValue>
+    </statBases>
+    <ingestible>
+      <ingestedDirectThought>AteRawFood</ingestedDirectThought>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>25</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  <!--=============== Medicine ====================-->
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>HerbalMedicine</defName>
+    <eType>Medicine</eType>
+    <label>herbal medicine</label>
+    <description>A pack of herbal concoctions typically extracted from the xerigium plant. Less potent than industrial pharmaceuticals.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicPath>Things/Item/Resource/MedicineHerbal</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <MarketValue>5</MarketValue>
+      <Flammability>1.0</Flammability>
+      <MedicalPotency>0.85</MedicalPotency>
+      <DeteriorationRate>5</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Medicine</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>150</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>Medicine</defName>
+    <eType>Medicine</eType>
+    <label>medicine</label>
+    <description>Medical staff use these supplies to heal the wounded.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicPath>Things/Item/Resource/Medicine</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <MarketValue>25</MarketValue>
+      <Flammability>1.0</Flammability>
+      <MedicalPotency>1.0</MedicalPotency>
+      <DeteriorationRate>1</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Medicine</li>
+    </thingCategories>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>GlitterworldMedicine</defName>
+    <eType>Medicine</eType>
+    <label>glitterworld medicine</label>
+    <description>Advanced medical supplies from a high-tech glitterworld.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicPath>Things/Item/Resource/MedicineGlitterworld</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>100</MarketValue>
+      <Flammability>1.0</Flammability>
+      <MedicalPotency>1.8</MedicalPotency>
+    </statBases>
+    <thingCategories>
+      <li>Medicine</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Exotic</li>
+    </tradeTags>
+  </ThingDef>
+
+
+
+  <!--=============== Shells ====================-->
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>ArtilleryShell</defName>
+    <label>artillery shell</label>
+    <description>Fired from artillery cannons.</description>
+    <graphicPath>Things/Item/Resource/Shell</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <tickerType>Normal</tickerType>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MaxHealth>70</MaxHealth>
+      <MarketValue>14</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompExplosive</compClass>
+        <explosiveRadius>2.9</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
+        <startWickHealthPercent>0.333</startWickHealthPercent>
+        <wickTicks>
+          <min>10</min>
+          <max>30</max>
+        </wickTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+</Resources>

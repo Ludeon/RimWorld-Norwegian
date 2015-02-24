@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Thoughts>
+
+
+
+  <ThoughtDef>
+    <defName>LowExpectations</defName>
+    <workerClass>ThoughtWorker_ExpectationsLow</workerClass>
+    <stages>
+      <li>
+        <label>low expectations</label>
+        <description>This place is pretty poor. I can't expect much comforts when there aren't any to be had.</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+      <li>
+        <label>very low expectations</label>
+        <description>This place is poverty-stricken. I better steel myself to survive.</description>
+        <baseMoodEffect>8</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>HighExpectations</defName>
+    <workerClass>ThoughtWorker_ExpectationsHigh</workerClass>
+    <stages>
+      <li>
+        <label>high expectations</label>
+        <description>This place is doing well. I ought to be treated well here.</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+      <li>
+        <label>very high expectations</label>
+        <description>This place is downright rich. I see no reason I should be denied anything here.</description>
+        <baseMoodEffect>-8</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  
+  
+
+
+
+
+  <ThoughtDef>
+    <defName>Hungry</defName>
+    <workerClass>ThoughtWorker_Hunger</workerClass>
+    <stages>
+      <li>
+        <label>hungry</label>
+        <description>I haven't eaten in a while.</description>
+        <baseMoodEffect>-8</baseMoodEffect>
+      </li>
+        <li>
+        <label>urgently hungry</label>
+        <description>The hunger pangs are clawing my insides. I need food or I'll starve soon.</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>  
+      <li>
+        <label>starving</label>
+        <description>I just want something - anything - to eat. I can feel my body wasting away. It hurts...</description>
+        <baseMoodEffect>-25</baseMoodEffect>
+      </li>
+  </stages>
+  </ThoughtDef>
+
+  
+    
+  <ThoughtDef>
+    <defName>Tired</defName>
+    <workerClass>ThoughtWorker_Tired</workerClass>
+    <stages>
+      <li>
+        <label>tired</label>
+        <description>I haven't slept in a while.</description>
+        <baseMoodEffect>-8</baseMoodEffect>
+      </li>
+      <li>
+        <label>very tired</label>
+        <description>I'm so tired. I just want to lay down and rest for a few minutes...</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+      <li>
+        <label>exhausted</label>
+        <description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</description>
+        <baseMoodEffect>-20</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+  <ThoughtDef>
+    <defName>EnvironmentUgly</defName>
+    <workerClass>ThoughtWorker_EnvironmentUgly</workerClass>
+    <stages>
+      <li>
+        <label>ugly environment</label>
+        <description>This place is unpleasant to be in.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>very ugly environment</label>
+        <description>This place is really unpleasant. I don't want to be here.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+      <li>
+        <label>hideous environment</label>
+        <description>This place is unbearable. Get me out of here...</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  
+  <ThoughtDef>
+    <defName>EnvironmentPretty</defName>
+    <workerClass>ThoughtWorker_EnvironmentPretty</workerClass>
+    <stages>
+      <li>
+        <label>pleasant environment</label>
+        <description>This place is nice.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+       <li>
+        <label>very pleasant environment</label>
+        <description>I really like this place. It's beautiful.</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>   
+        <li>
+        <label>beautiful environment</label>
+        <description>This place is beautiful. It lifts me up and makes me love life.</description>
+        <baseMoodEffect>15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+
+  <ThoughtDef>
+    <defName>EnvironmentCramped</defName>
+    <workerClass>ThoughtWorker_EnvironmentCramped</workerClass>
+    <stages>
+      <li>
+        <label>cramped environment</label>
+        <description>This place is really closed-in. I feel like I have no space to breathe.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>very cramped environment</label>
+        <description>It's claustrophobic in here. I have nowhere to move. I feel like a rat in a tiny cage.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>  
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>EnvironmentSpaciousInterior</defName>
+    <workerClass>ThoughtWorker_EnvironmentSpaciousInterior</workerClass>
+    <stages>
+      <li>
+        <label>spacious interior</label>
+        <description>This is a really comfortably open indoor space.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+  
+  
+  <ThoughtDef>
+    <defName>EnvironmentDark</defName>
+    <workerClass>ThoughtWorker_EnvironmentDark</workerClass>
+    <stages>
+      <li>
+        <label>in darkness</label>
+        <description>I've been in the dark for a while. I don't like it.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>CabinFever</defName>
+    <workerClass>ThoughtWorker_CabinFever</workerClass>
+    <stages>
+      <li>
+        <label>cabin fever (mild)</label>
+        <description>I've been cooped up inside for days. I need to get outside.</description>
+        <baseMoodEffect>-7</baseMoodEffect>
+      </li>
+       <li>
+        <label>cabin fever (serious)</label>
+        <description>I've been trapped like a rat in here for so long. I desperately need to get outside!</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>   
+    </stages>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>ApparelDamaged</defName>
+    <workerClass>ThoughtWorker_ApparelDamaged</workerClass>
+    <stages>
+      <li>
+        <label>wearing frayed apparel</label>
+        <description>My clothes are looking pretty bad. Can't I get something decent to wear?</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+      <li>
+        <label>wearing tattered apparel</label>
+        <description>I'm wearing a tattered piece of trash. Can't I get something decent to wear?</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+
+  <ThoughtDef>
+    <defName>Sick</defName>
+    <workerClass>ThoughtWorker_Sick</workerClass>
+    <stages>
+      <li>
+        <label>sick</label>
+        <description>I don't feel very well, I'm sick.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+  <ThoughtDef>
+    <defName>EnvironmentCold</defName>
+    <workerClass>ThoughtWorker_EnvironmentCold</workerClass>
+    <stages>
+      <li>
+        <label>cold</label>
+        <description>I'm uncomfortably cold.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+       <li>
+        <label>very cold</label>
+        <description>I'm so cold. Shivering. Can't get warm.</description>
+        <baseMoodEffect>-8</baseMoodEffect>
+      </li>   
+        <li>
+        <label>freezing</label>
+        <description>My teeth are chatting so hard I can barely speak. My toes are numb. I need to get warm.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>EnvironmentHot</defName>
+    <workerClass>ThoughtWorker_EnvironmentHot</workerClass>
+    <stages>
+      <li>
+        <label>hot</label>
+        <description>This heat is unpleasant. I'm sweating.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>very hot</label>
+        <description>I'm really overheated.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>    
+        <li>
+        <label>extremely hot</label>
+        <description>I feel like I'm in an oven! I'm not sure how long I can handle this.</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+      <li>
+        <label>burning up</label>
+        <description>I'm burning up. I think I could die from this heat!</description>
+        <baseMoodEffect>-20</baseMoodEffect>
+      </li>     
+    </stages>
+  </ThoughtDef>
+
+
+</Thoughts>

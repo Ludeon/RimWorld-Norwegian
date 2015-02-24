@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+  <ThingDef Name="MealBase" Abstract="True">
+    <eType>Item</eType>
+    <label>meal</label>
+    <thingClass>Meal</thingClass>
+    <category>Item</category>
+    <useStandardHealth>true</useStandardHealth>
+    <selectable>true</selectable>
+    <statBases>
+      <MaxHealth>50</MaxHealth>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <tickerType>Rare</tickerType>
+    <description>"Meal lacks desc."</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <thingCategories>
+      <li>FoodMeals</li>
+    </thingCategories>
+    <alwaysHaulable>true</alwaysHaulable>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+    </comps>
+    <pathCost>15</pathCost>
+    <resourceReadoutPriority>Last</resourceReadoutPriority>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <ingestible>
+      <maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="MealBase" Name="MealRottable" Abstract="True">
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <compClass>CompRottable</compClass>
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+  
+  
+  
+  
+  
+
+  <ThingDef ParentName="MealBase">
+    <defName>MealSurvivalPack</defName>
+    <label>packaged survival meal</label>
+    <description>A high-quality packaged meal, manufactured for use in survival situations.</description>
+    <graphicPath>Things/Item/Meal/SurvivalPack</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <DeteriorationRate>0.25</DeteriorationRate>
+      <MarketValue>30</MarketValue>
+    </statBases>
+    <ingestible>
+      <taste>Fine</taste>
+      <nutrition>90</nutrition>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>Meal_Eat</soundEat>
+    </ingestible>
+  </ThingDef>
+
+  
+  <ThingDef ParentName="MealRottable">
+    <defName>MealNutrientPaste</defName>
+    <label>nutrient paste meal</label>
+    <description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</description>
+    <graphicPath>Things/Item/Meal/NutrientPaste</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>15</MarketValue>
+    </statBases>
+    <ingestible>
+      <taste>Awful</taste>
+      <nutrition>90</nutrition>
+      <ingestedDirectThought>AteNutrientPasteMeal</ingestedDirectThought>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>Meal_Eat</soundEat>
+    </ingestible>
+  </ThingDef>
+
+
+  <ThingDef ParentName="MealRottable">
+    <defName>MealSimple</defName>
+    <label>simple meal</label>
+    <description>A simple meal quickly cooked from a few ingredients.</description>
+    <graphicPath>Things/Item/Meal/Simple</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>25</MarketValue>
+      <WorkToMake>300</WorkToMake>
+    </statBases>
+    <ingestible>
+      <taste>Simple</taste>
+      <nutrition>85</nutrition>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>Meal_Eat</soundEat>
+    </ingestible>
+  </ThingDef>
+
+
+  <ThingDef ParentName="MealRottable">
+    <defName>MealFine</defName>
+    <label>fine meal</label>
+    <description>A complex dish assembled with care from a wide selection of ingredients.</description>
+    <graphicPath>Things/Item/Meal/Fine</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>28</MarketValue>
+      <WorkToMake>450</WorkToMake>
+    </statBases>
+    <ingestible>
+      <taste>Fine</taste>
+      <nutrition>90</nutrition>
+      <ingestedDirectThought>AteFineMeal</ingestedDirectThought>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>Meal_Eat</soundEat>
+    </ingestible>
+  </ThingDef>
+
+
+  <ThingDef ParentName="MealRottable">
+    <defName>MealLavish</defName>
+    <label>lavish meal</label>
+    <description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</description>
+    <graphicPath>Things/Item/Meal/Lavish</graphicPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>40</MarketValue>
+      <WorkToMake>800</WorkToMake>
+    </statBases>
+    <ingestible>
+      <taste>Lavish</taste>
+      <nutrition>100</nutrition>
+      <ingestedDirectThought>AteLavishMeal</ingestedDirectThought>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>Meal_Eat</soundEat>
+    </ingestible>
+  </ThingDef>
+
+
+
+</ThingDefs>

@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Plants>
+
+
+  <ThingDef Name="PlantBase" Abstract="True">
+    <eType>Plant</eType>
+    <category>Plant</category>
+    <thingClass>Plant</thingClass>
+    <altitudeLayer>LowPlant</altitudeLayer>
+    <useStandardHealth>True</useStandardHealth>
+    <statBases>
+      <Flammability>0.8</Flammability>
+    </statBases>
+    <tickerType>Rare</tickerType>
+    <selectable>False</selectable>
+    <neverMultiSelect>True</neverMultiSelect>
+    <drawerType>MapMeshOnly</drawerType>
+    <shaderType>CutoutPlant</shaderType>
+    <plant>
+      <harvestDestroys>true</harvestDestroys>
+      <soundHarvesting>Harvest_Standard</soundHarvesting>
+      <soundHarvestFinish>Harvest_Standard_Finish</soundHarvestFinish>
+      <sowWork>150</sowWork>
+      <fertilityMin>0.5</fertilityMin>
+      <fertilityFactorGrowthRate>1.0</fertilityFactorGrowthRate>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.48</growthPer20kTicks>
+      <growMinGlow>Overlit</growMinGlow>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.00</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+
+
+
+
+  <!--=========================== Crops ==============================-->
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantPotato</defName>
+    <label>potato plant</label>
+    <description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/PotatoPlant</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>RawPotatoes</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>2</min>
+        <max>4</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.42</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>0.4</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantCorn</defName>
+    <label>corn plant</label>
+    <description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</description>
+    <statBases>
+      <MaxHealth>150</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/CornPlant</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>12</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>80</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>RawCorn</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>4</min>
+        <max>9</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+      </sowTags>
+      <topWindExposure>0.35</topWindExposure>
+      <growthPer20kTicks>0.19</growthPer20kTicks>
+      <lifespanDays>60</lifespanDays>
+      <fertilityFactorGrowthRate>1.0</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.4</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantRice</defName>
+    <label>rice plant</label>
+    <description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/RicePlant</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <maxMeshCount>4</maxMeshCount>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>RawRice</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>2</min>
+        <max>3</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.53</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>1.0</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>0.8</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantStrawberry</defName>
+    <label>strawberry plant</label>
+    <description>A fragile but tasty fruit. Delicious even when raw.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/StrawberryPlant</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>RawBerries</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>2</min>
+        <max>3</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.49</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>0.6</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+  
+  
+  
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantCotton</defName>
+    <label>cotton plant</label>
+    <description>Yields cotton, a fine plant fiber used to make cloth.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/CottonPlant</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>Cloth</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>1</min>
+        <max>2.5</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.48</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>0.4</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantDevilstrand</defName>
+    <label>devilstrand</label>
+    <description>This fragile mushroom was genetically engineered to produce a silk net of the highest grade. Long rumored to have mystical properties, it owes its name to the greed it inspires in people.</description>
+    <statBases>
+      <MaxHealth>100</MaxHealth>
+      <Beauty>-1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Devilstrand</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>5</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>DevilstrandCloth</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>1</min>
+        <max>3</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.02222</growthPer20kTicks>
+      <lifespanDays>250</lifespanDays>
+      <fertilityFactorGrowthRate>0.4</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.0</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantXerigium</defName>
+    <label>xerigium</label>
+    <description>This plant was selectively bred for centuries by settlers. It is sometimes also called &quot;healer's hand&quot; by tribespeople - a nickname it owes to its five major medicinal virtues.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Xerigium</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>20</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>HerbalMedicine</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>1</min>
+        <max>1</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.10</growthPer20kTicks>
+      <lifespanDays>150</lifespanDays>
+      <fertilityFactorGrowthRate>0.4</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.0</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantHops</defName>
+    <label>hop plant</label>
+    <description>A flowering plant that yields hops, and essential ingredient in beer.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>1</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/HopsPlant</graphicPath>
+    <graphicClass>Graphic_Random</graphicClass>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>40</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>RawHops</harvestedThingDef>
+      <harvestDestroys>true</harvestDestroys>
+      <harvestYieldRange>
+        <min>2</min>
+        <max>4</max>
+      </harvestYieldRange>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>0.48</growthPer20kTicks>
+      <lifespanDays>30</lifespanDays>
+      <fertilityFactorGrowthRate>0.4</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+
+
+  <!--=========================== Decorative ==============================-->
+
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantRose</defName>
+    <label>rose</label>
+    <description>A beautiful cultivated flower, symbolic of love and romance since ancient times.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>14</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Rose</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>20</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestDestroys>True</harvestDestroys>
+      <sowWork>400</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>Lit</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>1.0</growthPer20kTicks>
+      <lifespanDays>7</lifespanDays>
+      <fertilityFactorGrowthRate>1.0</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+
+
+
+
+  <ThingDef ParentName="PlantBase">
+    <defName>PlantDaylily</defName>
+    <label>daylily</label>
+    <description>A beautiful cultivated flower - great for brightening up a drab yard. Must be replanted often.</description>
+    <statBases>
+      <MaxHealth>85</MaxHealth>
+      <Beauty>24</Beauty>
+    </statBases>
+    <graphicPath>Things/Plant/Daylily</graphicPath><graphicClass>Graphic_Random</graphicClass>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <sunShadowInfo>
+      <baseWidth>0.3</baseWidth>
+      <baseHeight>0.3</baseHeight>
+      <tallness>0.3</tallness>
+    </sunShadowInfo>
+    <ingestible>
+      <taste>Plant</taste>
+      <nutrition>20</nutrition>
+    </ingestible>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <shootsSeeds>false</shootsSeeds>
+      <harvestTag>Standard</harvestTag>
+      <harvestDestroys>true</harvestDestroys>
+      <sowWork>400</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>Lit</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growthPer20kTicks>1.0</growthPer20kTicks>
+      <lifespanDays>3</lifespanDays>
+      <fertilityFactorGrowthRate>1</fertilityFactorGrowthRate>
+      <visualSizeRange>
+        <min>0.3</min>
+        <max>1.05</max>
+      </visualSizeRange>
+    </plant>
+  </ThingDef>
+
+
+
+</Plants>

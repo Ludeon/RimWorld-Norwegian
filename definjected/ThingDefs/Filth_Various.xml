@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+
+  <ThingDef Name="BaseFilth" Abstract="True">
+    <label>unspecified filth</label>
+    <thingClass>Filth</thingClass>
+    <eType>Filth</eType>
+    <category>Filth</category>
+    <altitudeLayer>Filth</altitudeLayer>
+    <useStandardHealth>false</useStandardHealth>
+    <drawerType>MapMeshOnly</drawerType>
+    <shaderType>Transparent</shaderType>
+    <graphicClass>Graphic_Random</graphicClass>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthBlood</defName>
+    <label>blood</label>
+    <statBases>
+      <Beauty>-20</Beauty>
+    </statBases>
+    <graphicPath>Things/Filth/Blood</graphicPath>
+    <filth>
+      <cleaningWorkToReduceThickness>150</cleaningWorkToReduceThickness>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthSlime</defName>
+    <label>slime</label>
+    <statBases>
+      <Beauty>-20</Beauty>
+    </statBases>
+    <graphicPath>Things/Filth/Slime</graphicPath>
+    <filth>
+      <cleaningWorkToReduceThickness>150</cleaningWorkToReduceThickness>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthVomit</defName>
+    <label>vomit</label>
+    <statBases>
+      <Beauty>-40</Beauty>
+    </statBases>
+    <graphicPath>Things/Filth/Vomit</graphicPath>
+    <filth>
+      <cleaningWorkToReduceThickness>150</cleaningWorkToReduceThickness>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthDirt</defName>
+    <label>dirt</label>
+    <graphicPath>Things/Filth/Dirt</graphicPath>
+    <statBases>
+      <Beauty>-15</Beauty>
+    </statBases>
+    <filth>
+      <cleaningWorkToReduceThickness>75</cleaningWorkToReduceThickness>
+      <terrainSourced>true</terrainSourced>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>FilthSand</defName>
+    <label>sand</label>
+    <graphicPath>Things/Filth/Sand</graphicPath>
+    <statBases>
+      <Beauty>-15</Beauty>
+    </statBases>
+    <filth>
+      <cleaningWorkToReduceThickness>75</cleaningWorkToReduceThickness>
+      <terrainSourced>true</terrainSourced>
+      <canFilthAttach>true</canFilthAttach>
+    </filth>
+
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>RockRubble</defName>
+    <label>rock rubble</label>
+    <graphicPath>Things/Filth/RubbleRock</graphicPath>
+    <statBases>
+      <Beauty>-15</Beauty>
+    </statBases>
+    <filth>
+      <cleaningWorkToReduceThickness>75</cleaningWorkToReduceThickness>
+    </filth>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <defName>BuildingRubble</defName>
+    <label>building rubble</label>
+    <graphicPath>Things/Filth/RubbleBuilding</graphicPath>
+    <statBases>
+      <Beauty>-15</Beauty>
+    </statBases>
+    <filth>
+      <cleaningWorkToReduceThickness>75</cleaningWorkToReduceThickness>
+    </filth>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseFilth">
+    <label>scattered sandbags</label>
+    <defName>SandbagRubble</defName>
+    <graphicPath>Things/Filth/RubbleSandbags</graphicPath>
+    <statBases>
+      <Beauty>-15</Beauty>
+    </statBases>
+    <filth>
+      <cleaningWorkToReduceThickness>75</cleaningWorkToReduceThickness>
+    </filth>
+  </ThingDef>
+
+</ThingDefs>

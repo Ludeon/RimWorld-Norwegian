@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HediffDef Name="DiseaseBase" Abstract="True">
+    <hediffClass>Hediff_Staged</hediffClass>
+    <naturallyHealed>false</naturallyHealed>
+    <defaultLabelColor>(0.8, 0.8, 0.35)</defaultLabelColor>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>BadBack</defName>
+    <label>bad back</label>
+    <workerClass>HediffWorker_BadBack</workerClass>
+    <randomlyAppliedByAge>true</randomlyAppliedByAge>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Moving</activity>
+                <offset>-0.30</offset>
+              </li>
+              <li>
+                <activity>Manipulation</activity>
+                <offset>-0.10</offset>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Frail</defName>
+    <label>frail</label>
+    <workerClass>HediffWorker_Frail</workerClass>
+    <randomlyAppliedByAge>true</randomlyAppliedByAge>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Moving</activity>
+                <offset>-0.30</offset>
+              </li>
+              <li>
+                <activity>Manipulation</activity>
+                <offset>-0.30</offset>
+              </li>      
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+  
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Cataract</defName>
+    <label>cataract</label>
+    <workerClass>HediffWorker_Cataract</workerClass>
+    <randomlyAppliedByAge>true</randomlyAppliedByAge>
+    <stagedProps>
+      <treatable>false</treatable>
+      <severityStages>
+        <li>
+          <modifiers>
+            <actMods>
+              <li>
+                <activity>Sight</activity>
+                <offset>-0.35</offset>
+              </li>
+            </actMods>
+          </modifiers>
+        </li>
+      </severityStages>
+    </stagedProps>
+  </HediffDef>
+  
+</Defs>

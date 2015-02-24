@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PawnKindDefs>
+
+
+
+
+  <PawnKindDef>
+    <defName>SpaceRefugee</defName>
+    <label>space refugee</label>
+    <race>Human</race>
+    <pointsCost>25</pointsCost>
+    <baseRecruitDifficulty>30</baseRecruitDifficulty>
+    <backstoryCategory>Civil</backstoryCategory>
+    <defaultFactionType>Spacer</defaultFactionType>
+    <backstoryCryptosleepCommonality>1</backstoryCryptosleepCommonality>
+    <forceNormalGearQuality>true</forceNormalGearQuality>
+    <isFighter>false</isFighter>
+    <startHealthPercentRange>
+      <min>0.55</min>
+      <max>0.80</max>
+    </startHealthPercentRange>
+    <gearHealthRange>
+      <min>0.4</min>
+      <max>1.4</max>
+    </gearHealthRange>
+    <apparelMoney>
+      <min>0</min>
+      <max>3000</max>
+    </apparelMoney>
+    <apparelTags>
+      <li>Spacer</li>
+    </apparelTags>
+    <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+    <apparelAllowHeadwearChance>0.5</apparelAllowHeadwearChance>
+  </PawnKindDef>
+
+  <PawnKindDef>
+    <defName>SpaceSoldier</defName>
+    <label>space soldier</label>
+    <race>Human</race>
+    <pointsCost>100</pointsCost>
+    <baseRecruitDifficulty>30</baseRecruitDifficulty>
+    <backstoryCategory>Civil</backstoryCategory>
+    <defaultFactionType>SpacerHostile</defaultFactionType>
+    <backstoryCryptosleepCommonality>1</backstoryCryptosleepCommonality>
+    <maxGenerationAge>58</maxGenerationAge>
+    <startHealthPercentRange>
+      <min>0.8</min>
+      <max>1.0</max>
+    </startHealthPercentRange>
+    <itemQuality>Good</itemQuality>
+    <apparelMoney>
+      <min>0</min>
+      <max>4000</max>
+    </apparelMoney>
+    <apparelTags>
+      <li>Spacer</li>
+    </apparelTags>
+    <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+    <apparelAllowHeadwearChance>0.5</apparelAllowHeadwearChance>
+    <weaponMoney>
+      <min>300</min>
+      <max>900</max>
+    </weaponMoney>
+    <weaponTags>
+      <li>Gun</li>
+    </weaponTags>
+    <artificialBodyPartsMoney>
+      <min>1000</min>
+      <max>5000</max>
+    </artificialBodyPartsMoney>
+    <artificialBodyPartsTags>
+      <li>Advanced</li>
+    </artificialBodyPartsTags>
+    <artificialBodyPartsChance>0.3</artificialBodyPartsChance>
+  </PawnKindDef>
+
+
+
+</PawnKindDefs>

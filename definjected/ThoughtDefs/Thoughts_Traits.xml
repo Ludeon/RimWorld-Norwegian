@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <ThoughtDef>
+    <defName>MoodOffsetSanguine</defName>
+    <stages>
+      <li>
+        <label>sanguine</label>
+        <description>Natural bonus from Sanguine trait.</description>
+        <baseMoodEffect>14</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>MoodOffsetOptimist</defName>
+    <stages>
+      <li>
+        <label>optimist</label>
+        <description>Natural bonus from Optimist trait.</description>
+        <baseMoodEffect>7</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>MoodOffsetPessimist</defName>
+    <stages>
+      <li>
+        <label>pessimist</label>
+        <description>Natural bonus from Pessimist trait.</description>
+        <baseMoodEffect>-7</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>MoodOffsetDepressive</defName>
+    <stages>
+      <li>
+        <label>depressive</label>
+        <description>Natural handicap from Depressive trait.</description>
+        <baseMoodEffect>-14</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+</Defs>

@@ -2,30 +2,30 @@
 <LanguageData>
 
   <!-- Various -->
-  <WorkLeft>Arbeid gjenstår</WorkLeft>
+  <WorkLeft>Arbeid som gjenstår</WorkLeft>
   <Contents>Innhold</Contents>
-  <ContainedResources>Inneholdt ressurser</ContainedResources>
+  <ContainedResources>Innholdende ressurser</ContainedResources>
   <ForPrisonerUse>Til bruk av fanger</ForPrisonerUse>
   <ForColonistUse>Til bruk av kolonister</ForColonistUse>
-  <MedicalBed>Medisink</MedicalBed>
+  <MedicalBed>Sykeseng</MedicalBed>
   <Owner>Eier</Owner>
   <Nobody>Ingen</Nobody>
   <Unowned>Ingen eier</Unowned>
   <DeadTime>Død {0}</DeadTime>
   <WalkSpeed>Gange {0}</WalkSpeed>
-  <DyingLower>døende</DyingLower>
+  <DyingLower>Døende</DyingLower>
   <FilthOnFeet>Møkk på føttene:</FilthOnFeet>
   <NotEnoughStoredLower>ikke nok lagret</NotEnoughStoredLower>
   <NothingLower>ingenting</NothingLower>
   <Adapted>Tilnærmet</Adapted>
   <Headshot>Blinkskudd</Headshot>
-  <FreshMissingBodyPart>ferskt</FreshMissingBodyPart>
-  <UntreatedLower>ubehandlet</UntreatedLower>
-  <DevelopedImmunityLower>utviklet immunforsvar</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>behøver behandling for å helbrede</InjuryRequiresTreatment>
-  <NextTreatmentAfter>neste behandling om {0} dager</NextTreatmentAfter>
-  <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>utvikling av immunforsvar</ImmunityDevelopmentProgress>
+  <FreshMissingBodyPart>Ferskt</FreshMissingBodyPart>
+  <UntreatedLower>Ubehandlet</UntreatedLower>
+  <DevelopedImmunityLower>Utviklet immunforsvar</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>Behøver behandling for å helbredes</InjuryRequiresTreatment>
+  <NextTreatmentAfter>Neste behandling om {0} dager</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>Ingen {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>Utvikling av immunforsvar</ImmunityDevelopmentProgress>
 
   <!-- Turrets -->
   <GunInstalled>Installert</GunInstalled>
@@ -40,21 +40,21 @@
   <ReportResting>Hviler.</ReportResting>
   
 	<!-- Shooting report -->
-  <WeaponMissRadius>Skudd treffsikkerhet</WeaponMissRadius>
+  <WeaponMissRadius>Treffsikkerhet</WeaponMissRadius>
 	<ShootReportShooterAbility>Skytter</ShootReportShooterAbility>
 	<ShootReportWeapon>Våpen</ShootReportWeapon>
-	<Darkness>Mørket</Darkness>
+	<Darkness>Mørke</Darkness>
 	<TargetProne>Mål utsatt</TargetProne>
-	<TargetSize>Mål størrelse</TargetSize>
+	<TargetSize>Målstørrelse</TargetSize>
 	<Weather>Vær</Weather>
 	<ShootingCover>Dekning</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stopper {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>ingen dekning</NoCoverLower>
+	<NoCoverLower>Ingen dekning</NoCoverLower>
 	
 	
 	<!-- Status levels -->
   <Mood>Humør</Mood>
-  <MoodTip>Mood er opprettholdt ved å fylle fysiske og psykiske behov.\n\nOm noens humør blir for lavt, kan de lide av et mentalt anfall.</MoodTip>
+  <MoodTip>Humør er opprettholdt ved å fylle fysiske og psykiske behov.\n\nOm noens humør blir for lavt, kan de lide av et anfall.</MoodTip>
   <Food>Mat</Food>
   <FoodTip>Mat er mengden næring en skapning har forbrukt nylig. Om dette er på null, vil en skapning ta fysisk skade av sult.</FoodTip>
   <Rest>Hvile</Rest>
@@ -83,10 +83,10 @@
   <Incapacitated>Skadet</Incapacitated>
   <InRestraints>I håndjern (sakket)</InRestraints>
   <Carrying>Bærer</Carrying>
-  <SanityDazedWander>Knust: Fortumlet og vandrer</SanityDazedWander>
-  <SanityGiveUpExit>Knust: Gitt opp og drar</SanityGiveUpExit>
+  <SanityDazedWander>Knust: Er fortumlet og vandrer</SanityDazedWander>
+  <SanityGiveUpExit>Knust: Har gitt opp og forlater</SanityGiveUpExit>
   <SanityPanicFlee>Knust: Rømmer i panikk</SanityPanicFlee>
-  <SanityPsychotic>Knust: Psychotisk herjing</SanityPsychotic>
+  <SanityPsychotic>Knust: Psykotisk herjing</SanityPsychotic>
   
   <!-- Body and activities condition -->
   <None>Ingen</None>
@@ -131,13 +131,13 @@
 	<PlantVerb>Plante</PlantVerb>
 	<RecruitmentDifficulty>Vanskelighet for å rekruttere</RecruitmentDifficulty>
 	<PrisonerGetsFood>Får mat</PrisonerGetsFood>
-	<DoctorsCare>Medisinsk hjelp</DoctorsCare>
+	<DoctorsCare>Sykepleie</DoctorsCare>
 	<PrisonerGetsMedicine>Får medisin</PrisonerGetsMedicine>
 	<ShouldTryToRecruit>Prøv å rekruttere</ShouldTryToRecruit>
 	<PrisonerNoInteraction>Ingen samhandling</PrisonerNoInteraction>
 	<PrisonerFriendlyChat>Vennlig snakk</PrisonerFriendlyChat>
 	<PrisonerMildBeating>Mild banking</PrisonerMildBeating>
-	<PrisonerViciousBeating>Grusom banking</PrisonerViciousBeating>
+	<PrisonerViciousBeating>Grusom mørbanking</PrisonerViciousBeating>
 	<PrisonerExecution>Henrettelse</PrisonerExecution>
 	<Equipment>Utstyr</Equipment>
 	<Apparel>Klede</Apparel>
@@ -145,8 +145,8 @@
 	<ThingInfo>Informasjon</ThingInfo>
 	<DropThing>Slipp</DropThing>
 	<TotalModifiers>Samlet egenskaper</TotalModifiers>
-	<DamageAbsorption>Skade absorbering</DamageAbsorption>
-	<DamageDeflection>Skade deflektering</DamageDeflection>
+	<DamageAbsorption>Skadeabsorbering</DamageAbsorption>
+	<DamageDeflection>Skadedeflektering</DamageDeflection>
 	<MoveSpeed>Bevegelses hastighet</MoveSpeed>
 	<Efficiency>Effektivitet</Efficiency>
 	<MissingBodyPart>Borte</MissingBodyPart>
@@ -157,7 +157,7 @@
 	<InPain>I smerte</InPain>
 	<PainLevel>Smerte</PainLevel>
 	<Dead>Død</Dead>
-	<Unconscious>Bevistløs</Unconscious>
+	<Unconscious>Bevisstløs</Unconscious>
 	<PainShock>I sjokk</PainShock>
 	<Injured>Skadet</Injured>
 	<NoInjuries>(ingen skader)</NoInjuries>
@@ -189,7 +189,7 @@
 	<!--Rotting-->
 	<RotStateFresh>Ferskt</RotStateFresh>
 	<RotStateRotting>Råtner</RotStateRotting>
-	<RotStateDessicated>Inntørket</RotStateDessicated>
+	<RotStateDessicated>Fordervet</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
   <ShotBy>Skutt av {0}</ShotBy>
@@ -211,10 +211,10 @@
   <PercentGrowth>{0}% Vekst</PercentGrowth>
   <Growing>Vokser</Growing>
   <NotGrowingNow>Gror ikke nå (Må være {0}).</NotGrowingNow>
-  <NotGrowingNowNight>Gror ikke nå (natt tid).</NotGrowingNowNight>
+  <NotGrowingNowNight>Gror ikke nå (nattetid).</NotGrowingNowNight>
   <FullyGrownIn>Fullt moden om {0} vekst.</FullyGrownIn>
   <ReadyToHarvest>Klar til å høstes.</ReadyToHarvest>
-  <Mature>Mature.</Mature>
+  <Mature>Moden.</Mature>
   <SeedLabel>{0} frø</SeedLabel>
   
   <!-- Zones -->

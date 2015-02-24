@@ -7,10 +7,10 @@
 
 
   <AlertNeedStockpile>Trenger lager</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Kolonistene dine trenger et sted å lagre ting. Angi et VAREHUS hvor de kan lagre ting.\n\nFinn VAREHUS in OMRÅDER seksjonen av ARKITEKT menyen nederst til venstre. #HER.</AlertNeedStockpileDesc>
+  <AlertNeedStockpileDesc>Kolonistene dine trenger et sted å lagre ting. Angi et LAGER hvor de kan lagre ting.\n\nDu kan lage et LAGER til kolonistene dine ved å gå til OMRÅDER i ARKITEKT menyen nederst til venstre.</AlertNeedStockpileDesc>
 
-  <AlertUnforbidStartingResources>Unforbid resources</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Starting resources on the map are FORBIDDEN.\n\nFor colonists to take them, you must UNFORBID them by selecting them and hitting the UNFORBID command at the bottom of the screen.</AlertUnforbidStartingResourcesDesc>
+  <AlertUnforbidStartingResources>Uforby ressurser</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Ved start er alle ressursene på banen FORBUDTE.\n\nFor at kolonistene dine skal kunne bruke dem, må du UFORBY dem ved å velge dem og trykke på knappen nederst på skjermen..</AlertUnforbidStartingResourcesDesc>
 
   <AlertEquipStartingWeapons>Utrust våpen</AlertEquipStartingWeapons>
   <AlertEquipStartingWeaponsDesc>Kolonistene dine landet med våpen, utrust dem!\n\nVelg hver kolonist og høyre-klikk på våpenet du vil at de skal utrustes med.</AlertEquipStartingWeaponsDesc>
@@ -65,7 +65,7 @@
   <NeedFoodHopperDesc>Du har en nutrient dispenser uten en matrakter ved siden.\n\nFor å fungere, må en nutrient paste dispenser ta fra en trakt fylt med rå matingredienser.\n\nBygg en trakt inntil dispenseren.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Bygning trenger strøm</BuildingNeedsPower>
-  <BuildingsNeedPower>Bygninger trnger strøm</BuildingsNeedPower>
+  <BuildingsNeedPower>Bygninger trenger strøm</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>Disse strømforbrukende bygningene er helt frakoblet fra alle strømkilder:\n\n{0}\nKoble dem til en strøm generator eller et batteri.</BuildingsNeedPowerDesc>
   <AndMore>og mer</AndMore>
 
@@ -91,13 +91,13 @@
   <NeedGraveDesc>Det er et dødt lik liggende på bakken og det er ingen steder hvor kolonistene kan legge det.\n\nBygg en gravplass eller søppeldynge og angi lagrings instillingene.</NeedGraveDesc>
 
   <ColonistsIdle>{0} kolonister somler</ColonistsIdle>
-  <ColonistsIdleDesc>Disse kolonistene vandrer bare somler:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Disse kolonistene bare somler rundt:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
 
   <HaltedConstructions>{0} konstruksjoner mangler materiale.</HaltedConstructions>
   <HaltedConstructionsDesc>Disse konstruksjonene mangler materiale:\n\n{0}\nDu burde kanskje gjøre materiale som trengs tilgjengelige for kolonistene dine.</HaltedConstructionsDesc>
 
   <TableNeedsChairs>Bord trenger stoler</TableNeedsChairs>
-  <TableNeedsChairsDesc>Du har et bord uten stoler ved siden av det. Bord er ubrukelige hvis ikke folk kan sette seg ved dem.</TableNeedsChairsDesc>
+  <TableNeedsChairsDesc>Du har et bord uten stoler rundt seg. Bord er ubrukelige hvis ikke folk kan sette seg ved dem.</TableNeedsChairsDesc>
 
   <ColonistNeedsTreatment>Kolonist trenger behandling</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Derett velger du den skadde kolonisten og høyre-klikk på sykesengen for å gjøre dem om til en pasient.)</ColonistNeedsTreatmentDesc>
