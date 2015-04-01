@@ -3,7 +3,7 @@
 
   <!--=========== Main menu ==========-->
   <CreateWorld>Skap ny verden</CreateWorld>
-  <NewColony>Lag ny koloni</NewColony>
+  <NewColony>Start ny koloni</NewColony>
   <BackToGame>Tilbake til spillet</BackToGame>
   <Save>Lagre</Save>
   <Load>Last inn koloni</Load>
@@ -12,12 +12,12 @@
   <Credits>Medvirkende</Credits>
   <QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
   <QuitToOS>Avslutt til skrivebord</QuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
+  <FictionPrimer>Fiksjonsbeskrivelse</FictionPrimer>
   <LudeonBlog>Ludeon blogg</LudeonBlog>
-  <Forums>Forumet</Forums>
+  <Forums>Forum</Forums>
   <OfficialWiki>Offisiell wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design bok</TynansDesignBook>
+  <TynansDesignBook>Tynan's designbok</TynansDesignBook>
   <HelpTranslate>Hjelp med å oversette RimWorld</HelpTranslate>
 
   <!--=========== Create/review world ================-->
@@ -45,23 +45,23 @@
   <GenerateWorld>Generer verden</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Skaff modifikasjoner</GetMods>
+  <GetMods>Hent modifikasjoner</GetMods>
   <OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere core modifikasjonen? Spillet vil ikke fungere i det hele tatt hvis ikke du har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i core modifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemodifikasjonen? Spillet vil ikke fungere i det hele tatt hvis du ikke har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i kjernemodifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
   <Author>Forfatter</Author>
 
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
-  <HowStorytellersWork>AI historiefortelleren skaper hendelser som pirat plyndringer, ressurs forsyninger, eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
-  <MustChooseChallengeScale>Vennlight velg en utfordrings skala.</MustChooseChallengeScale>
-  <ChallengeScale>Utfordrings skala</ChallengeScale>
-  <ChallengeScaleTip>Når historiefortelleren sender trussler etter deg, vil de være {0} så store som i Utfordrende modus.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Sandkasse modus</ChallengeScale_BuilderMode>
+  <HowStorytellersWork>AI historiefortelleren skaper hendelser som piratplyndringer, ressursforsyninger eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
+  <MustChooseChallengeScale>Vennlight velg utfordringenes vanskelighetsgrad.</MustChooseChallengeScale>
+  <ChallengeScale>Vanskelighetsgrad</ChallengeScale>
+  <ChallengeScaleTip>Når historiefortelleren sender trusler etter deg, vil de være {0} så store som i Utfordrende vanskelighetsgrad.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Sandkasse</ChallengeScale_BuilderMode>
   <ChallengeScale_Casual>Vanlig</ChallengeScale_Casual>
   <ChallengeScale_Rough>Vanskelig</ChallengeScale_Rough>
   <ChallengeScale_Challenge>Utfordrende</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Seriøst utfordrende</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_SeriousChallegne>Veldig utfordrende</ChallengeScale_SeriousChallegne>
   <ChallengeScale_ExtremeChallenge>Ekstremt utfordrende</ChallengeScale_ExtremeChallenge>
 
 
@@ -86,7 +86,7 @@
   <WorldRenderModeFertility>Fruktbarhet</WorldRenderModeFertility>
   <WorldRenderModeRainfall>Nedbør</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Biomer</WorldRenderModeBiomes>
-  <BiomeNotImplemented>biome ikke implementert</BiomeNotImplemented>
+  <BiomeNotImplemented>Biome ikke implementert</BiomeNotImplemented>
   <BaseAlreadyThere>{0} har allerede en base her.</BaseAlreadyThere>
   <Biome>Biome</Biome>
   <Terrain>Terreng</Terrain>
@@ -107,7 +107,7 @@
   <ShortIdentifierDesc>Karakterens forkortede identifikator.\n\nDette blir vist i de fleste sammenhenger. Det kan være fornavnet og etternavnet, eller et helt separat kallenavn.</ShortIdentifierDesc>
   <LastNameDesc>Karakterens etternavn.\n\nDette blir bare vist i visse vinduer.</LastNameDesc>
   <Randomize>Tilfeldig</Randomize>
-  <AgeIndicator>alder {0}</AgeIndicator>
+  <AgeIndicator>Alder {0}</AgeIndicator>
   <Backstory>Bakgrunn</Backstory>
   <IncapableOf>Ute av stand til</IncapableOf>
   <Traits>Trekk</Traits>
