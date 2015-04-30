@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MakeStoneBlocks.label>lag murstein</MakeStoneBlocks.label>
+    <MakeStoneBlocks.description>Hugger stenklumper til brukbare murstein.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Hugger stein.</MakeStoneBlocks.jobString>
+    
+    <ExtractMetalFromSlag.label>smelt metall fra slag</ExtractMetalFromSlag.label>
+    <ExtractMetalFromSlag.description>Bruk varme og sterk elektromagnetuisme til å separere brukbart metall fra klumper av slag.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.jobString>Smelter metall fra slag.</ExtractMetalFromSlag.jobString>
+    
+</LanguageData>

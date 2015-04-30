@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Orders.label>ordrer</Orders.label>
+    <Orders.description>Utpek forskjellige ordrer for å samhandle med forskjellige ting.</Orders.description>
+    
+    <Zone.label>sone</Zone.label>
+    <Zone.description>Utpek soner hvor kolonistene gjør forskjellige aktiviteter.</Zone.description>
+    
+    <Structure.label>strukturer</Structure.label>
+    <Structure.description>Strukturelle konstruksjoner som vegger og strømkabler.</Structure.description>
+    
+    <Production.label>produksjon</Production.label>
+    <Production.description>Strukturer som brukes til å produsere varer.</Production.description>
+    
+    <Furniture.label>møbler</Furniture.label>
+    <Furniture.description>Små konstruksjoner.</Furniture.description>
+    
+    <Power.label>elektrisitet</Power.label>
+    <Power.description>Elektrisitetsproduksjon, spredning og styring.</Power.description>
+    
+    <Security.label>sikkerhet</Security.label>
+    <Security.description>Sikkerhet og kamp-orienterte konstruksjoner.</Security.description>
+    
+    <Misc.label>diverse</Misc.label>
+    <Misc.description>Diverse konstruksjoner.</Misc.description>
+    
+    <Floors.label>gulv</Floors.label>
+    <Floors.description>Gulv som man kan gå på.</Floors.description>
+    
+    <Decoration.label>dekorasjoner</Decoration.label>
+    <Decoration.description>Fine ting som forbedrer kolonistenes humør.</Decoration.description>
+    
+    <Ship.label>romskip</Ship.label>
+    <Ship.description>Komponenter til å bygge ditt romskip.</Ship.description>
+    
+</LanguageData>

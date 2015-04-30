@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CremateCorpse.label>kremer lik</CremateCorpse.label>
+    <CremateCorpse.description>Kremerer et lik for å fjerne det helt.</CremateCorpse.description>
+    <CremateCorpse.jobString>Kremerer.</CremateCorpse.jobString>
+    
+    <BurnApparel.label>brenn klær</BurnApparel.label>
+    <BurnApparel.description>Brenn klær for å fjerne det helt.</BurnApparel.description>
+    <BurnApparel.jobString>Brenner klær.</BurnApparel.jobString>
+    
+</LanguageData>

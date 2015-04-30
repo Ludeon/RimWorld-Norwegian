@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--============================== Beds ==============================-->
+    
+    <SleepingSpot.label>sovested</SleepingSpot.label>
+    <SleepingSpot.description>Angir et område på bakken hvor folk skal sove. Ikke komfortabelt. Søvn effektivitet: 7/10</SleepingSpot.description>
+    
+    <Bed.label>seng</Bed.label>
+    <Bed.description>En behagelig madrass med laken på en sengeramme til å sove på. Søvn effektivitet: 10/10</Bed.description>
+    
+    <RoyalBed.label>kongelig seng</RoyalBed.label>
+    <RoyalBed.description>En luksusseng, som er av en kongelig verdi.</RoyalBed.description>
+    
+    <HospitalBed.label>sykeseng</HospitalBed.label>
+    <HospitalBed.description>En seng spesielt designet for syke eller skadde mennesker. Forbedrer sjansen for suksessfullt medisinskt arbeid.</HospitalBed.description>
+    
+    <!--======================= Basic domestic furniture ==============================-->
+    
+    <Stool.label>stol</Stool.label>
+    <Stool.description>Folk sitter her.</Stool.description>
+    
+    <TableShort.label>bord (kort)</TableShort.label>
+    <TableShort.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableShort.description>
+    
+    <TableLong.label>bord (langt)</TableLong.label>
+    <TableLong.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableLong.description>
+    
+    <!-- ======================== Lighting ======================= -->
+    
+    <StandingLamp.label>stålampe</StandingLamp.label>
+    <StandingLamp.description>Stålampe som lyser opp et område.</StandingLamp.description>
+    
+    <StandingLamp_Red.label>stålampe (rød)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Stålampe som lyser opp et område i rødt.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>stålampe (grønn)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Stålampe som lyser opp et område i grønnt.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>stålampe (blå)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Stålampe som lyser opp et område i blått.</StandingLamp_Blue.description>
+    
+    <!--============================== Storage ==============================-->
+    
+    <EquipmentRack.label>Utstyrsstativ</EquipmentRack.label>
+    <EquipmentRack.description>Bærere bærer våpen og redskaper bort hit til oppbevaring.</EquipmentRack.description>
+    
+</LanguageData>

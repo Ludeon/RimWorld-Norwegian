@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <WealthTotal.label>rikdom (total)</WealthTotal.label>
+    
+    <WealthItems.label>rikdom (ting)</WealthItems.label>
+    
+    <WealthBuildings.label>rikdom (bygninger)</WealthBuildings.label>
+    
+    <FreeColonists.label>frie kolonister</FreeColonists.label>
+    
+    <Prisoners.label>fanger</Prisoners.label>
+    
+    <ColonistMood.label>humør</ColonistMood.label>
+    
+</LanguageData>

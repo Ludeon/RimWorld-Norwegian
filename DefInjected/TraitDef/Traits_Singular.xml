@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>Nudist.degreeDatas[0].label</path>
+		<trans>nudist</trans>
+	</rep>
+	<rep>
+		<path>Nudist.degreeDatas[0].description</path>
+		<trans>NAME elsker følelsen av frihet ved å være naken.. HECAP kan godt takle å være påkledd, men foretrekker å være uten.</trans>
+	</rep>
+
+	<rep>
+		<path>Bloodlust.degreeDatas[0].label</path>
+		<trans>blodtørst</trans>
+	</rep>
+	<rep>
+		<path>Bloodlust.degreeDatas[0].description</path>
+		<trans>NAME får et rus av å skade mennesker, og har aldri noe mot død og blod omkring seg selv.</trans>
+	</rep>
+
+	<rep>
+		<path>Psychopath.degreeDatas[0].label</path>
+		<trans>psykopat</trans>
+	</rep>
+	<rep>
+		<path>Psychopath.degreeDatas[0].description</path>
+		<trans>NAME har ingen empati. Andres smerte har ingen innvirking på HIM overhode. HECAP er like glad om andre blir slaktet, ikke blir begravd, taes til fange, eller selges til slaveri - Med mindre det påvirker HIM. HECAP får ingen humørforbedringer fra sosialisering.</trans>
+	</rep>
+
+	<rep>
+		<path>Cannibal.degreeDatas[0].label</path>
+		<trans>kannibal</trans>
+	</rep>
+	<rep>
+		<path>Cannibal.degreeDatas[0].description</path>
+		<trans>NAME har lært det at å spise mennesker er galt og forferdelig. men en gang, for lang tid siden, prøvde HE det... og HE likte det.</trans>
+	</rep>
+
+	<rep>
+		<path>Abrasive.degreeDatas[0].label</path>
+		<trans>berett</trans>
+	</rep>
+	<rep>
+		<path>Abrasive.degreeDatas[0].description</path>
+		<trans>NAME sier alltid det som er i HIS tanker, særlig hvis det irriterer HIM. Det har en tendens til å irritere folk.</trans>
+	</rep>
+
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].label</path>
+		<trans>skyteglad</trans>
+	</rep>
+	<rep>
+		<path>TriggerHappy.degreeDatas[0].description</path>
+		<trans>Pang! Pang! Pang! NAME skyter noe forferdelig, men HE er like blid og fornøyd, for det å skyte er kult!</trans>
+	</rep>
+
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].label</path>
+		<trans>forsigtig skyter</trans>
+	</rep>
+	<rep>
+		<path>CarefulShooter.degreeDatas[0].description</path>
+		<trans>NAME er en rigtig god skyter, men HE har bruk for litt ekstra tid til å fokusere på HIS mål.</trans>
+	</rep>
+
+	<rep>
+		<path>TooSmart.degreeDatas[0].label</path>
+		<trans>for klok</trans>
+	</rep>
+	<rep>
+		<path>TooSmart.degreeDatas[0].description</path>
+		<trans>NAME er for klok, for HIS eget beste. HECAP lærer alt veldig mye raskere en andre, og kan være veldig eksentrisk.</trans>
+	</rep>
+
+	<rep>
+		<path>Brawler.degreeDatas[0].label</path>
+		<trans>brawler</trans>
+	</rep>
+	<rep>
+		<path>Brawler.degreeDatas[0].description</path>
+		<trans>NAME liker å kjempe ansikt til ansikt. HISCAP nøyaktighet er mye bedre i nærkamp, men HE kan bli veldig bitter, om man gir kolonisten et skytevåpen.</trans>
+	</rep>
+
+	<rep>
+		<path>Masochist.degreeDatas[0].label</path>
+		<trans>masochist</trans>
+	</rep>
+	<rep>
+		<path>Masochist.degreeDatas[0].description</path>
+		<trans>For NAME, er det bare noe spennende ved å bli såret. HECAP vet ikke hvorfor, HE er bare skrudd sammen på den måten.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophile.degreeDatas[0].label</path>
+		<trans>prostofil</trans>
+	</rep>
+	<rep>
+		<path>Prosthophile.degreeDatas[0].description</path>
+		<trans>NAME føler seg begrenset i HIS sårbare menneskekropp. HECAP drømmer ofte om å bli bionisk.</trans>
+	</rep>
+
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].label</path>
+		<trans>prostofob</trans>
+	</rep>
+	<rep>
+		<path>Prosthophobe.degreeDatas[0].description</path>
+		<trans>NAME tror på at menneskekroppen er som den er, av en årsak. For HIM, er bioniske kroppsdeler et uetisk valg.</trans>
+	</rep>
+
+	<rep>
+		<path>GreenThumb.degreeDatas[0].label</path>
+		<trans>grønne fingre</trans>
+	</rep>
+	<rep>
+		<path>GreenThumb.degreeDatas[0].description</path>
+		<trans>NAME har en lidenskap for hagearbeid. HECAP får bonus til sitt humør. for hver plante HE sår.</trans>
+	</rep>
+
+</LanguageData>

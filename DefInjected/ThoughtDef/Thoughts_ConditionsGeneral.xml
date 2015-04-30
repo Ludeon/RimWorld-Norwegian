@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hungry.label>sulten</Hungry.label>
+    <Hungry.description>Jeg har ikke spist på en god stund.</Hungry.description>
+    
+    <UrgentlyHungry.label>innstendig sulten</UrgentlyHungry.label>
+    <UrgentlyHungry.description>Sulten føles som tenner, som gnager i mine indre organer! Jeg har behov for mat, ellers vil jeg dø av sult.</UrgentlyHungry.description>
+    
+    <Starving.label>sulter</Starving.label>
+    <Starving.description>Jeg vil bare ha - et ellet et annet - å spise! Jeg kan føle at kroppen begynner å svinne, det gjør vondt...</Starving.description>
+    
+    <Tired.label>trøtt</Tired.label>
+    <Tired.description>Jeg har ikke sovet på en god stund.</Tired.description>
+    
+    <VeryTired.label>meget trøtt</VeryTired.label>
+    <VeryTired.description>Jeg er så trøtt. Jeg vil bare gjerne ligge ned og hvilet i et par minutter...</VeryTired.description>
+    
+    <Exhausted.label>utkjørt</Exhausted.label>
+    <Exhausted.description>Jeg er så utkjørt, at jeg knapt nok kan stå på bena. Mine øyenlokk føles som om de har en stor vekt på seg. La meg sove...</Exhausted.description>
+    
+    <EnvironmentUgly.label>stygt miljø</EnvironmentUgly.label>
+    <EnvironmentUgly.description>Dette stedet er bare ikke fint å være i.</EnvironmentUgly.description>
+    
+    <EnvironmentVeryUgly.label>hesligt miljø</EnvironmentVeryUgly.label>
+    <EnvironmentVeryUgly.description>Dette stedet er simpelthen hesligt. Jeg har ikke lyst til å være her.</EnvironmentVeryUgly.description>
+    
+    <EnvironmentHideous.label>avskyelig hesligt miljø</EnvironmentHideous.label>
+    <EnvironmentHideous.description>Dette sted er uutholdelig å være i. Få meg ut herfra...</EnvironmentHideous.description>
+    
+    <EnvironmentPretty.label>pent mijø</EnvironmentPretty.label>
+    <EnvironmentPretty.description>Dette stedet er hyggelig.</EnvironmentPretty.description>
+    
+    <EnvironmentVeryPretty.label>veldig pent miljø</EnvironmentVeryPretty.label>
+    <EnvironmentVeryPretty.description>Jeg kan virkelig godt like dette stedet, det er veldig vakkert.</EnvironmentVeryPretty.description>
+    
+    <EnvironmentBeautiful.label>vakkert miljø</EnvironmentBeautiful.label>
+    <EnvironmentBeautiful.description>Dette stedet her er virkelig vakkert. Jeg føler meg løftet opp og elsker livet.</EnvironmentBeautiful.description>
+    
+    <EnvironmentCramped.label>trangt miljø</EnvironmentCramped.label>
+    <EnvironmentCramped.description>Dette sted er veldig innelukket. Jeg har ingen plass til å trekke unna.</EnvironmentCramped.description>
+    
+    <EnvironmentVeryCramped.label>veldig trangt miljø</EnvironmentVeryCramped.label>
+    <EnvironmentVeryCramped.description>Det føles klaustrofobisk her inne. Jeg har ingen steder å gå. Jeg føler meg innelukket i et bur.</EnvironmentVeryCramped.description>
+    
+    <EnvironmentSpaciousInterior.label>Romslig miljø</EnvironmentSpaciousInterior.label>
+    <EnvironmentSpaciousInterior.description>Dette stedet er veldig behagelig og åpent å være i.</EnvironmentSpaciousInterior.description>
+    
+    <EnvironmentDark.label>i mørke</EnvironmentDark.label>
+    <EnvironmentDark.description>Jeg har vært i mørket en god stund. Jeg bryr meg ikke om det.</EnvironmentDark.description>
+    
+    <CabinFeverMild.label>brakkesyke (mild)</CabinFeverMild.label>
+    <CabinFeverMild.description>Jeg har vært låst inne her i dagevis. Jeg har bruk for å komme utendørs.</CabinFeverMild.description>
+    
+    <CabinFeverSerious.label>brakkesyke (alvorlig)</CabinFeverSerious.label>
+    <CabinFeverSerious.description>Jeg har vært låst inne som et dyr alt for lenge. Jeg har desperat bruk for å komme utendørs, ellers blir jeg gal!</CabinFeverSerious.description>
+    
+    <Sick.label>syk</Sick.label>
+    <Sick.description>Jeg føler meg ikke godt nå til dags, jeg er syk.</Sick.description>
+    
+</LanguageData>

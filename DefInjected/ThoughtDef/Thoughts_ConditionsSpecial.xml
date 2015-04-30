@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Imprisoned.label>innesperret</Imprisoned.label>
+    <Imprisoned.description>Jeg hater å være låst inne.</Imprisoned.description>
+    
+    <SharedBedroom.label>deler soveværelse</SharedBedroom.label>
+    <SharedBedroom.description>Det er irriterende å dele soveværelse med andre. Jeg har bruk for... privatliv. </SharedBedroom.description>
+    
+    <ColonistLeftUnburied.label>kolonist fortsatt ubegravet</ColonistLeftUnburied.label>
+    <ColonistLeftUnburied.description>En av oss døde og vi lar bare personen ligge ute i det åpne? Ingen bør bli etterlatt slik. La oss begrave vår venn.</ColonistLeftUnburied.description>
+    
+    <HappyNude.label>naken og glad</HappyNude.label>
+    <HappyNude.description>Jeg er naken og elsker det! Jeg føler mig så fri og løsrevet og i forbindelse med mine omgivelser!</HappyNude.description>
+    
+    <Naked.label>naken</Naked.label>
+    <Naked.description>Jeg er naken. Jeg føler meg ydmyket.</Naked.description>
+    
+    <MasochistLittlePain.label>i en smule smerte</MasochistLittlePain.label>
+    <MasochistLittlePain.description>Au... Heh heh heh... jeg kunne venne meg til dette!</MasochistLittlePain.description>
+    
+    <MasochistMediumPain.label>i en moderat mengde av smerte</MasochistMediumPain.label>
+    <MasochistMediumPain.description>Ugh... det gjør vondt, men jeg elsker det! bare kom an!</MasochistMediumPain.description>
+    
+    <MasochistSeverePain.label>opplever alvorlig smerte</MasochistSeverePain.label>
+    <MasochistSeverePain.description>Au, au... jeg tror noe er gått i stykker... for en spennende følelse!</MasochistSeverePain.description>
+    
+    <MasochistInShock.label>i sjokk over eksepsjonell smerte</MasochistInShock.label>
+    <MasochistInShock.description>Ahhh... er jeg i himmelen?</MasochistInShock.description>
+    
+    <ProsthophileHappy.label>har en bionisk kroppsdel</ProsthophileHappy.label>
+    <ProsthophileHappy.description>Jeg er et produkt av moderne teknologi! Jeg kan gjøre alt bedre!</ProsthophileHappy.description>
+    
+    <ProsthophobeUnhappy.label>har en bionisk kroppsdel</ProsthophobeUnhappy.label>
+    <ProsthophobeUnhappy.description>De har endret meg til en teknologisk avskyelighet... hvis bare de hadde gitt meg et valg...</ProsthophobeUnhappy.description>
+    
+    <BrawlerUnhappy.label>bråkmaker har et skytevåpen</BrawlerUnhappy.label>
+    <BrawlerUnhappy.description>Fy! jeg hater å skyte fra langt vekk. La meg få komme tett på - Helt tett på!</BrawlerUnhappy.description>
+    
+</LanguageData>

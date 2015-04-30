@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MakeShirt.label>lag skjorte</MakeShirt.label>
+    <MakeShirt.description>Lag en skjorte.</MakeShirt.description>
+    <MakeShirt.jobString>Lager skjorte.</MakeShirt.jobString>
+    
+    <MakePants.label>Lag bukser</MakePants.label>
+    <MakePants.description>Lag et par bukser.</MakePants.description>
+    <MakePants.jobString>Lager bukser.</MakePants.jobString>
+    
+    <MakeCowboyHat.label>lag cowboy hatt</MakeCowboyHat.label>
+    <MakeCowboyHat.description>Lag en cowboy hatt.</MakeCowboyHat.description>
+    <MakeCowboyHat.jobString>Lager cowboy hatt.</MakeCowboyHat.jobString>
+    
+</LanguageData>

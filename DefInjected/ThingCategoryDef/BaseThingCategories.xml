@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Root.label>rot</Root.label>
+    
+    <Resources.label>ressurser</Resources.label>
+    
+    <Foods.label>matvarer</Foods.label>
+    
+    <FoodMeals.label>måltider</FoodMeals.label>
+    
+    <FoodRaw.label>rått</FoodRaw.label>
+    
+    <MeatRaw.label>kjøtt</MeatRaw.label>
+    
+    <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
+    
+    <Manufactured.label>produsert</Manufactured.label>
+    
+    <Fabric.label>stoff</Fabric.label>
+    
+    <ResourcesRaw.label>råvare</ResourcesRaw.label>
+    
+    <Items.label>varer</Items.label>
+    
+    <Weapons.label>våpen</Weapons.label>
+    
+    <Apparel.label>klesplagg</Apparel.label>
+    
+    <BodyParts.label>kroppsdeler</BodyParts.label>
+    
+    <Chunks.label>klumper</Chunks.label>
+    
+    <Corpses.label>lik</Corpses.label>
+    
+    <CorpsesHumanoid.label>menneskelig</CorpsesHumanoid.label>
+    
+    <CorpsesAnimal.label>dyrelig</CorpsesAnimal.label>
+    
+    <CorpsesMechanoid.label>mekanoidelig</CorpsesMechanoid.label>
+    
+</LanguageData>

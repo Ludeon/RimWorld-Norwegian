@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <ButcherCorpseFlesh.label>slakt dyr</ButcherCorpseFlesh.label>
+    <ButcherCorpseFlesh.description>Slakter et dyr for å få kjøttet.</ButcherCorpseFlesh.description>
+    <ButcherCorpseFlesh.jobString>Slakter.</ButcherCorpseFlesh.jobString>
+    
+    <ButcherCorpseMechanoid.label>demonter mekanoide</ButcherCorpseMechanoid.label>
+    <ButcherCorpseMechanoid.description>Demonterer en 'død' mekanoide til brukbart metall.</ButcherCorpseMechanoid.description>
+    <ButcherCorpseMechanoid.jobString>Demonterer mekanoid.</ButcherCorpseMechanoid.jobString>
+    
+</LanguageData>

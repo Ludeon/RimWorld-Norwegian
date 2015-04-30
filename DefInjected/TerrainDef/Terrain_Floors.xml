@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ================= Wood floor ================= -->
+    
+    <WoodPlankFloor.label>tregulv</WoodPlankFloor.label>
+    <WoodPlankFloor.description>Plankegulv i tre. Med den varme, hjemlige følelsen.</WoodPlankFloor.description>
+    
+    <!-- ================= Tile ================= -->
+    
+    <MetalTile.label>metall flisgulv</MetalTile.label>
+    <MetalTile.description>Flisegulv i metal, som får det til å se ut som et romskip.</MetalTile.description>
+    
+    <PavedTile.label>brolagt flisgulv</PavedTile.label>
+    <PavedTile.description>Utilitaristiske fliser. Man kan bevege seg hurtig på disse, men kjønne er de ikke.</PavedTile.description>
+    
+    <StoneTile.label>stenflisgulv</StoneTile.label>
+    <StoneTile.description>Solide stenfliser, som gir den slottsfølelsen.</StoneTile.description>
+    
+    <!-- ================= Carpets ================= -->
+    
+    <CarpetRed.label>rødt gulvteppe</CarpetRed.label>
+    <CarpetRed.description>Flott gulvteppe i en deilig rød rosetone.</CarpetRed.description>
+    
+    <CarpetGreen.label>grønnt gulvteppe</CarpetGreen.label>
+    <CarpetGreen.description>Et grønt gulvteppe som gir et naturalistiskt utseende.</CarpetGreen.description>
+    
+    <CarpetBlue.label>blått gulvteppe</CarpetBlue.label>
+    <CarpetBlue.description>Koselig gulvteppe i en kjølig blåfarge.</CarpetBlue.description>
+    
+    <!-- ================= Foundation solids ================= -->
+    
+    <Concrete.label>betongulv</Concrete.label>
+    <Concrete.description>Hurtig-heldt betong. Hurtig å gå på, men ikke særlig skjønt. Du har må kunne grave ut jorden, for å fylle opp med betongen.</Concrete.description>
+    
+    <SmoothStone.label>glatt stengulv</SmoothStone.label>
+    <SmoothStone.description>Glatt naturlig stengulv. Hurtig å gå på og veldig kjekt å se på.</SmoothStone.description>
+    
+    <RoughHewnRock.label>tilhugget stein</RoughHewnRock.label>
+    
+</LanguageData>

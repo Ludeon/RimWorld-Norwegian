@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+  	<!-- new body parts - natural -->
+    
+    <InstallNaturalHeart.label>installer hjerte</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Installerer hjerte.</InstallNaturalHeart.description>
+    <InstallNaturalHeart.jobString>Installerer hjerte.</InstallNaturalHeart.jobString>
+    
+    <InstallNaturalLiver.label>installer lever</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>Installerer lever.</InstallNaturalLiver.description>
+    <InstallNaturalLiver.jobString>Installerer lever.</InstallNaturalLiver.jobString>
+    
+    <InstallNaturalKidney.label>installer nyre</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Installerer nyre.</InstallNaturalKidney.description>
+    <InstallNaturalKidney.jobString>Installerer nyre.</InstallNaturalKidney.jobString>
+    
+    <InstallNaturalLung.label>installer lunge</InstallNaturalLung.label>
+    <InstallNaturalLung.description>Installerer lunge.</InstallNaturalLung.description>
+    <InstallNaturalLung.jobString>Installerer lunge.</InstallNaturalLung.jobString>
+    
+  	<!-- new body parts - artificial -->
+    
+    <InstallPegLeg.label>installer treben</InstallPegLeg.label>
+    <InstallPegLeg.description>Installerer treben.</InstallPegLeg.description>
+    <InstallPegLeg.jobString>Installerer treben.</InstallPegLeg.jobString>
+    
+    <InstallBionicEye.label>installer bionisk øye</InstallBionicEye.label>
+    <InstallBionicEye.description>Installerer bionisk øye.</InstallBionicEye.description>
+    <InstallBionicEye.jobString>Installerer bionisk øye.</InstallBionicEye.jobString>
+    
+    <InstallBionicArm.label>installer bionisk arm</InstallBionicArm.label>
+    <InstallBionicArm.description>Installerer bionisk arm.</InstallBionicArm.description>
+    <InstallBionicArm.jobString>Installerer bionisk arm.</InstallBionicArm.jobString>
+    
+    <InstallBionicLeg.label>installer bionisk ben</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Installerer bionisk ben.</InstallBionicLeg.description>
+    <InstallBionicLeg.jobString>Installerer bionisk ben.</InstallBionicLeg.jobString>
+    
+    <InstallSimpleProstheticLeg.label>installer simpel benprotese</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Installerer simpel benprotese.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Installerer simpel benprotese.</InstallSimpleProstheticLeg.jobString>
+    
+    <InstallSimpleProstheticArm.label>installer simpel armprotese</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Installerer simpel armprotese.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Installerer simpel armprotese.</InstallSimpleProstheticArm.jobString>
+    
+    <InstallDenture.label>installer gebiss</InstallDenture.label>
+    <InstallDenture.description>Installerer gebiss.</InstallDenture.description>
+    <InstallDenture.jobString>Installerer gebiss.</InstallDenture.jobString>
+    
+    <InstallPowerClaw.label>installer kraftklo</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Installerer kraftklo.</InstallPowerClaw.description>
+    <InstallPowerClaw.jobString>Installerer kraftklo.</InstallPowerClaw.jobString>
+    
+    <InstallScytherKnifeProtrusion.label>installer scyther knivfremspring</InstallScytherKnifeProtrusion.label>
+    <InstallScytherKnifeProtrusion.description>Installerer scyther knivfremspring.</InstallScytherKnifeProtrusion.description>
+    <InstallScytherKnifeProtrusion.jobString>Installerer scyther knivfremspring.</InstallScytherKnifeProtrusion.jobString>
+    
+  	<!-- removing body parts -->
+    
+    <RemoveBodyPart.label>fjern kroppsdel</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Fjerner kroppsdel.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Fjerner kroppsdel.</RemoveBodyPart.jobString>
+    
+    <RemoveMechanoidBodyPart.label>fjern kroppsdel</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Fjerner kroppsdel.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Fjerner kroppsdel.</RemoveMechanoidBodyPart.jobString>
+    
+  	<!-- Euthanization -->
+    
+    <Euthanize.label>avliv</Euthanize.label>
+    <Euthanize.description>Avliver.</Euthanize.description>
+    <Euthanize.jobString>Avliver.</Euthanize.jobString>
+    
+    <ShutDownMechanoid.label>slukk ned</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Slukker ned mekanoiden.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Slukker ned.</ShutDownMechanoid.jobString>
+    
+</LanguageData>

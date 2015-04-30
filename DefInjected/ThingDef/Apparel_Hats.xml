@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Apparel_CowboyHat.label>cowboy hatt</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Stilfull selv gammeldags, denne holder solen og regnen vekk - den gir alle som bærer den en smule ekstra sjarm. Det er den viktigste delen av tradisjonelt vesterntøy.</Apparel_CowboyHat.description>
+    
+    <Apparel_PowerArmorHelmet.label>energirustningshjelm</Apparel_PowerArmorHelmet.label>
+    <Apparel_PowerArmorHelmet.description>Del av engerirustnings settet, til bruk av tungt infanteri.</Apparel_PowerArmorHelmet.description>
+    
+    <Apparel_KevlarHelmet.label>kevlarhjelm</Apparel_KevlarHelmet.label>
+    <Apparel_KevlarHelmet.description>Essensiell del av personlig rustning, brukes til å absorbere ekplosjonen av en granat.</Apparel_KevlarHelmet.description>
+    
+    <Apparel_MilitaryHelmet.label>militærhjelm</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Gammeldags og tung, men veldig hjelpsom under fiendelig angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
+    
+</LanguageData>
