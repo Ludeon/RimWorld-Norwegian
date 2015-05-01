@@ -17,7 +17,7 @@
   <DesignatorHarvestWoodDesc>Marker trær til å bli kuttet ned til trevirke.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Rydd</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Marker steiner og andre ting til å bli ryddet til et sted det kan dumpes, trengs ikke for ting som mat og lik som alltid kan ryddes.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Marker steiner og andre ting til å bli flyttet til et sted det kan dumpes, trengs ikke for ting som mat og lik som alltid kan ryddes.</DesignatorHaulThingsDesc>
   <NothingToHaulHere>Ingenting å rydde her.</NothingToHaulHere>
   <MustHaulHaulables>Kan bare markere steiner og slagg som ikke ryddes bort automatiskt.</MustHaulHaulables>
 

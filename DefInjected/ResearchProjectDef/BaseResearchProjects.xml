@@ -17,7 +17,7 @@
     <Machining.description>Bygg bordet til maskinarbeid, hvor man kan bryte ned døde mekanoider til brukbart metall.</Machining.description>
     
     <NutrientResynthesis.label>nærings-resyntese</NutrientResynthesis.label>
-    <NutrientResynthesis.description>Næringspuré automaten bruker 10% færre ressurser per produsert måltid.</NutrientResynthesis.description>
+    <NutrientResynthesis.description>Næringspasta automaten bruker 10% færre ressurser per produsert måltid.</NutrientResynthesis.description>
     
     <GunTurretCooling.label>Maskingeværkjøling</GunTurretCooling.label>
     <GunTurretCooling.description>Ubemannede maskingevær skyter fire skudd av gangen i stedet for tre.</GunTurretCooling.description>

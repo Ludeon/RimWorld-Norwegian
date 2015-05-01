@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Trykk for å hoppe til problemet</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Gå til problemet</ClickToJumpToProblem>
 
 
 
@@ -85,7 +85,7 @@
   <NeedResearchProjectDesc>Du har utstyret til å utføre forskning men har ikke valgt et prosjekt.\n\nÅpne forsknings menyen for å velge et prosjekt.</NeedResearchProjectDesc>
 
   <NeedDump>Trenger søppeldynge</NeedDump>
-  <NeedDumpDesc>Du har markert {0} til å bli ryddet, men kolonistene har ingen steder å legge det.\n\nPlasser en søppeldynge eller lag et lager og endre instillingene til å ta imot {0}.</NeedDumpDesc>
+  <NeedDumpDesc>Du har markert {0} til å bli ryddet, men kolonistene har ingen steder å legge det.\n\nPlasser en søppeldynge eller lag et lagerområde og endre instillingene til å ta imot {0}.</NeedDumpDesc>
 
   <NeedGrave>Trenger gravplass</NeedGrave>
   <NeedGraveDesc>Det er et dødt lik liggende på bakken og det er ingen steder hvor kolonistene kan legge det.\n\nBygg en gravplass eller søppeldynge og angi lagrings instillingene.</NeedGraveDesc>

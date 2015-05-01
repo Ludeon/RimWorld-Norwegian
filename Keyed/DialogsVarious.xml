@@ -81,7 +81,7 @@
   <DoForever>Gjør til alltid</DoForever>
   <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
   <BillStoreMode_DropOnFloor>Slipp på gulvet</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Ta til det beste lageret</BillStoreMode_BestStockpile>
+  <BillStoreMode_BestStockpile>Ta til mest prioritert lager</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Ta til nærmeste lager</BillStoreMode_NearestStockpileAnyPriority>
   
   <!-- Def Card -->
@@ -104,17 +104,17 @@
   <LimitedLifespan>Begrenset levetid</LimitedLifespan>
   <GrowingTime>Modningstid</GrowingTime>
   <Days>Dager</Days>
-  <FertilityRequirement>Krav for fruktbarhet</FertilityRequirement>
+  <FertilityRequirement>Krav til fruktbarhet</FertilityRequirement>
   <LightRequirement>Krav på lys</LightRequirement>
   <Attributes>Egenskaper</Attributes>
   <LifeSpan>Levetid</LifeSpan>
   <Nutrition>Ernæring</Nutrition>
-  <FoodQuality>Mat kvalitet</FoodQuality>
+  <FoodQuality>Matkvalitet</FoodQuality>
   <WalkSpeedProperty>Hastighet av gange</WalkSpeedProperty>
-  <MeleeDamage>Skade nærkamp</MeleeDamage>
+  <MeleeDamage>Nærkampsskade</MeleeDamage>
   <MeatAmount>Kjøttmengde</MeatAmount>
   <MinFoodQuality>Min. kvalitet av mat</MinFoodQuality>
-  <Diet>Diett</Diet>
+  <Diet>Kosthold</Diet>
   <RecruitDifficulty>Vanskelighetsgrad for rekruttering</RecruitDifficulty>
   <baseMarketValue>Bunnpris</baseMarketValue>
   <Covers>Omslag</Covers>
@@ -122,17 +122,17 @@
   <BodyPartEfficiency>Effektivitet av kroppsdel</BodyPartEfficiency>
   
   <!-- Trade -->
-  <DragToTrade>Dra til siden for å handle</DragToTrade>
+  <DragToTrade>Veksle mellom sidene for å handle</DragToTrade>
   <BuyPriceDesc>Prisen du betaler for å kjøpe dette.</BuyPriceDesc>
   <SellPriceDesc>Prisen du mottar ved å selge dette.</SellPriceDesc>
   <PriceTypeDesc>For dette produktet, er prisen {0}.</PriceTypeDesc>
-  <ColonyCount>Hvor my av dette produktet kolonien har til å selge.\n\nDu kan bare selge produkter til handelsmenn hvis de er utendørs og nær en satelitt mottaker.</ColonyCount>
+  <ColonyCount>Hvor my av dette produktet kolonien har til å selge.\n\nDu kan bare selge produkter til handelsmenn hvis de er utendørs og nær et handelsmerke.</ColonyCount>
   <TraderCount>Hvor mye av dette produktet selgeren har til å selge.</TraderCount>
   <AcceptButton>Godta</AcceptButton>
   <ResetButton>Nullstill</ResetButton>
   <CancelButton>Avbryt</CancelButton>
   <YourTradeableSilver>Ditt omsettelige sølv: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>Du kan bare handle med sølv som er nær en satelitt mottaker som ikke er under tak.</YourTradeableSilverTip>
+	<YourTradeableSilverTip>Du kan bare handle med sølv som er nær et handelsmerke som ikke er under tak.</YourTradeableSilverTip>
   <TraderHasNoMore>Handelsmann har ikke mer.</TraderHasNoMore>
   <ColonyHasNoMore>Ikke mer å selge.</ColonyHasNoMore>
   <TraderWillNotTrade>Handelsmann er ikke villig til å forhandle med dette produktet.</TraderWillNotTrade>
@@ -146,20 +146,20 @@
   <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
   <StatsReport_Material>Materiale</StatsReport_Material>
   <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Ferdighets faktorer</StatsReport_Skills>
+  <StatsReport_Skills>Ferdighetsfaktorer</StatsReport_Skills>
   <StatsReport_OtherStats>Andre statistiske faktorer</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Helse faktorer</StatsReport_HealthFactors>
+  <StatsReport_HealthFactors>Helsefaktorer</StatsReport_HealthFactors>
   <HealthFactorPercentImpact>{0} betydning</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Etterbehandlings kurve</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Etterbehandlingskurve</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Endelige verdi</StatsReport_FinalValue>
   
   
   <!--Research-->
   <ResearchFinished>Forskning fullført: {0}</ResearchFinished>
-  <ResearchScreen>Forsknings vindu</ResearchScreen>
+  <ResearchScreen>Forskningsvindu</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Har du lyst til å late opp spilldata rekorder til RimWorld serveren for å hjelpe utviklere med å balansere spillet? Hvis du er enig, vil data bli lastet opp hver {0} dag (og i noen andre sjeldne tilfeller som ved slutten av spillet). Personvern kan bli endret senere i innstillinger.</HistoryUploadMessage>
+  <HistoryUploadMessage>Har du lyst til å laste opp opptak av spilldata til RimWorld serveren, for å hjelpe utviklere med å balansere spillet? Hvis du er enig, vil data bli lastet opp hver {0} dag (og i noen andre sjeldne tilfeller som ved slutten av spillet). Personvern kan bli endret senere i innstillinger.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Selv om historie er sendt anonymt, kan du feste til navnet ditt.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>Tillat opplasting av spilldata</HistoryUploadYes>
   <HistoryUploadNo>Ikke tillat opplasting av spilldata</HistoryUploadNo>

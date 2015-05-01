@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AllowCorpsesColonist.label>tillad lik av kolonister</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.label>kolonistlik</AllowCorpsesColonist.label>
     <AllowCorpsesColonist.description>Tillat døde kolonister.</AllowCorpsesColonist.description>
     
-    <AllowCorpsesStranger.label>tillat fremmede lik</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.label>fremmedlik</AllowCorpsesStranger.label>
     <AllowCorpsesStranger.description>Tillat døde fremmede og fiender.</AllowCorpsesStranger.description>
     
-    <AllowBuried.label>tillat begravde lik</AllowBuried.label>
-    <AllowBuried.description>Tillat lik som allerede har blitt begravd.</AllowBuried.description>
+    <AllowBuried.label>tillat begravde</AllowBuried.label>
+    <AllowBuried.description>Tillat lik som allerede er blitt begravet.</AllowBuried.description>
     
     <AllowRotten.label>tillat råttent</AllowRotten.label>
-    <AllowRotten.description>Tillat organiske ting, som allerede har begynnt å bli fordervet.</AllowRotten.description>
+    <AllowRotten.description>Tillat organiske ting, som allerede har begynt å bli fordervet.</AllowRotten.description>
     
 </LanguageData>

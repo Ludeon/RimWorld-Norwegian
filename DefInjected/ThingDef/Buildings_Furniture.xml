@@ -17,7 +17,7 @@
     
     <!--======================= Basic domestic furniture ==============================-->
     
-    <Stool.label>stol</Stool.label>
+    <Stool.label>krakk</Stool.label>
     <Stool.description>Folk sitter her.</Stool.description>
     
     <TableShort.label>bord (kort)</TableShort.label>

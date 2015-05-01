@@ -44,7 +44,7 @@
   <StatCategory_PawnMisc>Diverse</StatCategory_PawnMisc>
   <StatCategory_Building>Bygging</StatCategory_Building>
   
-  <EquippedStatOffsets>Påvirkning av utrustning</EquippedStatOffsets>
+  <EquippedStatOffsets>Påvirkning på utrustning</EquippedStatOffsets>
   <StuffOfEquipmentStatModifiers>Påvirkning når utstyr er laget av dette</StuffOfEquipmentStatModifiers>
   
 </LanguageData>

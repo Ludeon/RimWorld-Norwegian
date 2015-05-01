@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Hopp til sted</JumpToLocation>
+  <JumpToLocation>Gå til</JumpToLocation>
 
   <RelationsBrokenDown>Forholder til {0} har brutt ned. De er nå fiendtlige mot deg.</RelationsBrokenDown>
   <RelationsWarmed>Forholder med {0} har varmet opp. De er ikke lenger fiendlige mot deg.</RelationsWarmed>
 
   <RelationsBrokenCapture>Fordi du fanget {0}, er nå {1} din fiende.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Koloniens Velvilje</ColonyGoodwill>
+  <ColonyGoodwill>Koloniens velvilje</ColonyGoodwill>
   <Neutral>Nøytral</Neutral>
 
   <ShortCircuitRain>Et {0} kortsluttet i regnet og har started en brann.</ShortCircuitRain>
@@ -16,9 +16,9 @@
 
   <RoofCollapsed>Et tak har brutt sammen fordi det hang for langt unna noen støtte.</RoofCollapsed>
   <TheseThingsCrushed>Disse tingene ble knust:</TheseThingsCrushed>
-  <NothingCrushed>Ingenting ble most.</NothingCrushed>
+  <NothingCrushed>Ingenting ble knust.</NothingCrushed>
   
-  <MentalBreakRampage>{0} har fått et mentalt anfall og herjer rundt.</MentalBreakRampage>
+  <MentalBreakRampage>{0} har fått et anfall og herjer rundt.</MentalBreakRampage>
   <MentalBreakDaze>{0} har gitt opp og vandrer rundt fortumlet.</MentalBreakDaze>
   <MentalBreakLeave>{0} har gitt opp og forlater kolonien.</MentalBreakLeave>
 
@@ -29,6 +29,6 @@
   <BirthdayWithInjuries>Det er fødselsdagen til {0} i dag! {1} fylte nettop {2}.\n\nDesverre, har {0} fått de følgende sykdommene på grunn av aldring:\n{3}</BirthdayWithInjuries>
   
   <NewDisease>{0} ble syk ({1}). Pass godt på at {0} får riktig behandling og tilbringer så mye tid i seng som mulig for å komme seg til igjen.</NewDisease>
-  <NewPartDisease>{0} fikk {1} infeksjon. Pass godt på at {0} får riktig behandling og tilbringer så mye tid i seng som mulig for å komme seg til igjen.</NewPartDisease>
+  <NewPartDisease>{0} fikk {1}infeksjon. Pass godt på at {0} får riktig behandling og tilbringer så mye tid i seng som mulig for å komme seg til igjen.</NewPartDisease>
   
 </LanguageData>

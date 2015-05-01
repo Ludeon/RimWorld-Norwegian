@@ -83,7 +83,7 @@
 
   <CannotPrioritizeIsNotA>Kan ikke prioritere ({0} er ikke en {1})</CannotPrioritizeIsNotA>
 
-  <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langtids-oppgave)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langtidsoppgave)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
 
