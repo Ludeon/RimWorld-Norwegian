@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <NutrientPasteDispenser.label>næringspuré dispenser</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Syntetiserer næringspuré fra organisk materiale.</NutrientPasteDispenser.description>
+    <NutrientPasteDispenser.label>næringspasta dispenser</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Syntetiserer næringspasta fra organisk materiale.</NutrientPasteDispenser.description>
     
     <Hopper.label>beholder</Hopper.label>
     

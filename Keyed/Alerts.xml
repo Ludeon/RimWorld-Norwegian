@@ -79,7 +79,7 @@
   <NeedBatteriesDesc>Du har bare solcellepaneler og ingen batterier. Dette betyr at du går tom for strøm hver gang solen går ned.\n\nBygg et batteri eller to for å komme deg gjennom nattten.</NeedBatteriesDesc>
 
   <NoTradingCapacity>Ingen handelskapasitet</NoTradingCapacity>
-  <NoTradingCapacityDesc>Du har ingen måte å handle med passerende skip.\n\nBygg en komm. konsoll.</NoTradingCapacityDesc>
+  <NoTradingCapacityDesc>Du har ingen måte å handle med passerende skip.\n\nBygg en kommunikasjonskonsoll.</NoTradingCapacityDesc>
 
   <NeedResearchProject>Trenger forsknings prosjekt</NeedResearchProject>
   <NeedResearchProjectDesc>Du har utstyret til å utføre forskning men har ikke valgt et prosjekt.\n\nÅpne forsknings menyen for å velge et prosjekt.</NeedResearchProjectDesc>

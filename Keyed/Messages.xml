@@ -18,7 +18,7 @@
 
 
 
-  <MessageShipHasLeftCommsRange>{0} har forlatt kommunikasjonsområde.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} har forlatt kommunikasjonsrekkevidden.</MessageShipHasLeftCommsRange>
 	
 	<MessageNeedBeaconToTradeWithShip>Du trenger et omløpsbanehandelsmerke/orbital trade beacon for å handle med et skip.</MessageNeedBeaconToTradeWithShip>
 	

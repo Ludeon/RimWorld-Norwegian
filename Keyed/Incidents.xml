@@ -40,7 +40,7 @@
 
   <LetterSolarFlare>Sola blusset opp og en solfakkel har begynt.\n\nDen intense radiasjonen vil skru av alt elektrisk utstyr.\n\nDet burde blåse over om en dag eller to.</LetterSolarFlare>
 
-  <TraderArrival>Et handelsskip passerer i nærheten.\n\nDe blir kjent som {0}. De er {1}.</TraderArrival>
+  <TraderArrival>Et handelsskip passerer i nærheten.\n\nDe blir kjent som {0}. De er et {1}.</TraderArrival>
 
   <SingleTravelerPassing>En {0} fra {1} passerer i nærheten. HECAP blir kalt {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>En gruppe reisende fra {0} passerer i nærheten.</GroupTravelersPassing>

@@ -34,8 +34,8 @@
   
   
   <!-- Job reports -->
-	<ReportHaulingTo>Frakter {0} til {1}.</ReportHaulingTo>
-	<ReportHauling>Frakter {0}.</ReportHauling>
+	<ReportHaulingTo>Flytter {0} til {1}.</ReportHaulingTo>
+	<ReportHauling>Flytter {0}.</ReportHauling>
   <ReportSleeping>Sover.</ReportSleeping>
   <ReportResting>Hviler.</ReportResting>
   
@@ -135,7 +135,7 @@
 	<PrisonerGetsMedicine>Får medisin</PrisonerGetsMedicine>
 	<ShouldTryToRecruit>Prøv å rekruttere</ShouldTryToRecruit>
 	<PrisonerNoInteraction>Ingen samhandling</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>Vennlig snakk</PrisonerFriendlyChat>
+	<PrisonerFriendlyChat>Hyggelig samtale</PrisonerFriendlyChat>
 	<PrisonerMildBeating>Mild banking</PrisonerMildBeating>
 	<PrisonerViciousBeating>Grusom mørbanking</PrisonerViciousBeating>
 	<PrisonerExecution>Henrettelse</PrisonerExecution>

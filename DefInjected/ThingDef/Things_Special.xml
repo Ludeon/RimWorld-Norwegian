@@ -3,10 +3,10 @@
     
     <DoorKey.label>dørnøkkel</DoorKey.label>
     
-    <Puddle_Fuel.label>dam av brennstoff</Puddle_Fuel.label>
+    <Puddle_Fuel.label>brennstoffpytt</Puddle_Fuel.label>
     <Puddle_Fuel.description>Brenner opp på jorden.</Puddle_Fuel.description>
     
-    <DropPodIncoming.label>nedskytnings-kapsel (ankommer)</DropPodIncoming.label>
+    <DropPodIncoming.label>nedskytningskapsel (ankommer)</DropPodIncoming.label>
     
     <DropPod.label>nedskytnings-kapsel</DropPod.label>
     

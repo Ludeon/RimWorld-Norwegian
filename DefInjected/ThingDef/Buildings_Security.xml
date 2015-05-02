@@ -5,11 +5,11 @@
     
     <!--=============== Improvised turret ===============-->
     
-    <TurretGun.label>ubemannet maskingevær</TurretGun.label>
+    <TurretGun.label>maskingevær (ubemannet)</TurretGun.label>
     
     <!--=============== Mortar turret ===============-->
     
-    <Turret_MortarIncendiary.label>brannbombe morter</Turret_MortarIncendiary.label>
+    <Turret_MortarIncendiary.label>brannbombemorter</Turret_MortarIncendiary.label>
     
     <!--=============== Mortar turret ===============-->
     

@@ -15,7 +15,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].description</path>
-		<trans>NAME er flink til å komme fort ditt HE's skal til. HECAP går hurtigere en de fleste.</trans>
+		<trans>NAME er flink til å komme fort ditt HE skal til. HECAP går hurtigere en de fleste.</trans>
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].label</path>
