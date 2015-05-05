@@ -19,25 +19,25 @@
   <DevelopmentBuildLower>utviklings utgave</DevelopmentBuildLower>
   <CompiledOn>Kompilert {0}</CompiledOn>
 
-	<MeatLabel>{0} kjøtt</MeatLabel>
+	<MeatLabel>{0}kjøtt</MeatLabel>
   <MeatDesc>Ferskt kjøtt av et {0}.</MeatDesc>
 
-  <LeatherLabel>{0} lær</LeatherLabel>
+  <LeatherLabel>{0}lær</LeatherLabel>
   <LeatherDesc>Lær framstilt fra huden til et {0}.</LeatherDesc>
 
-  <CorpseLabel>{0} lik</CorpseLabel>
+  <CorpseLabel>{0}lik</CorpseLabel>
 	<CorpseDesc>Dødt lik av et {0}.</CorpseDesc>
   <DeadLabel>{0} (død)</DeadLabel>
 
 
 	<BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
-  <FrameLabelExtra> (bygg)</FrameLabelExtra>
+  <FrameLabelExtra> (bygning)</FrameLabelExtra>
   
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
-  <VariousLabel>(ulike)</VariousLabel>
+  <VariousLabel>(diverse)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Kolonist døde</ColonistDied>
