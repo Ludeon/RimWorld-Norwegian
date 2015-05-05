@@ -7,7 +7,7 @@
 
   <Colony>Koloni</Colony>
   
-  <ChangeLanguageFromMainMenu>Du kan bare endre språk fra instillingskjermen på hovedmenyen.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Du kan bare endre språk via hovedmenyen.</ChangeLanguageFromMainMenu>
 
   <AndLower>og</AndLower>
   <DisabledLower>deaktivert</DisabledLower>
@@ -16,7 +16,7 @@
 
 
   <VersionIndicator>Versjon {0}</VersionIndicator>
-  <DevelopmentBuildLower>utviklings utgave</DevelopmentBuildLower>
+  <DevelopmentBuildLower>utviklingsutgave</DevelopmentBuildLower>
   <CompiledOn>Kompilert {0}</CompiledOn>
 
 	<MeatLabel>{0}kjøtt</MeatLabel>
@@ -30,7 +30,7 @@
   <DeadLabel>{0} (død)</DeadLabel>
 
 
-	<BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
+	<BlueprintLabelExtra> (planlagt)</BlueprintLabelExtra>
   <FrameLabelExtra> (bygning)</FrameLabelExtra>
   
   <!-- For things made of stuff, e.g. "Stone bed" -->
