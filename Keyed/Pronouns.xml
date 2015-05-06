@@ -6,9 +6,9 @@
   <ProhisCap>Hans</ProhisCap>
   <ProherCap>Hennes</ProherCap>
 
-  <ProhimObj>ham</ProhimObj>
+  <ProhimObj>han</ProhimObj>
   <ProherObj>henne</ProherObj>
-  <ProhimObjCap>Ham</ProhimObjCap>
+  <ProhimObjCap>Han</ProhimObjCap>
   <ProherObjCap>Henne</ProherObjCap>
 
   <Prohe>han</Prohe>
@@ -16,6 +16,12 @@
   <ProheCap>Han</ProheCap>
   <ProsheCap>Hun</ProsheCap>
   
+  <IndefiniteArticle>a</IndefiniteArticle>
+  <DefiniteArticle>de</DefiniteArticle>
 
+  <ProitCap>Det</ProitCap>
+  <Proit>det</Proit>
+   <ProitObjCap>Det</ProitObjCap>
+  <ProitObj>det</ProitObj>
 
 </LanguageData>

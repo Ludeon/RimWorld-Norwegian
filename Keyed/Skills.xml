@@ -3,10 +3,11 @@
 
   <Level>Nivå</Level>
   <ProgressToNextLevel>Fremgang mot neste nivå</ProgressToNextLevel>
+  <Experience>Erfaring</Experience>
   <Passion>Lidenskap</Passion>
   <PassionNone>Ingen (lærer {0}x)</PassionNone>
   <PassionMinor>Interessert (lærer {0}x)</PassionMinor>
-  <PassionMajor>Brenne (lærer {0}x)</PassionMajor>
+  <PassionMajor>Brennende (lærer {0}x)</PassionMajor>
   <EffectsAtLevel>Effekt på nivå {0}</EffectsAtLevel>
   <SkillMax>MAKS</SkillMax>
 
@@ -14,7 +15,7 @@
 
   <Skill0>Uskikket</Skill0>
   <Skill1>Skadet</Skill1>
-  <Skill2>Grunnleggende bevisthet</Skill2>
+  <Skill2>Grunnleggende bevissthet</Skill2>
   <Skill3>Grunnleggende fortrolighet</Skill3>
   <Skill4>Amatør</Skill4>
   <Skill5>Sterk amatør</Skill5>
@@ -27,8 +28,8 @@
   <Skill12>Veldig sterk ekspert</Skill12>
   <Skill13>Mester</Skill13>
   <Skill14>Sterk mester</Skill14>
-  <Skill15>Planet-klasse mester</Skill15>
-  <Skill16>System-klasse mester</Skill16>
+  <Skill15>Planet-klassemester</Skill15>
+  <Skill16>System-klassemester</Skill16>
   <Skill17>Ærverdig mester</Skill17>
   <Skill18>Visjonær</Skill18>
   <Skill19>Legendarisk</Skill19>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>d</LetterDay>
+  <LetterHour>t</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  
+  <DaysLower>dager</DaysLower>
+  <SecondsLower>sekunder</SecondsLower>
+
+  <SeasonSpring>Vår</SeasonSpring>
+  <SeasonSummer>Sommer</SeasonSummer>
+  <SeasonFall>Høst</SeasonFall>
+  <SeasonWinter>Vinter</SeasonWinter>
+
+  <Born>Født: {0} {1} {2}</Born>
+  <AgeChronological>Kronologisk alder: {0} år, {1} måneder, {2} dager</AgeChronological>
+  <AgeBiological>Biologisk alder: {0} år, {1} måneder, {2} dager</AgeBiological>
+
+  <DaysHours>{0} dager, {1} timer</DaysHours>
+
+</LanguageData>

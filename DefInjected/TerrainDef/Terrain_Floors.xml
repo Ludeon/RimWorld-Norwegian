@@ -14,8 +14,8 @@
     <PavedTile.label>brolagt flisgulv</PavedTile.label>
     <PavedTile.description>Utilitaristiske fliser. Man kan bevege seg hurtig på disse, men skjønne er de ikke.</PavedTile.description>
     
-    <StoneTile.label>stenflisgulv</StoneTile.label>
-    <StoneTile.description>Solide stenfliser, som gir den der slottsfølelsen.</StoneTile.description>
+    <StoneTile.label>steinflisgulv</StoneTile.label>
+    <StoneTile.description>Solide steinfliser, som gir den der slottsfølelsen.</StoneTile.description>
     
     <!-- ================= Carpets ================= -->
     
@@ -33,8 +33,8 @@
     <Concrete.label>betongulv</Concrete.label>
     <Concrete.description>Hurtigbetong. Raskt å gå på, men ikke særlig skjønt. Du må kunne grave ut jorden, for å fylle opp med betongen.</Concrete.description>
     
-    <SmoothStone.label>glatt stengulv</SmoothStone.label>
-    <SmoothStone.description>Glatt, naturlig stengulv. Hurtig å gå på, og veldig kjekt å se på.</SmoothStone.description>
+    <SmoothStone.label>glatt steingulv</SmoothStone.label>
+    <SmoothStone.description>Glatt, naturlig steingulv. Hurtig å gå på, og veldig kjekt å se på.</SmoothStone.description>
     
     <RoughHewnRock.label>tilhugget stein</RoughHewnRock.label>
     

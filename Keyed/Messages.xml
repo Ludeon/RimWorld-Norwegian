@@ -8,19 +8,21 @@
   <MessageRaidersDetectedEarlyAssault>{0} fra {1} har oppdaget dere og begynt angrepet tidlig.</MessageRaidersDetectedEarlyAssault>
   <MessageRaidersKidnapping>{0} fra {1} har bestemt seg for å kidnappe dem de kan og dra.</MessageRaidersKidnapping>
 
-  <MessageRaidersLeaving>{0} fra {1} reiser vekk.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} fra {1} flykter.</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>{0} fra {1} har gitt opp og reiser vekk.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfreds med skaden gjort og reiser vekk.</MessageRaidersSatisfiedLeaving>
 
   
-  <MessageFightersFleeing>{0} fra {1} rømmer vekk.</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} fra {1} flykter.</MessageFightersFleeing>
   <MessageFriendlyFightersLeaving>Vennlige {0} fra {1} reiser vekk.</MessageFriendlyFightersLeaving>
 
-
+  <MessageVisitorsTakingWounded>{0} fra {1} tar nå en skadet gjest.</MessageVisitorsTakingWounded>
+  
+  <MessageWornApparelDeterioratedAway>{0} brukt av {1} forverret til fillebiter.</MessageWornApparelDeterioratedAway>
 
   <MessageShipHasLeftCommsRange>{0} har forlatt kommunikasjonsrekkevidden.</MessageShipHasLeftCommsRange>
 	
-	<MessageNeedBeaconToTradeWithShip>Du trenger et omløpsbanehandelsmerke/orbital trade beacon for å handle med et skip.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>Du trenger et handelsmerke for å handle med et skip.</MessageNeedBeaconToTradeWithShip>
 	
   <MessageBillComplete>Oppgave fullført: {0}.</MessageBillComplete>
   
@@ -46,12 +48,23 @@
   <MessageMustDesignateHarvestableWood>Må utpeke trebærende tilstrekkelig modne trær.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Må utpeke planter.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Må utpeke fraktbare elementer.</MessageMustDesignateHaulable>
-  
-  <MessageNoMedicalBeds>Det er ingen sykesenger tilgjengelig.</MessageNoMedicalBeds>
+   <MessageMustDesignateMineable>Må utpeke ugjennomtrengelige steiner.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Må utpeke jaktbare dyr.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Må utpeke forlatte kunstige strukturer.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Må utpeke grovt steinterreng.</MessageMustDesignateSmoothableFloor>
+ 
+  <MessageNoMedicalBeds>Det er ingen sykesenger tilgjengelige.</MessageNoMedicalBeds>
   
   <PawnDiedBecauseOf>{0} har dødd på grunn av {1}.</PawnDiedBecauseOf>
 
   <MessageNoLongerDowned>{0} er ikke lenger skadet og kan nå gå igjen.</MessageNoLongerDowned>
+  
+ <MessageInvoluntarySleep>{0} har kollapset på grunn av ekstrem utmattelse.</MessageInvoluntarySleep>
+
+   <MessageRefusedArrest>{0} har nektet å bli arrestert!</MessageRefusedArrest>
+  
+  <MessageMedicalOperationFailureCatastrophic>{0} har gjort en katastrofal feiltakelse under opererering på {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} har gjort en minimal feiltakelse under operering på {1}.</MessageMedicalOperationFailureMinor>
   
   
 </LanguageData>

@@ -30,8 +30,8 @@
   <ColonyWealthTotal>Koloniens velstand</ColonyWealthTotal>
   <ColonyWealthItems>Koloniens velstand (ting)</ColonyWealthItems>
   <ColonyWealthBuildings>Koloniens velstand (bygg)</ColonyWealthBuildings>
-  <NumThreatBigs>Store trussler</NumThreatBigs>
-  <NumEnemyRaids>Fiendtlig plyndring</NumEnemyRaids>
+  <NumThreatBigs>Store trusler</NumThreatBigs>
+  <NumEnemyRaids>Fiendtlige plyndringer</NumEnemyRaids>
   <DamageTaken>Skade påtatt</DamageTaken>
   <ColonistsKilled>Kolonister drept</ColonistsKilled>
   <ColonistsLaunched>Kolonister fyrt ut i rommet</ColonistsLaunched>

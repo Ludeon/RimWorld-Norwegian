@@ -27,11 +27,14 @@
   <DesignatorMine>Grav</DesignatorMine>
   <DesignatorMineDesc>Marker område av stein til å bli gravd ut.</DesignatorMineDesc>
 
+  <DesignatorSmoothFloor>Jevn gulv</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Uthev grovt steinterreng som skal jevnes ut.</DesignatorSmoothFloorDesc>
+
   <DesignatorPlan>Planlegg</DesignatorPlan>
-  <DesignatorPlanDesc>Plasser planlegging. Disse gjør ikke annet enn å hjelpe deg med fremtidige utvidelser.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Plasserer planlegging. Dette gjør ikke annet enn å hjelpe deg med fremtidige utvidelser.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Fjern planlegging</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Fjern linjer til planlegging.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Fjerner planleggingslinjer.</DesignatorPlanRemoveDesc>
 
   <DesignatorHomeRegionAdd>Utvid hjemregion</DesignatorHomeRegionAdd>
   <DesignatorHomeRegionAddDesc>Kolonister vil reparere bygninger, vaske gulv og slukke brann bare innenfor hjemregionen.</DesignatorHomeRegionAddDesc>
@@ -52,8 +55,8 @@
   <DesignatorZoneCreateStorageDumpingDesc>Lag et nytt lager hvor kolonistene dine vil lagre søppel.\nDette verktøyet kan også utvide eksisterende søppeldynger.</DesignatorZoneCreateStorageDumpingDesc>
 
 
-  <DesignatorZoneDelete>Fjern områder</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Fjern områder som lager og jordbruks områder.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Fjern soner</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Fjern soner som lagersoner og forplantningsoner.</DesignatorZoneDeleteDesc>
   
   <DesignatorClaim>Krev</DesignatorClaim>
   <DesignatorClaimDesc>Krev nøytrale strukturer til kolonien, inkluderende eldgamle ruiner og forlatte beleiringer. Strukturer eid av kolonien kan bli reparert og vedlikeholdt av dine kolonister.</DesignatorClaimDesc>
@@ -69,8 +72,9 @@
   <InteractionSpotWillBeBlocked>Bruksområde vil bli blokkert av {0}.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} ville blokkert {1}'s bruksområde.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Terrenget her er allerede {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Terrenget her skal allerede jevnes ut.</TerrainBeingSmoothed>
   <IdenticalThingExists>Identisk objekt eksisterer allerede her.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identisk blåkopi eksisterer allerede her.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Identisk planlegging eksisterer allerede her.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Terrenget her kan ikke støtte dette.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Plass allerede i bruk.</SpaceAlreadyOccupied>
 

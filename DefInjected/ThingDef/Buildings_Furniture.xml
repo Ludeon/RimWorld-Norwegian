@@ -4,10 +4,10 @@
     <!--============================== Beds ==============================-->
     
     <SleepingSpot.label>sovested</SleepingSpot.label>
-    <SleepingSpot.description>Angir et område på bakken hvor folk skal sove. Ikke komfortabelt. Søvn effektivitet: 7/10</SleepingSpot.description>
+    <SleepingSpot.description>Angir et område hvor folk skal sove. Ikke komfortabelt. Søvneffektivitet: 7/10</SleepingSpot.description>
     
     <Bed.label>seng</Bed.label>
-    <Bed.description>En behagelig madrass med laken på en sengeramme til å sove på. Søvn effektivitet: 10/10</Bed.description>
+    <Bed.description>En behagelig madrass med laken på en sengeramme til å sove på. Søvneffektivitet: 10/10</Bed.description>
     
     <RoyalBed.label>kongelig seng</RoyalBed.label>
     <RoyalBed.description>En luksusseng, som er av en kongelig verdi.</RoyalBed.description>

@@ -29,7 +29,7 @@
     <PlantCutting.pawnLabel>Kutter</PlantCutting.pawnLabel>
     <PlantCutting.gerundLabel>Kutting</PlantCutting.gerundLabel>
     <PlantCutting.verb>Kutter</PlantCutting.verb>
-    <PlantCutting.tooltipDesc>Kutteren kutter ned planter, som vokser vildt, når du har valgt et område med kutt ned.</PlantCutting.tooltipDesc>
+    <PlantCutting.tooltipDesc>Kutteren kutter ned viltvoksende planter, når du har uthevet dem med kutt ned.</PlantCutting.tooltipDesc>
 	
     <Mining.pawnLabel>Graver</Mining.pawnLabel>
     <Mining.gerundLabel>Graving</Mining.gerundLabel>

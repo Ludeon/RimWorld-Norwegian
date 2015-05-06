@@ -42,9 +42,30 @@
   <StatCategory_PawnCombat>Kamp</StatCategory_PawnCombat>
   <StatCategory_PawnSocial>Sosialt</StatCategory_PawnSocial>
   <StatCategory_PawnMisc>Diverse</StatCategory_PawnMisc>
-  <StatCategory_Building>Bygging</StatCategory_Building>
+  <StatCategory_Building>Bygning</StatCategory_Building>
   
   <EquippedStatOffsets>Påvirkning på utrustning</EquippedStatOffsets>
   <StuffOfEquipmentStatModifiers>Påvirkning når utstyr er laget av dette</StuffOfEquipmentStatModifiers>
+  
+  <!-- Quality category -->
+  <QualityCategory_Awful>forferdelig</QualityCategory_Awful>
+  <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
+  <QualityCategory_Poor>dårlig</QualityCategory_Poor>
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Good>god</QualityCategory_Good>
+  <QualityCategory_Superior>overlegen</QualityCategory_Superior>
+  <QualityCategory_Excellent>utmerket</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>mesterverk</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
+
+  <QualityCategoryShort_Awful>forf</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>rufs</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>dårl</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>god</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>over</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>utme</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>legn</QualityCategoryShort_Legendary>
   
 </LanguageData>

@@ -8,7 +8,7 @@
     <PneumaticPicks.description>Hakker til gruvedrift er 20% mer effektive.</PneumaticPicks.description>
     
     <Stonecutting.label>stenhugging</Stonecutting.label>
-    <Stonecutting.description>Bygg stenhugger bordet, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
+    <Stonecutting.description>Bygg stenhuggerbenken, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
     
     <ElectricSmelting.label>elektrisk smelting</ElectricSmelting.label>
     <ElectricSmelting.description>Bygg elektriske smeltere som bruker varme og sterk elektromagnetisme til å utvinne metall fra vrakdeler og andre ting.</ElectricSmelting.description>
@@ -19,7 +19,7 @@
     <NutrientResynthesis.label>nærings-resyntese</NutrientResynthesis.label>
     <NutrientResynthesis.description>Næringspasta automaten bruker 10% færre ressurser per produsert måltid.</NutrientResynthesis.description>
     
-    <GunTurretCooling.label>Maskingeværkjøling</GunTurretCooling.label>
+    <GunTurretCooling.label>maskingeværkjøling</GunTurretCooling.label>
     <GunTurretCooling.description>Ubemannede maskingevær skyter fire skudd av gangen i stedet for tre.</GunTurretCooling.description>
     
     <Mortars.label>morterer</Mortars.label>
@@ -32,7 +32,7 @@
     <CarpetMaking.description>Tillater kolonister å bygge tepper som kan forbedre kvaliteten av miljøet deres.</CarpetMaking.description>
     
     <Tailoring.label>skreddersying</Tailoring.label>
-    <Tailoring.description>Tillater kolonister å bygge et skredderverksted og lage nytt tøy av stof, lær eller andre materialer.</Tailoring.description>
+    <Tailoring.description>Tillater kolonister å bygge en skredderbenk, og lage nytt tøy av stoff, lær eller andre materialer.</Tailoring.description>
     
     <ColoredLights.label>farget lys</ColoredLights.label>
     <ColoredLights.description>Tillater kolonister å bygge farget lys som dekorasjon.</ColoredLights.description>

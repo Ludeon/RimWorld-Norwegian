@@ -272,7 +272,7 @@
   
   
   <!-- Game over -->
-  <GameOverEveryoneDead>Alle er enten død eller borte. Denne historien er over.\n\nKanksje noen andre kommer til å finne noe nytte av disse ruinene.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Alle er enten død eller borte. Denne historien er over.\n\nKanskje noen andre kommer til å finne noen nytte av disse ruinene.</GameOverEveryoneDead>
   <GameOverShipLaunched>Du har lettet skipet! Disse kolonistene slapp unna:\n\n{0}\nDisse kolonistene ble forlatt:\n\n{1}\nDeres kunstige intelligens vil nå veilede skipet til et tryggere sted. Kanskje den slipper dere av på en tryggere planet i dette solsystemet. Ellers, så kan den gjennomgå en århundre-lang reise til en annen stjerne. Den kan til og med bestemme seg for å gjemme seg under isen i et par tusen år, I vente på en bedre tid i historien.\n\nDere finner det nok ut når dere våkner opp.</GameOverShipLaunched>
   <GameOverKeepPlaying>Fortsett spillet</GameOverKeepPlaying>
   <GameOverMainMenu>Hovedmeny</GameOverMainMenu>

@@ -2,7 +2,7 @@
 <LanguageData>
     
     <MakeStoneBlocks.label>lag murstein</MakeStoneBlocks.label>
-    <MakeStoneBlocks.description>Hugger stenklumper til brukbare murstein.</MakeStoneBlocks.description>
+    <MakeStoneBlocks.description>Hugger steinklumper til brukbare murstein.</MakeStoneBlocks.description>
 	<MakeStoneBlocks.jobString>Hugger stein.</MakeStoneBlocks.jobString>
     
     <ExtractMetalFromSlag.label>smelt metall fra slag</ExtractMetalFromSlag.label>
