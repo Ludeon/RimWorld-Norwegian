@@ -12,7 +12,7 @@
   <Nobody>Ingen</Nobody>
   <Unowned>Ingen eier</Unowned>
   <DeadTime>Død {0}</DeadTime>
-  <WalkSpeed>Gange {0}</WalkSpeed>
+  <WalkSpeed>{0} hastighet</WalkSpeed>
   <DyingLower>Døende</DyingLower>
   <FilthOnFeet>Møkk på føttene:</FilthOnFeet>
   <NotEnoughStoredLower>ikke nok lagret</NotEnoughStoredLower>
@@ -107,7 +107,15 @@
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Velg neste ting i samme rute.\n\nAngitt snarvei: {0}\n\nDu kan også gjøre dette ved å sakte trykke på den samme ruten igjen.</SelectNextInSquareTip>
   <DefInfoTip>Vis informasjon om dette objektet.</DefInfoTip>
-  
+ 
+  <!-- Art -->
+  <Title>Tittel</Title>
+  <Untitled>Untitled</Untitled>
+ 
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Blokkert av</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blokkert av tak</WindTurbine_WindPathIsBlockedByRoof>
+
   
   <!-- ITab titles -->
   <TabBills>Oppgaver</TabBills>
@@ -173,12 +181,25 @@
 	<MedicalOperations>Medisinsk operasjon</MedicalOperations>
 	<Amputate>Amputater</Amputate>
 	<Harvest>Høst inn</Harvest>
-
+	<PrisonerRelease>Løslat</PrisonerRelease>
+	<GetsMedicine>Får medisin</GetsMedicine>
+	<GetsFood>Får mat</GetsFood>
 	<!-- like 'Blood of John' -->
-	<OfLower>til</OfLower>
+	<OfLower>av</OfLower>
+
+  <!-- Temperature readout -->
+  <Indoors>Innendørs</Indoors>
+  <IndoorsUnroofed>Åpent tak</IndoorsUnroofed>
+  <Outdoors>Utendørs</Outdoors>
+
+  <!-- Temperature control -->
+  <TargetTemperature>Måltemperatur</TargetTemperature>
+  <PowerConsumptionMode>Nåværende strømforbruk</PowerConsumptionMode>
+  <PowerConsumptionHigh>Høyt</PowerConsumptionHigh>
+  <PowerConsumptionLow>Lavt</PowerConsumptionLow>
 
 	<!-- Power readout -->
-	<PowerNotConnected>Ikke koblet til strømkilde.</PowerNotConnected>
+  <PowerNotConnected>Ikke koblet til strømkilde.</PowerNotConnected>
   <PowerConnectedRateStored>Koblet til/lagret: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>Nødvendig strøm</PowerNeeded>
   <PowerOutput>Strøm utgitt</PowerOutput>
@@ -187,9 +208,14 @@
 
   
 	<!--Rotting-->
-	<RotStateFresh>Ferskt</RotStateFresh>
-	<RotStateRotting>Råtner</RotStateRotting>
-	<RotStateDessicated>Fordervet</RotStateDessicated>
+  <RotStateFresh>Ferskt</RotStateFresh>
+  <RotStateRotting>Råtner</RotStateRotting>
+  <RotStateDessicated>Fordervet</RotStateDessicated>
+  <CurrentlyFrozen>Frosne (utløper ikke)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Nedkjølt (Forderver om {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Ikke nedkjølt (Forderver om {0})</NotRefrigerated>
+  <OverADecade>over et tiår</OverADecade>
+
 	
   <!-- Shooting tooltip -->
   <ShotBy>Skutt av {0}</ShotBy>
@@ -208,18 +234,31 @@
   <Ingredients>Ingredienser</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0}% Vekst</PercentGrowth>
-  <Growing>Vokser</Growing>
-  <NotGrowingNow>Gror ikke nå (Må være {0}).</NotGrowingNow>
-  <NotGrowingNowNight>Gror ikke nå (nattetid).</NotGrowingNowNight>
-  <FullyGrownIn>Fullt moden om {0} vekst.</FullyGrownIn>
+  <PercentGrowth>{0} vekst</PercentGrowth>
+  <GrowthRate>Vekstrate</GrowthRate>
+  <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
+  <PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
+  <PlantResting>Hviler</PlantResting>
+  <OutOfIdealTemperatureRange>Utenfor ideell temperatur (vokser ved {0}% av normal vekst)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Utenfor ideell temperatur (vokser ikke)</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Klar til å høstes.</ReadyToHarvest>
   <Mature>Moden.</Mature>
   <SeedLabel>{0} frø</SeedLabel>
+  <OutdoorGrowingPeriod>Vekstsesong: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Aldri</NoGrowingPeriod>
+  <GrowYearRound>Året rundt</GrowYearRound>
+  <GrowSeasonHereNow>Vekstsesong er nå.</GrowSeasonHereNow>
+  <CannotGrowTooCold>Kan ikke dyrke - kuldesesong.</CannotGrowTooCold>
+ 
+   <!-- ThingFilter -->
+  <HitPoints>{0} hit points</HitPoints>
+  <AnyQuality>enhver kvalitet</AnyQuality>
+  <OnlyQuality>Kun {0}</OnlyQuality>
+
   
   <!-- Zones -->
   <Zone>Område</Zone>
-  <GrowingZone>Jordbruks område</GrowingZone>
+  <GrowingZone>Jordbruksområde</GrowingZone>
   <Stockpile>Lagerområde</Stockpile>
   <DumpingStockpile>Søppeldynge</DumpingStockpile>
   <Priority>Prioritet</Priority>
@@ -234,7 +273,7 @@
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Veksle mellom synlighet av områder.</ZoneVisibilityToggleButton>
   <AutoHomeRegionToggleButton>Veksle mellom å automatisk inkludere hjemregionen rundt nye konstruksjoner.</AutoHomeRegionToggleButton>
-  <CategorizedResourceReadoutToggleButton>Veksle mellom kategorisert modus på ressurs avlesningen.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Veksle mellom kategorisert modus på ressursavlesningen.</CategorizedResourceReadoutToggleButton>
 
   <!-- Fire -->
   <Fire>Brann</Fire>
@@ -249,13 +288,33 @@
   <!-- Building placement -->
   <NoStuffsToBuildWith>Du har ikke noe brukbart materiale til å bygge dette.</NoStuffsToBuildWith>
 
+  <!-- Quality -->
+  <Quality>Kvalitet</Quality>
+  <QualityDescription>Kvaliteten er hvor bra laget noe er.</QualityDescription>
+  <QualityIs>Kvalitet: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <Mood_Broken>knust</Mood_Broken>
+  <Mood_AboutToBreak>faller sammen</Mood_AboutToBreak>
+  <Mood_OnEdge>på kanten</Mood_OnEdge>
+  <Mood_Stressed>stresset</Mood_Stressed>
+  <Mood_Neutral>nøytral</Mood_Neutral>
+	<Mood_Content>fornøyd</Mood_Content>
+  <Mood_Happy>lykkelig</Mood_Happy>
+ 
   <!-- Building placement restricters -->
   <MustPlaceUnroofed>Kan ikke bli plassert under tak.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>Må plasseres med hode vend mot skipets konstruksjons bjelke.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Må bli plassert ved siden av noe som trenger en hopper.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Må plasseres direkte oppå en damp geysir.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Både den varme og kalde enden av kjøleren må være exposed.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
 
-
+  <!-- Cryptosleep casket -->
+  <CasketContains>Inneholder</CasketContains>
+  <CasketUnknownContents>Ukjent</CasketUnknownContents>
+  <CasketWarning>Advarsel!\n\nNAME er din siste frittgående kolonist! Om du lar HIM gå inn i den kaspelen, kan du kanskje ikke fortsette å spille. Er du sikker på at du vil fortsette?</CasketWarning>
 
   <!-- Cryptosleep pod -->
   <PodContains>Inneholder</PodContains>
@@ -270,12 +329,21 @@
   <UseNeurotrainer>Bruk neurotrener for å lære {0}</UseNeurotrainer>
   <NeurotrainerUsed>{0} brukte {1} neurotrener til å gå fra nivå {2} til nivå {3}.</NeurotrainerUsed>
   
+  <!-- Generic lifespan -->
+  <LifespanExpiry>Utgår om:</LifespanExpiry>
   
   <!-- Game over -->
   <GameOverEveryoneDead>Alle er enten død eller borte. Denne historien er over.\n\nKanskje noen andre kommer til å finne noen nytte av disse ruinene.</GameOverEveryoneDead>
   <GameOverShipLaunched>Du har lettet skipet! Disse kolonistene slapp unna:\n\n{0}\nDisse kolonistene ble forlatt:\n\n{1}\nDeres kunstige intelligens vil nå veilede skipet til et tryggere sted. Kanskje den slipper dere av på en tryggere planet i dette solsystemet. Ellers, så kan den gjennomgå en århundre-lang reise til en annen stjerne. Den kan til og med bestemme seg for å gjemme seg under isen i et par tusen år, I vente på en bedre tid i historien.\n\nDere finner det nok ut når dere våkner opp.</GameOverShipLaunched>
   <GameOverKeepPlaying>Fortsett spillet</GameOverKeepPlaying>
   <GameOverMainMenu>Hovedmeny</GameOverMainMenu>
+
+  <!-- JobDriver reports -->
+  <WatchingSunrise>Ser på soloppgangen</WatchingSunrise>
+  <CloudWatching>Ser på skyene</CloudWatching>
+  <WatchingSunset>Ser på solnedgangen</WatchingSunset>
+  <Stargazing>Stjernetitter</Stargazing>
+  <WatchingEclipse>Ser på solformørkelse</WatchingEclipse>
   
   
 </LanguageData>

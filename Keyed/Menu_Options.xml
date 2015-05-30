@@ -3,9 +3,9 @@
 
   <!-- Audiovisuals -->
   <Audiovisuals>Lydvirksomhet</Audiovisuals>
-  <GameVolume>Spill volum</GameVolume>
-  <MusicVolume>Musikk volum</MusicVolume>
-  <GraphicsQuality>Grafikk kvalitet</GraphicsQuality>
+  <GameVolume>Spillvolum</GameVolume>
+  <MusicVolume>Musikkvolum</MusicVolume>
+  <GraphicsQuality>Grafikkvalitet</GraphicsQuality>
   <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
   <GraphicsQualityGreat>God</GraphicsQualityGreat>
 
@@ -18,11 +18,11 @@
   <ResetAdaptiveTutor>Nullstill tilpasset veileder</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Tilpasset veileder er nullstilt. Han vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
   <RunInBackground>Kjør i bakgrunnen</RunInBackground>
-  <DevelopmentMode>Utviklings modus</DevelopmentMode>
+  <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
   <LogVerbose>Verbose logging</LogVerbose>
   <OpenSaveGameDataFolder>Åpne lagringsdata mappen</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Etternavn av Navn I Spillet eller Bakgrunnshistories karakter du har lyst til å se:</NamesYouWantToSee>
-  <ChangeStoryteller>Velg Historieforteller</ChangeStoryteller>
+  <NamesYouWantToSee>Etternavn av Navn I Spillet eller bakgrunnskarakter du har lyst til å se:</NamesYouWantToSee>
+  <ChangeStoryteller>Velg historieforteller</ChangeStoryteller>
   
   <!-- Resolution -->
   <Resolution>Resolusjon</Resolution>

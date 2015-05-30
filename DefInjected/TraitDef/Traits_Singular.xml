@@ -57,7 +57,7 @@
 
 	<rep>
 		<path>CarefulShooter.degreeDatas[0].label</path>
-		<trans>forsigtig skyter</trans>
+		<trans>forsiktig skyter</trans>
 	</rep>
 	<rep>
 		<path>CarefulShooter.degreeDatas[0].description</path>

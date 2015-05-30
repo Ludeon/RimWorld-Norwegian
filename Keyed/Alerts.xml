@@ -9,7 +9,7 @@
   <BrawlerHasRangedWeapon>Brawler har skytevåpen</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>En av dine kolonister har Brawler personlighetstrekket, men har bærer et skytevåpen. Dette vil gjøre ham veldig ulykkelig.</BrawlerHasRangedWeaponDesc>
 
-  <HunterLacksWeapon>Jakter mangler våpen</HunterLacksWeapon>
+  <HunterLacksWeapon>Jeger mangler våpen</HunterLacksWeapon>
   <HunterLacksWeaponDesc>En kolonist er satt som jeger, men har ikke noe våpoen. De vil ikke jakte før de bærer et våpen.\n\nFor å forebygge skader, så anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
 
   <PoorMood>Dårlig humør</PoorMood>

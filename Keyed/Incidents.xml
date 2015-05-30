@@ -13,7 +13,7 @@
   
   <!-- Enemy raids -->
   <EnemyRaidWalkIn>En gruppe {0} fra {1} har ankommet i nærheten.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>En gruppe {0} fra {1} har ankommet med kapsler i nærheten.</EnemyRaidEdgeDrop>
+  <EnemyRaidEdgeDrop>En gruppe {0} fra {1} har ankommet i kapsler i nærheten.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>En gruppe {0} fra {1} har landet rett oppå deg!</EnemyRaidCenterDrop>
   <EnemyRaidStageThenAttack>De vil forberede seg en stund, så vil de angripe.\n\nGjør klar et forsvar eller angrip dem forebyggende.</EnemyRaidStageThenAttack>
   <EnemyRaidImmediateAttack>De angriper umiddelbart.</EnemyRaidImmediateAttack>
@@ -22,7 +22,7 @@
 
   <!-- Friendly raids -->
   <FriendlyRaidWalkIn>En gruppe vennlige {0} fra {1} har ankommet i nærheten.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>En gruppe vennlige {0} fra {1} har ankommet med kapsler i nærheten.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidEdgeDrop>En gruppe vennlige {0} fra {1} har ankommet i kapsler i nærheten.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>En gruppe vennlige {0} fra {1} har landet rett oppå deg!</FriendlyRaidCenterDrop>
   <FriendlyRaidStageThenAttack>De vil gjøre seg klare først før de rykker inn for å hjelpe deg.</FriendlyRaidStageThenAttack>
   <FriendlyRaidImmediateAttack>De rykker in for å hjelpe deg umiddelbart.</FriendlyRaidImmediateAttack>
@@ -68,6 +68,6 @@
   <LetterAgentRevealed>{0} har blitt avslørt som en agent av fienden din {1}.\n\nNå prøver de å flykte.</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>Enhver kolonist av det {0} kjønn vrir seg i smerte!\n\nEn fjern maskin av hat pisker seg. Den sender ut en kraftig psykisk puls over hele denne regionen, på en frekvens som ser ut til å bare påvirke det {0} kjønn. I et par dager vil humøret til noen bli mye verre.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Enhver kolonist av det {0} kjønn vrir seg av smerte!\n\nEn fjern maskin av hat pisker seg. Den sender ut en kraftig psykisk puls over hele denne regionen, på en frekvens som ser ut til å bare påvirke det {0} kjønn. I et par dager vil humøret til noen bli mye verre.</LetterIncidentPsychicDrone>
   
 </LanguageData>

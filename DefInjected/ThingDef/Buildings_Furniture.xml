@@ -9,8 +9,8 @@
     <Bed.label>seng</Bed.label>
     <Bed.description>En behagelig madrass med laken på en sengeramme til å sove på. Søvneffektivitet: 10/10</Bed.description>
     
-    <RoyalBed.label>kongelig seng</RoyalBed.label>
-    <RoyalBed.description>En luksusseng, som er av en kongelig verdi.</RoyalBed.description>
+    <RoyalBed.label>dobbeltseng</RoyalBed.label>
+    <RoyalBed.description>En luksusseng, av en kongelig verdi.</RoyalBed.description>
     
     <HospitalBed.label>sykeseng</HospitalBed.label>
     <HospitalBed.description>En seng spesielt designet for syke eller skadde mennesker. Forbedrer sjansen for suksessfullt medisinskt arbeid.</HospitalBed.description>

@@ -7,8 +7,8 @@
     <PneumaticPicks.label>pneumatisk hakke</PneumaticPicks.label>
     <PneumaticPicks.description>Hakker til gruvedrift er 20% mer effektive.</PneumaticPicks.description>
     
-    <Stonecutting.label>stenhugging</Stonecutting.label>
-    <Stonecutting.description>Bygg stenhuggerbenken, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
+    <Stonecutting.label>steinhugging</Stonecutting.label>
+    <Stonecutting.description>Bygg steinhuggerbenken, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
     
     <ElectricSmelting.label>elektrisk smelting</ElectricSmelting.label>
     <ElectricSmelting.description>Bygg elektriske smeltere som bruker varme og sterk elektromagnetisme til å utvinne metall fra vrakdeler og andre ting.</ElectricSmelting.description>

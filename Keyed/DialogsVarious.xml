@@ -94,10 +94,10 @@
   <MechanoidType>Mekanoide</MechanoidType>
   <Damage>Skade</Damage>
   <Accuracy>Treffsikkerhet</Accuracy>
-  <BurstShotCount>Haglskudd</BurstShotCount>
+  <BurstShotCount>Skuddmengde</BurstShotCount>
   <WarmupTime>Oppvarming</WarmupTime>
   <CooldownTime>Nedkjølning</CooldownTime>
-  <BurstShotFireRate>Skyte hastighet</BurstShotFireRate>
+  <BurstShotFireRate>Avfyringshastighet</BurstShotFireRate>
   <Range>Rekkevidde</Range>
   <GrowsWild>Vokser vilt</GrowsWild>
   <Harvestable>Høstbar</Harvestable>

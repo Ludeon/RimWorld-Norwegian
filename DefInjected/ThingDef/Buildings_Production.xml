@@ -8,19 +8,19 @@
     
     <!-- ========================= Work tables ==========================-->
     
-    <TableButcher.label>slakterbenk</TableButcher.label>
+    <TableButcher.label> slakterbenk</TableButcher.label>
     <TableButcher.description>Tung benk til slakting av døde skapninger til stykker av rått kjøtt.</TableButcher.description>
     
-    <TableTailor.label>Skredderbenk</TableTailor.label>
+    <TableTailor.label> skredderbenk</TableTailor.label>
     <TableTailor.description>En benk til å produsere tøy og forbedre det.</TableTailor.description>
     
-    <TableMachining.label>Maskinbenk</TableMachining.label>
+    <TableMachining.label> maskineringsbenk</TableMachining.label>
     <TableMachining.description>En benk med verktøy til å bygge og adskille maskinelle komponenter på.</TableMachining.description>
     
     <CookStove.label>Kjøkkenbenk</CookStove.label>
-    <CookStove.description>Udstyrt med en simpel komfyr, og bordplass til å forberede måltider fra simple ingredienser.</CookStove.description>
+    <CookStove.description>Utstyrt med en simpel komfyr, og bordplass til å forberede måltider fra simple ingredienser.</CookStove.description>
     
-    <TableStonecutter.label>steinhuggerbenk</TableStonecutter.label>
+    <TableStonecutter.label> steinhuggerbenk</TableStonecutter.label>
     <TableStonecutter.description>En arbeidsbenk til å hugge rå stein om til brukbare mursteiner.</TableStonecutter.description>
     
     <ElectricSmelter.label>elektrisk smelteverk</ElectricSmelter.label>

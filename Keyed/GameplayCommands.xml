@@ -12,9 +12,9 @@
   <CommandTryReconnectDesc>Prøve å koble seg til et annet strømnett innenfor min radius. Dette er hjelpsomt hvis jeg er koblet til et strømnett uten strøm.</CommandTryReconnectDesc>
 
 
-  <CommandGatherSpotToggleLabel>Forsamlings sted</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleLabel>Forsamlingssted</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister vil samle seg rundt dette objektet.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister vil ikke samle seg rundt dette objectet.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister vil ikke samle seg rundt dette objektet.</CommandGatherSpotToggleDescInactive>
   
   
   <!-- Drafting -->
