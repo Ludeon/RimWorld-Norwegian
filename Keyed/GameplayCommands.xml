@@ -6,10 +6,10 @@
 
   <!-- Power -->
   <CommandTogglePowerLabel>Strømbryter</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Veksle strøm av og på.</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>Veksle av og på strøm.</CommandTogglePowerDesc>
 
   <CommandTryReconnectLabel>Koble om</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Prøve å koble seg til et annet strømnett innenfor min radius. Dette er hjelpsomt hvis jeg er koblet til et strømnett uten strøm.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>Jeg blir koblet til et annet strømnett innenfor min radius. Dette er hjelpsomt hvis jeg er koblet til et strømnett uten strøm.</CommandTryReconnectDesc>
 
 
   <CommandGatherSpotToggleLabel>Forsamlingssted</CommandGatherSpotToggleLabel>
@@ -20,30 +20,30 @@
   <!-- Drafting -->
   <CommandDraftLabel>Innkall</CommandDraftLabel>
   <CommandUndraftLabel>Utskriv</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Veksle mellom innkalling i militæret.\n\nInnkalte folk kan ta ordre og slåss. De vil ikke jobbe, spise eller sove.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Veksle mellom innkalling i militsen.\n\nInnkalte folk kan ta ordre og slåss. De vil ikke jobbe, spise eller sove.</CommandToggleDraftDesc>
   <IsIncapped>{0} er uføre.</IsIncapped>
 
   
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Avbryt denne konstruksjonen.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Kom ut av sengs</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Kom ut av gjeldende seng.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Stå opp</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Vil komme seg opp og ut av sengen.</CommandGetOutOfBedDesc>
 
   <CommandBedSetOwnerLabel>Tildel eier</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Tildel denne sengen til å bli eid av en spesifikk kolonist.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Denne sengen blir gitt til en spesifikk kolonist.</CommandBedSetOwnerDesc>
   <BedAssign>Tildel</BedAssign>
   <CommandBedSetForPrisonersLabel>Tildel fanger</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Tildel senger i dette rommet til å bli brukt av fanger.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersDesc>Alle senger i dette rommet blir reservert for fanger.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Kan ikke tildele senger som er utendørs til fanger.</CommandBedSetForPrisonersFailOutdoors>
   <CommandBedSetForColonistsLabel>Tildel kolonister</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Tildel senger i dette rommet til å bli brukt av kolonister.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>Tildel medisinsk</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Tildel denne sengen til medisinsk bruk.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Tildel ikke medisinsk</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Tildel denne sengen til ikke medisinsk bruk.</CommandBedSetAsNonMedicalDesc>
-  <TurningOnPrisonerBedWarning>Å skru på fange modus har en effekt over hele rommet (siden fanger og kolonister ikke kan sove på samme rom).\n\nDisse folkene vil miste eierskap av sengene sine:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Å skru av fange modus har en effekt over hele rommet (siden fanger og kolonister ikke kan sove på samme rom).\n\nDisse folkene vil miste eierskap av sengene sine:</TurningOffPrisonerBedWarning>
+  <CommandBedSetForColonistsDesc>Alle senger i dette rommet blir reservert for kolonister.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Angi sykeseng</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Denne sengen vil bli reservert som sykeseng.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Angi som ikke-sykeseng</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Denne sengen vil ikke lenger bli brukt som sykeseng.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Å skru på fangemodus har en effekt over hele rommet (siden fanger og kolonister ikke kan sove på samme rom).\n\nDisse folkene vil miste eierskap av sengene sine:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Å skru av fangemodus har en effekt over hele rommet (siden fanger og kolonister ikke kan sove på samme rom).\n\nDisse folkene vil miste eierskap av sengene sine:</TurningOffPrisonerBedWarning>
   <AreYouSure>Er du sikker på at du vil gjøre dette?</AreYouSure>
 
   
@@ -51,10 +51,10 @@
   <CommandDetonateDesc>Start nedtellingen til detonasjon.</CommandDetonateDesc>
   <CommandDetonateLabel>Detoner</CommandDetonateLabel>
 
-  <CommandRenameZoneDesc>Omdøp denne sonen.</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>Gir denne sonen et nytt navn.</CommandRenameZoneDesc>
   <CommandRenameZoneLabel>Omdøp</CommandRenameZoneLabel>
 
-  <CommandHideZoneDesc>Gjem/vis denne sonen.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Gjemmer/viser denne sonen.</CommandHideZoneDesc>
   <CommandHideZoneLabel>Gjem</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Vis</CommandUnhideZoneLabel>
 
@@ -63,20 +63,20 @@
   
   
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Tving angrep</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Tving mål</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Angir et mål som dette våpenet blir tvunget til å angripe kontinuerlig så lenge det kan.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Stop tvunget angrep</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Stopper tvunget angrep og våpenet kan skyte det den vil.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Ikke noe tvunget angrep for tiden.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Mål forbi maks rekkevidde.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Mål under minimum rekkevidde.</MessageTargetBelowMinimumRange>
+  <CommandStopForceAttack>Stop tvunget mål</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Våpenet vil kunne skyte av egen beslutning.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Ikke noe tvunget mål for tiden.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Målet forbi maks rekkevidde.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Målet under minimum rekkevidde.</MessageTargetBelowMinimumRange>
   
   
   <!-- Ship computer core -->
-  <CommandShipLaunch>Lett fly</CommandShipLaunch>
-  <CommandShipLaunchDesc>Starter skipets lette sekvens med den nåverende konfigurasjonen.</CommandShipLaunchDesc>
+  <CommandShipLaunch>Skyt opp</CommandShipLaunch>
+  <CommandShipLaunchDesc>Starter skipets oppskytning med den nåverende konfigurasjonen.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Vis rapport</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Viser en beredskaps rapport som viser skipets kapasiteter til å lette.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>Viser en beredskaps-rapport om skipets kapasiteter til å lette.</CommandShipLaunchReportDesc>
 
 
   <!-- Pod -->
@@ -85,7 +85,7 @@
   <CommandPodEjectFailEmpty>Inneholder ingen.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorLock>Veksle låst</CommandToggleDoorLock>
+  <CommandToggleDoorLock>Lås/Lås opp</CommandToggleDoorLock>
   <CommandToggleDoorLockDesc>Lås eller lås opp en dør, låste dører åpner ikke opp for noen.</CommandToggleDoorLockDesc>
 
 
