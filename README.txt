@@ -21,3 +21,4 @@ Translators:
 -TheUnknownKiller
 -IllusionDistort
 -2villa1
+-TheSettker95
