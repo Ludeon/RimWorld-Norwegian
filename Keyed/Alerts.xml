@@ -102,8 +102,8 @@
   <NeedGrave>Trenger gravplass</NeedGrave>
   <NeedGraveDesc>Det er et dødt lik liggende på bakken og det er ingen steder hvor kolonistene kan legge det.\n\nBygg en gravplass eller søppeldynge og angi lagrings instillingene.</NeedGraveDesc>
 
-  <ColonistsIdle>{0} kolonister somler</ColonistsIdle>
-  <ColonistsIdleDesc>Disse kolonistene bare somler rundt:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} kolonister har ikke noe å gjøre</ColonistsIdle>
+  <ColonistsIdleDesc>Disse kolonistene har ikke noe å gjøre:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
 
   <HaltedConstructions>{0} konstruksjoner mangler materiale.</HaltedConstructions>
   <HaltedConstructionsDesc>Disse konstruksjonene mangler materiale:\n\n{0}\nDu burde kanskje gjøre materialene som trengs tilgjengelige for kolonistene dine.</HaltedConstructionsDesc>
