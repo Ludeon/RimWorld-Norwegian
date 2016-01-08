@@ -7,25 +7,22 @@
     <Apparel_BasicShirt.label>t-skjorte</Apparel_BasicShirt.label>
     <Apparel_BasicShirt.description>en alminnelig T-skjorte.</Apparel_BasicShirt.description>
     
-    <Apparel_CollarShirt.label>Knappe-skjorte</Apparel_CollarShirt.label>
-    <Apparel_CollarShirt.description>En fin krageskjorte med knapper.</Apparel_CollarShirt.description>
-    
+    <Apparel_CollarShirt.label>Knappe-skjorte</Apparel_CollarShirt.label>    
+	<Apparel_CollarShirt.description>En fin krageskjorte med knapper.</Apparel_CollarShirt.description>
+
     <Apparel_Duster.label>ørkenfrakk</Apparel_Duster.label>
     <Apparel_Duster.description>En lang ørkenfrakk til å blokkere solen og sand fra ørkenen.</Apparel_Duster.description>
     
     <Apparel_Jacket.label>jakke</Apparel_Jacket.label>
     <Apparel_Jacket.description>En tøff jakke som beskytter mot blåmerker og skrubbsår.</Apparel_Jacket.description>
     
-    <Apparel_Parka.label>parka</Apparel_Parka.label>
-    <Apparel_Parka.description>A thick parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
-    
-    <Apparel_TribalA.label>stammetøy</Apparel_TribalA.label>
-    <Apparel_TribalA.description>Et plagg som kun har blitt laget ved bruk av neolitiske verktøy.</Apparel_TribalA.description>
-    
     <Apparel_VestPlate.label>skuddsikker vest</Apparel_VestPlate.label>
     <Apparel_VestPlate.description>En vest med plater festet forran og bak. Beskytter mot våpenskudd.</Apparel_VestPlate.description>
     
     <Apparel_PowerArmor.label>energirustning</Apparel_PowerArmor.label>
     <Apparel_PowerArmor.description>Strømdrevet rustning brukt av spesial-tropper fra avanserte glitterverden planeter.</Apparel_PowerArmor.description>
+    
+    <Apparel_TribalA.label>stammetøy</Apparel_TribalA.label>
+    <Apparel_TribalA.description>Et plagg som kun har blitt laget ved bruk av neolitiske verktøy.</Apparel_TribalA.description>
     
 </LanguageData>

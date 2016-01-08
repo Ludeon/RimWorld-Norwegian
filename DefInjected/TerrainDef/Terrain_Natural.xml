@@ -15,8 +15,6 @@
     
     <Gravel.label>grus</Gravel.label>
     
-    <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
-    
-    <Ice.label>Ice</Ice.label>
+    <RoughStone.label>grov stein</RoughStone.label>
     
 </LanguageData>

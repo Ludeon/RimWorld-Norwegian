@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <!--============================ Simple mineables ===============================-->
+    
+    <Sandstone.label>sandstein</Sandstone.label>
+    <Sandstone.description>En sedimentær bergart, som består av sammensatte sandpartikler.</Sandstone.description>
+    
+    <Limestone.label>kalkstein</Limestone.label>
+    <Limestone.description>En sedimentær bergart, som består av sammensatte skall fra havdyr.</Limestone.description>
+    
+    <Granite.label>granitt</Granite.label>
+    <Granite.description>En meget hard steinart.</Granite.description>
+    
+    <Slate.label>skifer</Slate.label>
+    <Slate.description>Skifer er en mørk finkornet sedimentær eller metamorf bergart, som bl.a. dannes av leire, grus og sand.</Slate.description>
+    
+    <Marble.label>marmor</Marble.label>
+    <Marble.description>En bløt metamorf kalkstensart, som er meget velegnet til bearbeiding.</Marble.description>
+    
     <CollapsedRocks.label>Kollapset stein</CollapsedRocks.label>
     <CollapsedRocks.description>Stein, kollapset og klemt sammen, og som kan holde et tak.</CollapsedRocks.description>
     
-    <MineableSteel.label>compacted steel</MineableSteel.label>
-    <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
+    <!--============================ Resource rocks ===============================-->
+    
+    <MineableMetal.label>metallmalm</MineableMetal.label>
+    <MineableMetal.description>Grav ut dette for metall.</MineableMetal.description>
     
     <MineableSilver.label>sølvmalm</MineableSilver.label>
     <MineableSilver.description>Grav ut dette for sølv.</MineableSilver.description>
@@ -13,12 +32,9 @@
     <MineableGold.label>gullmalm</MineableGold.label>
     <MineableGold.description>grav ut dette for gull.</MineableGold.description>
     
-    <MineableUranium.label>uranium ore</MineableUranium.label>
-    <MineableUranium.description>Rock containing bits of uranium.</MineableUranium.description>
-    
     <MineablePlasteel.label>kompakt plaststål</MineablePlasteel.label>
     <MineablePlasteel.description>Eldgammel kompakt åre av plaststål.</MineablePlasteel.description>
-    
+
     <SteamGeyser.label>damp geiser</SteamGeyser.label>
     <SteamGeyser.description>En naturlig springkilde og ressurs av damp.</SteamGeyser.description>
     

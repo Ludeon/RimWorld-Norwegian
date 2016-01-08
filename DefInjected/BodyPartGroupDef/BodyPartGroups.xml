@@ -9,23 +9,19 @@
     
     <Eyes.label>øyne</Eyes.label>
     
-    <Teeth.label>tenner</Teeth.label>
-    
-    <Mouth.label>munn</Mouth.label>
-    
     <Arms.label>armer</Arms.label>
-    
-    <Shoulders.label>shoulders</Shoulders.label>
     
     <Hands.label>hender</Hands.label>
     
-    <LeftHand.label>venstre hånd</LeftHand.label>
+    <LeftFist.label>venstre knyttneve</LeftFist.label>
     
-    <RightHand.label>høyre hånd</RightHand.label>
+    <RightFist.label>høyre knyttneve</RightFist.label>
     
     <Legs.label>ben</Legs.label>
     
     <Feet.label>føtter</Feet.label>
+    
+    <Teeth.label>tenner</Teeth.label>
     
     <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
     
@@ -41,9 +37,11 @@
     
     <FrontRightClaws.label>forreste høyre klo</FrontRightClaws.label>
     
-    <LeftBlade.label>left blade</LeftBlade.label>
+    <Mouth.label>munn</Mouth.label>
     
-    <RightBlade.label>right blade</RightBlade.label>
+    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>høyre knivsfremspring</RightKnifeProtrusion.label>
     
     <CoveredByNaturalArmor.label>dekket av naturlig panser</CoveredByNaturalArmor.label>
     

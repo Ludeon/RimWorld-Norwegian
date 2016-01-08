@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- base -->
+    
+    <Head.label>hode</Head.label>
+    
+    <Skull.label>kranie</Skull.label>
+    
+    <Brain.label>hjerne</Brain.label>
+    
+    <LeftEye.label>venstre øye</LeftEye.label>
+    
+    <RightEye.label>høyre øye</RightEye.label>
+    
+    <LeftEar.label>venstre øre</LeftEar.label>
+    
+    <RightEar.label>høyre øre</RightEar.label>
+    
+    <Nose.label>nese</Nose.label>
+    
+    <Jaw.label>kjeve</Jaw.label>
+    
+    <Neck.label>nakke</Neck.label>
+    
+    <Torso.label>overkropp</Torso.label>
+    
+    <LeftClavicle.label>venstre kragebein</LeftClavicle.label>
+    
+    <RightClavicle.label>høyre kragebein</RightClavicle.label>
+    
+    <Sternum.label>brystbein</Sternum.label>
+    
+    <Rib.label>ribben</Rib.label>
+    
+    <LeftHumerus.label>venstre overarmsbein</LeftHumerus.label>
+    
+    <RightHumerus.label>høyre overarmsbein</RightHumerus.label>
+    
+    <LeftRadius.label>venstre underarmsknokkel</LeftRadius.label>
+    
+    <RightRadius.label>høyre underarmsknokkel</RightRadius.label>
+    
+    <Pelvis.label>hofte</Pelvis.label>
+    
+    <LeftFemur.label>venstre lårbein</LeftFemur.label>
+    
+    <RightFemur.label>høyre lårbein</RightFemur.label>
+    
+    <LeftTibia.label>venstre skinnebein</LeftTibia.label>
+    
+    <RightTibia.label>høyre skinnebein</RightTibia.label>
+    
+    <Heart.label>hjerte</Heart.label>
+    
+    <LeftLung.label>venstre lunge</LeftLung.label>
+    
+    <RightLung.label>høyre lunge</RightLung.label>
+    
+    <LeftKidney.label>venstre nyre</LeftKidney.label>
+    
+    <RightKidney.label>høyre nyre</RightKidney.label>
+    
+    <Liver.label>lever</Liver.label>
+    
+    <Stomach.label>mage</Stomach.label>
+    
+    <Spine.label>ryggrad</Spine.label>
+    
+    <LeftShoulder.label>venstre skulder</LeftShoulder.label>
+    
+    <LeftArm.label>venstre arm</LeftArm.label>
+    
+    <LeftHand.label>venstre hånd</LeftHand.label>
+    
+    <LeftHandPinky.label>venstre hånds lillefinger</LeftHandPinky.label>
+    
+    <LeftHandRingFinger.label>venstre hånds ringfinger</LeftHandRingFinger.label>
+    
+    <LeftHandMiddleFinger.label>venstre hånds langefinger</LeftHandMiddleFinger.label>
+    
+    <LeftHandIndexFinger.label>venstre hånds pekefinger</LeftHandIndexFinger.label>
+    
+    <LeftHandThumb.label>venstre hånds tommelfinger</LeftHandThumb.label>
+    
+    <RightShoulder.label>høyre skulder</RightShoulder.label>
+    
+    <RightArm.label>høyre arm</RightArm.label>
+    
+    <RightHand.label>høyre hånd</RightHand.label>
+    
+    <RightHandPinky.label>høyre hånds lillefinger</RightHandPinky.label>
+    
+    <RightHandRingFinger.label>høyre hånds ringfinger</RightHandRingFinger.label>
+    
+    <RightHandMiddleFinger.label>høyre hånds langefinger</RightHandMiddleFinger.label>
+    
+    <RightHandIndexFinger.label>høyre hånds pekefinger</RightHandIndexFinger.label>
+    
+    <RightHandThumb.label>høyre hånds tommelfinger</RightHandThumb.label>
+    
+    <LeftLeg.label>venstre ben</LeftLeg.label>
+    
+    <LeftFoot.label>venstre fot</LeftFoot.label>
+    
+    <LeftFootLittleToe.label>venstre fots lilletå</LeftFootLittleToe.label>
+    
+    <LeftFootFourthToe.label>venstre fots fjerde tå</LeftFootFourthToe.label>
+    
+    <LeftFootMiddleToe.label>venstre fots midterste tå</LeftFootMiddleToe.label>
+    
+    <LeftFootSecondToe.label>venstre fots andre tå</LeftFootSecondToe.label>
+    
+    <LeftFootBigToe.label>venstre fots storetå</LeftFootBigToe.label>
+    
+    <RightLeg.label>høyre ben</RightLeg.label>
+    
+    <RightFoot.label>høyre fot</RightFoot.label>
+    
+    <RightFootLittleToe.label>høyre fots lilletå</RightFootLittleToe.label>
+    
+    <RightFootFourthToe.label>høyre fots fjerde tå</RightFootFourthToe.label>
+    
+    <RightFootMiddleToe.label>høyre fots midterste tå</RightFootMiddleToe.label>
+    
+    <RightFootSecondToe.label>høyre fots andre tå</RightFootSecondToe.label>
+    
+    <RightFootBigToe.label>høyre fots storetå</RightFootBigToe.label>
+    
+    <!-- animal -->
+    
+    <InsectHead.label>hode</InsectHead.label>
+    
+    <SnakeBody.label>kropp</SnakeBody.label>
+    
+    <SnakeHead.label>hode</SnakeHead.label>
+    
+    <SnakeMouth.label>munn</SnakeMouth.label>
+    
+    <InsectHeart.label>hjerte</InsectHeart.label>
+    
+    <InsectNostril.label>nesebor</InsectNostril.label>
+    
+    <InsectMouth.label>munn</InsectMouth.label>
+    
+    <Body.label>kropp</Body.label>
+    
+    <Jowl.label>underkjeve</Jowl.label>
+    
+    <Tail.label>hale</Tail.label>
+    
+    <LeftAntenna.label>venstre antenne</LeftAntenna.label>
+    
+    <RightAntenna.label>høyre antenne</RightAntenna.label>
+    
+    <Pronotum.label>pronotum</Pronotum.label>
+    
+    <Shell.label>skall</Shell.label>
+    
+    <LeftElytra.label>venstre dekkvinge</LeftElytra.label>
+    
+    <RightElytra.label>høyre dekkvinge</RightElytra.label>
+    
+    <LeftTusk.label>venstre støttann</LeftTusk.label>
+    
+    <RightTusk.label>høyre støttann</RightTusk.label>
+    
+    <Horn.label>horn</Horn.label>
+    
+    <Hump.label>pukkel</Hump.label>
+    
+    <TurtleShell.label>skall</TurtleShell.label>
+    
+    <Plastron.label>plastron</Plastron.label>
+    
+    <TurtleBeak.label>nebb</TurtleBeak.label>
+    
+    <!-- animals legs -->
+    
+    <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>høyre forben</FrontRightLeg.label>
+    
+    <MiddleLeftLeg.label>midterste venstre ben</MiddleLeftLeg.label>
+    
+    <MiddleRightLeg.label>midterste høyre ben</MiddleRightLeg.label>
+    
+    <RearLeftLeg.label>bakerste venstre ben</RearLeftLeg.label>
+    
+    <RearRightLeg.label>bakerste høyre ben</RearRightLeg.label>
+    
+    <FrontLeftInsectLeg.label>venstre forben</FrontLeftInsectLeg.label>
+    
+    <FrontRightInsectLeg.label>høyre forben</FrontRightInsectLeg.label>
+    
+    <MiddleLeftInsectLeg.label>midterste venstre ben</MiddleLeftInsectLeg.label>
+    
+    <MiddleRightInsectLeg.label>midterste høyre ben</MiddleRightInsectLeg.label>
+    
+    <RearLeftInsectLeg.label>bakerste venstre ben</RearLeftInsectLeg.label>
+    
+    <RearRightInsectLeg.label>bakerste høyre ben</RearRightInsectLeg.label>
+    
+    <FrontLeftPaw.label>forben venstre pote</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>forben høyre pote</FrontRightPaw.label>
+    
+    <RearLeftPaw.label>bakerste venstre pote</RearLeftPaw.label>
+    
+    <RearRightPaw.label>bakerste høyre pote</RearRightPaw.label>
+    
+    <FrontLeftHoof.label>forreste venstre hov</FrontLeftHoof.label>
+    
+    <FrontRightHoof.label>forreste høyre hov</FrontRightHoof.label>
+    
+    <RearLeftHoof.label>bakerste venstre hov</RearLeftHoof.label>
+    
+    <RearRightHoof.label>bakerste høyre hov</RearRightHoof.label>
+    
+    <FrontLeftLegFirstClaw.label>forreste bens venstre første klo</FrontLeftLegFirstClaw.label>
+    
+    <FrontLeftLegSecondClaw.label>forreste bens venstre andre klo</FrontLeftLegSecondClaw.label>
+    
+    <FrontLeftLegThirdClaw.label>forreste bens venstre tredje klo</FrontLeftLegThirdClaw.label>
+    
+    <FrontLeftLegFourthClaw.label>forreste bens venstre fjerde klo</FrontLeftLegFourthClaw.label>
+    
+    <FrontLeftLegFifthClaw.label>forreste bens venstre femte klo</FrontLeftLegFifthClaw.label>
+    
+    <FrontRightLegFirstClaw.label>forreste bens høyre første klo</FrontRightLegFirstClaw.label>
+    
+    <FrontRightLegSecondClaw.label>forreste bens høyre andre klo</FrontRightLegSecondClaw.label>
+    
+    <FrontRightLegThirdClaw.label>forreste bens høyre tredje klo</FrontRightLegThirdClaw.label>
+    
+    <FrontRightLegFourthClaw.label>forreste bens høyre fjerde klo</FrontRightLegFourthClaw.label>
+    
+    <FrontRightLegFifthClaw.label>forreste bens høyre femte klo</FrontRightLegFifthClaw.label>
+    
+    <RearLeftLegFirstClaw.label>bakerste venstre bens første klo</RearLeftLegFirstClaw.label>
+    
+    <RearLeftLegSecondClaw.label>bakerste venstre bens andre klo</RearLeftLegSecondClaw.label>
+    
+    <RearLeftLegThirdClaw.label>bakerste venstre bens tredje klo</RearLeftLegThirdClaw.label>
+    
+    <RearLeftLegFourthClaw.label>bakerste venstre bens fjerde klo</RearLeftLegFourthClaw.label>
+    
+    <RearLeftLegFifthClaw.label>bakerste venstre bens femte klo</RearLeftLegFifthClaw.label>
+    
+    <RearRightLegFirstClaw.label>bakerste høyre bens første klo</RearRightLegFirstClaw.label>
+    
+    <RearRightLegSecondClaw.label>bagkrste høyre bens andre klo</RearRightLegSecondClaw.label>
+    
+    <RearRightLegThirdClaw.label>bakerste høyre bens tredje klo</RearRightLegThirdClaw.label>
+    
+    <RearRightLegFourthClaw.label>bakerste høyre bens fjerde klo</RearRightLegFourthClaw.label>
+    
+    <RearRightLegFifthClaw.label>bakerste høyre bens femte klo</RearRightLegFifthClaw.label>
+    
+    <!-- mechanical -->
+    
+    <MechanicalThorax.label>brystkasse</MechanicalThorax.label>
+    
+    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>høyre knivsfremspring</RightKnifeProtrusion.label>
+    
+    <MechanicalNeck.label>nakke</MechanicalNeck.label>
+    
+    <MechanicalHead.label>hode</MechanicalHead.label>
+    
+    <LeftSightSensor.label>venstre synsensor</LeftSightSensor.label>
+    
+    <RightSightSensor.label>høyre synssensor</RightSightSensor.label>
+    
+    <LeftHearingSensor.label>venstre hørselssensor</LeftHearingSensor.label>
+    
+    <RightHearingSensor.label>høyre hørselssensor</RightHearingSensor.label>
+    
+    <SmellSensor.label>luktesensor</SmellSensor.label>
+    
+    <LeftMechanicalShoulder.label>venstre skulder</LeftMechanicalShoulder.label>
+    
+    <LeftMechanicalArm.label>venstre arm</LeftMechanicalArm.label>
+    
+    <LeftMechanicalHand.label>venstre hånd</LeftMechanicalHand.label>
+    
+    <LeftHandMechanicalPinky.label>venstre hånds lillefinger</LeftHandMechanicalPinky.label>
+    
+    <LeftHandMechanicalRingFinger.label>venstre hånds ringfinger</LeftHandMechanicalRingFinger.label>
+    
+    <LeftHandMechanicalMiddleFinger.label>venstre hånds langefinger</LeftHandMechanicalMiddleFinger.label>
+    
+    <LeftHandMechanicalIndexFinger.label>venstre hånds pekefinger</LeftHandMechanicalIndexFinger.label>
+    
+    <LeftHandMechanicalThumb.label>venstre hånds tommelfinger</LeftHandMechanicalThumb.label>
+    
+    <RightMechanicalShoulder.label>høyre skulder</RightMechanicalShoulder.label>
+    
+    <RightMechanicalArm.label>høyre arm</RightMechanicalArm.label>
+    
+    <RightMechanicalHand.label>høyre hånd</RightMechanicalHand.label>
+    
+    <RightHandMechanicalPinky.label>høyre hånds lillefinger</RightHandMechanicalPinky.label>
+    
+    <RightHandMechanicalRingFinger.label>høyre hånds ringfinger</RightHandMechanicalRingFinger.label>
+    
+    <RightHandMechanicalMiddleFinger.label>høyre hånds langefinger</RightHandMechanicalMiddleFinger.label>
+    
+    <RightHandMechanicalIndexFinger.label>høyre hånds pekefinger</RightHandMechanicalIndexFinger.label>
+    
+    <RightHandMechanicalThumb.label>høyre hånds tommelfinger</RightHandMechanicalThumb.label>
+    
+    <LeftMechanicalLeg.label>venstre ben</LeftMechanicalLeg.label>
+    
+    <LeftMechanicalFoot.label>venstre fot</LeftMechanicalFoot.label>
+    
+    <LeftFootMechanicalLittleToe.label>venstre fots lilletå</LeftFootMechanicalLittleToe.label>
+    
+    <LeftFootMechanicalFourthToe.label>venstre fots fjerde tå</LeftFootMechanicalFourthToe.label>
+    
+    <LeftFootMechanicalMiddleToe.label>venstre fots midterste tå</LeftFootMechanicalMiddleToe.label>
+    
+    <LeftFootMechanicalSecondToe.label>venstre fots andre tå</LeftFootMechanicalSecondToe.label>
+    
+    <LeftFootMechanicalBigToe.label>venstre fots storetå</LeftFootMechanicalBigToe.label>
+    
+    <RightMechanicalLeg.label>høyre ben</RightMechanicalLeg.label>
+    
+    <RightMechanicalFoot.label>høyre fot</RightMechanicalFoot.label>
+    
+    <RightFootMechanicalLittleToe.label>høyre fots lilletå</RightFootMechanicalLittleToe.label>
+    
+    <RightFootMechanicalFourthToe.label>høyre fots fjerde tå</RightFootMechanicalFourthToe.label>
+    
+    <RightFootMechanicalMiddleToe.label>høyre fots midterste tå</RightFootMechanicalMiddleToe.label>
+    
+    <RightFootMechanicalSecondToe.label>høyre fots andre tå</RightFootMechanicalSecondToe.label>
+    
+    <RightFootMechanicalBigToe.label>høyre fots storetå</RightFootMechanicalBigToe.label>
+    
+    <MechanicalCentipedeBodyFirstRing.label>første kroppsring</MechanicalCentipedeBodyFirstRing.label>
+    
+    <MechanicalCentipedeBodySecondRing.label>andre kroppsring</MechanicalCentipedeBodySecondRing.label>
+    
+    <MechanicalCentipedeBodyThirdRing.label>tredje kroppsring</MechanicalCentipedeBodyThirdRing.label>
+    
+    <MechanicalCentipedeBodyFourthRing.label>fjerde kroppsring</MechanicalCentipedeBodyFourthRing.label>
+    
+    <MechanicalCentipedeBodyFifthRing.label>femte kroppsring</MechanicalCentipedeBodyFifthRing.label>
+    
+    <MechanicalCentipedeBodySixthRing.label>sjette kroppsring</MechanicalCentipedeBodySixthRing.label>
+    
+    <ArtificialBrain.label>kunstig hjerne</ArtificialBrain.label>
+    
+</LanguageData>

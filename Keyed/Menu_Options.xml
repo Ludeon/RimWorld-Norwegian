@@ -1,39 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  
+  <!-- Audiovisuals -->
   <Audiovisuals>Lydvirksomhet</Audiovisuals>
   <GameVolume>Spillvolum</GameVolume>
   <MusicVolume>Musikkvolum</MusicVolume>
-  <Antialiasing>Anti-aliasing</Antialiasing>
+  <GraphicsQuality>Grafikkvalitet</GraphicsQuality>
+  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>God</GraphicsQualityGreat>
 
   
+  <!-- Gameplay -->
   <EdgeScreenScroll>Kantrulling</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
   <CustomCursor>Tilpasset markør</CustomCursor>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
   <ChooseLanguage>Velg språk</ChooseLanguage>
   <AdaptiveTutor>Tilpasset veileder</AdaptiveTutor>
   <ResetAdaptiveTutor>Nullstill tilpasset veileder</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Tilpasset veileder er nullstilt. Han vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
   <RunInBackground>Kjør i bakgrunnen</RunInBackground>
   <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
   <LogVerbose>Verbose logging</LogVerbose>
   <OpenSaveGameDataFolder>Åpne lagringsdata mappen</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Etternavn av Navn I Spillet eller bakgrunnskarakter du har lyst til å se:</NamesYouWantToSee>
   <ChangeStoryteller>Velg historieforteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-
   
+  <!-- Resolution -->
   <Resolution>Resolusjon</Resolution>
   <Fullscreen>Fullskjerm</Fullscreen>
+  <CurrentRes>For øyeblikket {0}</CurrentRes>
+  <ChooseResolution>Velg resolusjon</ChooseResolution>
 
   
+  <!-- Privacy-->
   <Privacy>Personvern</Privacy>
   <UserName>Brukernavn</UserName>
   <ChooseHistoryUploadPref>Opplasting av spilldata.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>For øyeblikket {0}</CurrentHistoryUploadPref>
   <AboutHistoryUpload>Brukerens spilldata hjelper utviklere med å balansere spillet. Hvis du er enig, blir informasjonen din sendt hver {0} spilldager (Og I noen andre sjeldne tilfeller som ved slutten av spillet) til RimWorld serveren og blir deretter analysert. Opplastet spilldata består kun av statistikk og historie relatert til spillet - Ingen personlig informasjon blir sendt, bortsett ifra brukernavn, hvilket betyr at det er helt anonymt.</AboutHistoryUpload>
   
 </LanguageData>

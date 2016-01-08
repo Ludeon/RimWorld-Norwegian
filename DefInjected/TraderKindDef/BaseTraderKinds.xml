@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FarmingVessel.label>matvarehandlere</FarmingVessel.label>
+    
+    <IndustrialTrader.label>industrihandlere</IndustrialTrader.label>
+
+    <CombatSupplier.label>våpenhandlere</CombatSupplier.label>
+    
+    <SlaveTrader.label>slavehandlere</SlaveTrader.label>
+    
+    <ExoticTrader.label>Eksotiske handlere</ExoticTrader.label>
+    
+</LanguageData>

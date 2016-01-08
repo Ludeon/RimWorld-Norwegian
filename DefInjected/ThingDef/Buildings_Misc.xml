@@ -7,28 +7,16 @@
     <OrbitalTradeBeacon.label>handelsmerke.</OrbitalTradeBeacon.label>
     <OrbitalTradeBeacon.description>Nødvendig til omløpshandel. Du kan bare selge varer som er tett på et handelsmerke som ikke er under et tak, handelsmenn vil også slippe ned det du kjøper nær merket.</OrbitalTradeBeacon.description>
     
+    <ResearchBench.label>forskningsstasjon</ResearchBench.label>
+    <ResearchBench.description>Forskere arbeider her for å oppdage nye ting.</ResearchBench.description>
+    
     <CommsConsole.label>kommunikasjonskonsoll</CommsConsole.label>
     <CommsConsole.description>Kommuniser med romskip i bane rundt planeten for å handle varer.</CommsConsole.description>
-    
-    <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Increases research speed. Needs to be placed near research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
-    
-    <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-    <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
-    
-    <ToolCabinet.label>tool cabinet</ToolCabinet.label>
-    <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
     
     <Grave.label>gravsted</Grave.label>
     <Grave.description>Plasser de døde i gravsteder, for å gi dem et verdig siste hvilested.</Grave.description>
     
-    <Sarcophagus.label>sarcophagus</Sarcophagus.label>
-    <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
-    
-    <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
-    <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
-    
-    <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
-    <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+    <FertilizerPump.label>gjødselspumpe</FertilizerPump.label>
+    <FertilizerPump.description>Utvider langsomt et jordområde til landbruk.</FertilizerPump.description>
     
 </LanguageData>

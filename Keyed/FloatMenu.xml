@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
   
 	<CallOnRadio>Kontakt {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
 	<CannotUseSolarFlare>Kan ikke brukes (sol fakkel)</CannotUseSolarFlare>
 	<CannotUseNoPower>Kan ikke brukes (ingen strøm)</CannotUseNoPower>
 	<CannotUseNoPath>Kan ikke brukes (ingen vei)</CannotUseNoPath>
@@ -30,21 +29,12 @@
 	<NoEmptyPlaceLower>ingen tom plass konfigurt til å lagre det</NoEmptyPlaceLower>
 	<AlreadyFilledLower>allerede fylt nok</AlreadyFilledLower>
 	<MissingMaterials>trenger materialer</MissingMaterials>
-  <MissingSkill>skill too low</MissingSkill>
-	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
-
-  <ConsumeThing>Consume {0}</ConsumeThing>
-  <Teetotaler>teetotaler</Teetotaler>
-  
-  
+	
+	
   <CannotGoNoPath>Kan ikke gå hit (ingen vei)</CannotGoNoPath>
   <GoHere>Gå hit</GoHere>
   
   <Arrest>Arrester {0}</Arrest>
-  <TryToArrest>Try to arrest {0}</TryToArrest>
   <CannotArrest>Kan ikke arrestere</CannotArrest>
 
   <Capture>Fang {0}</Capture>
@@ -53,24 +43,19 @@
   <Rescue>Berg {0}</Rescue>
   <CannotRescue>Kan ikke berge</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
-
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
   <NoPrisonerBed>Ingen tilgjengelig innestengt fangemarkert seng.</NoPrisonerBed>
   <NoNonPrisonerBed>Ingen tilgjengelige kolonist senger.</NoNonPrisonerBed>
   <Reserved>Reservert av en annen.</Reserved>
   <ReservedBy>Reservert av {0}.</ReservedBy>
   <IsReservedBy>{0} er reservert av {1}.</IsReservedBy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <NoManipulationSkill>Skadet</NoManipulationSkill>
 
   <Equip>Utrust {0}</Equip>
   <EquipWarningBrawler>(vekter vil bli glad)</EquipWarningBrawler>
   <CannotEquip>Kan ikke utruste {0}</CannotEquip>
   
-  <ForceWear>Force wear {0}</ForceWear>
+  <Wear>Bruk {0}</Wear>
   <CannotWear>Kan ikke bruke {0}</CannotWear>
   
   <Strip>Kle av {0}</Strip>
@@ -79,26 +64,21 @@
   <Deposit>Legg {0} in i {1}</Deposit>
   <CannotDeposit>Kan ikke legge {0} in i {1}</CannotDeposit>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
-  
   <Drop>Slipp {0}</Drop>
-
+  
   <UseMedicalBed>Hvil til en er fullt helbredet</UseMedicalBed>
   <NotInjured>Ikke skadet</NotInjured>
   <SomeoneElseSleeping>Opptatt</SomeoneElseSleeping>
 
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Gå inn i kryptosøvn kapslen</EnterCryptosleepPod>
   
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
-
-
-
   
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
 
-  
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
-
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotGenericAlreadyAm>Allerede {0} {1}</CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>Kan ikke prioritere ({0} er ikke en {1})</CannotPrioritizeIsNotA>
@@ -106,9 +86,8 @@
   <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langtidsoppgave)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
-  
-  
-  
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioriter {0} {1}</PrioritizeGeneric>
   
 </LanguageData>

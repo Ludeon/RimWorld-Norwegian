@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Hydroponics.label>hydroponi</Hydroponics.label>
+    <Hydroponics.description>Tillater deg å bygge hydroponiske bed som hurtig kan gro avlinger innendørs.</Hydroponics.description>
+    
+    <PneumaticPicks.label>pneumatisk hakke</PneumaticPicks.label>
+    <PneumaticPicks.description>Hakker til gruvedrift er 20% mer effektive.</PneumaticPicks.description>
+    
+    <Stonecutting.label>steinhugging</Stonecutting.label>
+    <Stonecutting.description>Bygg steinhuggerbenken, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
+    
+    <ElectricSmelting.label>elektrisk smelting</ElectricSmelting.label>
+    <ElectricSmelting.description>Bygg elektriske smeltere som bruker varme og sterk elektromagnetisme til å utvinne metall fra vrakdeler og andre ting.</ElectricSmelting.description>
+    
+    <Machining.label>maskinarbeid</Machining.label>
+    <Machining.description>Bygg bordet til maskinarbeid, hvor man kan bryte ned døde mekanoider til brukbart metall.</Machining.description>
+    
+    <NutrientResynthesis.label>nærings-resyntese</NutrientResynthesis.label>
+    <NutrientResynthesis.description>Næringspasta automaten bruker 10% færre ressurser per produsert måltid.</NutrientResynthesis.description>
+    
+    <GunTurretCooling.label>maskingeværkjøling</GunTurretCooling.label>
+    <GunTurretCooling.description>Ubemannede maskingevær skyter fire skudd av gangen i stedet for tre.</GunTurretCooling.description>
+    
+    <Mortars.label>morterer</Mortars.label>
+    <Mortars.description>Lær å bygge mortere, som kan sende granater over lange distanser og over vegger.</Mortars.description>
+    
+    <Cremation.label>kremering</Cremation.label>
+    <Cremation.description>Tillater bygging av krematorier, som kan få lik til å forsvinne.</Cremation.description>
+    
+    <CarpetMaking.label>teppeproduksjon</CarpetMaking.label>
+    <CarpetMaking.description>Tillater kolonister å bygge tepper som kan forbedre kvaliteten av miljøet deres.</CarpetMaking.description>
+    
+    <Tailoring.label>skreddersying</Tailoring.label>
+    <Tailoring.description>Tillater kolonister å bygge en skredderbenk, og lage nytt tøy av stoff, lær eller andre materialer.</Tailoring.description>
+    
+    <ColoredLights.label>farget lys</ColoredLights.label>
+    <ColoredLights.description>Tillater kolonister å bygge farget lys som dekorasjon.</ColoredLights.description>
+    
+    <HospitalBed.label>sykeseng</HospitalBed.label>
+    <HospitalBed.description>Tillater kolonister å bygge sykesenger, som forbedrer sjansen for å lyktes i operasjoner.</HospitalBed.description>
+    
+</LanguageData>

@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FilthDirt.label>skitt</FilthDirt.label>
+    <FilthBlood.label>blod</FilthBlood.label>
     
-    <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
+    <FilthDirt.label>skitt</FilthDirt.label>
     
     <FilthSand.label>sand</FilthSand.label>
     
     <RockRubble.label>stenklumper</RockRubble.label>
     
-    <BuildingRubble.label>building rubble</BuildingRubble.label>
-    
+    <SlagRubble.label>slaggklumper</SlagRubble.label>
+
     <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
-    
-    <FilthBlood.label>blod</FilthBlood.label>
-    
-    <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
-    
-    <FilthSlime.label>slime</FilthSlime.label>
-    
-    <FilthVomit.label>vomit</FilthVomit.label>
-    
+        
 </LanguageData>

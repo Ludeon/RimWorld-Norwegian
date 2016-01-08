@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  
+  <!-- glow -->
   <Dark>Mørkt</Dark>
   <Lit>Belysning</Lit>
   <LitBrightly>Sterk belysning</LitBrightly>
   
+  <!-- food quality -->
+  <NoneQuality>Ingen</NoneQuality>
+  <PlantQuality>Plante</PlantQuality>
+  <RawQuality>Rått</RawQuality>
+  <MealAwfulQuality>Forferdelig</MealAwfulQuality>
+  <MealSimpleQuality>Simpel</MealSimpleQuality>
+  <MealFineQuality>Fin</MealFineQuality>
+  <MealLavishLavish>Overdådig</MealLavishLavish>
   
+  <!-- diet type -->
   <NeverEats>Spiser aldri</NeverEats>
   <Omnivorous>Alteter</Omnivorous>
   <Herbivorous>Planteeter</Herbivorous>
   <Carnivorous>Kjøtteter</Carnivorous>
-  <Dendrovorous>Dendrovorous</Dendrovorous>
-
   
+  <!-- history upload pref -->
   <Unspecified>Ubestemt</Unspecified>
   <Always>Tillat</Always>
   <Never>Ikke tillat</Never>
   
-  
+  <!-- Price types -->
   <PriceTypeVeryCheap>veldig billig</PriceTypeVeryCheap>
   <PriceTypeCheap>billig</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
   <PriceTypeExpensive>dyr</PriceTypeExpensive>
   <PriceTypeExorbitant>skyhøy</PriceTypeExorbitant>
 
+  <!-- stat category -->
+  <StatCategory_General>Generelt</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Generelt</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Rustning</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primær</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Jobb</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Kamp</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sosialt</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Diverse</StatCategory_PawnMisc>
+  <StatCategory_Building>Bygning</StatCategory_Building>
   
+  <EquippedStatOffsets>Påvirkning på utrustning</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Påvirkning når utstyr er laget av dette</StuffOfEquipmentStatModifiers>
+  
+  <!-- Quality category -->
   <QualityCategory_Awful>forferdelig</QualityCategory_Awful>
   <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
   <QualityCategory_Poor>dårlig</QualityCategory_Poor>
@@ -46,49 +68,4 @@
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legn</QualityCategoryShort_Legendary>
   
-  
-  
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
-
-  
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
-
-  
-  <Hilliness_Flat>Flat</Hilliness_Flat>
-  <Hilliness_SmallHills>Small hills</Hilliness_SmallHills>
-  <Hilliness_LargeHills>Large hills</Hilliness_LargeHills>
-  <Hilliness_Mountainous>Mountainous</Hilliness_Mountainous>
-  
-  
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
-
-  
-  <TrainableIntelligence_None>None</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
-
-  
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
-
-
-
-
 </LanguageData>

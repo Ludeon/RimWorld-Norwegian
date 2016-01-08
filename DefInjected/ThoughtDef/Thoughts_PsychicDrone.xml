@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PsychicDrone.stages.0.label>psychic soothe (medium)</PsychicDrone.stages.0.label>
-    <PsychicDrone.stages.0.description>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</PsychicDrone.stages.0.description>
-    <PsychicDrone.stages.1.label>psychic drone (low)</PsychicDrone.stages.1.label>
-    <PsychicDrone.stages.1.description>It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them.</PsychicDrone.stages.1.description>
-    <PsychicDrone.stages.2.label>psychic drone (medium)</PsychicDrone.stages.2.label>
-    <PsychicDrone.stages.2.description>I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away!</PsychicDrone.stages.2.description>
-    <PsychicDrone.stages.3.label>psychic drone (high)</PsychicDrone.stages.3.label>
-    <PsychicDrone.stages.3.description>The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting!</PsychicDrone.stages.3.description>
-    <PsychicDrone.stages.4.label>psychic drone (extreme)</PsychicDrone.stages.4.label>
-    <PsychicDrone.stages.4.description>My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare...</PsychicDrone.stages.4.description>
+    <!-- psykisk drone -->
+    
+    <PsychicDroneLow.label>psykisk drone (lav)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Det er som om noe klør meg i bakgrunnen av sinnet mitt. En stemme, som hvisker. Jeg kan høre få ord, og jeg liker dem ikke.</PsychicDroneLow.description>
+    
+    <PsychicDroneMedium.label>psykisk drone (mellom)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Det føles som om noen alltid er i utkanten av mitt synsfelt, som snakker til meg. Stemmen endrer seg, men beskjeden er den samme. Jeg får beskjed om å gjøre folk ondt. Få det til å gå vekk!</PsychicDroneMedium.description>
+    
+    <PsychicDroneHigh.label>psykisk drone (høy)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>Stemmen er utålelig høy. Det er vanskelig å konsentrere seg. Jeg opplever at jeg står og snakker med stemmen, roper på den. Men stemmen blir med og roper tilbake igjen!</PsychicDroneHigh.description>
+    
+    <PsychicDroneExtreme.label>psykisk drone (ekstrem)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>Mitt hjerte banker og jeg svetter. alt jeg kan tenke på er smerte og ondskap, og alle disse fiendene rundt meg. De er mitt mareritt, mitt mareritt, mitt mareritt...</PsychicDroneExtreme.description>
     
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <LetterDay>d</LetterDay>
@@ -17,19 +17,7 @@
   <Born>Født: {0} {1} {2}</Born>
   <AgeChronological>Kronologisk alder: {0} år, {1} måneder, {2} dager</AgeChronological>
   <AgeBiological>Biologisk alder: {0} år, {1} måneder, {2} dager</AgeBiological>
+
   <DaysHours>{0} dager, {1} timer</DaysHours>
 
-  
-  <Period1Month>1 month</Period1Month>
-  <PeriodMonths>{0} months</PeriodMonths>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
-
-  
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  
-  
 </LanguageData>

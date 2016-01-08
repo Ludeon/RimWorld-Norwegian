@@ -2,12 +2,12 @@
 <LanguageData>
     
     <Wealth.label>rikdom</Wealth.label>
-    <Wealth.graphLabelY>mengde</Wealth.graphLabelY>
+	<Wealth.graphLabelY>mengde</Wealth.graphLabelY>
     
     <Population.label>befolkning</Population.label>
-    <Population.graphLabelY>Kolonister</Population.graphLabelY>
+	<Population.graphLabelY>Kolonister</Population.graphLabelY>
     
     <ColonistMood.label>kolonisthumør</ColonistMood.label>
-    <ColonistMood.graphLabelY>Prosent</ColonistMood.graphLabelY>
+	<ColonistMood.graphLabelY>Prosent</ColonistMood.graphLabelY>
     
 </LanguageData>

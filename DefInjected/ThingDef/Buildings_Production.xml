@@ -5,19 +5,14 @@
     <NutrientPasteDispenser.description>Syntetiserer næringspasta fra organisk materiale.</NutrientPasteDispenser.description>
     
     <Hopper.label>beholder</Hopper.label>
-    <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
+    
+    <!-- ========================= Work tables ==========================-->
     
     <TableButcher.label> slakterbenk</TableButcher.label>
     <TableButcher.description>Tung benk til slakting av døde skapninger til stykker av rått kjøtt.</TableButcher.description>
     
     <TableTailor.label> skredderbenk</TableTailor.label>
     <TableTailor.description>En benk til å produsere tøy og forbedre det.</TableTailor.description>
-    
-    <TableSmithing.label>smithing bench</TableSmithing.label>
-    <TableSmithing.description>A workbench equipped for weapons and tools production.</TableSmithing.description>
-    
-    <TableSculpting.label>sculptor's table</TableSculpting.label>
-    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
     
     <TableMachining.label> maskineringsbenk</TableMachining.label>
     <TableMachining.description>En benk med verktøy til å bygge og adskille maskinelle komponenter på.</TableMachining.description>
@@ -28,17 +23,13 @@
     <TableStonecutter.label> steinhuggerbenk</TableStonecutter.label>
     <TableStonecutter.description>En arbeidsbenk til å hugge rå stein om til brukbare mursteiner.</TableStonecutter.description>
     
-    <Brewery.label>brewery</Brewery.label>
-    <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
-    
     <ElectricSmelter.label>elektrisk smelteverk</ElectricSmelter.label>
     <ElectricSmelter.description>Utvinner brukbart metall fra vrakdeler og andre forskjellige metallting. Bruker mye strøm.</ElectricSmelter.description>
     
-    <ResearchBench.label>forskningsstasjon</ResearchBench.label>
-    <ResearchBench.description>Forskere arbeider her for å oppdage nye ting.</ResearchBench.description>
-    
     <Crematorium.label>krematorie</Crematorium.label>
     <Crematorium.description>Kremerer lik.</Crematorium.description>
+    
+    <!-- ========== Hydroponics ==============-->
     
     <HydroponicsBasin.label>hydroponisk bed</HydroponicsBasin.label>
     <HydroponicsBasin.description>Til å gro mat. Hydroponiske bed gror få planter, men hurtig.</HydroponicsBasin.description>

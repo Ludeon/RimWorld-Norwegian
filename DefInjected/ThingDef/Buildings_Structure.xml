@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <!--========================= Doors =============================-->
+    
     <Door.label>dør</Door.label>
     <Door.description>Deler rom. Skal åpnes og lukkes manualt, slik at folk kan gå gjennom, men senker farten.</Door.description>
     
     <Autodoor.label>autodør</Autodoor.label>
     <Autodoor.description>Deler rom. Tilført strøm kan folk gå gjennom hurtig uten å senke farten.</Autodoor.description>
     
+    <!--========================= Walls =============================-->
+    
     <Wall.label>vegg</Wall.label>
     <Wall.description>En ugjennomtrengelig vegg. kan holde et tak oppe.</Wall.description>
+    
+    <WallConduit.label>strømførende vegg</WallConduit.label>
+    <WallConduit.description>En vegg med innebygde strømledninger.</WallConduit.description>
     
 </LanguageData>

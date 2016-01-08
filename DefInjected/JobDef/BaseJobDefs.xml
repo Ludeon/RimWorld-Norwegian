@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--========= General ============-->
+    
+    <Goto.reportString>Går.</Goto.reportString>
+    
+    <Wait.reportString>Står.</Wait.reportString>
+    
+    <AttackStatic.reportString>Angriper TargetA.</AttackStatic.reportString>
+    
+    <AttackMelee.reportString>Nærkampsangriper TargetA.</AttackMelee.reportString>
+    
+    <UseVerbOnThing.reportString>Bruker verb.</UseVerbOnThing.reportString>
+    
+    <Equip.reportString>Bruker TargetA.</Equip.reportString>
+    
+    <!--============= Misc ============-->
+    
+    <Wear.reportString>Bærer TargetA.</Wear.reportString>
+    
+    <Strip.reportString>Avkler TargetA.</Strip.reportString>
+    
+    <Hunt.reportString>Jager TargetA.</Hunt.reportString>
+    
+    <ManThing.reportString>Bruker maskin.</ManThing.reportString>
+    
+    <EnterCryptosleepPod.reportString>Går i kryptosøvn-kapsel.</EnterCryptosleepPod.reportString>
+    
+    <UseNeurotrainer.reportString>Bruker neurotrener.</UseNeurotrainer.reportString>
+    
+    <!--============ Fire ============-->
+    
+    <Ignite.reportString>Setter ild til TargetA.</Ignite.reportString>
+    
+    <BeatFire.reportString>Slår ilden ut.</BeatFire.reportString>
+    
+    <ExtinguishSelf.reportString>Brannslukker seg selv.</ExtinguishSelf.reportString>
+    
+    <!--============ Need satisfaction ============-->
+    
+    <EatFood.reportString>Spiser fra TargetA.</EatFood.reportString>
+    
+    <LayDown.reportString>Ligger ned.</LayDown.reportString>
+    
+    <!--============= Item hauling ===============-->
+    
+    <HaulToCell.reportString>Sleper TargetA til celle.</HaulToCell.reportString>
+    
+    <HaulToContainer.reportString>Sleper TargetA.</HaulToContainer.reportString>
+    
+    <!--============= Pawn hauling ===============-->
+    
+    <Rescue.reportString>Redder TargetA.</Rescue.reportString>
+    
+    <Capture.reportString>Fanger TargetA.</Capture.reportString>
+    
+    <Arrest.reportString>Arresterer TargetA.</Arrest.reportString>
+    
+    <EscortPrisonerToBed.reportString>Eskorterer fangen TargetA.</EscortPrisonerToBed.reportString>
+    
+    <TakeWoundedPrisonerToBed.reportString>Tar såret fange TargetA.</TakeWoundedPrisonerToBed.reportString>
+    
+    <TakeToBedToOperate.reportString>Tar TargetA til sengs.</TakeToBedToOperate.reportString>
+    
+    <Kidnap.reportString>Kidnapper TargetA.</Kidnap.reportString>
+    
+    <DeliverFood.reportString>Mater TargetA til TargetB.</DeliverFood.reportString>
+    
+    <FeedPatient.reportString>Forer TargetA til TargetB.</FeedPatient.reportString>
+    
+    <HealPatient.reportString>Helbreder TargetA.</HealPatient.reportString>
+    
+    <PlaceNoCostFrame.reportString>Bruker TargetA.</PlaceNoCostFrame.reportString>
+    
+    <DoBill.reportString>Utfører ordrer ved TargetA.</DoBill.reportString>
+    
+    <Clean.reportString>Rengjører TargetA.</Clean.reportString>
+    
+    <Research.reportString>Forsker.</Research.reportString>
+    
+    <UseCommsConsole.reportString>Bruker kommunikasjonskonsoll.</UseCommsConsole.reportString>
+    
+    <Mine.reportString>Graver TargetA.</Mine.reportString>
+    
+    <Repair.reportString>Reparerer TargetA.</Repair.reportString>
+    
+    <FinishFrame.reportString>Bygger TargetA.</FinishFrame.reportString>
+    
+    <Sow.reportString>Sår TargetA.</Sow.reportString>
+    
+    <Harvest.reportString>Høster TargetA.</Harvest.reportString>
+    
+    <CutPlant.reportString>Kutter TargetA.</CutPlant.reportString>
+    
+    <Deconstruct.reportString>Nedbryter TargetA.</Deconstruct.reportString>
+    
+    <PrisonerFriendlyChat.reportString>Snakker med fangen TargetA.</PrisonerFriendlyChat.reportString>
+    
+    <PrisonerBeatingMild.reportString>Slår mildt fangen TargetA.</PrisonerBeatingMild.reportString>
+    
+    <PrisonerBeatingVicious.reportString>Slår hårdt fangen TargetA.</PrisonerBeatingVicious.reportString>
+    
+    <PrisonerExecution.reportString>Henretter TargetA.</PrisonerExecution.reportString>
+    
+</LanguageData>

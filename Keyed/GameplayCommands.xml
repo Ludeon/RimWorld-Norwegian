@@ -1,25 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<CommandForbiddenDesc>Forbudt - kolonister vil ikke samhandle med dette.</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>Ikke forbudt - kolonister kan samhandle med dette.</CommandNotForbiddenDesc>
 
-  
+  <!-- Power -->
   <CommandTogglePowerLabel>Strømbryter</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Veksle av og på strøm.</CommandTogglePowerDesc>
-  
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
-  
+
   <CommandTryReconnectLabel>Koble om</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Jeg blir koblet til et annet strømnett innenfor min radius. Dette er hjelpsomt hvis jeg er koblet til et strømnett uten strøm.</CommandTryReconnectDesc>
+
 
   <CommandGatherSpotToggleLabel>Forsamlingssted</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister vil samle seg rundt dette objektet.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister vil ikke samle seg rundt dette objektet.</CommandGatherSpotToggleDescInactive>
   
   
-  
+  <!-- Drafting -->
   <CommandDraftLabel>Innkall</CommandDraftLabel>
   <CommandUndraftLabel>Utskriv</CommandUndraftLabel>
   <CommandToggleDraftDesc>Veksle mellom innkalling i militsen.\n\nInnkalte folk kan ta ordre og slåss. De vil ikke jobbe, spise eller sove.</CommandToggleDraftDesc>
@@ -34,11 +32,7 @@
 
   <CommandBedSetOwnerLabel>Tildel eier</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>Denne sengen blir gitt til en spesifikk kolonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <CommandGraveSetToUnassignedLabel>Set to unassigned</CommandGraveSetToUnassignedLabel>
-  <CommandGraveSetToUnassignedDesc>Set this grave to be unassigned to anybody.</CommandGraveSetToUnassignedDesc>
-  <BuildingAssign>Assign</BuildingAssign>
+  <BedAssign>Tildel</BedAssign>
   <CommandBedSetForPrisonersLabel>Tildel fanger</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Alle senger i dette rommet blir reservert for fanger.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Kan ikke tildele senger som er utendørs til fanger.</CommandBedSetForPrisonersFailOutdoors>
@@ -52,29 +46,23 @@
   <TurningOffPrisonerBedWarning>Å skru av fangemodus har en effekt over hele rommet (siden fanger og kolonister ikke kan sove på samme rom).\n\nDisse folkene vil miste eierskap av sengene sine:</TurningOffPrisonerBedWarning>
   <AreYouSure>Er du sikker på at du vil gjøre dette?</AreYouSure>
 
-  <CommandDetonateLabel>Detoner</CommandDetonateLabel>
+  
+  
   <CommandDetonateDesc>Start nedtellingen til detonasjon.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detoner</CommandDetonateLabel>
 
-  <CommandRenameZoneLabel>Omdøp</CommandRenameZoneLabel>
   <CommandRenameZoneDesc>Gir denne sonen et nytt navn.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Omdøp</CommandRenameZoneLabel>
 
+  <CommandHideZoneDesc>Gjemmer/viser denne sonen.</CommandHideZoneDesc>
   <CommandHideZoneLabel>Gjem</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Vis</CommandUnhideZoneLabel>
-  <CommandHideZoneDesc>Gjemmer/viser denne sonen.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneLabel>Slett</CommandDeleteZoneLabel>
   <CommandDeleteZoneDesc>Slett denne sonen.</CommandDeleteZoneDesc>
-
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
-
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
-
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
-
+  <CommandDeleteZoneLabel>Slett</CommandDeleteZoneLabel>
   
+  
+  <!-- Artillery -->
   <CommandSetForceAttackTarget>Tving mål</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Angir et mål som dette våpenet blir tvunget til å angripe kontinuerlig så lenge det kan.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Stop tvunget mål</CommandStopForceAttack>
@@ -84,50 +72,21 @@
   <MessageTargetBelowMinimumRange>Målet under minimum rekkevidde.</MessageTargetBelowMinimumRange>
   
   
-  
+  <!-- Ship computer core -->
   <CommandShipLaunch>Skyt opp</CommandShipLaunch>
   <CommandShipLaunchDesc>Starter skipets oppskytning med den nåverende konfigurasjonen.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Vis rapport</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Viser en beredskaps-rapport om skipets kapasiteter til å lette.</CommandShipLaunchReportDesc>
 
 
-  
+  <!-- Pod -->
   <CommandPodEject>Løs ut sovekapsel</CommandPodEject>
   <CommandPodEjectDesc>Vekk opp kryptosøvneren og løs dem ut.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Inneholder ingen.</CommandPodEjectFailEmpty>
 
-  
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <!-- Door -->
+  <CommandToggleDoorLock>Lås/Lås opp</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Lås eller lås opp en dør, låste dører åpner ikke opp for noen.</CommandToggleDoorLockDesc>
 
 
-  
-  <CommandResetTemp>Reset</CommandResetTemp>
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
-  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
-
-  
-  <CommandInstall>Install</CommandInstall>
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location so it can be viewed or used.</CommandInstallDesc>
-
-  
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
-
-  
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
-
-  
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
-  
-  
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
-  
-  
 </LanguageData>
