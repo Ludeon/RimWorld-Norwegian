@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
  
@@ -12,13 +12,14 @@
 	<MessageRaidersGivenUpLeaving>{0} fra {1} har gitt opp og reiser vekk.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfreds med skaden gjort og reiser vekk.</MessageRaidersSatisfiedLeaving>
 
-  
   <MessageFightersFleeing>{0} fra {1} flykter.</MessageFightersFleeing>
   <MessageFriendlyFightersLeaving>Vennlige {0} fra {1} reiser vekk.</MessageFriendlyFightersLeaving>
 
   <MessageVisitorsTakingWounded>{0} fra {1} tar nå en skadet gjest.</MessageVisitorsTakingWounded>
   
   <MessageWornApparelDeterioratedAway>{0} brukt av {1} forverret til fillebiter.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} har forlatt kommunikasjonsrekkevidden.</MessageShipHasLeftCommsRange>
 	
@@ -30,17 +31,21 @@
 
   <MessagePrisonerIsEscaping>Fangen {0} flykter.</MessagePrisonerIsEscaping>
 
+  <MessageOutOfNearbyShellsFor>{0} found no nearby unreserved shells for {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Warning: {0}s will often attack when harmed.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Warning: {0}s may attack upon a failed taming attempt ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  
+  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} var vellyket i å rekruttere {1} ({2} sjanse for å rekruttere).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} mislyktes i å rekruttere {1} ({2} sjanse for å rekruttere).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} mislyktes i å rekruttere {1} (fangen er under terskelen).</MessageRecruitFailBecauseLoyalty>
-	
-  <MessagePoorlyTreated>{1} behandlet {0} (Dårlig kvalitet, {2} sjanse for god kvalitet).</MessagePoorlyTreated>
-  <MessageWellTreated>{1} behandlet {0} (God kvalitet, {2} sjanse for god kvalitet).</MessageWellTreated>
-	
-  <MessageTraderCannotAfford>Forhandleren har ikke råd til denne avtalen.</MessageTraderCannotAfford>
+	<MessageRecruitFailBecauseMood>{0} failed to recruit {1} (prisoner below {2} mood).</MessageRecruitFailBecauseMood>
+  <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named it {3}.</MessageTameAndNameSuccess>
+
+
   <MessageColonyCannotAfford>Kolonien har ikke råd til denne avtalen.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Du har ikke nok sølv.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Forhandleren har ikke nok sølv.</MessageTraderNotEnoughSilver>
 
   <MessageCriticalAlert>Kritisk melding: {0}</MessageCriticalAlert>
 
@@ -48,23 +53,40 @@
   <MessageMustDesignateHarvestableWood>Må utpeke trebærende tilstrekkelig modne trær.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Må utpeke planter.</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>Må utpeke fraktbare elementer.</MessageMustDesignateHaulable>
-   <MessageMustDesignateMineable>Må utpeke ugjennomtrengelige steiner.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Må utpeke ugjennomtrengelige steiner.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Må utpeke jaktbare dyr.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
   <MessageMustDesignateClaimable>Må utpeke forlatte kunstige strukturer.</MessageMustDesignateClaimable>
   <MessageMustDesignateSmoothableFloor>Må utpeke grovt steinterreng.</MessageMustDesignateSmoothableFloor>
- 
+  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} har nektet å bli arrestert!</MessageRefusedArrest>
+  
   <MessageNoMedicalBeds>Det er ingen sykesenger tilgjengelige.</MessageNoMedicalBeds>
   
   <PawnDiedBecauseOf>{0} har dødd på grunn av {1}.</PawnDiedBecauseOf>
 
   <MessageNoLongerDowned>{0} er ikke lenger skadet og kan nå gå igjen.</MessageNoLongerDowned>
-  
- <MessageInvoluntarySleep>{0} har kollapset på grunn av ekstrem utmattelse.</MessageInvoluntarySleep>
 
-   <MessageRefusedArrest>{0} har nektet å bli arrestert!</MessageRefusedArrest>
-  
+  <MessageInvoluntarySleep>{0} har kollapset på grunn av ekstrem utmattelse.</MessageInvoluntarySleep>
+
   <MessageMedicalOperationFailureCatastrophic>{0} har gjort en katastrofal feiltakelse under opererering på {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} har gjort en minimal feiltakelse under operering på {1}.</MessageMedicalOperationFailureMinor>
-  
+
+  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
   
 </LanguageData>

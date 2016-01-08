@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Cut.label>snittsår</Cut.label>
+    <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+    
+    <Crush.label>knust</Crush.label>
+    <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+    
+    <Blunt.label>stumt</Blunt.label>
+    <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+    
+    <Stab.label>stikksår</Stab.label>
+    <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+    
+    <Bullet.label>kule</Bullet.label>
+    <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+    
+    <Arrow.label>pil</Arrow.label>
+    <Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>
+    
+    <Scratch.label>skrubbsår</Scratch.label>
+    <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+    
+    <Bite.label>bitt</Bite.label>
+    <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+    
+    <ToxicBite.label>toxic bite</ToxicBite.label>
+    
+    <Bomb.label>bombe</Bomb.label>
+    <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+    
+    <Flame.label>ild</Flame.label>
+    <Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+    
+    <Frostbite.label>frostbite</Frostbite.label>
+    <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+    
+    <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
+    <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+    
+</LanguageData>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--============================== Beds ==============================-->
-    
     <SleepingSpot.label>sovested</SleepingSpot.label>
     <SleepingSpot.description>Angir et område hvor folk skal sove. Ikke komfortabelt. Søvneffektivitet: 7/10</SleepingSpot.description>
     
@@ -15,10 +13,23 @@
     <HospitalBed.label>sykeseng</HospitalBed.label>
     <HospitalBed.description>En seng spesielt designet for syke eller skadde mennesker. Forbedrer sjansen for suksessfullt medisinskt arbeid.</HospitalBed.description>
     
-    <!--======================= Basic domestic furniture ==============================-->
+    <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+    
+    <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+    
+    <AnimalBed.label>animal bed</AnimalBed.label>
+    <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
     
     <Stool.label>krakk</Stool.label>
     <Stool.description>Folk sitter her.</Stool.description>
+    
+    <DiningChair.label>dining chair</DiningChair.label>
+    <DiningChair.description>A comfortable and attractive chair for sitting at a table.</DiningChair.description>
+    
+    <Armchair.label>armchair</Armchair.label>
+    <Armchair.description>A large, soft, comfy seat. Great for relaxation.</Armchair.description>
     
     <TableShort.label>bord (kort)</TableShort.label>
     <TableShort.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableShort.description>
@@ -26,7 +37,8 @@
     <TableLong.label>bord (langt)</TableLong.label>
     <TableLong.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableLong.description>
     
-    <!-- ======================== Lighting ======================= -->
+    <PlantPot.label>potteplante</PlantPot.label>
+    <PlantPot.description>Plant dekorative blomster her for å forbedre humøret til personer i nærheten.</PlantPot.description>
     
     <StandingLamp.label>stålampe</StandingLamp.label>
     <StandingLamp.description>Stålampe som lyser opp et område.</StandingLamp.description>
@@ -39,8 +51,6 @@
     
     <StandingLamp_Blue.label>stålampe (blå)</StandingLamp_Blue.label>
     <StandingLamp_Blue.description>Stålampe som lyser opp et område i blått.</StandingLamp_Blue.description>
-    
-    <!--============================== Storage ==============================-->
     
     <EquipmentRack.label>Utstyrsstativ</EquipmentRack.label>
     <EquipmentRack.description>Bærere bærer våpen og redskaper bort hit til oppbevaring.</EquipmentRack.description>

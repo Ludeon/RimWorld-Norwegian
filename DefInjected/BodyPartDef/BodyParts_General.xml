@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Head.label>hode</Head.label>
+    
+    <Skull.label>kranie</Skull.label>
+    
+    <Brain.label>hjerne</Brain.label>
+    
+    <LeftEye.label>venstre øye</LeftEye.label>
+    
+    <RightEye.label>høyre øye</RightEye.label>
+    
+    <LeftEar.label>venstre øre</LeftEar.label>
+    
+    <RightEar.label>høyre øre</RightEar.label>
+    
+    <Nose.label>nese</Nose.label>
+    
+    <Jaw.label>kjeve</Jaw.label>
+    
+    <Neck.label>nakke</Neck.label>
+    
+    <Rib.label>ribben</Rib.label>
+    
+    <Spine.label>ryggrad</Spine.label>
+    
+    <LeftLeg.label>venstre ben</LeftLeg.label>
+    
+    <LeftFoot.label>venstre fot</LeftFoot.label>
+    
+    <RightLeg.label>høyre ben</RightLeg.label>
+    
+    <RightFoot.label>høyre fot</RightFoot.label>
+    
+</LanguageData>

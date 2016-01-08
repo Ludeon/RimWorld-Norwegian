@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+
+  
+  <WorkTab>Arbeid</WorkTab>
+  <OutfitsTab>Outfits</OutfitsTab>
+  <RestrictionsTab>Restrictions</RestrictionsTab>
+  <AnimalsTab>Animals</AnimalsTab>
+  <FactionsTab>Parti</FactionsTab>
+  <StatisticsTab>Statistikk</StatisticsTab>
+  <HistoryTab>Historie</HistoryTab>
+  <WorldTab>Verden</WorldTab>
+
+  
+  <ManualPriorities>Manuelle prioriteter</ManualPriorities>
+  <HigherPriority>Høyere prioriteter</HigherPriority>
+  <LowerPriority>Lavere prioriteter</LowerPriority>
+  <RelevantSkills>Relevante ferdigheter: {0}\nGjennomsnitt av relevante ferdigheter: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klikk for å hoppe til:</ClickToJumpTo>
+  <CannotDoThisWork>{0} kan ikke gjennomføre denne typen arbeid.</CannotDoThisWork>
+  <NoneBrackets>(ingen)</NoneBrackets>
+
+  
+  <CurrentOutfit>Current outfit</CurrentOutfit>
+  <ManageOutfits>Manage outfits</ManageOutfits>
+  <ClearForcedApparel>Clear forced</ClearForcedApparel>
+  <ApparelForcedLower>forced</ApparelForcedLower>
+  <ForcedApparel>Forced apparel</ForcedApparel>
+  <OutfitEdit>Edit...</OutfitEdit>
+  
+  
+  <Copy>Copy</Copy>
+  <Paste>Paste</Paste>
+  <AllowedArea>Allowed area</AllowedArea>
+  
+  
+  <Master>Master</Master>
+  
+  
+  <Hostile>Fiendlig</Hostile>
+  <HostileTo>Fiende av {0}</HostileTo>
+  <CurrentGoodwill>Gjeldende velvilje med denne parten.</CurrentGoodwill>
+  
+  
+  <Playtime>Play time</Playtime>
+  <Storyteller>Historieforteller</Storyteller>
+  <ColonyWealthTotal>Koloniens velstand</ColonyWealthTotal>
+  <ColonyWealthItems>Koloniens velstand (ting)</ColonyWealthItems>
+  <ColonyWealthBuildings>Koloniens velstand (bygg)</ColonyWealthBuildings>
+  <NumThreatBigs>Store trusler</NumThreatBigs>
+  <NumEnemyRaids>Fiendtlige plyndringer</NumEnemyRaids>
+  <DamageTaken>Skade påtatt</DamageTaken>
+  <ColonistsKilled>Kolonister drept</ColonistsKilled>
+  <ColonistsLaunched>Kolonister fyrt ut i rommet</ColonistsLaunched>
+
+  
+  <SelectGraph>Velg diagram</SelectGraph>
+  <Last30Days>Siste 30 dager</Last30Days>
+  <Last100Days>Siste 100 dager</Last100Days>
+  <Last300Days>Siste 300 dager</Last300Days>
+  <AllDays>Alle</AllDays>
+  <Day>Dag</Day>
+  <Value>Verdi</Value>
+  <External>Ekstern</External>
+  
+</LanguageData>
