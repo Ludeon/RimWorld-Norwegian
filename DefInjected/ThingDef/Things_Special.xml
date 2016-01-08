@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <DoorKey.label>dørnøkkel</DoorKey.label>
     
     <Puddle_Fuel.label>brennstoffpytt</Puddle_Fuel.label>
     <Puddle_Fuel.description>Brenner opp på jorden.</Puddle_Fuel.description>

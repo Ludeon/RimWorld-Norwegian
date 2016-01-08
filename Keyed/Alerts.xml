@@ -1,53 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>Gå til problemet</ClickToJumpToProblem>
 
-  <ShieldUserHasRangedWeapon>Skjoldbruker har skytevåpen</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>Et av dine kolonister har et personlig skjold og bærer et skytevåpen. De vil ikke kunne avfyre våpenet deres gjennom skjolded. (Med untak av mål som allerede rører dem).</ShieldUserHasRangedWeaponDesc>
-
-  <BrawlerHasRangedWeapon>Brawler har skytevåpen</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>En av dine kolonister har Brawler personlighetstrekket, men har bærer et skytevåpen. Dette vil gjøre ham veldig ulykkelig.</BrawlerHasRangedWeaponDesc>
-
-  <HunterLacksWeapon>Jeger mangler våpen</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>En kolonist er satt som jeger, men har ikke noe våpoen. De vil ikke jakte før de bærer et våpen.\n\nFor å forebygge skader, så anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
-
-  <PoorMood>Dårlig humør</PoorMood>
-  <PoorMoodDesc>Disse kolonistene er i et dårlig humør og kan ha et lite anfall når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs' vindu for å se hva det er som plager dem.</PoorMoodDesc>
-
-  <TerribleMood>Forferdelig humør</TerribleMood>
-  <TerribleMoodDesc>Disse kolonistene er kritiskt stresset og kan ha et hardt - og potensielt voldelig -utbrudd når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs' vindu for å se hva det er som plager dem.</TerribleMoodDesc>
-
-  <AlertNeedStockpile>Trenger lager</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Kolonistene dine trenger et sted å lagre ting. Angi et LAGER hvor de kan lagre ting.\n\nDu kan lage et LAGER til kolonistene dine ved å gå til OMRÅDER i ARKITEKT menyen nederst til venstre.</AlertNeedStockpileDesc>
-
-  <AlertUnforbidStartingResources>Uforby ressurser</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Ved start er alle ressursene på banen FORBUDTE.\n\nFor at kolonistene dine skal kunne bruke dem, må du UFORBY dem ved å velge dem og trykke på knappen nederst på skjermen..</AlertUnforbidStartingResourcesDesc>
-
-  <AlertEquipStartingWeapons>Utrust våpen</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Kolonistene dine landet med våpen, utrust dem!\n\nVelg hver kolonist og høyre-klikk på våpenet du vil at de skal utrustes med.</AlertEquipStartingWeaponsDesc>
+  
   
   <NeedSawmill>Need sawmill</NeedSawmill>
   <NeedSawmillDesc>You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
 
-  <EquipStartingEquipment>Ha med utstyret ditt.</EquipStartingEquipment>
-  <EquipStartingEquipmentDesc>Du har landet med noen våpen, utrust kolonistene dine.\n\nFor å utruste noen med et våpen, velg kolonisten og høyre-klikk på det våpenet du skal utruste dem med.</EquipStartingEquipmentDesc>
-
-  <MentalBreakSoon>Nærmer seg et anfall</MentalBreakSoon>
-  <MentalBreakSoonDesc>Disse kolonistenene nærmer seg punktet de når et psykisk anfall:\n\n{0}\nForbedre disse kolonistenes psyiske helse snart ellers så skjer det ille ting.</MentalBreakSoonDesc>
-
-  <MentalBreakImminent>Psykisk anfall uungåelig</MentalBreakImminent>
-  <MentalBreakImminentDesc>Disse kolonistene er kritiskt stresset og kan få et psykisk anfall når som helst:\n\n{0}</MentalBreakImminentDesc>
-
+  <PoorMood>Dårlig humør</PoorMood>
+  <PoorMoodDesc>Disse kolonistene er i et dårlig humør og kan ha et lite anfall når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs' vindu for å se hva det er som plager dem.</PoorMoodDesc>
+  <TerribleMood>Forferdelig humør</TerribleMood>
+  <TerribleMoodDesc>Disse kolonistene er kritiskt stresset og kan ha et hardt - og potensielt voldelig -utbrudd når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs' vindu for å se hva det er som plager dem.</TerribleMoodDesc>
+  <LowMoodDescEnding>Check these colonists' Needs tab to see what's bothering them.</LowMoodDescEnding>
+  
   <ColonistNeedsRescue>Kolonist trenger redning</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister trenger redning</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>Disse kolonistene ligger skadet på bakken:\n\n{0}\nSend en annen kolonist til utsetning for å berge dem.\n\n(For å berge en skadet kolonist, velg en annen kolonist og deretter høyre-klikk på offeret og velg berg #HER.</ColonistsNeedRescueDesc>
 
   <BuildARoom>Bygg et rom</BuildARoom>
   <BuildARoomDesc>Et rom er bygd opp av separate deler av vegg med en dør.\n\nBruk Arkitektmenyen nederst til venstre på skjermen for å angi hvor du har lyst til å bygge. Dersom du har valgt hvor du vil bygge vil kolonistene dine utføre arbeid når de kan.</BuildARoomDesc>
-
-  <NeedGrowingZone>Trenger jorde</NeedGrowingZone>
-  <NeedGrowingZoneDesc>Du har ikke noe jorde.\n\nPlasser et jorde på fruktbar jord gjennom Arkitektmenyen.</NeedGrowingZoneDesc>
 
   <NeedDefenses>Trenger beskyttelse</NeedDefenses>
   <NeedDefensesDesc>Du har vært her ute en god stund og har sannsynligvis blitt sett, piratplyndringer er noe som du snart vil se.\n\nDu burde gjøre klar beskyttelser.\n\nBygg noen maskingevær.</NeedDefensesDesc>
@@ -64,8 +36,15 @@
   <LowFood>Lite mat</LowFood>
   <LowFoodDesc>Du har bare {0} næring verdt av mat til overs, dette er farlig lavt.\n\nSå, kjøp, finn, eller drep noe mat.</LowFoodDesc>
 
+  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  
   <NeedColonistBeds>Trenger kolonistsenger</NeedColonistBeds>
   <NeedColonistBedsDesc>Du har flere kolonister enn du har kolonistsenger, Noen vil mangle ett sted å sove.\n\nEnten lag flere senger, eller bytt en fanges seng om til en kolonistseng.\n\nHvis du ikke har noen ressursers, så er soveplasser gratis og kan plasseres umiddelbart.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Jeger mangler våpen</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>En kolonist er satt som jeger, men har ikke noe våpoen. De vil ikke jakte før de bærer et våpen.\n\nFor å forebygge skader, så anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
 
   <Starvation>Sult</Starvation>
   <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nGi dem noe mat, eller finn en matkilde som for eksempel en næringspastaispenser og noe å mate den med. I tilleg, pass på at de ikke er innkalt.</StarvationDesc>
@@ -84,8 +63,8 @@
   <NeedMealSource>Trenger måltidskilde</NeedMealSource>
   <NeedMealSourceDesc>Du har ingen måte å tilberede ordentlige måltider ut fra rå matprodukter.\n\nBygg en næringspastadispenser eller en kjøkkensovn.\n\n(Den kan ikke være i en fengselscelle, dersom kolonistene ikke vil kunne bruke den.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Trenger hjemregion</NeedHomeRegion>
-  <NeedHomeRegionDesc>Du må angi en HJEMREGION hvor kolonistene dine vil vaske, reparere og slukke brann.\n\nAngi en HJEMREGION ved bruk av OMRÅDER delen av ARKITEKT menyen.</NeedHomeRegionDesc>
+  <NeedHomeArea>Need home area</NeedHomeArea>
+  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
 
   <NeedBatteries>Trenger batterier</NeedBatteries>
   <NeedBatteriesDesc>Du har bare solcellepaneler og ingen batterier. Dette betyr at du går tom for strøm hver gang solen går ned.\n\nBygg et batteri eller to for å komme deg gjennom nattten.</NeedBatteriesDesc>
@@ -93,35 +72,36 @@
   <NoTradingCapacity>Ingen handelskapasitet</NoTradingCapacity>
   <NoTradingCapacityDesc>Du har ingen måte å handle med passerende skip.\n\nBygg en kommunikasjonskonsoll.</NoTradingCapacityDesc>
 
+  <BrawlerHasRangedWeapon>Brawler har skytevåpen</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>En av dine kolonister har Brawler personlighetstrekket, men har bærer et skytevåpen. Dette vil gjøre ham veldig ulykkelig.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Skjoldbruker har skytevåpen</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Et av dine kolonister har et personlig skjold og bærer et skytevåpen. De vil ikke kunne avfyre våpenet deres gjennom skjolded. (Med untak av mål som allerede rører dem).</ShieldUserHasRangedWeaponDesc>
+
   <NeedResearchProject>Trenger forskningsprosjekt</NeedResearchProject>
   <NeedResearchProjectDesc>Du har utstyret til å utføre forskning men har ikke valgt et prosjekt.\n\nÅpne forsknings menyen for å velge et prosjekt.</NeedResearchProjectDesc>
-
+  
   <NeedDump>Trenger søppeldynge</NeedDump>
   <NeedDumpDesc>Du har markert {0} til å bli ryddet, men kolonistene har ingen steder å legge det.\n\nPlasser en søppeldynge eller lag et lagerområde og endre instillingene til å ta imot {0}.</NeedDumpDesc>
 
-  <NeedGrave>Trenger gravplass</NeedGrave>
-  <NeedGraveDesc>Det er et dødt lik liggende på bakken og det er ingen steder hvor kolonistene kan legge det.\n\nBygg en gravplass eller søppeldynge og angi lagrings instillingene.</NeedGraveDesc>
+  
 
   <ColonistsIdle>{0} kolonister har ikke noe å gjøre</ColonistsIdle>
   <ColonistsIdleDesc>Disse kolonistene har ikke noe å gjøre:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
 
-  <HaltedConstructions>{0} konstruksjoner mangler materiale.</HaltedConstructions>
-  <HaltedConstructionsDesc>Disse konstruksjonene mangler materiale:\n\n{0}\nDu burde kanskje gjøre materialene som trengs tilgjengelige for kolonistene dine.</HaltedConstructionsDesc>
-
-  <TableNeedsChairs>Bord trenger stoler</TableNeedsChairs>
-  <TableNeedsChairsDesc>Du har et bord uten stoler rundt seg. Bord er ubrukelige hvis ikke folk kan sette seg ved dem.</TableNeedsChairsDesc>
-
+  
+  
   <ColonistNeedsTreatment>Kolonist trenger behandling</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Derett velger du den skadde kolonisten og høyre-klikker på sykesengen for å gjøre dem om til en pasient.)</ColonistNeedsTreatmentDesc>
 
+  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Disse kolonistene lider av hypothermi.\n\n{0}\nSørg for at de kler seg riktig for sesongen og for at det er ordentlig varmet opp innendørs.</AlertHypothermiaDesc>
+  
   <ColonistsAwaitingMedicalOperation>{0} kolonistene venter operasjon</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Disse kolonistene venter på operasjon:\n\n{0}\nPass på at du har alt medisinskt utstyr som trengs og en ledig doktor.</ColonistsAwaitingMedicalOperationDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>Disse kolonistene lider av hypothermi.\n\n{0}\nSørg for at de kler seg riktig for sesongen og for at det er ordentlig varmet opp innendørs.</AlertHypothermiaDesc>
-
-  <FireInHomeRegion>Brann!</FireInHomeRegion>
-  <FireInHomeRegionDesc>Det er en brann i hjemregionen.</FireInHomeRegionDesc>
+  <FireInHomeArea>Fire!</FireInHomeArea>
+  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Alvorlig sykdom</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Disse kolonistene risikerer døden, på grunn av alvorlig sykdom:\n\n{0}\nSørg for at de får så mye medisinsk omsorg som mulig.</PawnsWithLifeThreateningDiseaseDesc>
@@ -130,6 +110,7 @@
   <BilliardsNeedsSpace>Biljardbord trenger plass</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>Et av dine biljardbord står inntil en sperre som vil hindre kolonistene fra å bruke det.\n\nEt biljardbord trenger åpen plass omkring det på alle fire sider for å kunne brukes.</BilliardsNeedsSpaceDesc>
 
-  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
+  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
   
 </LanguageData>

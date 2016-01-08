@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <TabBills>Oppgaver</TabBills>
+  <TabGrowing>Jordbruk</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabTraining>Training</TabTraining>
+  <TabPrisoner>Fange</TabPrisoner>
+  <TabGuest>Guest</TabGuest>
+  <TabGear>Utstyr</TabGear>
+  <TabNeeds>Needs</TabNeeds>
+  <TabStorage>Lager</TabStorage>
+  <TabHealth>Helse</TabHealth>
+  <TabRace>Rase</TabRace>
+  <TabBasics>Grunnleggende</TabBasics>
+  <TabStats>Statistikk</TabStats>
+  <TabArt>Art</TabArt>
+
+  
+  
+  <AddBill>Legg til oppgave</AddBill>
+  <RecipeRequiresSkills>Oppskriften {0} trenger ferdighetene nedenfor. Ingen av kolonistene dine har disse ferdighetene, så ingen vil gjøre denne oppgaven.</RecipeRequiresSkills>
+  <MinimumSkill>Min skill</MinimumSkill>
+  <SuspendedCaps>UTSATT</SuspendedCaps>
+  <BoundWorkerIs>Worker: {0}</BoundWorkerIs>
+  <PlantVerb>Plante</PlantVerb>
+
+
+  
+  <RecruitmentDifficulty>Vanskelighet for å rekruttere</RecruitmentDifficulty>
+  <GetsFood>Får mat</GetsFood>
+  <DoctorsCare>Sykepleie</DoctorsCare>
+  <GetsMedicine>Får medisin</GetsMedicine>
+  <ShouldTryToRecruit>Prøv å rekruttere</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Ingen samhandling</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Hyggelig samtale</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
+  <PrisonerRelease>Løslat</PrisonerRelease>
+  <PrisonerExecution>Henrettelse</PrisonerExecution>
+
+
+  
+  <MoveSpeed>Bevegelses hastighet</MoveSpeed>
+  <Efficiency>Effektivitet</Efficiency>
+  <MissingBodyPart>Borte</MissingBodyPart>
+  <DestroyedBodyPart>Ødelagt</DestroyedBodyPart>
+  <ShatteredBodyPart>Knust</ShatteredBodyPart>
+  <RemovedBodyPart>Fjernet</RemovedBodyPart>
+  <Healthy>Frisk</Healthy>
+  <InPain>I smerte</InPain>
+  <PainLevel>Smerte</PainLevel>
+  <Dead>Død</Dead>
+  <Unconscious>Bevisstløs</Unconscious>
+  <PainShock>I sjokk</PainShock>
+  <Injured>Skadet</Injured>
+  <NoInjuries>(ingen skader)</NoInjuries>
+  <WholeBody>Hele kroppen</WholeBody>
+  <DataProcessing>Behandler data</DataProcessing>
+  <Communication>Kommunikasjon</Communication>
+  <AffectsLower>påvirker</AffectsLower>
+  <BleedingRate>Blødninger</BleedingRate>
+  <HealthOverview>Oversikt</HealthOverview>
+  <MedicalOperationsShort>Operasjoner ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikasjoner ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medisinsk operasjon</MedicalOperations>
+  <Amputate>Amputater</Amputate>
+  <Harvest>Høst inn</Harvest>
+  
+  
+
+  
+  <None>Ingen</None>
+  <VeryPoor>Veldig dårlig</VeryPoor>
+  <Poor>Dårlig</Poor>
+  <Weakened>Svekket</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Forbedret</Enhanced>
+  <SeriouslyImpaired>Seriøst redusert</SeriouslyImpaired>
+  <Impaired>Redusert</Impaired>
+  <SlightlyImpaired>Såhvidt redusert</SlightlyImpaired>
+  <NoPain>Ingen</NoPain>
+  <LittlePain>Liten</LittlePain>
+  <MediumPain>Middels</MediumPain>
+  <SeverePain>Alvorlig</SeverePain>
+  <ExtremePain>Ekstrem</ExtremePain>
+
+
+  
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+
+
+
+</LanguageData>

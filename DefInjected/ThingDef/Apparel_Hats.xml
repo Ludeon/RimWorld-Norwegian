@@ -4,6 +4,9 @@
     <Apparel_CowboyHat.label>cowboy hatt</Apparel_CowboyHat.label>
     <Apparel_CowboyHat.description>Stilfull selv gammeldags, denne holder solen og regnen vekk - den gir alle som bærer den en smule ekstra sjarm. Det er den viktigste delen av tradisjonelt vesterntøy.</Apparel_CowboyHat.description>
     
+    <Apparel_Tuque.label>tuque</Apparel_Tuque.label>
+    <Apparel_Tuque.description>A soft, thick cap. Great for keeping warm in winter.</Apparel_Tuque.description>
+    
     <Apparel_PowerArmorHelmet.label>energirustningshjelm</Apparel_PowerArmorHelmet.label>
     <Apparel_PowerArmorHelmet.description>Del av engerirustnings settet, til bruk av tungt infanteri.</Apparel_PowerArmorHelmet.description>
     
@@ -12,5 +15,8 @@
     
     <Apparel_MilitaryHelmet.label>militærhjelm</Apparel_MilitaryHelmet.label>
     <Apparel_MilitaryHelmet.description>Gammeldags og tung, men veldig hjelpsom under fiendelig angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
+    
+    <Apparel_PsychicFoilHelmet.label>psychic foil helmet</Apparel_PsychicFoilHelmet.label>
+    <Apparel_PsychicFoilHelmet.description>A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic events.</Apparel_PsychicFoilHelmet.description>
     
 </LanguageData>

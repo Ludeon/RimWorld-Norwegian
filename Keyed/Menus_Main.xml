@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  
   <CreateWorld>Skap ny verden</CreateWorld>
   <NewColony>Start ny koloni</NewColony>
   <BackToGame>Tilbake til spillet</BackToGame>
@@ -20,7 +20,7 @@
   <TynansDesignBook>Tynan's designbok</TynansDesignBook>
   <HelpTranslate>Hjelp med å oversette RimWorld</HelpTranslate>
 
-  <!--=========== Create/review world ================-->
+  
   <ReviewWorld>Gjennomgå verden</ReviewWorld>
   <WorldGenerate>Generer verden</WorldGenerate>
   <WorldSaveAndFinish>Lagre og fortsett</WorldSaveAndFinish>
@@ -30,52 +30,50 @@
   <RandomizeSeed>Tilfeldig frø</RandomizeSeed>
 
 
-  <!--=========== Select world ===================-->
+  
   <SelectWorld>Velg Verden</SelectWorld>
   <WorldChooseButton>Velg</WorldChooseButton>
   <NoWorldsFilesFound>Ingen verden funnet, lag en verden først.</NoWorldsFilesFound>
   
-  <!--=========== Version info ==========-->
+  
   <BuildNowAvailable>Utgave {0} er nå tilgjengelig. Sjekk ludeon.com for mer info.</BuildNowAvailable>
 	<BuildUpToDate>Utgaven er oppdatert.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Feil ved å finne versjon: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Laster inn info om versjon...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  
   <GenerateWorld>Generer verden</GenerateWorld>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>Hent modifikasjoner</GetMods>
+  
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemodifikasjonen? Spillet vil ikke fungere i det hele tatt hvis du ikke har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i kjernemodifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
   <Author>Forfatter</Author>
-
-
-  <!--=========== Select storyteller ==========-->
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>Downloading {0}</DownloadingMod>
+  
+  
   <ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
   <HowStorytellersWork>AI historiefortelleren skaper hendelser som piratplyndringer, ressursforsyninger eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
-  <MustChooseChallengeScale>Vennlight velg utfordringenes vanskelighetsgrad.</MustChooseChallengeScale>
-  <ChallengeScale>Vanskelighetsgrad</ChallengeScale>
-  <ChallengeScaleTip>Når historiefortelleren sender trusler etter deg, vil de være {0} så store som i Utfordrende vanskelighetsgrad.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Sandkasse</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Vanlig</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Vanskelig</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Utfordrende</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Veldig utfordrende</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Ekstremt utfordrende</ChallengeScale_ExtremeChallenge>
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <Difficulty>Difficulty</Difficulty>
 
 
 
 
-
-
-
-
-
-
-
-  <!--=========== Landing site select =========-->
+  
   <SelectLandingSite>Velg landingsområde</SelectLandingSite>
+  <SelectRandomSite>Select random site</SelectRandomSite>
   <SelectSite>Velg område</SelectSite>
   <MustSelectLandingSite>Vennligst velg et landingsområde.</MustSelectLandingSite>
   <CannotLandBiome>Du kan ikke lande i denne biomen: {0}</CannotLandBiome>
@@ -93,15 +91,18 @@
   <Elevation>Høyde</Elevation>
   <Fertility>Fruktbarhet</Fertility>
   <AvgTemp>Gjennomsnittlig Temperatur</AvgTemp>
+  <AvgJanTemp>Avg Temp (Jan): {0}</AvgJanTemp>
+  <AvgJulTemp>Avg Temp (Jul): {0}</AvgJulTemp>
   <Rainfall>Nedbør</Rainfall>
   <HasCoast0>Nordlig kyst</HasCoast0>
   <HasCoast1>Østlig kyst</HasCoast1>
   <HasCoast2>Sørlig kyst</HasCoast2>
   <HasCoast3>Vestlig kyst</HasCoast3>
   <FactionBase>Partens base</FactionBase>
+  <StoneTypesHere>Stone types</StoneTypesHere>
 
 
-  <!--=========== Character chooser ==========-->
+  
   <CreateCharacters>Skap karakter</CreateCharacters>
   <FirstNameDesc>Karakterens fornavn.\n\nDette blir bare vist i visse vinduer.</FirstNameDesc>
   <ShortIdentifierDesc>Karakterens forkortede identifikator.\n\nDette blir vist i de fleste sammenhenger. Det kan være fornavnet og etternavnet, eller et helt separat kallenavn.</ShortIdentifierDesc>
@@ -111,7 +112,6 @@
   <Backstory>Bakgrunn</Backstory>
   <IncapableOf>Ute av stand til</IncapableOf>
   <Traits>Trekk</Traits>
-  <TraitsDoNothing>Trekk er for øyeblikket bare morsomme historiebiter; de fleste av dem gjør ingenting. Dette vil endre seg i videre utgaver.</TraitsDoNothing>
   <PermanentMoodEffect>Permanent effekt på humør</PermanentMoodEffect>
   <Skills>Ferdigheter</Skills>
   <NoneLower>ingen</NoneLower>
@@ -122,7 +122,7 @@
   <Pain>Smerte</Pain>
   
   
-  <!--=========== Misc ==========-->
+  
   <Start>Start</Start>
   <Advanced>Avansert</Advanced>
   <Next>Neste</Next>
