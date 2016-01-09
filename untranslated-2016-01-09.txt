@@ -147,6 +147,7 @@ DefInjected\DamageDef\Damages_LocalInjury.xml
     <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
     <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
     <ToxicBite.label>toxic bite</ToxicBite.label>
+    <ToxicBite.deathMessage>{0} has been poisoned to death.</ToxicBite.deathMessage>
 
 DefInjected\DamageDef\Damages_Misc.xml
     <Deterioration.label>deterioration</Deterioration.label>
@@ -3744,4 +3745,3 @@ Keyed\Time.xml
     <PeriodHours>{0} hours</PeriodHours>
     <PeriodMonths>{0} months</PeriodMonths>
     <Started>Started</Started>
-
