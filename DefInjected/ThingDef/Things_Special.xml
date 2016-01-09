@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <RectTrigger.label>RectTrigger</RectTrigger.label>
+    <RectTrigger.description>A rectangular trigger.</RectTrigger.description>
     
     <Puddle_Fuel.label>brennstoffpytt</Puddle_Fuel.label>
     <Puddle_Fuel.description>Brenner opp på jorden.</Puddle_Fuel.description>
