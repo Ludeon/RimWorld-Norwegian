@@ -1,0 +1,503 @@
+List of obsolete tags in this translation. These tags have been removed from the game 
+or have changed their name.
+
+DefInjected\BodyPartDef\BodyParts.xml
+    <RightKnifeProtrusion.label>høyre knivsfremspring</RightKnifeProtrusion.label>
+    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
+    <RightHandMechanicalRingFinger.label>høyre hånds ringfinger</RightHandMechanicalRingFinger.label>
+    <LeftFootMechanicalLittleToe.label>venstre fots lilletå</LeftFootMechanicalLittleToe.label>
+    <RightFootMechanicalBigToe.label>høyre fots storetå</RightFootMechanicalBigToe.label>
+    <RightFootMechanicalFourthToe.label>høyre fots fjerde tå</RightFootMechanicalFourthToe.label>
+    <LeftFootMechanicalSecondToe.label>venstre fots andre tå</LeftFootMechanicalSecondToe.label>
+    <RightFootMechanicalMiddleToe.label>høyre fots midterste tå</RightFootMechanicalMiddleToe.label>
+    <RightFootMechanicalSecondToe.label>høyre fots andre tå</RightFootMechanicalSecondToe.label>
+    <RightFootMechanicalLittleToe.label>høyre fots lilletå</RightFootMechanicalLittleToe.label>
+    <LeftFootMechanicalBigToe.label>venstre fots storetå</LeftFootMechanicalBigToe.label>
+    <LeftHandMechanicalRingFinger.label>venstre hånds ringfinger</LeftHandMechanicalRingFinger.label>
+    <LeftFootMechanicalFourthToe.label>venstre fots fjerde tå</LeftFootMechanicalFourthToe.label>
+    <LeftFootMechanicalMiddleToe.label>venstre fots midterste tå</LeftFootMechanicalMiddleToe.label>
+
+DefInjected\BodyPartGroupDef\BodyPartGroups.xml
+    <RightKnifeProtrusion.label>høyre knivsfremspring</RightKnifeProtrusion.label>
+    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
+    <RightFist.label>høyre knyttneve</RightFist.label>
+    <LeftFist.label>venstre knyttneve</LeftFist.label>
+
+DefInjected\DamageTypeDef\BaseDamageTypes.xml
+    <RestoringBodyPart.label>gjenskaper kroppsdel</RestoringBodyPart.label>
+    <Starvation.label>sult</Starvation.label>
+    <Suffocation.label>kvelning</Suffocation.label>
+    <HealLocalInjury.label>helbreder liten skade</HealLocalInjury.label>
+    <Breakdown.label>sammenbrudd</Breakdown.label>
+    <Bleeding.label>blødning</Bleeding.label>
+    <HealGlobalInjury.label>helbreder stor skade</HealGlobalInjury.label>
+
+DefInjected\DesignationCategoryDef\BaseDesignationCategories.xml
+    <Decoration.description>Fine ting som forbedrer kolonistenes humør.</Decoration.description>
+    <Decoration.label>dekorasjoner</Decoration.label>
+
+DefInjected\JobDef\BaseJobDefs.xml
+    <PrisonerBeatingVicious.reportString>Slår hårdt fangen TargetA.</PrisonerBeatingVicious.reportString>
+    <ManThing.reportString>Bruker maskin.</ManThing.reportString>
+    <EnterCryptosleepPod.reportString>Går i kryptosøvn-kapsel.</EnterCryptosleepPod.reportString>
+    <HealPatient.reportString>Helbreder TargetA.</HealPatient.reportString>
+    <UseVerbOnThing.reportString>Bruker verb.</UseVerbOnThing.reportString>
+    <PrisonerBeatingMild.reportString>Slår mildt fangen TargetA.</PrisonerBeatingMild.reportString>
+    <EatFood.reportString>Spiser fra TargetA.</EatFood.reportString>
+
+DefInjected\RecipeDef\Recipes_Apparel.xml
+    <MakeShirt.label>lag skjorte</MakeShirt.label>
+    <MakeCowboyHat.jobString>Lager cowboy hatt.</MakeCowboyHat.jobString>
+    <MakePants.jobString>Lager bukser.</MakePants.jobString>
+    <MakeShirt.jobString>Lager skjorte.</MakeShirt.jobString>
+    <MakePants.label>Lag bukser</MakePants.label>
+    <MakePants.description>Lag et par bukser.</MakePants.description>
+    <MakeCowboyHat.description>Lag en cowboy hatt.</MakeCowboyHat.description>
+    <MakeCowboyHat.label>lag cowboy hatt</MakeCowboyHat.label>
+    <MakeShirt.description>Lag en skjorte.</MakeShirt.description>
+
+DefInjected\RecipeDef\Recipes_Medical.xml
+    <InstallScytherKnifeProtrusion.jobString>Installerer scyther knivfremspring.</InstallScytherKnifeProtrusion.jobString>
+    <InstallScytherKnifeProtrusion.label>installer scyther knivfremspring</InstallScytherKnifeProtrusion.label>
+    <InstallScytherKnifeProtrusion.description>Installerer scyther knivfremspring.</InstallScytherKnifeProtrusion.description>
+
+DefInjected\ResearchProjectDef\BaseResearchProjects.xml
+    <Tailoring.label>skreddersying</Tailoring.label>
+
+DefInjected\ResearchProjectDef\FertilizerPumpProject.xml
+    <FertilizerPump.label>gødningspumpe</FertilizerPump.label>
+    <FertilizerPump.description>Tillader dig at bygge gødningspumper, som kan omdanne jord til landbrugsjord, hvor som helst.</FertilizerPump.description>
+
+DefInjected\SpecialThingFilterDef\BaseSpecialThingFilters.xml
+    <AllowBuried.label>tillat begravde</AllowBuried.label>
+    <AllowBuried.description>Tillat lik som allerede er blitt begravet.</AllowBuried.description>
+
+DefInjected\TerrainDef\Terrain_Floors.xml
+    <RoughHewnRock.label>tilhugget stein</RoughHewnRock.label>
+    <StoneTile.label>steinflisgulv</StoneTile.label>
+    <SmoothStone.label>glatt steingulv</SmoothStone.label>
+    <SmoothStone.description>Glatt, naturlig steingulv. Hurtig å gå på, og veldig kjekt å se på.</SmoothStone.description>
+    <StoneTile.description>Solide steinfliser, som gir den der slottsfølelsen.</StoneTile.description>
+
+DefInjected\TerrainDef\Terrain_Natural.xml
+    <RoughStone.label>grov stein</RoughStone.label>
+
+DefInjected\ThingCategoryDef\BaseThingCategories.xml
+    <CorpsesHumanoid.label>menneskelig</CorpsesHumanoid.label>
+    <BodyParts.label>kroppsdeler</BodyParts.label>
+
+DefInjected\ThingDef\Buildings_Exotic.xml
+    <CrashedShipPart.label>nedstyrtet skipsdel</CrashedShipPart.label>
+    <CrashedShipPart.description>En mystisk vrakdel fra et nedstyrtet romskip. Måtte den inneholde eksotiske varer, datamaskiner, eller en kunstig intelligens, så kan denne teknologien uansett være farlig.</CrashedShipPart.description>
+
+DefInjected\ThingDef\Buildings_Misc.xml
+    <FertilizerPump.label>gjødselspumpe</FertilizerPump.label>
+    <FertilizerPump.description>Utvider langsomt et jordområde til landbruk.</FertilizerPump.description>
+
+DefInjected\ThingDef\Buildings_Natural.xml
+    <MineableMetal.description>Grav ut dette for metall.</MineableMetal.description>
+    <MineableMetal.label>metallmalm</MineableMetal.label>
+
+DefInjected\ThingDef\Buildings_Structure.xml
+    <WallConduit.description>En vegg med innebygde strømledninger.</WallConduit.description>
+    <WallConduit.label>strømførende vegg</WallConduit.label>
+
+DefInjected\ThingDef\Filth_Various.xml
+    <SlagRubble.label>slaggklumper</SlagRubble.label>
+
+DefInjected\ThingDef\Items_BodyParts.xml
+    <ScytherKnifeProtrusion.label>scyther knivfremspring</ScytherKnifeProtrusion.label>
+    <ScytherKnifeProtrusion.description>Sterk hånderstatning som gir brukeren mulighet til at skyve kniver ut mellom håndens knokler. Særlig effektivt som nærkampsvåpen.</ScytherKnifeProtrusion.description>
+
+DefInjected\ThingDef\Items_Chunks.xml
+    <ChunkSlag.label>slaggklump</ChunkSlag.label>
+    <ChunkRock.label>steinklump</ChunkRock.label>
+
+DefInjected\ThingDef\Things_Special.xml
+    <DoorKey.label>dørnøkkel</DoorKey.label>
+
+DefInjected\ThoughtDef\Thoughts_Broken.xml
+    <CurrentlyBrokenPsychotic.description>Må... slå ihjel!</CurrentlyBrokenPsychotic.description>
+    <CurrentlyBrokenPanicFlee.description>jeg har nødt til å komme vekk herfra!</CurrentlyBrokenPanicFlee.description>
+    <CurrentlyBrokenPsychotic.label>psykotiske tanker</CurrentlyBrokenPsychotic.label>
+    <CurrentlyBrokenPanicFlee.label>panikk</CurrentlyBrokenPanicFlee.label>
+    <CurrentlyBrokenSad.description>Det er for mye å takle!</CurrentlyBrokenSad.description>
+    <CurrentlyBrokenSad.label>nedbrudte tanker</CurrentlyBrokenSad.label>
+
+DefInjected\ThoughtDef\Thoughts_ConditionsGeneral.xml
+    <Sick.label>syk</Sick.label>
+    <EnvironmentDark.label>i mørke</EnvironmentDark.label>
+    <Starving.description>Jeg vil bare ha - et ellet et annet - å spise! Jeg kan føle at kroppen begynner å svinne, det gjør vondt...</Starving.description>
+    <EnvironmentPretty.label>pent mijø</EnvironmentPretty.label>
+    <EnvironmentBeautiful.description>Dette stedet her er virkelig vakkert. Jeg føler meg løftet opp og elsker livet.</EnvironmentBeautiful.description>
+    <EnvironmentUgly.description>Dette stedet er bare ikke fint å være i.</EnvironmentUgly.description>
+    <EnvironmentHideous.label>avskyelig hesligt miljø</EnvironmentHideous.label>
+    <CabinFeverMild.label>brakkesyke (mild)</CabinFeverMild.label>
+    <Exhausted.description>Jeg er så utkjørt, at jeg knapt nok kan stå på bena. Mine øyenlokk føles som om de har en stor vekt på seg. La meg sove...</Exhausted.description>
+    <CabinFeverSerious.description>Jeg har vært låst inne som et dyr alt for lenge. Jeg har desperat bruk for å komme utendørs, ellers blir jeg gal!</CabinFeverSerious.description>
+    <EnvironmentPretty.description>Dette stedet er hyggelig.</EnvironmentPretty.description>
+    <EnvironmentHideous.description>Dette sted er uutholdelig å være i. Få meg ut herfra...</EnvironmentHideous.description>
+    <EnvironmentCramped.description>Dette sted er veldig innelukket. Jeg har ingen plass til å trekke unna.</EnvironmentCramped.description>
+    <Tired.label>trøtt</Tired.label>
+    <UrgentlyHungry.description>Sulten føles som tenner, som gnager i mine indre organer! Jeg har behov for mat, ellers vil jeg dø av sult.</UrgentlyHungry.description>
+    <EnvironmentVeryPretty.label>veldig pent miljø</EnvironmentVeryPretty.label>
+    <EnvironmentVeryUgly.description>Dette stedet er simpelthen hesligt. Jeg har ikke lyst til å være her.</EnvironmentVeryUgly.description>
+    <EnvironmentVeryCramped.label>veldig trangt miljø</EnvironmentVeryCramped.label>
+    <EnvironmentVeryPretty.description>Jeg kan virkelig godt like dette stedet, det er veldig vakkert.</EnvironmentVeryPretty.description>
+    <CabinFeverSerious.label>brakkesyke (alvorlig)</CabinFeverSerious.label>
+    <EnvironmentCramped.label>trangt miljø</EnvironmentCramped.label>
+    <EnvironmentSpaciousInterior.label>Romslig miljø</EnvironmentSpaciousInterior.label>
+    <UrgentlyHungry.label>innstendig sulten</UrgentlyHungry.label>
+    <VeryTired.description>Jeg er så trøtt. Jeg vil bare gjerne ligge ned og hvilet i et par minutter...</VeryTired.description>
+    <EnvironmentVeryUgly.label>hesligt miljø</EnvironmentVeryUgly.label>
+    <VeryTired.label>meget trøtt</VeryTired.label>
+    <CabinFeverMild.description>Jeg har vært låst inne her i dagevis. Jeg har bruk for å komme utendørs.</CabinFeverMild.description>
+    <EnvironmentSpaciousInterior.description>Dette stedet er veldig behagelig og åpent å være i.</EnvironmentSpaciousInterior.description>
+    <Hungry.description>Jeg har ikke spist på en god stund.</Hungry.description>
+    <EnvironmentVeryCramped.description>Det føles klaustrofobisk her inne. Jeg har ingen steder å gå. Jeg føler meg innelukket i et bur.</EnvironmentVeryCramped.description>
+    <Starving.label>sulter</Starving.label>
+    <Tired.description>Jeg har ikke sovet på en god stund.</Tired.description>
+    <Exhausted.label>utkjørt</Exhausted.label>
+    <Sick.description>Jeg føler meg ikke godt nå til dags, jeg er syk.</Sick.description>
+    <EnvironmentDark.description>Jeg har vært i mørket en god stund. Jeg bryr meg ikke om det.</EnvironmentDark.description>
+    <Hungry.label>sulten</Hungry.label>
+    <EnvironmentBeautiful.label>vakkert miljø</EnvironmentBeautiful.label>
+    <EnvironmentUgly.label>stygt miljø</EnvironmentUgly.label>
+
+DefInjected\ThoughtDef\Thoughts_ConditionsSpecial.xml
+    <MasochistInShock.description>Ahhh... er jeg i himmelen?</MasochistInShock.description>
+    <MasochistInShock.label>i sjokk over eksepsjonell smerte</MasochistInShock.label>
+    <Imprisoned.label>innesperret</Imprisoned.label>
+    <Naked.label>naken</Naked.label>
+    <MasochistLittlePain.label>i en smule smerte</MasochistLittlePain.label>
+    <BrawlerUnhappy.label>bråkmaker har et skytevåpen</BrawlerUnhappy.label>
+    <HappyNude.description>Jeg er naken og elsker det! Jeg føler mig så fri og løsrevet og i forbindelse med mine omgivelser!</HappyNude.description>
+    <Imprisoned.description>Jeg hater å være låst inne.</Imprisoned.description>
+    <SharedBedroom.description>Det er irriterende å dele soveværelse med andre. Jeg har bruk for... privatliv. </SharedBedroom.description>
+    <MasochistMediumPain.label>i en moderat mengde av smerte</MasochistMediumPain.label>
+    <ColonistLeftUnburied.description>En av oss døde og vi lar bare personen ligge ute i det åpne? Ingen bør bli etterlatt slik. La oss begrave vår venn.</ColonistLeftUnburied.description>
+    <ColonistLeftUnburied.label>kolonist fortsatt ubegravet</ColonistLeftUnburied.label>
+    <MasochistSeverePain.description>Au, au... jeg tror noe er gått i stykker... for en spennende følelse!</MasochistSeverePain.description>
+    <ProsthophobeUnhappy.label>har en bionisk kroppsdel</ProsthophobeUnhappy.label>
+    <SharedBedroom.label>deler soveværelse</SharedBedroom.label>
+    <MasochistLittlePain.description>Au... Heh heh heh... jeg kunne venne meg til dette!</MasochistLittlePain.description>
+    <ProsthophileHappy.description>Jeg er et produkt av moderne teknologi! Jeg kan gjøre alt bedre!</ProsthophileHappy.description>
+    <MasochistSeverePain.label>opplever alvorlig smerte</MasochistSeverePain.label>
+    <BrawlerUnhappy.description>Fy! jeg hater å skyte fra langt vekk. La meg få komme tett på - Helt tett på!</BrawlerUnhappy.description>
+    <MasochistMediumPain.description>Ugh... det gjør vondt, men jeg elsker det! bare kom an!</MasochistMediumPain.description>
+    <ProsthophileHappy.label>har en bionisk kroppsdel</ProsthophileHappy.label>
+    <ProsthophobeUnhappy.description>De har endret meg til en teknologisk avskyelighet... hvis bare de hadde gitt meg et valg...</ProsthophobeUnhappy.description>
+    <Naked.description>Jeg er naken. Jeg føler meg ydmyket.</Naked.description>
+    <HappyNude.label>naken og glad</HappyNude.label>
+
+DefInjected\ThoughtDef\Thoughts_Memories.xml
+    <KilledHumanoidBloodlust.label>drepte noen</KilledHumanoidBloodlust.label>
+    <AteHumanoidMeatDirectCannibal.label>rå kannibalisme</AteHumanoidMeatDirectCannibal.label>
+    <AteFineMeal.label>spiste et godt måltid</AteFineMeal.label>
+    <WitnessedDeathStranger.label>vitnet en fremmed dø</WitnessedDeathStranger.label>
+    <AteFineMeal.description>Jeg spiste et riktig godt måltig. Namm!</AteFineMeal.description>
+    <AteHumanoidMeatDirect.description>Jeg spiste rått kjøtt av et menneske, som et dyr. For et mareritt.</AteHumanoidMeatDirect.description>
+    <WitnessedDeathStranger.description>Jeg så noen dø! De var i live det ene øyeblikket. døde det neste.</WitnessedDeathStranger.description>
+    <PrisonerFriendlyChat.description>Vakten og jeg hadde en snakk om kolonien. Det høres utsom et godt sted å være...</PrisonerFriendlyChat.description>
+    <KnowPrisonerExecuted.label>en fange ble henrettet</KnowPrisonerExecuted.label>
+    <BattleWounded.label>såret</BattleWounded.label>
+    <JustImprisoned.description>Jeg er blitt kastet i fensgsel. Jeg må heller holde meg selv sammen og håndtere situasjonen.</JustImprisoned.description>
+    <AteWithoutTable.description>Jeg måtte spise mitt måltid fra bekken. Kan vi ikke få fat på et bord?</AteWithoutTable.description>
+    <ButcheredHumanoidCorpse.label>slaktet menneske</ButcheredHumanoidCorpse.label>
+    <NewColonyHope.description>Jeg venner meg til det, det er stadig en spennende utfordring. Jeg håper alt går godt...</NewColonyHope.description>
+    <NewColonyOptimism.description>Vi har landet her. Det er et lite utgangspunkt, men jeg er spent over å kunne grunnlegge en ny koloni.</NewColonyOptimism.description>
+    <KnowPrisonerSold.description>Kolonien har solgt en fange til slaveri. Det er en ubehagelig tanke.</KnowPrisonerSold.description>
+    <AteHumanoidMeatDirect.label>rå kannibalisme</AteHumanoidMeatDirect.label>
+    <SocialTalk.label>hadde en hyggelig prat</SocialTalk.label>
+    <KnowPrisonerBeaten.description>De banket en fange.</KnowPrisonerBeaten.description>
+    <SleptOutside.label>sov utendørs</SleptOutside.label>
+    <PrisonerBeatenMild.description>Vakten har slått meg. Han brakk ingen knokler, men det gjorde vondt nok.</PrisonerBeatenMild.description>
+    <NewColonyOptimism.label>optimisme over ny koloni</NewColonyOptimism.label>
+    <SocialTalk.description>Jeg har hatt en hyggelig prat men noen.</SocialTalk.description>
+    <GreenThumbHappy.label>sådd plante</GreenThumbHappy.label>
+    <AteRawFood.label>spiste rå mat</AteRawFood.label>
+    <AteWithoutTable.label>spiste fra bakken</AteWithoutTable.label>
+    <ObservedLayingRottingCorpse.description>Jeg så et råtnende lik, som lå på bakken. Det var ulekkert.</ObservedLayingRottingCorpse.description>
+    <PrisonerBeatenVicious.label>slått skallebank av vakt</PrisonerBeatenVicious.label>
+    <AteLavishMeal.description>Det måltidet var fantastiskt. Det er som næring for min kropp og sjel.</AteLavishMeal.description>
+    <AteHumanoidMeatDirectCannibal.description>Jeg spiste rått kjøtt av et menneske, som et dyr. Det var så... Saftig.</AteHumanoidMeatDirectCannibal.description>
+    <AteHumanoidMeatAsIngredient.description>Jeg spiste et måltid fra kjøtt av et menneske. Så fryktelig.</AteHumanoidMeatAsIngredient.description>
+    <AteHumanoidMeatAsIngredient.label>tilberedt kannibalisme</AteHumanoidMeatAsIngredient.label>
+    <JustImprisoned.label>ble fengslet</JustImprisoned.label>
+    <AteHumanoidMeatAsIngredientCannibal.description>Jeg spiste et måltid fra kjøtt av et menneske. Lekkert. Hvis jeg bare hadde fava bønner og en chianti.</AteHumanoidMeatAsIngredientCannibal.description>
+    <AteRawFood.description>Jeg ble nødt til å spise rå mat. Kan vi ikke tilberede det, eller i det minste gjøre det til næringspuré?</AteRawFood.description>
+    <SleptOutside.description>Jeg ble nødt til å sove utendørs, uten beskyttelse fra vind og vær.</SleptOutside.description>
+    <ButcheredHumanoidCorpse.description>Jeg har slaktet et menneske, som om det var et dyr.</ButcheredHumanoidCorpse.description>
+    <AbrasiveTalk.description>Noen var uforskammet overfor meg. Det verste er, jeg tror ikke engang personen oppfattet det...</AbrasiveTalk.description>
+    <KnowPrisonerExecuted.description>En fange ble henrettet i kaldt blod. Kolonien virker ondere for hver dag som går.</KnowPrisonerExecuted.description>
+    <GreenThumbHappy.description>Hva verden har bruk for er flere planter!</GreenThumbHappy.description>
+    <AteLavishMeal.label>spiste et overdådig måltid</AteLavishMeal.label>
+    <PrisonerFriendlyChat.label>overtalt av vakt</PrisonerFriendlyChat.label>
+    <PrisonerBeatenVicious.description>Vakten har slått meg skallebank. Jeg kunne ha dødd av det der...</PrisonerBeatenVicious.description>
+    <WitnessedDeathStrangerBloodlust.description>Jeg så noen dø! Det var intenst!</WitnessedDeathStrangerBloodlust.description>
+    <WitnessedDeathAlly.description>Jeg så en av mine folk dø! De var i live det ene øyeblikket, døde det neste.</WitnessedDeathAlly.description>
+    <NewColonyHope.label>håpfull for ny koloni</NewColonyHope.label>
+    <ObservedLayingCorpse.description>Jeg så et lik, som lå på bakken.</ObservedLayingCorpse.description>
+    <ObservedLayingCorpse.label>så et lik</ObservedLayingCorpse.label>
+    <AteNutrientPasteMeal.label>spiste næringspuré</AteNutrientPasteMeal.label>
+    <KnowPrisonerBeaten.label>en fange ble slått</KnowPrisonerBeaten.label>
+    <BattleWounded.description>Det er mitt blod! Jeg har blitt såret i kamp!</BattleWounded.description>
+    <ObservedLayingRottingCorpse.label>så et råtnende lik</ObservedLayingRottingCorpse.label>
+    <AteHumanoidMeatAsIngredientCannibal.label>tilberedt kannibalisme</AteHumanoidMeatAsIngredientCannibal.label>
+    <SleptOnGround.label>sov på bakken</SleptOnGround.label>
+    <AbrasiveTalk.label>hadde en uhyggelig samtale</AbrasiveTalk.label>
+    <SleptOnGround.description>Jeg ble nødt til å sove på bakken, som et dyr.</SleptOnGround.description>
+    <AteNutrientPasteMeal.description>Jeg ble nødt til å spise næringspuré. det holder deg i live, men man har ikke lyst til å spise det til vanlig.</AteNutrientPasteMeal.description>
+    <KnowPrisonerSold.label>en fange ble solgt</KnowPrisonerSold.label>
+    <KilledHumanoidBloodlust.description>Jeg har drept en person! Det føles vilt!</KilledHumanoidBloodlust.description>
+    <WitnessedDeathAlly.label>vitnet en alliert dø</WitnessedDeathAlly.label>
+    <WitnessedDeathStrangerBloodlust.label>vitnet en fremmed dø</WitnessedDeathStrangerBloodlust.label>
+    <PrisonerBeatenMild.label>slått av vakt</PrisonerBeatenMild.label>
+
+DefInjected\ThoughtDef\Thoughts_PsychicDrone.xml
+    <PsychicDroneExtreme.description>Mitt hjerte banker og jeg svetter. alt jeg kan tenke på er smerte og ondskap, og alle disse fiendene rundt meg. De er mitt mareritt, mitt mareritt, mitt mareritt...</PsychicDroneExtreme.description>
+    <PsychicDroneMedium.description>Det føles som om noen alltid er i utkanten av mitt synsfelt, som snakker til meg. Stemmen endrer seg, men beskjeden er den samme. Jeg får beskjed om å gjøre folk ondt. Få det til å gå vekk!</PsychicDroneMedium.description>
+    <PsychicDroneHigh.description>Stemmen er utålelig høy. Det er vanskelig å konsentrere seg. Jeg opplever at jeg står og snakker med stemmen, roper på den. Men stemmen blir med og roper tilbake igjen!</PsychicDroneHigh.description>
+    <PsychicDroneLow.description>Det er som om noe klør meg i bakgrunnen av sinnet mitt. En stemme, som hvisker. Jeg kan høre få ord, og jeg liker dem ikke.</PsychicDroneLow.description>
+    <PsychicDroneExtreme.label>psykisk drone (ekstrem)</PsychicDroneExtreme.label>
+    <PsychicDroneHigh.label>psykisk drone (høy)</PsychicDroneHigh.label>
+    <PsychicDroneMedium.label>psykisk drone (mellom)</PsychicDroneMedium.label>
+    <PsychicDroneLow.label>psykisk drone (lav)</PsychicDroneLow.label>
+
+DefInjected\ThoughtDef\Thoughts_Traits.xml
+    <MoodOffsetOptimist.description>Naturlig bonus fra Optimist karaktertrekket.</MoodOffsetOptimist.description>
+    <MoodOffsetSanguine.description>Naturlig bonus fra Sanguine karaktertrekket.</MoodOffsetSanguine.description>
+    <MoodOffsetDepressive.label>depressiv</MoodOffsetDepressive.label>
+    <MoodOffsetOptimist.label>optimist</MoodOffsetOptimist.label>
+    <MoodOffsetSanguine.label>sanguine</MoodOffsetSanguine.label>
+    <MoodOffsetDepressive.description>Naturlig handicap fra Depressiv karaktertrekket.</MoodOffsetDepressive.description>
+    <MoodOffsetPessimist.label>pessimistisk</MoodOffsetPessimist.label>
+    <MoodOffsetPessimist.description>Naturlig bonus fra Pessimistisk karaktertrekket.</MoodOffsetPessimist.description>
+
+DefInjected\TraderKindDef\BaseTraderKinds.xml
+    <FarmingVessel.label>matvarehandlere</FarmingVessel.label>
+    <IndustrialTrader.label>industrihandlere</IndustrialTrader.label>
+    <SlaveTrader.label>slavehandlere</SlaveTrader.label>
+
+DefInjected\WorkTypeDef\BaseWorkTypes.xml
+    <Mining.tooltipDesc>Gravernes jobb er å grave ut stein fra fjellkanter som du har valg å grave ut. Hvis du graver ut fjellkanter med råvarer kommer disse materialene til å være tilgjengelige til konstruksjon.</Mining.tooltipDesc>
+    <Warden.tooltipDesc>Vakter sørger for fanger og forsøker å rekruttere dem, snakker med, mishandler dem, eller straffer dem - Ut fra hva du har bestemt. Vakter gir også fangene mat, husk det.</Warden.tooltipDesc>
+    <Firefighter.tooltipDesc>Brannslukkere slukker ild i kolonien.</Firefighter.tooltipDesc>
+    <Hauling.tooltipDesc>Sleper saker vekk til lagerplasser eller søppelplasser.</Hauling.tooltipDesc>
+    <Research.tooltipDesc>Forskere utfører forskningsarbeid.</Research.tooltipDesc>
+    <Doctor.tooltipDesc>Leger bringer mat til de, som ligger handikappede i sengen etter kamp eller lignenede. De tar hånd om både kolonister og fanger.</Doctor.tooltipDesc>
+    <Hunting.tooltipDesc>Jegere jakter dyr som du har valgt at skal jaktes.</Hunting.tooltipDesc>
+    <Crafting.tooltipDesc>Håndværkere skaper ting ut fra råvarer.</Crafting.tooltipDesc>
+    <Construction.tooltipDesc>Byggere bygger ting som du har valgt at kolonien skal bygge.</Construction.tooltipDesc>
+    <Cleaning.tooltipDesc>Rengjøringsfolk gjør rent i hjemregionen, hvilket gjør at kolonien blir mye hyggeliger å bo i.</Cleaning.tooltipDesc>
+    <PlantCutting.tooltipDesc>Kutteren kutter ned viltvoksende planter, når du har uthevet dem med kutt ned.</PlantCutting.tooltipDesc>
+    <Cooking.tooltipDesc>Kokker fyller næringspastadispenseren og forbereder måltider.</Cooking.tooltipDesc>
+    <Growing.tooltipDesc>Dyrkeren dyrker planter i jorden og sørger for plantenes innhøsting.</Growing.tooltipDesc>
+    <Art.tooltipDesc>Kunstnere skaper vakre kunstværker.</Art.tooltipDesc>
+    <Repair.tooltipDesc>Reparerer bygninger og vedlikeholder kolonien.</Repair.tooltipDesc>
+
+Keyed\Alerts.xml
+    <NeedGrave>Trenger gravplass</NeedGrave>
+    <TableNeedsChairs>Bord trenger stoler</TableNeedsChairs>
+    <NeedGrowingZone>Trenger jorde</NeedGrowingZone>
+    <MentalBreakSoon>Nærmer seg et anfall</MentalBreakSoon>
+    <AlertUnforbidStartingResources>Uforby ressurser</AlertUnforbidStartingResources>
+    <AlertEquipStartingWeaponsDesc>Kolonistene dine landet med våpen, utrust dem!\n\nVelg hver kolonist og høyre-klikk på våpenet du vil at de skal utrustes med.</AlertEquipStartingWeaponsDesc>
+    <MentalBreakImminentDesc>Disse kolonistene er kritiskt stresset og kan få et psykisk anfall når som helst:\n\n{0}</MentalBreakImminentDesc>
+    <NeedGraveDesc>Det er et dødt lik liggende på bakken og det er ingen steder hvor kolonistene kan legge det.\n\nBygg en gravplass eller søppeldynge og angi lagrings instillingene.</NeedGraveDesc>
+    <MentalBreakImminent>Psykisk anfall uungåelig</MentalBreakImminent>
+    <MentalBreakSoonDesc>Disse kolonistenene nærmer seg punktet de når et psykisk anfall:\n\n{0}\nForbedre disse kolonistenes psyiske helse snart ellers så skjer det ille ting.</MentalBreakSoonDesc>
+    <FireInHomeRegionDesc>Det er en brann i hjemregionen.</FireInHomeRegionDesc>
+    <TableNeedsChairsDesc>Du har et bord uten stoler rundt seg. Bord er ubrukelige hvis ikke folk kan sette seg ved dem.</TableNeedsChairsDesc>
+    <HaltedConstructionsDesc>Disse konstruksjonene mangler materiale:\n\n{0}\nDu burde kanskje gjøre materialene som trengs tilgjengelige for kolonistene dine.</HaltedConstructionsDesc>
+    <FireInHomeRegion>Brann!</FireInHomeRegion>
+    <AlertUnforbidStartingResourcesDesc>Ved start er alle ressursene på banen FORBUDTE.\n\nFor at kolonistene dine skal kunne bruke dem, må du UFORBY dem ved å velge dem og trykke på knappen nederst på skjermen..</AlertUnforbidStartingResourcesDesc>
+    <NeedGrowingZoneDesc>Du har ikke noe jorde.\n\nPlasser et jorde på fruktbar jord gjennom Arkitektmenyen.</NeedGrowingZoneDesc>
+    <EquipStartingEquipment>Ha med utstyret ditt.</EquipStartingEquipment>
+    <EquipStartingEquipmentDesc>Du har landet med noen våpen, utrust kolonistene dine.\n\nFor å utruste noen med et våpen, velg kolonisten og høyre-klikk på det våpenet du skal utruste dem med.</EquipStartingEquipmentDesc>
+    <NeedHomeRegion>Trenger hjemregion</NeedHomeRegion>
+    <AlertNeedStockpile>Trenger lager</AlertNeedStockpile>
+    <AlertEquipStartingWeapons>Utrust våpen</AlertEquipStartingWeapons>
+    <AlertNeedStockpileDesc>Kolonistene dine trenger et sted å lagre ting. Angi et LAGER hvor de kan lagre ting.\n\nDu kan lage et LAGER til kolonistene dine ved å gå til OMRÅDER i ARKITEKT menyen nederst til venstre.</AlertNeedStockpileDesc>
+    <NeedHomeRegionDesc>Du må angi en HJEMREGION hvor kolonistene dine vil vaske, reparere og slukke brann.\n\nAngi en HJEMREGION ved bruk av OMRÅDER delen av ARKITEKT menyen.</NeedHomeRegionDesc>
+    <HaltedConstructions>{0} konstruksjoner mangler materiale.</HaltedConstructions>
+
+Keyed\ConceptDefs.xml
+    <ConceptText_Mining>Du kan markere hvor det skal graves ved hjelp av ARKITEKT MENYEN.\n\nÅ grave ut MINERALER gir METALL.\n\nÅ grave ut STEIN gir ingenting.</ConceptText_Mining>
+    <ConceptText_CameraZoom>Zoom inn og ut ved hjelp av MUSEHJULET eller T og G tastene.</ConceptText_CameraZoom>
+    <ConceptText_SetGrowingZonePlant>Du kan velge hva som skal gro i et jordbruksområde. Du kan til og med gro trær!\n\nBare velg jordbruksområdet, åpne JORDBRUK vinduet og trykk på 'plant' knappen.</ConceptText_SetGrowingZonePlant>
+    <ConceptText_ReadingAlerts>Hvis du noen gang er usikker på hva du burde gjøre, bør du sjekke ADVARSLER på høyre siden av skjermen.</ConceptText_ReadingAlerts>
+    <ConceptText_GrowingFood>For å gro mat, plasser et JORDBRUKSOMRÅDE ved hjelp av arkitekt menyen.\n\nDe kan bare bli plassert på fruktbar jord.</ConceptText_GrowingFood>
+    <ConceptText_BillsTab>For å få kolonister til å jobbe på en benk, velg benken og åpne opp Oppgaver tabellen. Her kan du se hvilket matretter å tilberede, hvilke håndverk å lage og hvilket skapninger å slakte.</ConceptText_BillsTab>
+    <ConceptText_Draft2>En kolonist som har blitt innkalt vil bare gjøre det som du ber dem om. De kan bare sloss og vil bruke det våpenet som de er utrustet med.\n\nIkke la kolonister være innkalt for lenge - de vil sulte og bli ulykkelige.</ConceptText_Draft2>
+    <ConceptText_PrisonerTab>Se en fanges 'Fange' vindu for å bestemme hvordan de skal bli behandlet.\n\nDu vil trenge en kolonist med oppsynsmann som oppgave til å ta seg av fanger.</ConceptText_PrisonerTab>
+    <ConceptText_MedicalOperations>For å angi en operasjon, som for eksempel innhøsting av organer eller installering av prostetiske lemmer. Åpne en kolonists HELSE vindu deretter trykk på OPERASJONER for å bestille en operasjon.</ConceptText_MedicalOperations>
+    <ConceptText_StoragePriority>Du kan gi et lager høyere prioritet. Kolonister vil fylle de høyere prioriterte lagerområder først.</ConceptText_StoragePriority>
+    <ConceptText_SpacePause>Trykk MELLOMROM for å pause eller fortsette spillet.\n\nDu kan gi ordre imens det er pauset.\n\nHusk dette - Om ting blir hektiske, bare trykk MELLOMROM!</ConceptText_SpacePause>
+    <ConceptText_Capture1>En fiende har blitt skadet. Du kan fange dem!</ConceptText_Capture1>
+    <ConceptText_Draft1>For å styre kolonistene direkte i kamp, innkall dem ved å trykke på Innkall knappen.</ConceptText_Draft1>
+    <ConceptText_ArrestingCreatesEnemies>Om du arresterer noen, blir hele partiet deres din fiende.\n\nIkke arrester noen hvis du har lyst til å forbli venner med partiet deres!</ConceptText_ArrestingCreatesEnemies>
+    <ConceptText_OpeningComms>For å kommunisere, velg en fungerende kolonist og høyre klikk på en kommunikasjons konsoll.</ConceptText_OpeningComms>
+    <ConceptText_RescueColonist>For å redde en skadet kolonist, velg en frisk kolonist og høyre-klikk på den skadde kolonisten.</ConceptText_RescueColonist>
+    <ConceptText_TradeGoodsMustBeNearBeacon>For å sende varer eller sølv til handelsmenn, så må du bygge en SATELITT MOTTAKER utendørs og plassere et lager av varer nær det.</ConceptText_TradeGoodsMustBeNearBeacon>
+    <ConceptText_EquippingWeapons>For å ha en kolonist utruste seg met et våpen, velg kolonisten og høyre-klikk på våpenet.\n\nDet er våpen på bakken nær stedet du started.</ConceptText_EquippingWeapons>
+    <ConceptText_StorageTabCategories>I lager vinduet, så kan du utvide kategorier til å tillate eller nekte bestemte ting. Trykk på trekantente til venstre for kategoriene.</ConceptText_StorageTabCategories>
+    <ConceptText_WorkOverview1>Du kan gi hver kolonist arbeidsinnstillinger i OVERSIKT nederst til høyre på skjermen.\n\nDe vil alltid gjøre det høyst prioriterte defName jobben de kan finne.</ConceptText_WorkOverview1>
+    <ConceptText_Wiki>Du kan slå opp informasjon på WIKIEN.\n\nBruk linken nederst til høyre på skjermen.</ConceptText_Wiki>
+    <ConceptText_BuildOrbitalTradeBeacon>Tips:\n\nFor å sende produkter eller sølv til handelsmen, Så må du bygge en SATELITT MOTTAKER utendørs og plassere varer innenfor rekkevidde.</ConceptText_BuildOrbitalTradeBeacon>
+    <ConceptText_TimeControls>Du kan øke hastigheten, sakke ned, eller stoppe tid ved hjelp av tidsinstillingene nederst til høyre.</ConceptText_TimeControls>
+    <ConceptText_RightClickClearLetter>Du kan raskt avslå innkommende meldinger ved å høyre-klikke dem.</ConceptText_RightClickClearLetter>
+    <ConceptText_Forbid>Kolonister vil ikke samhandle med ting som er markert FORBUDT.\n\Velg maten og metallet nær landingsområdet og trykk F for at det ikke lenger skal være FORBUDT.</ConceptText_Forbid>
+    <ConceptText_WorkOverview2>Kolonister vil ikke gjøre en jobb de ikke har blitt gitt.\n\nOm det er ingen som har en bestemt job, så vil det aldri bli gjort.</ConceptText_WorkOverview2>
+    <ConceptText_MoveCamera>Beveg kameraet ved å holde ned og dra MUSEHJULET eller med WASD tastene.</ConceptText_MoveCamera>
+    <ConceptText_StorageTab>Du kan konfigurere lager og varehus ved å velge dem og åpne LAGERPANELET over ARKITEKT vinduet nederst til venstre.</ConceptText_StorageTab>
+    <ConceptText_Capture2>For å fange en fiende, velg en kolonist, høyre-klikk på den skadde fienden, og trykk fang.\n\nDu vil trenge en ekstra seng markert til bruk av fanger.</ConceptText_Capture2>
+    <ConceptText_HomeRegion>HJEMREGIONEN forteller kolonistene dine hvilke områder å holde rene og hvor de skal slukke brann.\n\nDu kan angi HJEMREGIONEN i Områder kategorien under Arkitekt menyen.</ConceptText_HomeRegion>
+
+Keyed\Designators.xml
+    <DesignatorRegionNoRoofRemoveDesc>Fjerner takfritt område. Tak vil dukke opp her, og eksisterende tak vil ikke bli revet ned.</DesignatorRegionNoRoofRemoveDesc>
+    <DesignatorHomeRegionRemove>Fjern fra hjemregion</DesignatorHomeRegionRemove>
+    <DesignatorHomeRegionAddDesc>Kolonister vil reparere bygninger, vaske gulv og slukke brann bare innenfor hjemregionen.</DesignatorHomeRegionAddDesc>
+    <DesignatorRegionNoRoofAddDesc>Lager et område hvor det ikke vil komme noen tak. Kolonister vil også rive ned eksisterende tak her.</DesignatorRegionNoRoofAddDesc>
+    <DesignatorHomeRegionRemoveDesc>Fjerner område fra hjemregionen, kolonister vil ikke vaske, reparere eller slukke brann her.</DesignatorHomeRegionRemoveDesc>
+    <DesignatorRegionNoRoofAdd>Takfritt område</DesignatorRegionNoRoofAdd>
+    <DesignatorHomeRegionAdd>Utvid hjemregion</DesignatorHomeRegionAdd>
+    <DesignatorRegionNoRoofRemove>Fjern takfritt område</DesignatorRegionNoRoofRemove>
+    <NothingToHaulHere>Ingenting å rydde her.</NothingToHaulHere>
+
+Keyed\DialogsVarious.xml
+    <NaturalArmorCovers>Naturlig rustning</NaturalArmorCovers>
+    <SaveGameIncompatibleWarningTitle>Lagret spill ikke sammensvarende versjon</SaveGameIncompatibleWarningTitle>
+    <MeatAmount>Kjøttmengde</MeatAmount>
+    <AnimalType>Dyr</AnimalType>
+    <MechanoidType>Mekanoide</MechanoidType>
+    <MeleeDamage>Nærkampsskade</MeleeDamage>
+    <PlantType>Plante</PlantType>
+    <HumanType>Menneske</HumanType>
+    <PermittedIngredients>Tillate ingredienser</PermittedIngredients>
+    <Type>Type</Type>
+    <OverviewOf>Oversikt over {0}</OverviewOf>
+    <TargetCount>Lag til du har: {0}</TargetCount>
+    <ZoneNameIsInvalid>Vennligst skriv inn et gyldig navn.</ZoneNameIsInvalid>
+    <FoodType>Mat</FoodType>
+    <GunType>Børse</GunType>
+    <baseMarketValue>Bunnpris</baseMarketValue>
+
+Keyed\Enums.xml
+    <NoneQuality>Ingen</NoneQuality>
+    <StatCategory_PawnSocial>Sosialt</StatCategory_PawnSocial>
+    <EquippedStatOffsets>Påvirkning på utrustning</EquippedStatOffsets>
+    <MealLavishLavish>Overdådig</MealLavishLavish>
+    <PlantQuality>Plante</PlantQuality>
+    <StatCategory_PawnMisc>Diverse</StatCategory_PawnMisc>
+    <StatCategory_Armor>Rustning</StatCategory_Armor>
+    <StatCategory_GeneralNonPawn>Generelt</StatCategory_GeneralNonPawn>
+    <RawQuality>Rått</RawQuality>
+    <MealAwfulQuality>Forferdelig</MealAwfulQuality>
+    <StatCategory_Building>Bygning</StatCategory_Building>
+    <StuffOfEquipmentStatModifiers>Påvirkning når utstyr er laget av dette</StuffOfEquipmentStatModifiers>
+    <MealSimpleQuality>Simpel</MealSimpleQuality>
+    <StatCategory_PawnPrimary>Primær</StatCategory_PawnPrimary>
+    <StatCategory_PawnWork>Jobb</StatCategory_PawnWork>
+    <StatCategory_General>Generelt</StatCategory_General>
+    <MealFineQuality>Fin</MealFineQuality>
+    <StatCategory_PawnCombat>Kamp</StatCategory_PawnCombat>
+
+Keyed\FloatMenu.xml
+    <Wear>Bruk {0}</Wear>
+    <NoManipulationSkill>Skadet</NoManipulationSkill>
+    <EnterCryptosleepPod>Gå inn i kryptosøvn kapslen</EnterCryptosleepPod>
+
+Keyed\Gameplay.xml
+    <EnvironmentTip>Miljøet reflekterer hvor hyggelig en person ser på omgivelsene sine.\n\nMiljøet er høyt når folk er i romslige rom med vakre dekorasjoner. Det er dårlig når omgivelsene er stygge.</EnvironmentTip>
+    <TotalModifiers>Samlet egenskaper</TotalModifiers>
+    <DamageAbsorption>Skadeabsorbering</DamageAbsorption>
+    <PodContains>Inneholder</PodContains>
+    <Openness>Åpenhet</Openness>
+    <NextTreatmentAfter>Neste behandling om {0} dager</NextTreatmentAfter>
+    <PawnMainDescWithFactionGenderless>{0} av {1}</PawnMainDescWithFactionGenderless>
+    <FoodTip>Mat er mengden næring en skapning har forbrukt nylig. Om dette er på null, vil en skapning ta fysisk skade av sult.</FoodTip>
+    <SanityPsychotic>Knust: Psykotisk herjing</SanityPsychotic>
+    <SanityDazedWander>Knust: Er fortumlet og vandrer</SanityDazedWander>
+    <PrisonerMildBeating>Mild banking</PrisonerMildBeating>
+    <Health>Helse</Health>
+    <MentalBreakThreshold>Terskel for mentalt anfall</MentalBreakThreshold>
+    <SanityGiveUpExit>Knust: Har gitt opp og forlater</SanityGiveUpExit>
+    <Environment>Miljø</Environment>
+    <PrisonerGetsMedicine>Får medisin</PrisonerGetsMedicine>
+    <TimeToSpoil>Forderver om {0}</TimeToSpoil>
+    <BillConfig>Konfigurer</BillConfig>
+    <SanityPanicFlee>Knust: Rømmer i panikk</SanityPanicFlee>
+    <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+    <PrisonerViciousBeating>Grusom mørbanking</PrisonerViciousBeating>
+    <MoodTip>Humør er opprettholdt ved å fylle fysiske og psykiske behov.\n\nOm noens humør blir for lavt, kan de lide av et anfall.</MoodTip>
+    <Food>Mat</Food>
+    <DamageDeflection>Skadedeflektering</DamageDeflection>
+    <AutoHomeRegionToggleButton>Veksle mellom å automatisk inkludere hjemregionen rundt nye konstruksjoner.</AutoHomeRegionToggleButton>
+    <RestTip>Hvile er hvor god kvalitet hvil og søvn en person får.\n\nDet stiger maksimalt når en sover i en seng. Utenfor sengs, siger det over tid.</RestTip>
+    <TabThoughts>Tanker</TabThoughts>
+    <PawnMainDescWithFactionGendered>{0} {1} av {2}</PawnMainDescWithFactionGendered>
+    <Rest>Hvile</Rest>
+    <PrisonerGetsFood>Får mat</PrisonerGetsFood>
+    <Mood>Humør</Mood>
+    <ImmunityDevelopmentProgress>Utvikling av immunforsvar</ImmunityDevelopmentProgress>
+
+Keyed\GameplayCommands.xml
+    <CommandToggleDoorLock>Lås/Lås opp</CommandToggleDoorLock>
+    <CommandToggleDoorLockDesc>Lås eller lås opp en dør, låste dører åpner ikke opp for noen.</CommandToggleDoorLockDesc>
+    <BedAssign>Tildel</BedAssign>
+
+Keyed\Incidents.xml
+    <SpaceshipPartCrash>En stor bit av et eldgammelt skip har krasjlandet i nærheten.\n\nKolonistene dine kan føle det i sine bakerste tanker, formane unevnelige handlinger. Den må ha en kunstig intelligens med psykiske evner om bord. Det ser ut til at dette ikke er en vennlig intelligens.\n\nDestruer den så tidlig som mulig.</SpaceshipPartCrash>
+    <FriendlyRaidBesiege>Det ser ut til at de kommer til å bruke beleiringstaktikker for å hjelpe deg.</FriendlyRaidBesiege>
+    <FriendlyRaidImmediateAttack>De rykker in for å hjelpe deg umiddelbart.</FriendlyRaidImmediateAttack>
+    <EnemyRaidBesiege>Det ser ut til at de har lyst til å beleire kolonien din.</EnemyRaidBesiege>
+    <EnemyRaidStageThenAttack>De vil forberede seg en stund, så vil de angripe.\n\nGjør klar et forsvar eller angrip dem forebyggende.</EnemyRaidStageThenAttack>
+    <LetterSolarFlare>Sola blusset opp og en solfakkel har begynt.\n\nDen intense radiasjonen vil skru av alt elektrisk utstyr.\n\nDet burde blåse over om en dag eller to.</LetterSolarFlare>
+    <AWallsPowerConduit>en veggs kabelrør</AWallsPowerConduit>
+    <EclipseIncident>En av denne planetens måner har gått i bane foran sola. En solformørkelse har begynt.</EclipseIncident>
+    <EnemyRaidImmediateAttack>De angriper umiddelbart.</EnemyRaidImmediateAttack>
+    <FriendlyRaidStageThenAttack>De vil gjøre seg klare først før de rykker inn for å hjelpe deg.</FriendlyRaidStageThenAttack>
+
+Keyed\Letters.xml
+    <MentalBreakDaze>{0} har gitt opp og vandrer rundt fortumlet.</MentalBreakDaze>
+    <BirthdayWithInjuries>Det er fødselsdagen til {0} i dag! {1} fylte nettop {2}.\n\nDesverre, har {0} fått de følgende sykdommene på grunn av aldring:\n{3}</BirthdayWithInjuries>
+    <Birthday>Det er fødselsdagen til {0} i dag! {1} fylte nettop {2}.</Birthday>
+    <MentalBreakRampage>{0} har fått et anfall og herjer rundt.</MentalBreakRampage>
+    <MentalBreakLeave>{0} har gitt opp og forlater kolonien.</MentalBreakLeave>
+
+Keyed\Menu_Options.xml
+    <CurrentRes>For øyeblikket {0}</CurrentRes>
+    <ChooseResolution>Velg resolusjon</ChooseResolution>
+    <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
+    <GraphicsQuality>Grafikkvalitet</GraphicsQuality>
+    <CurrentHistoryUploadPref>For øyeblikket {0}</CurrentHistoryUploadPref>
+    <GraphicsQualityGreat>God</GraphicsQualityGreat>
+
+Keyed\Menus_Main.xml
+    <ChallengeScale_SeriousChallegne>Veldig utfordrende</ChallengeScale_SeriousChallegne>
+    <ChallengeScale_BuilderMode>Sandkasse</ChallengeScale_BuilderMode>
+    <ChallengeScale_ExtremeChallenge>Ekstremt utfordrende</ChallengeScale_ExtremeChallenge>
+    <ChallengeScale>Vanskelighetsgrad</ChallengeScale>
+    <ChallengeScaleTip>Når historiefortelleren sender trusler etter deg, vil de være {0} så store som i Utfordrende vanskelighetsgrad.</ChallengeScaleTip>
+    <ChallengeScale_Challenge>Utfordrende</ChallengeScale_Challenge>
+    <MustChooseChallengeScale>Vennlight velg utfordringenes vanskelighetsgrad.</MustChooseChallengeScale>
+    <ChallengeScale_Casual>Vanlig</ChallengeScale_Casual>
+    <TraitsDoNothing>Trekk er for øyeblikket bare morsomme historiebiter; de fleste av dem gjør ingenting. Dette vil endre seg i videre utgaver.</TraitsDoNothing>
+    <GetMods>Hent modifikasjoner</GetMods>
+    <ChallengeScale_Rough>Vanskelig</ChallengeScale_Rough>
+
+Keyed\Messages.xml
+    <MessageTraderNotEnoughSilver>Forhandleren har ikke nok sølv.</MessageTraderNotEnoughSilver>
+    <MessageRecruitFailBecauseLoyalty>{0} mislyktes i å rekruttere {1} (fangen er under terskelen).</MessageRecruitFailBecauseLoyalty>
+    <MessageTraderCannotAfford>Forhandleren har ikke råd til denne avtalen.</MessageTraderCannotAfford>
+    <MessageWellTreated>{1} behandlet {0} (God kvalitet, {2} sjanse for god kvalitet).</MessageWellTreated>
+    <MessagePoorlyTreated>{1} behandlet {0} (Dårlig kvalitet, {2} sjanse for god kvalitet).</MessagePoorlyTreated>
+
+Keyed\PlayInterface.xml
+    <MenuTip>Lagre, last inn, avslutt spillet eller endre spillinstillinger.</MenuTip>
+    <Architect>Arkitekt</Architect>
+    <OverviewTip>Se over koloniens arbeidsprioriteter og statistikk.</OverviewTip>
+    <ResearchTip>Undersøk og bestem forskningsprosjekter.</ResearchTip>
+    <Overview>Oversikt</Overview>
+

@@ -1,7 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <JumpToLocation>Gå til</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store several months' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
 
   <RelationsBrokenDown>Forholder til {0} har brutt ned. De er nå fiendtlige mot deg.</RelationsBrokenDown>
   <RelationsWarmed>Forholder med {0} har varmet opp. De er ikke lenger fiendlige mot deg.</RelationsWarmed>
@@ -12,23 +15,49 @@
   <Neutral>Nøytral</Neutral>
 
   <ShortCircuitRain>Et {0} kortsluttet i regnet og har started en brann.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
   <AreaRevealed>Et nytt område har blitt avslørt.</AreaRevealed>
+  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>Et tak har brutt sammen fordi det hang for langt unna noen støtte.</RoofCollapsed>
   <TheseThingsCrushed>Disse tingene ble knust:</TheseThingsCrushed>
   <NothingCrushed>Ingenting ble knust.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
   
-  <MentalBreakRampage>{0} har fått et anfall og herjer rundt.</MentalBreakRampage>
-  <MentalBreakDaze>{0} har gitt opp og vandrer rundt fortumlet.</MentalBreakDaze>
-  <MentalBreakLeave>{0} har gitt opp og forlater kolonien.</MentalBreakLeave>
-
   <RecruitSuccess>{0} klarte med hell å rekruttere {1} ({2} sjanse).</RecruitSuccess>
   <RecruitFail>{0} mislyktes med å rekruttere {1} ({2} sjanse).</RecruitFail>
-  
-  <Birthday>Det er fødselsdagen til {0} i dag! {1} fylte nettop {2}.</Birthday>
-  <BirthdayWithInjuries>Det er fødselsdagen til {0} i dag! {1} fylte nettop {2}.\n\nDesverre, har {0} fått de følgende sykdommene på grunn av aldring:\n{3}</BirthdayWithInjuries>
-  
+
+  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
+  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
   <NewDisease>{0} ble syk ({1}). Pass godt på at {0} får riktig behandling og tilbringer så mye tid i seng som mulig for å komme seg til igjen.</NewDisease>
   <NewPartDisease>{0} fikk {1}infeksjon. Pass godt på at {0} får riktig behandling og tilbringer så mye tid i seng som mulig for å komme seg til igjen.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+
+  <StruckMineable>We have struck {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} has developed {1} as a complication of {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+
   
+  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
+
+
+
 </LanguageData>

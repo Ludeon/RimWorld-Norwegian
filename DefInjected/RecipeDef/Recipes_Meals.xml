@@ -5,6 +5,7 @@
     <CookMealSimple.description>Tilbereder et enkelt måltid av en ingrediens.</CookMealSimple.description>
     <CookMealSimple.jobString>Tilbereder enkelt måltid.</CookMealSimple.jobString>
     
+    
     <CookMealFine.label>tilbered godt måltid</CookMealFine.label>
     <CookMealFine.description>Tilbereder et nogenlunde komplekst måltid, av en kombinasjon av rått kjøtt og rå planter.</CookMealFine.description>
     <CookMealFine.jobString>Tilbereder godt måltid.</CookMealFine.jobString>
