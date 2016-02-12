@@ -4,7 +4,7 @@
 	<ClickToJumpToProblem>Gå til problemet</ClickToJumpToProblem>
 
   <ShieldUserHasRangedWeapon>Skjoldbruker har skytevåpen</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>Et av dine kolonister har et personlig skjold og bærer et skytevåpen. De vil ikke kunne avfyre våpenet deres gjennom skjolded. (Med untak av mål som allerede rører dem).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>En av dine kolonister har et personlig skjold og bærer et skytevåpen. De vil ikke kunne avfyre våpenet sitt gjennom skjoldet (med untak av mål som allerede rører dem).</ShieldUserHasRangedWeaponDesc>
 
   <BrawlerHasRangedWeapon>Brawler har skytevåpen</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>En av dine kolonister har Brawler personlighetstrekket, men har bærer et skytevåpen. Dette vil gjøre ham veldig ulykkelig.</BrawlerHasRangedWeaponDesc>
