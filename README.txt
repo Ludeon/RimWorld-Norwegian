@@ -1,5 +1,5 @@
-RimWorld-Norwegian
-==================
+# RimWorld-Norwegian
+
 
 The Norwegian translation of RimWorld.
 
