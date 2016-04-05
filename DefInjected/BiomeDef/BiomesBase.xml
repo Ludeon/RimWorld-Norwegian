@@ -15,7 +15,7 @@
     <AridShrubland.description>En tørr region, men ikke tørr nok til å bli en ørken. Åpne områder med gress, buskas og småvokste trær. Planter er hardføre, og det er en moderat mengde av dyr.</AridShrubland.description>
     
     <TemperateForest.label>Temperert skog</TemperateForest.label>
-    <TemperateForest.description>Et vennlig økosystem dominert av skog og trær, med områder av frukbar jord. Mange forskjellige dyr rykker inn og ut i mellom trærne og gresset.</TemperateForest.description>
+    <TemperateForest.description>Et vennlig økosystem dominert av skog og trær, med områder av fruktbar jord. Mange forskjellige dyr rykker inn og ut i mellom trærne og gresset.</TemperateForest.description>
     
     <Desert.label>Ørken</Desert.label>
     <Desert.description>Et meget tørt og varmt område uten gode vilkår for liv.</Desert.description>
@@ -26,7 +26,7 @@
     <!-- ======== Landable biomes (not implemented) ==========-->
     
     <Tundra.label>Tundra</Tundra.label>
-    <Tundra.description>Område hvor det hovedsakelig er frossen jord. Det er lite av trær og beplantning. Dyr er få, og det er store vandrende flokker av planteetere - samt kjøtteterne som følger etter dem.</Tundra.description>
+    <Tundra.description>Område hvor det hovedsakelig er frossen jord. Det er lite av trær og beplantning. Dyr er få, og det er store vandrende flokker av planteetere – samt kjøtteterne som følger etter dem.</Tundra.description>
     
     <BorealForest.label>Boreal barskog</BorealForest.label>
     <BorealForest.description>Boreale(nordlige) skoger av høye trær. På tross av barske vintre kan skogene her støtte en bred mengde av dyr i forskjellige størrelser.</BorealForest.description>
