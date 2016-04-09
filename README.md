@@ -16,10 +16,10 @@ LINK COMING
 
 ###Translators:
 
--Darky
--ApertureAlex
--TheUnknownKiller
--IllusionDistort
--2villa1
--TheSettker95
--Eirik Birkeland
+- Darky
+- ApertureAlex
+- TheUnknownKiller
+- IllusionDistort
+- 2villa1
+- TheSettker95
+- EirikBirkeland
