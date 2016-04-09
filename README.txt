@@ -1,6 +1,7 @@
 RimWorld-Norwegian
 ==================
 
+
 The Norwegian translation of RimWorld.
 
 See this page for license info:
