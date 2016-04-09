@@ -10,7 +10,7 @@
   <Work.description>Velg hvilken kolonist som skal gjøre hva slags arbeid, og i hvilken rekkefølge.</Work.description>
 
   <Restrict.label>Begrens</Restrict.label>
-  <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen, eller angi tillatt oppholdsområde.</Restrict.description>
+  <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen. Du kan også angi tillatt oppholdsområde.</Restrict.description>
 
   <Assign.label>Tildel</Assign.label>
   <Assign.description>Konfigurer hva hver kolonist kan ha på seg samt hvordan de reagerer på fiender i nærheten.</Assign.description>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Norsk Bokmål</friendlyNameNative>
+  <friendlyNameEnglish>Norwegian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+ <!-- <languageWorkerClass>LanguageWorker_Norwegian</languageWorkerClass>-->
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>A</creditee>
+    </li>
+	    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>B</creditee>
+	  </li>
+  </credits>
+</LanguageInfo>
