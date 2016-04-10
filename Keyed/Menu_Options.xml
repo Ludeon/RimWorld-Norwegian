@@ -25,10 +25,10 @@
   <ChangeStoryteller>Velg historieforteller</ChangeStoryteller>
   
   <!-- Resolution -->
-  <Resolution>Resolusjon</Resolution>
+  <Resolution>Oppløsning</Resolution>
   <Fullscreen>Fullskjerm</Fullscreen>
   <CurrentRes>For øyeblikket {0}</CurrentRes>
-  <ChooseResolution>Velg resolusjon</ChooseResolution>
+  <ChooseResolution>Velg oppløsning</ChooseResolution>
 
   
   <!-- Privacy-->
