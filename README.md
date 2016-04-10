@@ -10,7 +10,8 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 Google Spreadsheet for translation progress: On hold?
 
-#Any "ENG_" prefixed files you may see are just there for reference. Rename / overwrite as you progress translating.
+# Update for April 2016
+There is a ton of stuff that needs translation, and not only that: Some source strings have changed. I'm currently going through the /Keyed folder (about 20% of the game). There are about 500 000 characters total now, or about 100 pages. So, we could really need 3-5 active contributors!
 
 ###Translators:
 
