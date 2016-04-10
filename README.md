@@ -13,7 +13,6 @@ There is a ton of stuff that needs translation, and not only that: Some source s
 
 Coming:
 - Term list - for those terms that are repeated in many places
-- Progress list - To make it easier for someone to grab something untranslated
 
 ###Translators:
 
