@@ -11,15 +11,15 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 Google Spreadsheet for translation progress:
 
-LINK COMMING
+LINK COMING
 
 
+###Translators:
 
-==============
-Translators:
 -Darky
 -ApertureAlex
 -TheUnknownKiller
 -IllusionDistort
 -2villa1
 -TheSettker95
+-Eirik Birkeland

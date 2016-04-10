@@ -1,0 +1,1 @@
+English files provided for quick reference. Remove ENG_ prefix for the files to be used in game.

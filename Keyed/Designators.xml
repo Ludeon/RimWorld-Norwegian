@@ -42,24 +42,24 @@
   <DesignatorHomeRegionRemove>Fjern fra hjemregion</DesignatorHomeRegionRemove>
   <DesignatorHomeRegionRemoveDesc>Fjerner område fra hjemregionen, kolonister vil ikke vaske, reparere eller slukke brann her.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>Takfritt område</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Lager et område hvor det ikke vil komme noen tak. Kolonister vil også rive ned eksisterende tak her.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofAdd>Utvid takfritt område</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Angir et område hvor det ikke vil komme noen tak. Eksisterende tak vil også fjernes.</DesignatorRegionNoRoofAddDesc>
 
   <DesignatorRegionNoRoofRemove>Fjern takfritt område</DesignatorRegionNoRoofRemove>
   <DesignatorRegionNoRoofRemoveDesc>Fjerner takfritt område. Tak vil dukke opp her, og eksisterende tak vil ikke bli revet ned.</DesignatorRegionNoRoofRemoveDesc>
+<!-- TERM CHANGE: I changed "lager" to "lagringsområde" in the below, because I think "lager" suggests a building or structure, whereas a stockpile in this case is really just an area designation. Likewise "å angi" is more appropritate than "å lage", since nothing is actually constructed. "Stockpile" itself is a bit of a Dwarf Fortress legacy, I reckon. EirikBirkeland -->
+  <DesignatorGrowingZoneDesc>Angir et lagringsområde hvor kolonistene vil prøve å gro en bestemt type plante.</DesignatorGrowingZoneDesc>
 
-  <DesignatorGrowingZoneDesc>Lager et område hvor kolonistene vil prøve å gro en bestemt type plante.</DesignatorGrowingZoneDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Angi et nytt lagringsområde hvor kolonistene dine vil lagre ressurser.\nDette verktøyet kan også brukes til å utvide ekisterende lagringsområder.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Lag et nytt lager hvor kolonistene dine vil lagre ressurser.\nDette verktøyet kan også utvide ekisterende lager.</DesignatorZoneCreateStorageResourcesDesc>
-
-  <DesignatorZoneCreateStorageDumpingDesc>Lag et nytt lager hvor kolonistene dine vil lagre søppel.\nDette verktøyet kan også utvide eksisterende søppeldynger.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Angi et nytt lagringsområde hvor kolonistene dine vil lagre søppel.\nDette verktøyet kan også brukes til å utvide eksisterende søppeldynger.</DesignatorZoneCreateStorageDumpingDesc>
 
 
   <DesignatorZoneDelete>Fjern soner</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Fjern soner som lagersoner og forplantningsoner.</DesignatorZoneDeleteDesc>
-  
-  <DesignatorClaim>Krev</DesignatorClaim>
-  <DesignatorClaimDesc>Krev nøytrale strukturer til kolonien, inkluderende eldgamle ruiner og forlatte beleiringer. Strukturer eid av kolonien kan bli reparert og vedlikeholdt av dine kolonister.</DesignatorClaimDesc>
+  <DesignatorZoneDeleteDesc>Fjern soner, eksempelvis lagersoner og vekstsoner.</DesignatorZoneDeleteDesc>
+  <!-- The previous term "Krev" is a bit vague. "Innlem" is more specific about territorial annexation, so I went for that instead. EirikBirkeland -->
+  <DesignatorClaim>Innlem</DesignatorClaim>
+  <DesignatorClaimDesc>Innlem nøytrale strukturer i kolonien, inkludert eldgamle ruiner og forlatte beleiringer. Strukturer som innlemmes i kolonien, kan repareres og vedlikeholes av kolonistene.</DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
