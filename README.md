@@ -12,8 +12,8 @@ Google Spreadsheet for translation progress: On hold?
 There is a ton of stuff that needs translation, and not only that: Some source strings have changed. There are about 500 000 characters total for the entire game, which converts to about 100 pages. So, we could really need 3-5 active contributors!
 
 Coming:
-- Term list (for consistency)
-- Progress list
+- Term list - for those terms that are repeated in many places
+- Progress list - To make it easier for someone to grab something untranslated
 
 ###Translators:
 
