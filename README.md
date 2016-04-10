@@ -4,7 +4,7 @@ RimWorld-Norwegian
 
 The Norwegian translation of RimWorld.
 
-See [http://ludeon.com/forums/index.php?topic=2933.0](this page) for license info.
+See [this link](http://ludeon.com/forums/index.php?topic=2933.0) for license info:
 
 Google Spreadsheet for translation progress: On hold?
 
