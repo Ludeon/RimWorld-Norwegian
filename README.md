@@ -8,11 +8,9 @@ See this page for license info:
 
 http://ludeon.com/forums/index.php?topic=2933.0
 
+Google Spreadsheet for translation progress: On hold?
 
-Google Spreadsheet for translation progress:
-
-LINK COMING
-
+#Any "ENG_" prefixed files you may see are just there for reference. Rename / overwrite as you progress translating.
 
 ###Translators:
 
