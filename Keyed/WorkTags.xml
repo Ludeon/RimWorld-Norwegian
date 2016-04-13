@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <WorkTagNone>Ingen</WorkTagNone>
@@ -9,6 +9,7 @@
   <WorkTagCaring>Omsorg</WorkTagCaring>
   <WorkTagSocial>Sosialt</WorkTagSocial>
   <WorkTagScary>Skummelt</WorkTagScary>
+  <WorkTagAnimals>Animals</WorkTagAnimals>
   <WorkTagArtistic>Kunstnerisk</WorkTagArtistic>
   <WorkTagCrafting>Håndverk</WorkTagCrafting>
   <WorkTagCooking>Matlaging</WorkTagCooking>

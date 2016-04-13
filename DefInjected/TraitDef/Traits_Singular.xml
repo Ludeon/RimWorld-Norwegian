@@ -1,121 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-	<rep>
-		<path>Nudist.degreeDatas[0].label</path>
-		<trans>nudist</trans>
-	</rep>
-	<rep>
-		<path>Nudist.degreeDatas[0].description</path>
-		<trans>NAME elsker følelsen av frihet ved å være naken.. HECAP kan godt takle å være påkledd, men foretrekker å være uten.</trans>
-	</rep>
-
-	<rep>
-		<path>Bloodlust.degreeDatas[0].label</path>
-		<trans>blodtørst</trans>
-	</rep>
-	<rep>
-		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>NAME får et rus av å skade mennesker, og har aldri noe mot død og blod omkring seg selv.</trans>
-	</rep>
-
-	<rep>
-		<path>Psychopath.degreeDatas[0].label</path>
-		<trans>psykopat</trans>
-	</rep>
-	<rep>
-		<path>Psychopath.degreeDatas[0].description</path>
-		<trans>NAME har ingen empati. Andres smerte har ingen innvirking på HIM overhode. HECAP er like glad om andre blir slaktet, ikke blir begravd, taes til fange, eller selges til slaveri - Med mindre det påvirker HIM. HECAP får ingen humørforbedringer fra sosialisering.</trans>
-	</rep>
-
-	<rep>
-		<path>Cannibal.degreeDatas[0].label</path>
-		<trans>kannibal</trans>
-	</rep>
-	<rep>
-		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>NAME har lært det at å spise mennesker er galt og forferdelig. men en gang, for lang tid siden, prøvde HE det... og HE likte det.</trans>
-	</rep>
-
-	<rep>
-		<path>Abrasive.degreeDatas[0].label</path>
-		<trans>berett</trans>
-	</rep>
-	<rep>
-		<path>Abrasive.degreeDatas[0].description</path>
-		<trans>NAME sier alltid det som er i HIS tanker, særlig hvis det irriterer HIM. Det har en tendens til å irritere folk.</trans>
-	</rep>
-
-	<rep>
-		<path>TriggerHappy.degreeDatas[0].label</path>
-		<trans>skyteglad</trans>
-	</rep>
-	<rep>
-		<path>TriggerHappy.degreeDatas[0].description</path>
-		<trans>Pang! Pang! Pang! NAME skyter noe forferdelig, men HE er like blid og fornøyd, for det å skyte er kult!</trans>
-	</rep>
-
-	<rep>
-		<path>CarefulShooter.degreeDatas[0].label</path>
-		<trans>forsiktig skyter</trans>
-	</rep>
-	<rep>
-		<path>CarefulShooter.degreeDatas[0].description</path>
-		<trans>NAME er en rigtig god skyter, men HE har bruk for litt ekstra tid til å fokusere på HIS mål.</trans>
-	</rep>
-
-	<rep>
-		<path>TooSmart.degreeDatas[0].label</path>
-		<trans>for klok</trans>
-	</rep>
-	<rep>
-		<path>TooSmart.degreeDatas[0].description</path>
-		<trans>NAME er for klok, for HIS eget beste. HECAP lærer alt veldig mye raskere en andre, og kan være veldig eksentrisk.</trans>
-	</rep>
-
-	<rep>
-		<path>Brawler.degreeDatas[0].label</path>
-		<trans>brawler</trans>
-	</rep>
-	<rep>
-		<path>Brawler.degreeDatas[0].description</path>
-		<trans>NAME liker å kjempe ansikt til ansikt. HISCAP nøyaktighet er mye bedre i nærkamp, men HE kan bli veldig bitter, om man gir kolonisten et skytevåpen.</trans>
-	</rep>
-
-	<rep>
-		<path>Masochist.degreeDatas[0].label</path>
-		<trans>masochist</trans>
-	</rep>
-	<rep>
-		<path>Masochist.degreeDatas[0].description</path>
-		<trans>For NAME, er det bare noe spennende ved å bli såret. HECAP vet ikke hvorfor, HE er bare skrudd sammen på den måten.</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophile.degreeDatas[0].label</path>
-		<trans>prostofil</trans>
-	</rep>
-	<rep>
-		<path>Prosthophile.degreeDatas[0].description</path>
-		<trans>NAME føler seg begrenset i HIS sårbare menneskekropp. HECAP drømmer ofte om å bli bionisk.</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].label</path>
-		<trans>prostofob</trans>
-	</rep>
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].description</path>
-		<trans>NAME tror på at menneskekroppen er som den er, av en årsak. For HIM, er bioniske kroppsdeler et uetisk valg.</trans>
-	</rep>
-
-	<rep>
-		<path>GreenThumb.degreeDatas[0].label</path>
-		<trans>grønne fingre</trans>
-	</rep>
-	<rep>
-		<path>GreenThumb.degreeDatas[0].description</path>
-		<trans>NAME har en lidenskap for hagearbeid. HECAP får bonus til sitt humør. for hver plante HE sår.</trans>
-	</rep>
-
+    
+    <Nudist.degreeDatas.0.label>nudist</Nudist.degreeDatas.0.label>
+    <Nudist.degreeDatas.0.description>NAME elsker følelsen av frihet ved å være naken.. HECAP kan godt takle å være påkledd, men foretrekker å være uten.</Nudist.degreeDatas.0.description>
+    
+    <Bloodlust.degreeDatas.0.label>blodtørst</Bloodlust.degreeDatas.0.label>
+    <Bloodlust.degreeDatas.0.description>NAME får et rus av å skade mennesker, og har aldri noe mot død og blod omkring seg selv.</Bloodlust.degreeDatas.0.description>
+    
+    <Psychopath.degreeDatas.0.label>psykopat</Psychopath.degreeDatas.0.label>
+    <Psychopath.degreeDatas.0.description>NAME har ingen empati. Andres smerte har ingen innvirking på HIM overhode. HECAP er like glad om andre blir slaktet, ikke blir begravd, taes til fange, eller selges til slaveri - Med mindre det påvirker HIM. HECAP får ingen humørforbedringer fra sosialisering.</Psychopath.degreeDatas.0.description>
+    
+    <Cannibal.degreeDatas.0.label>kannibal</Cannibal.degreeDatas.0.label>
+    <Cannibal.degreeDatas.0.description>NAME har lært det at å spise mennesker er galt og forferdelig. men en gang, for lang tid siden, prøvde HE det... og HE likte det.</Cannibal.degreeDatas.0.description>
+    
+    <Abrasive.degreeDatas.0.label>berett</Abrasive.degreeDatas.0.label>
+    <Abrasive.degreeDatas.0.description>NAME sier alltid det som er i HIS tanker, særlig hvis det irriterer HIM. Det har en tendens til å irritere folk.</Abrasive.degreeDatas.0.description>
+    
+    <TooSmart.degreeDatas.0.label>for klok</TooSmart.degreeDatas.0.label>
+    <TooSmart.degreeDatas.0.description>NAME er for klok, for HIS eget beste. HECAP lærer alt veldig mye raskere en andre, og kan være veldig eksentrisk.</TooSmart.degreeDatas.0.description>
+    
+    <Brawler.degreeDatas.0.label>brawler</Brawler.degreeDatas.0.label>
+    <Brawler.degreeDatas.0.description>NAME liker å kjempe ansikt til ansikt. HISCAP nøyaktighet er mye bedre i nærkamp, men HE kan bli veldig bitter, om man gir kolonisten et skytevåpen.</Brawler.degreeDatas.0.description>
+    
+    <Masochist.degreeDatas.0.label>masochist</Masochist.degreeDatas.0.label>
+    <Masochist.degreeDatas.0.description>For NAME, er det bare noe spennende ved å bli såret. HECAP vet ikke hvorfor, HE er bare skrudd sammen på den måten.</Masochist.degreeDatas.0.description>
+    
+    <Prosthophile.degreeDatas.0.label>prostofil</Prosthophile.degreeDatas.0.label>
+    <Prosthophile.degreeDatas.0.description>NAME føler seg begrenset i HIS sårbare menneskekropp. HECAP drømmer ofte om å bli bionisk.</Prosthophile.degreeDatas.0.description>
+    
+    <Prosthophobe.degreeDatas.0.label>prostofob</Prosthophobe.degreeDatas.0.label>
+    <Prosthophobe.degreeDatas.0.description>NAME tror på at menneskekroppen er som den er, av en årsak. For HIM, er bioniske kroppsdeler et uetisk valg.</Prosthophobe.degreeDatas.0.description>
+    
+    <GreenThumb.degreeDatas.0.label>grønne fingre</GreenThumb.degreeDatas.0.label>
+    <GreenThumb.degreeDatas.0.description>NAME har en lidenskap for hagearbeid. HECAP får bonus til sitt humør. for hver plante HE sår.</GreenThumb.degreeDatas.0.description>
+    
+    <NightOwl.degreeDatas.0.label>night owl</NightOwl.degreeDatas.0.label>
+    <NightOwl.degreeDatas.0.description>NAME likes to work at night. HECAP gets a mood bonus if awake at night and mood loss if awake during the day.</NightOwl.degreeDatas.0.description>
+    
+    <Greedy.degreeDatas.0.label>greedy</Greedy.degreeDatas.0.label>
+    <Greedy.degreeDatas.0.description>NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.</Greedy.degreeDatas.0.description>
+    
+    <Jealous.degreeDatas.0.label>jealous</Jealous.degreeDatas.0.label>
+    <Jealous.degreeDatas.0.description>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.0.description>
+    
+    <Ascetic.degreeDatas.0.label>ascetic</Ascetic.degreeDatas.0.label>
+    <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP gets a mood loss if HE has a bedroom that's too impressive.</Ascetic.degreeDatas.0.description>
+    
+    <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>
+    <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>
+    
+    <DislikesMen.degreeDatas.0.label>dislikes men</DislikesMen.degreeDatas.0.label>
+    <DislikesMen.degreeDatas.0.description>NAME really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
+    
+    <DislikesWomen.degreeDatas.0.label>dislikes women</DislikesWomen.degreeDatas.0.label>
+    <DislikesWomen.degreeDatas.0.description>NAME really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
+    
 </LanguageData>

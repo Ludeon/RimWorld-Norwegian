@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClockTime>Tid</ClockTime>
@@ -6,36 +6,9 @@
   <ClockYear>År</ClockYear>
   <DateReadoutTip>Dager siden din ankomst: {0}\nDet er {1} dager i hver måned.</DateReadoutTip>
 
-
-
   <FullDate>{0} {1}, År {2}</FullDate>
-  <MonthFullDate>{0} {1}</MonthFullDate>
+	<DateReadout>{0} of {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} of {1}</SeasonFullDate>
+  <WholeYear>Whole year</WholeYear>
   
-  <MonthFullJanuary>Januar</MonthFullJanuary>
-  <MonthFullFebruary>Februar</MonthFullFebruary>
-  <MonthFullMarch>Mars</MonthFullMarch>
-  <MonthFullApril>April</MonthFullApril>
-  <MonthFullMay>Mai</MonthFullMay>
-  <MonthFullJune>Juni</MonthFullJune>
-  <MonthFullJuly>Juli</MonthFullJuly>
-  <MonthFullAugust>August</MonthFullAugust>
-  <MonthFullSeptember>September</MonthFullSeptember>
-  <MonthFullOctober>Oktober</MonthFullOctober>
-  <MonthFullNovember>November</MonthFullNovember>
-  <MonthFullDecember>Desember</MonthFullDecember>
-
-  <MonthShortJanuary>Jan</MonthShortJanuary>
-  <MonthShortFebruary>Feb</MonthShortFebruary>
-  <MonthShortMarch>Mar</MonthShortMarch>
-  <MonthShortApril>Apr</MonthShortApril>
-  <MonthShortMay>Mai</MonthShortMay>
-  <MonthShortJune>Jun</MonthShortJune>
-  <MonthShortJuly>Jul</MonthShortJuly>
-  <MonthShortAugust>Aug</MonthShortAugust>
-  <MonthShortSeptember>Sept</MonthShortSeptember>
-  <MonthShortOctober>Okt</MonthShortOctober>
-  <MonthShortNovember>Nov</MonthShortNovember>
-  <MonthShortDecember>Des</MonthShortDecember>
-    
-    
 </LanguageData>

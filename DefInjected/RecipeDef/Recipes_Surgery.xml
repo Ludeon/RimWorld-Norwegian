@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <RemoveBodyPart.label>fjern kroppsdel</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Fjerner kroppsdel.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Fjerner kroppsdel.</RemoveBodyPart.jobString>
+    
+    <RemoveMechanoidBodyPart.label>fjern kroppsdel</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Fjerner kroppsdel.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Fjerner kroppsdel.</RemoveMechanoidBodyPart.jobString>
+    
+    <Euthanize.label>avliv</Euthanize.label>
+    <Euthanize.description>Avliver.</Euthanize.description>
+    <Euthanize.jobString>Avliver.</Euthanize.jobString>
+    
+    <ShutDownMechanoid.label>slukk ned</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Slukker ned mekanoiden.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Slukker ned.</ShutDownMechanoid.jobString>
+    
+    <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
+    <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
+    <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
+    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+    
+</LanguageData>

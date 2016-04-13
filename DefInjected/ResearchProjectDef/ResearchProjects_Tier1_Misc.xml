@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Devilstrand.label>devilstrand</Devilstrand.label>
+    <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
+    
+    <Hydroponics.label>hydroponi</Hydroponics.label>
+    <Hydroponics.description>Tillater deg å bygge hydroponiske bed som hurtig kan gro avlinger innendørs.</Hydroponics.description>
+    
+    <Brewing.label>brewing</Brewing.label>
+    <Brewing.description>Allows you to build a brewery to transform hops into tasty, tasty beer.</Brewing.description>
+    
+    <Stonecutting.label>steinhugging</Stonecutting.label>
+    <Stonecutting.description>Bygg steinhuggerbenken, den gir mulighet til å forvandle stenklumper til murstein, som kan brukes til konstruksjoner.</Stonecutting.description>
+    
+    <ElectricSmelting.label>elektrisk smelting</ElectricSmelting.label>
+    <ElectricSmelting.description>Bygg elektriske smeltere som bruker varme og sterk elektromagnetisme til å utvinne metall fra vrakdeler og andre ting.</ElectricSmelting.description>
+    
+    <ElectricCremation.label>electric cremation</ElectricCremation.label>
+    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    
+    <CarpetMaking.label>teppeproduksjon</CarpetMaking.label>
+    <CarpetMaking.description>Tillater kolonister å bygge tepper som kan forbedre kvaliteten av miljøet deres.</CarpetMaking.description>
+    
+    <Smithing.label>smithing</Smithing.label>
+    <Smithing.description>Build smithies for crafting metal weapons and tools.</Smithing.description>
+    
+    <ColoredLights.label>farget lys</ColoredLights.label>
+    <ColoredLights.description>Tillater kolonister å bygge farget lys som dekorasjon.</ColoredLights.description>
+    
+    <Machining.label>maskinarbeid</Machining.label>
+    <Machining.description>Bygg bordet til maskinarbeid, hvor man kan bryte ned døde mekanoider til brukbart metall.</Machining.description>
+    
+    <Mortars.label>morterer</Mortars.label>
+    <Mortars.description>Lær å bygge mortere, som kan sende granater over lange distanser og over vegger.</Mortars.description>
+    
+    <IEDBomb.label>Explosive IEDs</IEDBomb.label>
+    <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDBomb.description>
+    
+    <IEDIncendiary.label>Incendiary IEDs</IEDIncendiary.label>
+    <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from artillery shells.</IEDIncendiary.description>
+    
+    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    
+    <TubeTelevision.label>tube television</TubeTelevision.label>
+    <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+    
+</LanguageData>

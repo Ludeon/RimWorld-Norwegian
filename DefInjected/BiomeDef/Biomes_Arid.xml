@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AridShrubland.label>Tørr krattskog</AridShrubland.label>
+    <AridShrubland.description>En tørr region, men ikke tørr nok til å bli en ørken. Åpne områder med gress, buskas og småvokste trær. Planter er hardføre, og det er en moderat mengde av dyr.</AridShrubland.description>
+    
+    <Desert.label>Ørken</Desert.label>
+    <Desert.description>Et meget tørt og varmt område uten gode vilkår for liv.</Desert.description>
+    
+    <ExtremeDesert.label>extreme desert</ExtremeDesert.label>
+    <ExtremeDesert.description>An extremely hot, dry area, devoid of almost all living creatures. Immense heat and limited vegetation make it very difficult to survive here, even for well-adapted animals.</ExtremeDesert.description>
+    
+</LanguageData>

@@ -28,15 +28,13 @@
     <Floors.label>gulv</Floors.label>
     <Floors.description>Gulv som man kan gå på.</Floors.description>
     
-    <Decoration.label>dekorasjoner</Decoration.label>
-    <Decoration.description>Fine ting som forbedrer kolonistenes humør.</Decoration.description>
-    
     <Joy.label>fornøyelser</Joy.label>
     <Joy.description>Underholdning og fornøyelige gjenstander for kolonistenes velbefinnende.</Joy.description>
-
+    
     <Ship.label>romskip</Ship.label>
     <Ship.description>Komponenter til å bygge ditt romskip.</Ship.description>
     
     <Temperature.label>temperatur</Temperature.label>
     <Temperature.description>Objekter som regulerer temperaturen.</Temperature.description>
+    
 </LanguageData>

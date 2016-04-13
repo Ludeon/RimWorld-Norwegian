@@ -1,21 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <MainPageCredit>A colony simulator by Tynan Sylvester</MainPageCredit>
+  
   <Credits_Developers>Utviklere</Credits_Developers>
-  <Credit_Ludomancer>Ludomanser</Credit_Ludomancer>
+  <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
   <Credit_MusicAndSound>Musikk og lyd</Credit_MusicAndSound>
-  <Credit_AdditionalProgramming>Ytterligere programmering</Credit_AdditionalProgramming>
+  <Credit_Code>Code</Credit_Code>
   <Credit_GameArt>Spillkunst</Credit_GameArt>
   <Credit_MenuArt>Menykunst</Credit_MenuArt>
-  
-  
+  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+
   <Credits_TitleCommunity>Samfunnsfrivillige</Credits_TitleCommunity>
   <Credit_Tester>Tester</Credit_Tester>
   <Credit_ModDonation>Moddonor</Credit_ModDonation>
+  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
   <Credit_Moderator>Moderator</Credit_Moderator>
   <Credit_WikiMaster>Wikimester</Credit_WikiMaster>
 
-  
   <Credits_TitleLanguage>{0} språk</Credits_TitleLanguage>
   <Credit_Writer>Forfatter</Credit_Writer>
   <Credit_Translator>Oversetter</Credit_Translator>
