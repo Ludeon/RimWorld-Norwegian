@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Prohis>hans</Prohis>
+  <Proher>hennes</Proher>
+  <ProhisCap>Hans</ProhisCap>
+  <ProherCap>Hennes</ProherCap>
+
+  <ProhimObj>han</ProhimObj>
+  <ProherObj>henne</ProherObj>
+  <ProhimObjCap>Han</ProhimObjCap>
+  <ProherObjCap>Henne</ProherObjCap>
+
+  <Prohe>han</Prohe>
+  <Proshe>hun</Proshe>
+  <ProheCap>Han</ProheCap>
+  <ProsheCap>Hun</ProsheCap>
+  
+  <IndefiniteArticle>a</IndefiniteArticle>
+  <DefiniteArticle>de</DefiniteArticle>
+
+  <ProitCap>Det</ProitCap>
+  <Proit>det</Proit>
+   <ProitObjCap>Det</ProitObjCap>
+  <ProitObj>det</ProitObj>
+
+</LanguageData>
