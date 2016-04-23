@@ -3,8 +3,6 @@
 
 	<ClickToJumpToProblem>Gå til problemet</ClickToJumpToProblem>
 
-  
-  
   <NeedSawmill>Trenger sagbruk</NeedSawmill>
   <NeedSawmillDesc>Du trenger et lite sagbruk for å tilpasse tømmer til mer allsidige treplanker.\n\nBygg et HÅND-SAGBRUK eller et ELEKTRISK SAGBRUK.</NeedSawmillDesc>
 
@@ -87,13 +85,9 @@
   <NeedDump>Trenger søppeldynge</NeedDump>
   <NeedDumpDesc>Du har markert {0} til å bli ryddet, men kolonistene har ingen steder å legge det.\n\nPlasser en søppeldynge eller lag et lagerområde og endre instillingene til å ta imot {0}.</NeedDumpDesc>
 
-  
-
   <ColonistsIdle>{0} kolonister har ikke noe å gjøre</ColonistsIdle>
   <ColonistsIdleDesc>Disse kolonistene har ikke noe å gjøre:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
 
-  
-  
   <ColonistNeedsTreatment>Kolonist trenger behandling</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Derett velger du den skadde kolonisten og høyre-klikker på sykesengen for å gjøre dem om til en pasient.)</ColonistNeedsTreatmentDesc>
 
