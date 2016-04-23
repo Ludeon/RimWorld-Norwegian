@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Body.label>kropp</Body.label>
+    
+    <Beak.label>beak</Beak.label>
+    
+    <InsectHead.label>hode</InsectHead.label>
+    
+    <SnakeBody.label>kropp</SnakeBody.label>
+    
+    <SnakeHead.label>hode</SnakeHead.label>
+    
+    <SnakeMouth.label>munn</SnakeMouth.label>
+    
+    <InsectHeart.label>hjerte</InsectHeart.label>
+    
+    <InsectNostril.label>nesebor</InsectNostril.label>
+    
+    <InsectMouth.label>munn</InsectMouth.label>
+    
+    <Jowl.label>underkjeve</Jowl.label>
+    
+    <Tail.label>hale</Tail.label>
+    
+    <LeftAntenna.label>venstre antenne</LeftAntenna.label>
+    
+    <RightAntenna.label>høyre antenne</RightAntenna.label>
+    
+    <Pronotum.label>pronotum</Pronotum.label>
+    
+    <Shell.label>skall</Shell.label>
+    
+    <LeftElytra.label>venstre dekkvinge</LeftElytra.label>
+    
+    <RightElytra.label>høyre dekkvinge</RightElytra.label>
+    
+    <LeftTusk.label>venstre støttann</LeftTusk.label>
+    
+    <RightTusk.label>høyre støttann</RightTusk.label>
+    
+    <Trunk.label>trunk</Trunk.label>
+    
+    <Horn.label>horn</Horn.label>
+    
+    <HeadClaw.label>head claw</HeadClaw.label>
+    
+    <Hump.label>pukkel</Hump.label>
+    
+    <TurtleShell.label>skall</TurtleShell.label>
+    
+    <Plastron.label>plastron</Plastron.label>
+    
+    <TurtleBeak.label>nebb</TurtleBeak.label>
+    
+    <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>høyre forben</FrontRightLeg.label>
+    
+    <MiddleLeftLeg.label>midterste venstre ben</MiddleLeftLeg.label>
+    
+    <MiddleRightLeg.label>midterste høyre ben</MiddleRightLeg.label>
+    
+    <RearLeftLeg.label>bakerste venstre ben</RearLeftLeg.label>
+    
+    <RearRightLeg.label>bakerste høyre ben</RearRightLeg.label>
+    
+    <FrontLeftInsectLeg.label>venstre forben</FrontLeftInsectLeg.label>
+    
+    <FrontRightInsectLeg.label>høyre forben</FrontRightInsectLeg.label>
+    
+    <MiddleLeftInsectLeg.label>midterste venstre ben</MiddleLeftInsectLeg.label>
+    
+    <MiddleRightInsectLeg.label>midterste høyre ben</MiddleRightInsectLeg.label>
+    
+    <RearLeftInsectLeg.label>bakerste venstre ben</RearLeftInsectLeg.label>
+    
+    <RearRightInsectLeg.label>bakerste høyre ben</RearRightInsectLeg.label>
+    
+    <FrontLeftPaw.label>forben venstre pote</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>forben høyre pote</FrontRightPaw.label>
+    
+    <RearLeftPaw.label>bakerste venstre pote</RearLeftPaw.label>
+    
+    <RearRightPaw.label>bakerste høyre pote</RearRightPaw.label>
+    
+    <FrontLeftHoof.label>forreste venstre hov</FrontLeftHoof.label>
+    
+    <FrontRightHoof.label>forreste høyre hov</FrontRightHoof.label>
+    
+    <RearLeftHoof.label>bakerste venstre hov</RearLeftHoof.label>
+    
+    <RearRightHoof.label>bakerste høyre hov</RearRightHoof.label>
+    
+    <FrontLeftLegFirstClaw.label>forreste bens venstre første klo</FrontLeftLegFirstClaw.label>
+    
+    <FrontLeftLegSecondClaw.label>forreste bens venstre andre klo</FrontLeftLegSecondClaw.label>
+    
+    <FrontLeftLegThirdClaw.label>forreste bens venstre tredje klo</FrontLeftLegThirdClaw.label>
+    
+    <FrontLeftLegFourthClaw.label>forreste bens venstre fjerde klo</FrontLeftLegFourthClaw.label>
+    
+    <FrontLeftLegFifthClaw.label>forreste bens venstre femte klo</FrontLeftLegFifthClaw.label>
+    
+    <FrontRightLegFirstClaw.label>forreste bens høyre første klo</FrontRightLegFirstClaw.label>
+    
+    <FrontRightLegSecondClaw.label>forreste bens høyre andre klo</FrontRightLegSecondClaw.label>
+    
+    <FrontRightLegThirdClaw.label>forreste bens høyre tredje klo</FrontRightLegThirdClaw.label>
+    
+    <FrontRightLegFourthClaw.label>forreste bens høyre fjerde klo</FrontRightLegFourthClaw.label>
+    
+    <FrontRightLegFifthClaw.label>forreste bens høyre femte klo</FrontRightLegFifthClaw.label>
+    
+    <RearLeftLegFirstClaw.label>bakerste venstre bens første klo</RearLeftLegFirstClaw.label>
+    
+    <RearLeftLegSecondClaw.label>bakerste venstre bens andre klo</RearLeftLegSecondClaw.label>
+    
+    <RearLeftLegThirdClaw.label>bakerste venstre bens tredje klo</RearLeftLegThirdClaw.label>
+    
+    <RearLeftLegFourthClaw.label>bakerste venstre bens fjerde klo</RearLeftLegFourthClaw.label>
+    
+    <RearLeftLegFifthClaw.label>bakerste venstre bens femte klo</RearLeftLegFifthClaw.label>
+    
+    <RearRightLegFirstClaw.label>bakerste høyre bens første klo</RearRightLegFirstClaw.label>
+    
+    <RearRightLegSecondClaw.label>bagkrste høyre bens andre klo</RearRightLegSecondClaw.label>
+    
+    <RearRightLegThirdClaw.label>bakerste høyre bens tredje klo</RearRightLegThirdClaw.label>
+    
+    <RearRightLegFourthClaw.label>bakerste høyre bens fjerde klo</RearRightLegFourthClaw.label>
+    
+    <RearRightLegFifthClaw.label>bakerste høyre bens femte klo</RearRightLegFifthClaw.label>
+    
+</LanguageData>

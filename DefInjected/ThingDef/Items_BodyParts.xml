@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!-- natural -->
-    
     <Heart.label>hjerte</Heart.label>
     <Heart.description>Pumper blod og oksygen rundt i alle kroppsdeler. Klar til å finne en ny eier.</Heart.description>
     
@@ -15,15 +13,11 @@
     <Liver.label>lever</Liver.label>
     <Liver.description>Spiller en viktig rolle i stoffskiftet.</Liver.description>
     
-    <!-- artificial - simple prosthetics -->
-    
     <SimpleProstheticLeg.label>enkel benprotese</SimpleProstheticLeg.label>
     <SimpleProstheticLeg.description>En enkel benprotese til å erstatte et manglende ben. Ikke komfortabelt, men effektivt.</SimpleProstheticLeg.description>
     
     <SimpleProstheticArm.label>enkel armprotese</SimpleProstheticArm.label>
     <SimpleProstheticArm.description>En enkel men solid armprotese.</SimpleProstheticArm.description>
-    
-    <!-- artificial - bionics -->
     
     <BionicEye.label>bionisk øye</BionicEye.label>
     <BionicEye.description>Avansert stykke teknologi som ikke kun erstatter naturligt øyne, men gir også supernaturlig syn.</BionicEye.description>
@@ -37,7 +31,7 @@
     <PowerClaw.label>kraftklo</PowerClaw.label>
     <PowerClaw.description>Sterk hånderstatning som gir brukeren tre dødelige klør.</PowerClaw.description>
     
-    <ScytherKnifeProtrusion.label>scyther knivfremspring</ScytherKnifeProtrusion.label>
-    <ScytherKnifeProtrusion.description>Sterk hånderstatning som gir brukeren mulighet til at skyve kniver ut mellom håndens knokler. Særlig effektivt som nærkampsvåpen.</ScytherKnifeProtrusion.description>
+    <ScytherBlade.label>scyther blade</ScytherBlade.label>
+    <ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.</ScytherBlade.description>
     
 </LanguageData>

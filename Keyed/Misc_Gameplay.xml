@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Various -->
+  
   <WorkLeft>Arbeid som gjenstår</WorkLeft>
   <Contents>Innhold</Contents>
   <ContainedResources>Ressurser</ContainedResources>
@@ -9,6 +9,8 @@
   <ForColonistUse>Til bruk av kolonister</ForColonistUse>
   <MedicalBed>Sykeseng</MedicalBed>
   <Owner>Eier</Owner>
+  <Owners>Owners</Owners>
+  <AssignedColonist>Assigned colonist</AssignedColonist>
   <Nobody>Ingen</Nobody>
   <Unowned>Ingen eier</Unowned>
   <DeadTime>Død {0}</DeadTime>
@@ -18,28 +20,103 @@
   <NotEnoughStoredLower>ikke nok lagret</NotEnoughStoredLower>
   <NothingLower>ingenting</NothingLower>
   <Adapted>Tilnærmet</Adapted>
-  <Headshot>Blinkskudd</Headshot>
   <FreshMissingBodyPart>Ferskt</FreshMissingBodyPart>
   <UntreatedLower>Ubehandlet</UntreatedLower>
   <DevelopedImmunityLower>Utviklet immunforsvar</DevelopedImmunityLower>
   <InjuryRequiresTreatment>Behøver behandling for å helbredes</InjuryRequiresTreatment>
-  <NextTreatmentAfter>Neste behandling om {0} dager</NextTreatmentAfter>
+  <NextTreatmentIn>Next treatment in {0}</NextTreatmentIn>
   <MissingMedicalBillIngredient>Ingen {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>Utvikling av immunforsvar</ImmunityDevelopmentProgress>
+  <Immunity>Immunity</Immunity>
+  <Race>Race</Race>
+  <Description>Description</Description>
+  <Equipment>Utstyr</Equipment>
+  <Apparel>Klede</Apparel>
+  <Inventory>Inventar</Inventory>
+  <ThingInfo>Informasjon</ThingInfo>
+  <DropThing>Slipp</DropThing>
+  <Rename>Rename</Rename>
+  <RenameColonist>Omdøp kolonist</RenameColonist>
+  <UnknownLower>unknown</UnknownLower>
+  <On>On</On>
+  <Off>Off</Off>
+  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <JoyTolerances>Joy tolerances</JoyTolerances>
+  <MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
+  <MilkFullness>Milk fullness</MilkFullness>
+  <WoolGrowth>Wool growth</WoolGrowth>
+  <EggProgress>Egg progress</EggProgress>
+  <Fertilized>Fertilized</Fertilized>
+  <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+  <EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
+  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <BrokenDown>Broken down</BrokenDown>
+  <BondBrackets>(bond)</BondBrackets>
+  <Fuel>Fuel</Fuel>
+  
+  
+  <Headshot>Blinkskudd</Headshot>
+  <TreatQuality>treat quality {0}</TreatQuality>
+  <PoorResult>poor result</PoorResult>
+  <GoodResult>good result</GoodResult>
+  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+  <HarvestFailed>Harvest\nfailed</HarvestFailed>
+  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
 
-  <!-- Turrets -->
+
+  
+  <Home>Home</Home>
+  <NoRoof>No roof</NoRoof>
+  <SnowClear>Snow clear</SnowClear>
+  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
+  <NewArea>New area</NewArea>
+  <NewAreaAnimal>New animal area</NewAreaAnimal>
+  <InvertArea>Invert</InvertArea>
+  
+  
+  <CannotOrderNonControlled>Cannot order non-controlled units.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} is incapable of violence.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
+  
+  
+  <SnowNone>No snow</SnowNone>
+  <SnowDusting>Snow (dusting)</SnowDusting>
+  <SnowThin>Snow (thin)</SnowThin>
+  <SnowMedium>Snow (medium)</SnowMedium>
+  <SnowThick>Snow (thick)</SnowThick>
+  
+  
   <GunInstalled>Installert</GunInstalled>
   <MinimumRange>Minimum rekkevidde</MinimumRange>
   <CanFireIn>Kan skyte om</CanFireIn>
+  <ShellLoaded>Shell loaded</ShellLoaded>
+  <ShellNotLoaded>Not loaded</ShellNotLoaded>
   
   
-  <!-- Job reports -->
 	<ReportHaulingTo>Flytter {0} til {1}.</ReportHaulingTo>
 	<ReportHauling>Flytter {0}.</ReportHauling>
   <ReportSleeping>Sover.</ReportSleeping>
   <ReportResting>Hviler.</ReportResting>
+  <WatchingSunrise>Ser på soloppgangen</WatchingSunrise>
+  <CloudWatching>Ser på skyene</CloudWatching>
+  <WatchingSunset>Ser på solnedgangen</WatchingSunset>
+  <Stargazing>Stjernetitter</Stargazing>
+  <WatchingEclipse>Ser på solformørkelse</WatchingEclipse>
+  <DeliveringFood>Delivering food to {0}.</DeliveringFood>
+  <UsingVerb>Using {0} on {1}.</UsingVerb>
+  <AreaLower>area</AreaLower>
+  <ReportCowering>Cowering.</ReportCowering>
   
-	<!-- Shooting report -->
+	
   <WeaponMissRadius>Treffsikkerhet</WeaponMissRadius>
 	<ShootReportShooterAbility>Skytter</ShootReportShooterAbility>
 	<ShootReportWeapon>Våpen</ShootReportWeapon>
@@ -51,155 +128,41 @@
 	<CoverThingBlocksPercentOfShots>{0} stopper {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>Ingen dekning</NoCoverLower>
 	
-	
-	<!-- Status levels -->
-  <Mood>Humør</Mood>
-  <MoodTip>Humør er opprettholdt ved å fylle fysiske og psykiske behov.\n\nOm noens humør blir for lavt, kan de lide av et anfall.</MoodTip>
-  <Food>Mat</Food>
-  <FoodTip>Mat er mengden næring en skapning har forbrukt nylig. Om dette er på null, vil en skapning ta fysisk skade av sult.</FoodTip>
-  <Rest>Hvile</Rest>
-  <RestTip>Hvile er hvor god kvalitet hvil og søvn en person får.\n\nDet stiger maksimalt når en sover i en seng. Utenfor sengs, siger det over tid.</RestTip>
-  <Environment>Miljø</Environment>
-  <EnvironmentTip>Miljøet reflekterer hvor hyggelig en person ser på omgivelsene sine.\n\nMiljøet er høyt når folk er i romslige rom med vakre dekorasjoner. Det er dårlig når omgivelsene er stygge.</EnvironmentTip>
-  <Openness>Åpenhet</Openness>
-
   
-  <!-- Thoughts -->
+  <RecipeMake>Make {0}</RecipeMake>
+  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  
+  
   <ThoughtExpiresIn>Utgår om: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Begynner å gå ut om: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>Ferdig utgått om: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThreshold>Terskel for mentalt anfall</MentalBreakThreshold>
+  <MentalBreakThresholdHard>Hard mental break threshold</MentalBreakThresholdHard>
+  <MentalBreakThresholdSoft>Soft mental break threshold</MentalBreakThresholdSoft>
 
-
-  <!-- Pawn info readout -->
-  <Health>Helse</Health>
-  <PawnMainDescWithFactionGendered>{0} {1} av {2}</PawnMainDescWithFactionGendered>
+  
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescWithFactionGenderless>{0} av {1}</PawnMainDescWithFactionGenderless>
-  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Parti</Faction>
   <Equipped>Utstyrt</Equipped>
   <EquippedNothing>Ingenting</EquippedNothing>
   <Incapacitated>Skadet</Incapacitated>
   <InRestraints>I håndjern (sakket)</InRestraints>
   <Carrying>Bærer</Carrying>
-  <SanityDazedWander>Knust: Er fortumlet og vandrer</SanityDazedWander>
-  <SanityGiveUpExit>Knust: Har gitt opp og forlater</SanityGiveUpExit>
-  <SanityPanicFlee>Knust: Rømmer i panikk</SanityPanicFlee>
-  <SanityPsychotic>Knust: Psykotisk herjing</SanityPsychotic>
-  
-  <!-- Body and activities condition -->
-  <None>Ingen</None>
-  <VeryPoor>Veldig dårlig</VeryPoor>
-  <Poor>Dårlig</Poor>
-  <Weakened>Svekket</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Forbedret</Enhanced>
-  <SeriouslyImpaired>Seriøst redusert</SeriouslyImpaired>
-  <Impaired>Redusert</Impaired>
-  <SlightlyImpaired>Såhvidt redusert</SlightlyImpaired>
-  <NoPain>Ingen</NoPain>
-  <LittlePain>Liten</LittlePain>
-  <MediumPain>Middels</MediumPain>
-  <SeverePain>Alvorlig</SeverePain>
-  <ExtremePain>Ekstrem</ExtremePain>
 
-  <!-- Inspector general stuff -->
+  
   <SelectNextInSquareTip>Velg neste ting i samme rute.\n\nAngitt snarvei: {0}\n\nDu kan også gjøre dette ved å sakte trykke på den samme ruten igjen.</SelectNextInSquareTip>
   <DefInfoTip>Vis informasjon om dette objektet.</DefInfoTip>
- 
-  <!-- Art -->
-  <Title>Tittel</Title>
-  <Untitled>Untitled</Untitled>
- 
-  <!-- Wind Turbine -->
-  <WindTurbine_WindPathIsBlockedBy>Blokkert av</WindTurbine_WindPathIsBlockedBy>
-  <WindTurbine_WindPathIsBlockedByRoof>Blokkert av tak</WindTurbine_WindPathIsBlockedByRoof>
-
   
-  <!-- ITab titles -->
-  <TabBills>Oppgaver</TabBills>
-  <TabGrowing>Jordbruk</TabGrowing>
-  <TabCharacter>Karakter</TabCharacter>
-  <TabPrisoner>Fange</TabPrisoner>
-  <TabGear>Utstyr</TabGear>
-  <TabThoughts>Tanker</TabThoughts>
-  <TabStorage>Lager</TabStorage>
-  <TabHealth>Helse</TabHealth>
-  <TabRace>Rase</TabRace>
-  <TabBasics>Grunnleggende</TabBasics>
-  <TabStats>Statistikk</TabStats>
-
-
-  <!-- ITabs -->
-	<AddBill>Legg til oppgave</AddBill>
-	<RecipeRequiresSkills>Oppskriften {0} trenger ferdighetene nedenfor. Ingen av kolonistene dine har disse ferdighetene, så ingen vil gjøre denne oppgaven.</RecipeRequiresSkills>
-	<BillConfig>Konfigurer</BillConfig>
-	<SuspendedCaps>UTSATT</SuspendedCaps>
-	<PlantVerb>Plante</PlantVerb>
-	<RecruitmentDifficulty>Vanskelighet for å rekruttere</RecruitmentDifficulty>
-	<PrisonerGetsFood>Får mat</PrisonerGetsFood>
-	<DoctorsCare>Sykepleie</DoctorsCare>
-	<PrisonerGetsMedicine>Får medisin</PrisonerGetsMedicine>
-	<ShouldTryToRecruit>Prøv å rekruttere</ShouldTryToRecruit>
-	<PrisonerNoInteraction>Ingen samhandling</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>Hyggelig samtale</PrisonerFriendlyChat>
-	<PrisonerMildBeating>Mild banking</PrisonerMildBeating>
-	<PrisonerViciousBeating>Grusom mørbanking</PrisonerViciousBeating>
-	<PrisonerExecution>Henrettelse</PrisonerExecution>
-	<Equipment>Utstyr</Equipment>
-	<Apparel>Klede</Apparel>
-	<Inventory>Inventar</Inventory>
-	<ThingInfo>Informasjon</ThingInfo>
-	<DropThing>Slipp</DropThing>
-	<TotalModifiers>Samlet egenskaper</TotalModifiers>
-	<DamageAbsorption>Skadeabsorbering</DamageAbsorption>
-	<DamageDeflection>Skadedeflektering</DamageDeflection>
-	<MoveSpeed>Bevegelses hastighet</MoveSpeed>
-	<Efficiency>Effektivitet</Efficiency>
-	<MissingBodyPart>Borte</MissingBodyPart>
-	<DestroyedBodyPart>Ødelagt</DestroyedBodyPart>
-	<ShatteredBodyPart>Knust</ShatteredBodyPart>
-  <RemovedBodyPart>Fjernet</RemovedBodyPart>
-	<Healthy>Frisk</Healthy>
-	<InPain>I smerte</InPain>
-	<PainLevel>Smerte</PainLevel>
-	<Dead>Død</Dead>
-	<Unconscious>Bevisstløs</Unconscious>
-	<PainShock>I sjokk</PainShock>
-	<Injured>Skadet</Injured>
-	<NoInjuries>(ingen skader)</NoInjuries>
-	<WholeBody>Hele kroppen</WholeBody>
-	<RenameColonist>Omdøp kolonist</RenameColonist>
-	<DataProcessing>Behandler data</DataProcessing>
-	<Communication>Kommunikasjon</Communication>
-	<AffectsLower>påvirker</AffectsLower>
-	<BleedingRate>Blødninger</BleedingRate>
-	<HealthOverview>Oversikt</HealthOverview>
-	<MedicalOperationsShort>Operasjoner ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>Modifikasjoner ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>Medisinsk operasjon</MedicalOperations>
-	<Amputate>Amputater</Amputate>
-	<Harvest>Høst inn</Harvest>
-	<PrisonerRelease>Løslat</PrisonerRelease>
-	<GetsMedicine>Får medisin</GetsMedicine>
-	<GetsFood>Får mat</GetsFood>
-	<!-- like 'Blood of John' -->
+  
+  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+  
+	
 	<OfLower>av</OfLower>
 
-  <!-- Temperature readout -->
-  <Indoors>Innendørs</Indoors>
-  <IndoorsUnroofed>Åpent tak</IndoorsUnroofed>
-  <Outdoors>Utendørs</Outdoors>
-
-  <!-- Temperature control -->
-  <TargetTemperature>Måltemperatur</TargetTemperature>
-  <PowerConsumptionMode>Nåværende strømforbruk</PowerConsumptionMode>
-  <PowerConsumptionHigh>Høyt</PowerConsumptionHigh>
-  <PowerConsumptionLow>Lavt</PowerConsumptionLow>
-
-	<!-- Power readout -->
-  <PowerNotConnected>Ikke koblet til strømkilde.</PowerNotConnected>
+	
+	<PowerNotConnected>Ikke koblet til strømkilde.</PowerNotConnected>
   <PowerConnectedRateStored>Koblet til/lagret: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>Nødvendig strøm</PowerNeeded>
   <PowerOutput>Strøm utgitt</PowerOutput>
@@ -207,21 +170,26 @@
   <PowerBatteryEfficiency>Effektivitet</PowerBatteryEfficiency>
 
   
-	<!--Rotting-->
-  <RotStateFresh>Ferskt</RotStateFresh>
-  <RotStateRotting>Råtner</RotStateRotting>
-  <RotStateDessicated>Fordervet</RotStateDessicated>
-  <CurrentlyFrozen>Frosne (utløper ikke)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Nedkjølt (Forderver om {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Ikke nedkjølt (Forderver om {0})</NotRefrigerated>
-  <OverADecade>over et tiår</OverADecade>
-
+  <TargetTemperature>Måltemperatur</TargetTemperature>
+  <PowerConsumptionMode>Nåværende strømforbruk</PowerConsumptionMode>
+  <PowerConsumptionHigh>Høyt</PowerConsumptionHigh>
+  <PowerConsumptionLow>Lavt</PowerConsumptionLow>
+  
+  
+  <Indoors>Innendørs</Indoors>
+  <IndoorsUnroofed>Åpent tak</IndoorsUnroofed>
+  <Outdoors>Utendørs</Outdoors>
+  
+  
+	<RotStateFresh>Ferskt</RotStateFresh>
+	<RotStateRotting>Råtner</RotStateRotting>
+	<RotStateDessicated>Fordervet</RotStateDessicated>
 	
-  <!-- Shooting tooltip -->
+  
   <ShotBy>Skutt av {0}</ShotBy>
   <CannotHit>Kan ikke treffe målet.</CannotHit>
 
-  <!-- Storage priority labels -->
+  
   <StoragePriorityUnstored>Ikke lagret</StoragePriorityUnstored>
   <StoragePriorityLow>Lav</StoragePriorityLow>
   <StoragePriorityNormal>Normal</StoragePriorityNormal>
@@ -229,11 +197,17 @@
   <StoragePriorityImportant>Viktig</StoragePriorityImportant>
   <StoragePriorityCritical>Kritisk</StoragePriorityCritical>
 
-  <!-- Meal -->
-  <TimeToSpoil>Forderver om {0}</TimeToSpoil>
+  
+  <CurrentlyFrozen>Frosne (utløper ikke)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Nedkjølt (Forderver om {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Ikke nedkjølt (Forderver om {0})</NotRefrigerated>
+  <OverADecade>over et tiår</OverADecade>
+  <LessThanADay>less than a day</LessThanADay>
+  
+  
   <Ingredients>Ingredienser</Ingredients>
 
-  <!-- Plants -->
+  
   <PercentGrowth>{0} vekst</PercentGrowth>
   <GrowthRate>Vekstrate</GrowthRate>
   <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
@@ -249,101 +223,124 @@
   <GrowYearRound>Året rundt</GrowYearRound>
   <GrowSeasonHereNow>Vekstsesong er nå.</GrowSeasonHereNow>
   <CannotGrowTooCold>Kan ikke dyrke - kuldesesong.</CannotGrowTooCold>
- 
-   <!-- ThingFilter -->
-  <HitPoints>{0} hit points</HitPoints>
-  <AnyQuality>enhver kvalitet</AnyQuality>
-  <OnlyQuality>Kun {0}</OnlyQuality>
 
   
-  <!-- Zones -->
   <Zone>Område</Zone>
   <GrowingZone>Jordbruksområde</GrowingZone>
   <Stockpile>Lagerområde</Stockpile>
   <DumpingStockpile>Søppeldynge</DumpingStockpile>
   <Priority>Prioritet</Priority>
+  <ClearAll>Clear all</ClearAll>
+  <AllowAll>Allow all</AllowAll>
 
-  <!-- General time stuff -->
-  <DaysLower>dager</DaysLower>
-  <SecondsLower>sekunder</SecondsLower>
   
-  <!-- Mouseover indicator -->
+	<HitPoints>{0} hit points</HitPoints>
+	<AnyQuality>enhver kvalitet</AnyQuality>
+	<OnlyQuality>Kun {0}</OnlyQuality>
+
+	
   <Undiscovered>Uoppdaget</Undiscovered>
   
-  <!-- Buttons -->
+  
   <ZoneVisibilityToggleButton>Veksle mellom synlighet av områder.</ZoneVisibilityToggleButton>
-  <AutoHomeRegionToggleButton>Veksle mellom å automatisk inkludere hjemregionen rundt nye konstruksjoner.</AutoHomeRegionToggleButton>
+  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Veksle mellom kategorisert modus på ressursavlesningen.</CategorizedResourceReadoutToggleButton>
-
-  <!-- Fire -->
+  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+  
+  
   <Fire>Brann</Fire>
   <FireOn>Brann på {0}</FireOn>
   <Burning>Brenner</Burning>
   <FireSizeLower>brannstørrelse {0}</FireSizeLower>
+ 
   
-
-  <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Spesielle forhold som påvirker området akkurat nå.</MapConditionsTip>
 
-  <!-- Building placement -->
+  
   <NoStuffsToBuildWith>Du har ikke noe brukbart materiale til å bygge dette.</NoStuffsToBuildWith>
 
-  <!-- Quality -->
+  
+  <MustPlaceUnroofed>Kan ikke bli plassert under tak.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Må plasseres med hode vend mot skipets konstruksjons bjelke.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Må bli plassert ved siden av noe som trenger en hopper.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Må plasseres direkte oppå en damp geysir.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Både den varme og kalde enden av kjøleren må være exposed.</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
+	
+	
+  <WindTurbine_WindPathIsBlockedBy>Blokkert av</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blokkert av tak</WindTurbine_WindPathIsBlockedByRoof>
+
+  
+  <CasketContains>Inneholder</CasketContains>
+  <CasketUnknownContents>Ukjent</CasketUnknownContents>
+  <CasketWarning>Advarsel!\n\nNAME er din siste frittgående kolonist! Om du lar HIM gå inn i den kaspelen, kan du kanskje ikke fortsette å spille. Er du sikker på at du vil fortsette?</CasketWarning>
+
+  
+  <ShipReportCannotLaunch>Kan ikke lette.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Klar til å lette.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Mangler kritisk komponent</ShipReportMissingPart>
+  <ShipReportNoFullPods>Ingen full kryptosøvn kapsel</ShipReportNoFullPods>
+
+  
+  <UseNeurotrainer>Bruk neurotrener for å lære {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} brukte {1} neurotrener til å gå fra nivå {2} til nivå {3}.</NeurotrainerUsed>
+  
+  
+  <UseArtifact>Activate</UseArtifact>
+  
+  
+  <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
+  
+  
+  <Installed>Installed</Installed>
+  <NotInstalled>Not installed</NotInstalled>
+
+  
+  <Title>Tittel</Title>
+  <Untitled>Untitled</Untitled>
+  
+  
+  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+
+  
   <Quality>Kvalitet</Quality>
   <QualityDescription>Kvaliteten er hvor bra laget noe er.</QualityDescription>
   <QualityIs>Kvalitet: {0}</QualityIs>
-
-  <!-- Mood descriptions -->
-  <Mood_Broken>knust</Mood_Broken>
+    
+  
+  <Mood_MentalState>mental state</Mood_MentalState>
   <Mood_AboutToBreak>faller sammen</Mood_AboutToBreak>
   <Mood_OnEdge>på kanten</Mood_OnEdge>
   <Mood_Stressed>stresset</Mood_Stressed>
   <Mood_Neutral>nøytral</Mood_Neutral>
 	<Mood_Content>fornøyd</Mood_Content>
   <Mood_Happy>lykkelig</Mood_Happy>
- 
-  <!-- Building placement restricters -->
-  <MustPlaceUnroofed>Kan ikke bli plassert under tak.</MustPlaceUnroofed>
-  <MustPlaceHeadOnShipBeam>Må plasseres med hode vend mot skipets konstruksjons bjelke.</MustPlaceHeadOnShipBeam>
-  <MustPlaceNextToHopperAccepter>Må bli plassert ved siden av noe som trenger en hopper.</MustPlaceNextToHopperAccepter>
-  <MustPlaceOnSteamGeyser>Må plasseres direkte oppå en damp geysir.</MustPlaceOnSteamGeyser>
-  <MustPlaceCoolerWithFreeSpaces>Både den varme og kalde enden av kjøleren må være exposed.</MustPlaceCoolerWithFreeSpaces>
-  <MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
-  <MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
-
-  <!-- Cryptosleep casket -->
-  <CasketContains>Inneholder</CasketContains>
-  <CasketUnknownContents>Ukjent</CasketUnknownContents>
-  <CasketWarning>Advarsel!\n\nNAME er din siste frittgående kolonist! Om du lar HIM gå inn i den kaspelen, kan du kanskje ikke fortsette å spille. Er du sikker på at du vil fortsette?</CasketWarning>
-
-  <!-- Cryptosleep pod -->
-  <PodContains>Inneholder</PodContains>
-
-  <!-- Ship launch report -->
-  <ShipReportCannotLaunch>Kan ikke lette.</ShipReportCannotLaunch>
-  <ShipReportCanLaunch>Klar til å lette.</ShipReportCanLaunch>
-  <ShipReportMissingPart>Mangler kritisk komponent</ShipReportMissingPart>
-  <ShipReportNoFullPods>Ingen full kryptosøvn kapsel</ShipReportNoFullPods>
-
-  <!-- Neurotrainer -->
-  <UseNeurotrainer>Bruk neurotrener for å lære {0}</UseNeurotrainer>
-  <NeurotrainerUsed>{0} brukte {1} neurotrener til å gå fra nivå {2} til nivå {3}.</NeurotrainerUsed>
   
-  <!-- Generic lifespan -->
-  <LifespanExpiry>Utgår om:</LifespanExpiry>
   
-  <!-- Game over -->
   <GameOverEveryoneDead>Alle er enten død eller borte. Denne historien er over.\n\nKanskje noen andre kommer til å finne noen nytte av disse ruinene.</GameOverEveryoneDead>
   <GameOverShipLaunched>Du har lettet skipet! Disse kolonistene slapp unna:\n\n{0}\nDisse kolonistene ble forlatt:\n\n{1}\nDeres kunstige intelligens vil nå veilede skipet til et tryggere sted. Kanskje den slipper dere av på en tryggere planet i dette solsystemet. Ellers, så kan den gjennomgå en århundre-lang reise til en annen stjerne. Den kan til og med bestemme seg for å gjemme seg under isen i et par tusen år, I vente på en bedre tid i historien.\n\nDere finner det nok ut når dere våkner opp.</GameOverShipLaunched>
   <GameOverKeepPlaying>Fortsett spillet</GameOverKeepPlaying>
   <GameOverMainMenu>Hovedmeny</GameOverMainMenu>
+  
+  
+  <LifespanExpiry>Utgår om:</LifespanExpiry>
+  
+  
+  <TrapArmed>Armed</TrapArmed>
+  <TrapNotArmed>Not armed</TrapNotArmed>
+  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  
+  
+  <InactiveFacility>inactive</InactiveFacility>
+  
+  
+  <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
-  <!-- JobDriver reports -->
-  <WatchingSunrise>Ser på soloppgangen</WatchingSunrise>
-  <CloudWatching>Ser på skyene</CloudWatching>
-  <WatchingSunset>Ser på solnedgangen</WatchingSunset>
-  <Stargazing>Stjernetitter</Stargazing>
-  <WatchingEclipse>Ser på solformørkelse</WatchingEclipse>
-  
-  
 </LanguageData>

@@ -1,35 +1,62 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+    <CraftingSpot.label>crafting spot</CraftingSpot.label>
+    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+    
     <NutrientPasteDispenser.label>næringspasta dispenser</NutrientPasteDispenser.label>
     <NutrientPasteDispenser.description>Syntetiserer næringspasta fra organisk materiale.</NutrientPasteDispenser.description>
     
     <Hopper.label>beholder</Hopper.label>
-    
-    <!-- ========================= Work tables ==========================-->
+    <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
     
     <TableButcher.label> slakterbenk</TableButcher.label>
     <TableButcher.description>Tung benk til slakting av døde skapninger til stykker av rått kjøtt.</TableButcher.description>
     
-    <TableTailor.label> skredderbenk</TableTailor.label>
-    <TableTailor.description>En benk til å produsere tøy og forbedre det.</TableTailor.description>
+    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+    
+    <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+    <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+    
+    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+    
+    <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+    <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+    
+    <TableSculpting.label>sculptor's table</TableSculpting.label>
+    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
     
     <TableMachining.label> maskineringsbenk</TableMachining.label>
     <TableMachining.description>En benk med verktøy til å bygge og adskille maskinelle komponenter på.</TableMachining.description>
     
-    <CookStove.label>Kjøkkenbenk</CookStove.label>
-    <CookStove.description>Utstyrt med en simpel komfyr, og bordplass til å forberede måltider fra simple ingredienser.</CookStove.description>
+    <ElectricStove.label>electric stove</ElectricStove.label>
+    <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+    
+    <FueledStove.label>fueled stove</FueledStove.label>
+    <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
     
     <TableStonecutter.label> steinhuggerbenk</TableStonecutter.label>
     <TableStonecutter.description>En arbeidsbenk til å hugge rå stein om til brukbare mursteiner.</TableStonecutter.description>
     
+    <Brewery.label>brewery</Brewery.label>
+    <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+    
     <ElectricSmelter.label>elektrisk smelteverk</ElectricSmelter.label>
     <ElectricSmelter.description>Utvinner brukbart metall fra vrakdeler og andre forskjellige metallting. Bruker mye strøm.</ElectricSmelter.description>
     
-    <Crematorium.label>krematorie</Crematorium.label>
-    <Crematorium.description>Kremerer lik.</Crematorium.description>
+    <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
+    <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
     
-    <!-- ========== Hydroponics ==============-->
+    <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
+    <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+    
+    <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+    
+    <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+    <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
     
     <HydroponicsBasin.label>hydroponisk bed</HydroponicsBasin.label>
     <HydroponicsBasin.description>Til å gro mat. Hydroponiske bed gror få planter, men hurtig.</HydroponicsBasin.description>

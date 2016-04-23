@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <LetterDay>d</LetterDay>
@@ -18,6 +18,19 @@
   <AgeChronological>Kronologisk alder: {0} år, {1} måneder, {2} dager</AgeChronological>
   <AgeBiological>Biologisk alder: {0} år, {1} måneder, {2} dager</AgeBiological>
 
-  <DaysHours>{0} dager, {1} timer</DaysHours>
+  
+	<Period1Year>1 year</Period1Year>
+  <PeriodYears>{0} years</PeriodYears>
+  <Period1Season>1 season</Period1Season>
+  <PeriodSeasons>{0} seasons</PeriodSeasons>
+  <Period1Day>1 day</Period1Day>
+  <PeriodDays>{0} days</PeriodDays>
+  <Period1Hour>1 hour</Period1Hour>
+  <PeriodHours>{0} hours</PeriodHours>
 
+  
+  <Started>Started</Started>
+  <Lasted>Lasted</Lasted>
+  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  
 </LanguageData>

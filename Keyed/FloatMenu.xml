@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
   
 	<CallOnRadio>Kontakt {0}</CallOnRadio>
+  <CannotUseReason>Cannot use ({0})</CannotUseReason>
 	<CannotUseSolarFlare>Kan ikke brukes (sol fakkel)</CannotUseSolarFlare>
 	<CannotUseNoPower>Kan ikke brukes (ingen strøm)</CannotUseNoPower>
 	<CannotUseNoPath>Kan ikke brukes (ingen vei)</CannotUseNoPath>
@@ -14,7 +15,9 @@
 
   <OutOfRange>ute av rekkevidde</OutOfRange>
   <CannotHitTarget>kan ikke treffe målet</CannotHitTarget>
-  <CannotFight>{0} kan ikke slåss</CannotFight>
+  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
 
   <OrderManThing>Bemann {0}</OrderManThing>
   
@@ -29,12 +32,23 @@
 	<NoEmptyPlaceLower>ingen tom plass konfigurt til å lagre det</NoEmptyPlaceLower>
 	<AlreadyFilledLower>allerede fylt nok</AlreadyFilledLower>
 	<MissingMaterials>trenger materialer</MissingMaterials>
-	
-	
+  <MissingSkill>skill too low</MissingSkill>
+	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <NoUsableFood>no usable food</NoUsableFood>
+  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+	<NoComponentsToRepair>need components</NoComponentsToRepair>
+	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
+
+  <ConsumeThing>Consume {0}</ConsumeThing>
+  <Teetotaler>teetotaler</Teetotaler>
+  
+  
   <CannotGoNoPath>Kan ikke gå hit (ingen vei)</CannotGoNoPath>
   <GoHere>Gå hit</GoHere>
   
   <Arrest>Arrester {0}</Arrest>
+  <TryToArrest>Try to arrest {0}</TryToArrest>
   <CannotArrest>Kan ikke arrestere</CannotArrest>
 
   <Capture>Fang {0}</Capture>
@@ -43,20 +57,27 @@
   <Rescue>Berg {0}</Rescue>
   <CannotRescue>Kan ikke berge</CannotRescue>
 
+  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
   <NoPrisonerBed>Ingen tilgjengelig innestengt fangemarkert seng.</NoPrisonerBed>
   <NoNonPrisonerBed>Ingen tilgjengelige kolonist senger.</NoNonPrisonerBed>
+  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
   <Reserved>Reservert av en annen.</Reserved>
   <ReservedBy>Reservert av {0}.</ReservedBy>
   <IsReservedBy>{0} er reservert av {1}.</IsReservedBy>
 
-  <NoManipulationSkill>Skadet</NoManipulationSkill>
+  <Incapable>incapable</Incapable>
+  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
 
   <Equip>Utrust {0}</Equip>
   <EquipWarningBrawler>(vekter vil bli glad)</EquipWarningBrawler>
   <CannotEquip>Kan ikke utruste {0}</CannotEquip>
   
-  <Wear>Bruk {0}</Wear>
+  <ForceWear>Force wear {0}</ForceWear>
   <CannotWear>Kan ikke bruke {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
   
   <Strip>Kle av {0}</Strip>
   <CannotStrip>Kan ikke kle av {0}</CannotStrip>
@@ -64,21 +85,29 @@
   <Deposit>Legg {0} in i {1}</Deposit>
   <CannotDeposit>Kan ikke legge {0} in i {1}</CannotDeposit>
 
-  <Drop>Slipp {0}</Drop>
+  <SelfDestructHere>Self-destruct here</SelfDestructHere>
   
+  <Drop>Slipp {0}</Drop>
+
   <UseMedicalBed>Hvil til en er fullt helbredet</UseMedicalBed>
   <NotInjured>Ikke skadet</NotInjured>
   <SomeoneElseSleeping>Opptatt</SomeoneElseSleeping>
+  
+  <TradeWith>Trade with {0}</TradeWith>
+  <CannotTrade>Cannot trade</CannotTrade>
 
-  <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Gå inn i kryptosøvn kapslen</EnterCryptosleepPod>
   
+  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+
+
+
   
-  
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  
+  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+
   <CannotGenericAlreadyAm>Allerede {0} {1}</CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>Kan ikke prioritere ({0} er ikke en {1})</CannotPrioritizeIsNotA>
@@ -86,8 +115,9 @@
   <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langtidsoppgave)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
-
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  
+  
+  
   <PrioritizeGeneric>Prioriter {0} {1}</PrioritizeGeneric>
   
 </LanguageData>

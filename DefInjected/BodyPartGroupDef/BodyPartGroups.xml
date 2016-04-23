@@ -9,19 +9,23 @@
     
     <Eyes.label>øyne</Eyes.label>
     
+    <Teeth.label>tenner</Teeth.label>
+    
+    <Mouth.label>munn</Mouth.label>
+    
     <Arms.label>armer</Arms.label>
+    
+    <Shoulders.label>shoulders</Shoulders.label>
     
     <Hands.label>hender</Hands.label>
     
-    <LeftFist.label>venstre knyttneve</LeftFist.label>
+    <LeftHand.label>venstre hånd</LeftHand.label>
     
-    <RightFist.label>høyre knyttneve</RightFist.label>
+    <RightHand.label>høyre hånd</RightHand.label>
     
     <Legs.label>ben</Legs.label>
     
     <Feet.label>føtter</Feet.label>
-    
-    <Teeth.label>tenner</Teeth.label>
     
     <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
     
@@ -37,17 +41,17 @@
     
     <FrontRightClaws.label>forreste høyre klo</FrontRightClaws.label>
     
-    <Mouth.label>munn</Mouth.label>
+    <LeftBlade.label>left blade</LeftBlade.label>
     
-    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
-    
-    <RightKnifeProtrusion.label>høyre knivsfremspring</RightKnifeProtrusion.label>
+    <RightBlade.label>right blade</RightBlade.label>
     
     <CoveredByNaturalArmor.label>dekket av naturlig panser</CoveredByNaturalArmor.label>
     
     <TuskAttackTool.label>støttenner</TuskAttackTool.label>
     
     <HornAttackTool.label>horn</HornAttackTool.label>
+    
+    <HeadClaw.label>claw</HeadClaw.label>
     
     <TurtleBeakAttackTool.label>nebb</TurtleBeakAttackTool.label>
     

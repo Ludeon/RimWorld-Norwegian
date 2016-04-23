@@ -2,23 +2,51 @@
 <LanguageData>
     
     <Afro.label>afro</Afro.label>
-
+    
     <Bob.label>bob</Bob.label>
-
+    
     <Burgundy.label>burgunder</Burgundy.label>
-
+    
     <Flowy.label>bølget</Flowy.label>
-
+    
+    <Long.label>long</Long.label>
+    
     <Mohawk.label>hanekam</Mohawk.label>
-
+    
     <Mop.label>mopp</Mop.label>
-
+    
+    <Pigtails.label>pigtails</Pigtails.label>
+    
     <Shaved.label>barbert</Shaved.label>
-
+    
     <Spikes.label>pigget</Spikes.label>
-
+    
     <Tuft.label>dusk</Tuft.label>
-
+    
     <Wavy.label>bølget</Wavy.label>
+    
+    <BraidedKnot.label>braided knot</BraidedKnot.label>
+    
+    <Topdog.label>topdog</Topdog.label>
+    
+    <Senorita.label>senorita</Senorita.label>
+    
+    <ScorpionTail.label>scorpion tail</ScorpionTail.label>
+    
+    <BriefPonytail.label>brief ponytail</BriefPonytail.label>
+    
+    <Troubadour.label>troubadour</Troubadour.label>
+    
+    <Messy.label>messy</Messy.label>
+    
+    <Princess.label>princess</Princess.label>
+    
+    <Firestarter.label>firestarter</Firestarter.label>
+    
+    <GreasySwoop.label>greasy swoop</GreasySwoop.label>
+    
+    <Curly.label>curly</Curly.label>
+    
+    <Scatman.label>scatman</Scatman.label>
     
 </LanguageData>
