@@ -1,24 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Leif 26/10-16-->
 <LanguageData>
-
-  
+  <!-- glow -->
   <Dark>Mørkt</Dark>
   <Lit>Belysning</Lit>
   <LitBrightly>Sterk belysning</LitBrightly>
   
-  
+  <!-- history upload pref -->
   <Unspecified>Ubestemt</Unspecified>
   <Always>Tillat</Always>
   <Never>Ikke tillat</Never>
-  
-  
+    
+  <!-- Price types -->
   <PriceTypeVeryCheap>veldig billig</PriceTypeVeryCheap>
   <PriceTypeCheap>billig</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
   <PriceTypeExpensive>dyr</PriceTypeExpensive>
   <PriceTypeExorbitant>skyhøy</PriceTypeExorbitant>
+    
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>ulagret</StoragePriorityUnstored>
+  <StoragePriorityLow>lav</StoragePriorityLow>
+  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>foretrukket</StoragePriorityPreferred>
+  <StoragePriorityImportant>viktig</StoragePriorityImportant>
+  <StoragePriorityCritical>kritisk</StoragePriorityCritical>
 
-  
+  <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>grønnsaker</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>rått kjøtt</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>lik</FoodTypeFlags_Corpse>
@@ -29,9 +37,11 @@
   <FoodTypeFlags_Meal>måltider</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>behandlet mat</FoodTypeFlags_Processed>
   <FoodTypeFlags_NutritionalDrug>brennevin</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_Liquor>brennevin</FoodTypeFlags_Liquor>
   <FoodTypeFlags_AnimalKibble>dyremat</FoodTypeFlags_AnimalKibble>
-
-  
+  <FoodTypeFlags_Kibble>dyremat</FoodTypeFlags_Kibble>
+    
+  <!-- Quality category -->
   <QualityCategory_Awful>forferdelig</QualityCategory_Awful>
   <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
   <QualityCategory_Poor>dårlig</QualityCategory_Poor>
@@ -41,7 +51,7 @@
   <QualityCategory_Excellent>utmerket</QualityCategory_Excellent>
   <QualityCategory_Masterwork>mesterverk</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
-
+  
   <QualityCategoryShort_Awful>forf</QualityCategoryShort_Awful>
   <QualityCategoryShort_Shoddy>rufs</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>dårl</QualityCategoryShort_Poor>
@@ -52,57 +62,93 @@
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legn</QualityCategoryShort_Legendary>
   
-  
-  
+  <!-- Hunger -->
   <HungerLevel_Starving>Sulter</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Desperat sulten</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Veldig sulten</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>Sulten</HungerLevel_Hungry>
   <HungerLevel_Fed>Mett</HungerLevel_Fed>
 
-  
+  <!-- -Fatigue -->
   <HungerLevel_Exhausted>Utslitt</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>Veldig trøtt</HungerLevel_VeryTired>
   <HungerLevel_Tired>Trøtt</HungerLevel_Tired>
   <HungerLevel_Rested>Uthvilt</HungerLevel_Rested>
 
-  
+  <!-- Hilliness -->
   <Hilliness_Flat>Flatt</Hilliness_Flat>
   <Hilliness_SmallHills>Små åser</Hilliness_SmallHills>
   <Hilliness_LargeHills>Store åser</Hilliness_LargeHills>
   <Hilliness_Mountainous>Fjellendt</Hilliness_Mountainous>
   
-  
+  <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Lager</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Leverer</WorkshopInteractStage_SubmittingItem>
+  
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ugyldig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Forbereder konfig-data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Forbereder innholdsfiler</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Laster opp innhold</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Laster opp forhåndsvisningsfil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Bekrefter endringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
-
+   
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>lokal mappe</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
+  <!-- Trainable intelligence -->
   <TrainableIntelligence_None>Ingen</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Enkelt</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Middels vanskelig</TrainableIntelligence_Intermediate>
   <TrainableIntelligence_Advanced>Vanskelig</TrainableIntelligence_Advanced>
-
   
+  <!-- Medical care category -->
   <MedicalCareCategory_NoCare>Ingen medisinsk behandling</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Behandling, men ingen medisin</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>Urtemedisin eller dårligere</MedicalCareCategory_HerbalOrWorse>
   <MedicalCareCategory_NormalOrWorse>Normal medisin eller dårligere</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>Medisinsk behandling av beste kvalitet</MedicalCareCategory_Best>
-
   
+  <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>Ignorer</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Angrip</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Røm</HostilityResponseMode_Flee>
   
-  
+  <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>vokser</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
   <HediffGrowthMode_Remission>bedring</HediffGrowthMode_Remission>
 
+  <!-- TechLevel -->
+  <TechLevel_Animal>dyr</TechLevel_Animal>
+  <TechLevel_Neolithic>neolittisk tid</TechLevel_Neolithic>
+  <TechLevel_Medieval>middelalder</TechLevel_Medieval>
+  <TechLevel_Industrial>industrialder</TechLevel_Industrial>
+  <TechLevel_Spacer>romfarts alder</TechLevel_Spacer>
+  <TechLevel_Ultra>ultra tiden</TechLevel_Ultra>
+  <TechLevel_Transcendent>transendant</TechLevel_Transcendent>
 
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>alle karakterer</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>spillerens første karakterer</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>karakterer som ikke er spillerens</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Vis dyrenavn</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Temmede (med navn)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Temmede (alle)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Spoil reason -->
+  <SpoilReason_Freezing>Ødelagt av kulde.</SpoilReason_Freezing>
+  <SpoilReason_HighTemperature>Ødelagt av høy temperatur.</SpoilReason_HighTemperature>
+  
+  
 </LanguageData>

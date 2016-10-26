@@ -6,15 +6,15 @@
   <NewColony>Start ny koloni</NewColony>
   <BackToGame>Tilbake til spillet</BackToGame>
   <Save>Lagre</Save>
-  <LoadGame>Fortsett på tidligere koloni</LoadGame>
+  <LoadGame>Last inn tidligere koloni</LoadGame>
   <Options>Innstillinger</Options>
   <Mods>Modifikasjoner</Mods>
-  <Credits>Medvirkende</Credits>
+  <Credits>Rulletekst</Credits>
   <QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Lagre og avslutt til meny</SaveAndQuitToMainMenu>
   <QuitToOS>Avslutt til skrivebord</QuitToOS>
   <SaveAndQuitToOS>Lagre og avslutt til Operativsystem</SaveAndQuitToOS>
-  <FictionPrimer>Bakgrunnsbeskrivelse</FictionPrimer>
+  <FictionPrimer>Spillets "virkelighet"</FictionPrimer>
   <LudeonBlog>Ludeon blogg</LudeonBlog>
   <Forums>Forum</Forums>
   <OfficialWiki>Offisiell wiki</OfficialWiki>
@@ -68,8 +68,8 @@
   
   <ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
   <HowStorytellersWork>AI historiefortelleren skaper hendelser som piratplyndringer, ressursforsyninger eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <MustChooseDifficulty>Velg vansklighetsgrad.</MustChooseDifficulty>
+  <Difficulty>Vansklighetsgrad</Difficulty>
 
 
 
@@ -133,7 +133,7 @@
   <Next>Neste</Next>
   <Back>Tilbake</Back>
   
-  <Gameplay>Spilling</Gameplay>
+  <Gameplay>Innstillinger</Gameplay>
 
   <ConfirmQuit>Vil du virkelig avslutte? Du vil miste all ulagret fremgang.</ConfirmQuit>
   

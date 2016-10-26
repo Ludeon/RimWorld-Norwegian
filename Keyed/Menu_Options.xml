@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  
-  <Audiovisuals>Lydvirksomhet</Audiovisuals>
+  <!-- Audiovisuals -->
+  <Audiovisuals>Lyd- og skjerm-innstillinger</Audiovisuals>
   <GameVolume>Spillvolum</GameVolume>
   <MusicVolume>Musikkvolum</MusicVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
-
   
+  
+  
+  <!-- Gameplay -->
+  <PauseOnUrgentLetter>Pause ved viktig brev</PauseOnUrgentLetter>
+  <PlantWindSway>Planter beveger seg ved vind</PlantWindSway>
   <EdgeScreenScroll>Kantrulling</EdgeScreenScroll>
   <PauseOnLoad>Pause ved start</PauseOnLoad>
   <CustomCursor>Tilpasset markør</CustomCursor>
   <KeyboardConfig>Tastaturoppsett</KeyboardConfig>
   <ChooseLanguage>Velg språk</ChooseLanguage>
-  <AdaptiveTutor>Tilpasset veileder</AdaptiveTutor>
-  <ResetAdaptiveTutor>Nullstill tilpasset veileder</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tilpasset veileder er nullstilt. Den vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
+  <AdaptiveTutor>Opplæringsassistent</AdaptiveTutor>
+  <ResetAdaptiveTutor>Nullstill opplæringsassistent</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Opplæringsassistent er nullstilt. Den vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
   <RunInBackground>Kjør i bakgrunnen</RunInBackground>
   <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
   <ResetModsConfigOnCrash>Automatisk tilbakestilling av mod'er ved feil.</ResetModsConfigOnCrash>
@@ -27,15 +31,18 @@
   <TemperatureMode>Temperatur modus</TemperatureMode>
   <ShowRealtimeClock>Vis faktisk klokke</ShowRealtimeClock>
   <MaxPermadeathAutosaveIntervalInfo>Maksimum autolagringsperioder i permadeath modus er {0} dager.</MaxPermadeathAutosaveIntervalInfo>
-
   
+  
+  <!-- Resolution -->
   <Resolution>Oppløsning</Resolution>
   <Fullscreen>Fullskjerm</Fullscreen>
 
-  
+  <!-- Privacy-->
   <Privacy>Personvern</Privacy>
   <UserName>Brukernavn</UserName>
   <ChooseHistoryUploadPref>Opplasting av spilldata.</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Brukerens spilldata hjelper utviklere med å balansere spillet. Hvis du er enig, blir informasjonen din sendt hver {0} spilldager (Og I noen andre sjeldne tilfeller som ved slutten av spillet) til RimWorld serveren og blir deretter analysert. Opplastet spilldata består kun av statistikk og historie relatert til spillet - Ingen personlig informasjon blir sendt, bortsett ifra brukernavn, hvilket betyr at det er helt anonymt.</AboutHistoryUpload>
+  
+  
   
 </LanguageData>
