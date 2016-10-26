@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <SaveButton>Save</SaveButton>
+  <SaveButton>Lagre</SaveButton>
   
-  <ClearBinding>Clear</ClearBinding>
-  <ResetBinding>Reset to default</ResetBinding>
-  <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
-  <PressAnyKeyOrEsc>Press any key or Esc to cancel...</PressAnyKeyOrEsc>
-  <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
+  <ClearBinding>Fjern</ClearBinding>
+  <ResetBinding>Tilbakestill til standard</ResetBinding>
+  <BindingButtonToolTip>Venstreklikk for å binde denne tasten eller høyreklikk for alternativer</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Trykk en vilkårlig tast eller Escape for å avbryte ...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Hurtigtast overskrevet: {0}</KeyBindingOverwritten>
   
 </LanguageData>

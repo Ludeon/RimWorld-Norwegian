@@ -19,18 +19,18 @@
   <AgeBiological>Biologisk alder: {0} år, {1} måneder, {2} dager</AgeBiological>
 
   
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+	<Period1Year>1 år</Period1Year>
+  <PeriodYears>{0} år</PeriodYears>
+  <Period1Season>1 sesong</Period1Season>
+  <PeriodSeasons>{0} sesong</PeriodSeasons>
+  <Period1Day>1 dag</Period1Day>
+  <PeriodDays>{0} dager</PeriodDays>
+  <Period1Hour>1 time</Period1Hour>
+  <PeriodHours>{0} timer</PeriodHours>
 
   
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Startet</Started>
+  <Lasted>Varte</Lasted>
+  <OccurredTimeAgo>skjedde {0} siden</OccurredTimeAgo>
   
 </LanguageData>

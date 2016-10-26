@@ -9,27 +9,27 @@
 
   
   <EdgeScreenScroll>Kantrulling</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
+  <PauseOnLoad>Pause ved start</PauseOnLoad>
   <CustomCursor>Tilpasset markør</CustomCursor>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
+  <KeyboardConfig>Tastaturoppsett</KeyboardConfig>
   <ChooseLanguage>Velg språk</ChooseLanguage>
   <AdaptiveTutor>Tilpasset veileder</AdaptiveTutor>
   <ResetAdaptiveTutor>Nullstill tilpasset veileder</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tilpasset veileder er nullstilt. Han vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Tilpasset veileder er nullstilt. Den vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
   <RunInBackground>Kjør i bakgrunnen</RunInBackground>
   <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
+  <ResetModsConfigOnCrash>Automatisk tilbakestilling av mod'er ved feil.</ResetModsConfigOnCrash>
+  <LogVerbose>Utførlig logging</LogVerbose>
   <OpenSaveGameDataFolder>Åpne lagringsdata mappen</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Etternavn av Navn I Spillet eller bakgrunnskarakter du har lyst til å se:</NamesYouWantToSee>
   <ChangeStoryteller>Velg historieforteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <AutosaveInterval>Autolagringsvariabel</AutosaveInterval>
+  <TemperatureMode>Temperatur modus</TemperatureMode>
+  <ShowRealtimeClock>Vis faktisk klokke</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Maksimum autolagringsperioder i permadeath modus er {0} dager.</MaxPermadeathAutosaveIntervalInfo>
 
   
-  <Resolution>Resolusjon</Resolution>
+  <Resolution>Oppløsning</Resolution>
   <Fullscreen>Fullskjerm</Fullscreen>
 
   

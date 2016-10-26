@@ -7,8 +7,8 @@
   <DateReadoutTip>Dager siden din ankomst: {0}\nDet er {1} dager i hver måned.</DateReadoutTip>
 
   <FullDate>{0} {1}, År {2}</FullDate>
-	<DateReadout>{0} of {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} of {1}</SeasonFullDate>
-  <WholeYear>Whole year</WholeYear>
+	<DateReadout>{0} av {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} av {1}</SeasonFullDate>
+  <WholeYear>Fulle år</WholeYear>
   
 </LanguageData>

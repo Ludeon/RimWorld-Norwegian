@@ -9,8 +9,8 @@
   <PoorMood>Dårlig humør</PoorMood>
   <PoorMoodDesc>Disse kolonistene er i et dårlig humør og kan ha et lite anfall når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs'-vindu for å se hva det er som plager dem.</PoorMoodDesc>
   <TerribleMood>Forferdelig humør</TerribleMood>
-  <TerribleMoodDesc>Disse kolonistene er kritisk stresset og kan ha et hardt – og potensielt voldelig – utbrudd når som helst:\n\n{0}\nSjekk disse kolonistenes 'Needs'-vindu for å se hva det er som plager dem.</TerribleMoodDesc>
-  <LowMoodDescEnding>Check these colonists' Needs tab to see what's bothering them.</LowMoodDescEnding>
+  <TerribleMoodDesc>Disse kolonistene er kritisk stresset og kan ha et hardt – og potensielt voldelig – utbrudd når som helst:\n\n{0}\n</TerribleMoodDesc>
+  <LowMoodDescEnding>Sjekk disse kolonistenes 'Needs'-vindu for å se hva det er som plager dem.</LowMoodDescEnding>
   
   <ColonistNeedsRescue>Kolonist trenger redning</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister trenger redning</ColonistsNeedRescue>
@@ -26,7 +26,7 @@
   <NeedDoctorDesc>Disse kolonistene trenger medisinsk tilsyn. vi har ingen friske kolonister satt til å være doktorer.\n\n{0}\nAngi en frisk kolonist doktoroppgaven, hvis de blir forlatt ubehandlet vil sårene aldri gro ordentlig og kan bli permanente.</NeedDoctorDesc>
 
   <NeedMiner>Trenger graver</NeedMiner>
-  <NeedMinerDesc>Du stein som du har beordret å grave ut, men ingen kolonist har graveroppgaven.\n\nGi en kolonist graveroppgaven.</NeedMinerDesc>
+  <NeedMinerDesc>Du har stein som du har beordret å grave ut, men ingen kolonist har graveroppgaven.\n\nGi en kolonist graveroppgaven.</NeedMinerDesc>
 
   <NeedWarden>Trenger oppsynsmann</NeedWarden>
   <NeedWardenDesc>Du har en fange, men ingen kolonist har oppsynsmannoppgaven.\n\nGi en kolonist oppsynsmann oppgaven.</NeedWardenDesc>
@@ -34,27 +34,27 @@
   <LowFood>Lite mat</LowFood>
   <LowFoodDesc>Du har bare {0} næring verdt av mat til overs, dette er farlig lavt.\n\nSå, kjøp, finn, eller drep noe mat.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Lite medisin</LowMedicine>
+  <LowMedicineDesc>Du har bare {0} medisin igjen.\n\nKjøp mer medisin fra handelsfolk.</LowMedicineDesc>
+  <NoMedicineDesc>Du er tom for medisin.\n\nKjøp mer medisin fra handelsfolk.</NoMedicineDesc>
   
   <NeedColonistBeds>Trenger kolonistsenger</NeedColonistBeds>
   <NeedColonistBedsDesc>Du har flere kolonister enn du har kolonistsenger, Noen vil mangle ett sted å sove.\n\nEnten lag flere senger, eller bytt en fanges seng om til en kolonistseng.\n\nHvis du ikke har noen ressursers, så er soveplasser gratis og kan plasseres umiddelbart.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Jeger mangler våpen</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>En kolonist er angitt som jeger, men har ikke noe våpen. Kolonisten trenger et våpen for å kunne jakte.\n\nFor å forebygge skader, så anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>En kolonist er angitt som jeger, men har ikke noe våpen. Kolonisten trenger et våpen for å kunne jakte.\n\nFor å forebygge skader, anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
 
   <Starvation>Sult</Starvation>
-  <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nGi dem noe mat, eller finn en matkilde som for eksempel en næringspastaispenser og noe å mate den med. I tilleg, pass på at de ikke er innkalt.</StarvationDesc>
+  <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nGi dem noe å spise, eller finn en matkilde som for eksempel bringebær. I tilleg, pass på at de ikke er innkalt til militærtjeneste.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Dyr som sulter</StarvationAnimals>
+  <StarvationAnimalsDesc>Disse kolonidyrene sulter:\n\n{0}\nSørg for å gi dem mat.</StarvationAnimalsDesc>
 
   <Exhaustion>Utslitt</Exhaustion>
-  <ExhaustionDesc>Disse kolonistene er utslitte og trenger hvile:\n\n{0}\nGi dem hvile. De kommer til å trenge en seng market til bruk av kolonister, pass på at de ikke er innkalt.</ExhaustionDesc>
+  <ExhaustionDesc>Disse kolonistene er utslitte og trenger hvile:\n\n{0}\nGi dem hvile. De kommer til å trenge en seng market til bruk av kolonister, pass på at de ikke er innkalt til militærtjeneste..</ExhaustionDesc>
 
   <NeedFoodHopper>Trenger mattrakt</NeedFoodHopper>
-  <NeedFoodHopperDesc>Du har en næringspastadispenser uten en mattrakt ved siden.\n\nFor å fungere, må en næringspastadispenser bli matet rå ingredienser vi a en trakt.\n\nBygg en trakt tilstøtende dispenseren.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Du har en næringspastadispenser uten en mattrakt på siden.\n\nFor å fungere, må en næringspastadispenser bli matet med rå ingredienser via en trakt.\n\nBygg en trakt tilstøtende dispenseren.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Bygning trenger strøm</BuildingNeedsPower>
   <BuildingsNeedPower>Bygninger trenger strøm</BuildingsNeedPower>
@@ -62,10 +62,10 @@
   <AndMore>og mer</AndMore>
 
   <NeedMealSource>Trenger måltidskilde</NeedMealSource>
-  <NeedMealSourceDesc>Du har ingen måte å tilberede ordentlige måltider ut fra rå matprodukter.\n\nBygg en næringspastadispenser eller en kjøkkensovn.\n\n(Den kan ikke være i en fengselscelle, dersom kolonistene ikke vil kunne bruke den.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Du har ingen måte å tilberede ordentlige måltider ut fra rå matprodukter.\n\nBygg en næringspastadispenser eller en kjøkkenovn.\n\n(Den kan ikke være i en fengselscelle, da kan kolonistene ikke bruke den.)</NeedMealSourceDesc>
 
-  <NeedHomeArea>Need home area</NeedHomeArea>
-  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
+  <NeedHomeArea>Trenger hjemmeområde</NeedHomeArea>
+  <NeedHomeAreaDesc>Du må definere et HJEMMEOMRÅDE der kolonistene vil rengjøre, slukke branner, og reparere ting.\n\nDefiner HJEMMEOMRÅDE i SONER delen av ARKITEKTmenyen.</NeedHomeAreaDesc>
 
   <NeedBatteries>Trenger batterier</NeedBatteries>
   <NeedBatteriesDesc>Du har bare solcellepaneler og ingen batterier. Dette betyr at du går tom for strøm hver gang solen går ned.\n\nBygg et batteri eller to for å komme deg gjennom nattten.</NeedBatteriesDesc>
@@ -89,25 +89,25 @@
   <ColonistsIdleDesc>Disse kolonistene har ikke noe å gjøre:\n\n{0}\nDu burde kanskje prøve å finne dem noe produktivt å gjøre.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Kolonist trenger behandling</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Derett velger du den skadde kolonisten og høyre-klikker på sykesengen for å gjøre dem om til en pasient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Deretter velger du den skadde kolonisten og høyre-klikker på sykesengen for å gjøre han/hun om til en pasient.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>Disse kolonistene lider av hypothermi.\n\n{0}\nSørg for at de kler seg riktig for sesongen og for at det er ordentlig varmet opp innendørs.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hypotermi</AlertHypothermia>
+  <AlertHypothermiaDesc>Disse kolonistene lider av hypotermi.\n\n{0}\nSørg for at de kler seg riktig for sesongen og for at det er ordentlig varmet opp innendørs.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pasienter venter på å bli operert.</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Disse pasientene venter å bli operert:\n\n{0}\nPass på at du har alt som trengs for operasjonen, og en tilgjengelig lege.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fire!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeArea>Brann!</FireInHomeArea>
+  <FireInHomeAreaDesc>Det bremmer i hjemmeområdet!</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Alvorlig sykdom</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Disse kolonistene risikerer døden, på grunn av alvorlig sykdom:\n\n{0}\nSørg for at de får så mye medisinsk omsorg som mulig.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Disse kolonistene risikerer døden på grunn av alvorlig sykdom:\n\n{0}\nOm mulig, vurder muligheten å amputere eller å bytte infiserte lemm for å holde kolonisten i live.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Disse kolonistene risikerer å dø på grunn av alvorlig sykdom:\n\n{0}\nSørg for at de får medisinsk oppfølging.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Disse kolonistene risikerer å dø på grunn av alvorlig sykdom:\n\n{0}\nOm mulig, vurder å amputere eller å bytte ut infiserte kropsdeler for å holde kolonisten i live.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>Biljardbord trenger plass</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>Et av dine biljardbord står inntil en sperre som vil hindre kolonistene fra å bruke det.\n\nEt biljardbord trenger åpen plass omkring det på alle fire sider for å kunne brukes.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Jeger har skjold og skytevåpen</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>En av jegerene dine har skjold og skytevåpen. Skjoldet hinder bruk av våpenet.\n\nTa vekk skjoldet for å kunne skyte.</HunterHasShieldAndRangedWeaponDesc>
   
 </LanguageData>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  
+  <LearnToPlay>Lær å spille</LearnToPlay>
   <CreateWorld>Skap ny verden</CreateWorld>
   <NewColony>Start ny koloni</NewColony>
   <BackToGame>Tilbake til spillet</BackToGame>
   <Save>Lagre</Save>
-  <Load>Last inn koloni</Load>
+  <LoadGame>Fortsett på tidligere koloni</LoadGame>
   <Options>Innstillinger</Options>
   <Mods>Modifikasjoner</Mods>
   <Credits>Medvirkende</Credits>
   <QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Lagre og avslutt til meny</SaveAndQuitToMainMenu>
   <QuitToOS>Avslutt til skrivebord</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
-  <FictionPrimer>Fiksjonsbeskrivelse</FictionPrimer>
+  <SaveAndQuitToOS>Lagre og avslutt til Operativsystem</SaveAndQuitToOS>
+  <FictionPrimer>Bakgrunnsbeskrivelse</FictionPrimer>
   <LudeonBlog>Ludeon blogg</LudeonBlog>
   <Forums>Forum</Forums>
   <OfficialWiki>Offisiell wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's designbok</TynansDesignBook>
   <HelpTranslate>Hjelp med å oversette RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <BuySoundtrack>Kjøp musikken</BuySoundtrack>
 
   
   <ReviewWorld>Gjennomgå verden</ReviewWorld>
@@ -48,19 +48,19 @@
   <GenerateWorld>Generer verden</GenerateWorld>
 
   
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <OpenSteamWorkshop>Åpne Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Få mod'er fra forum</GetModsFromForum>
   <OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemodifikasjonen? Spillet vil ikke fungere i det hele tatt hvis du ikke har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i kjernemodifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Er du sikker på at du vil slette allt innhold for {0}?</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Er du sikker på at du vil unsubscribe fra {0}?</ConfirmUnsubscribe>
   <Author>Forfatter</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <WorkshopPage>Workshop side</WorkshopPage>
+  <UploadToSteamWorkshop>Last opp til Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Oppdater på Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Opplastning pågår allerede.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop oppdatering feilet.\n\nReason: {0}</WorkshopSubmissionFailed>
   <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
   <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
   <DownloadingMod>Downloading {0}</DownloadingMod>

@@ -18,7 +18,7 @@
   <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjelpe deg med å slåss mot en part som ikke er deres fiende. Dette inkluderer noen av de som truer deg, {1}. Har du fortsatt lyst til å spørre dem om bistand?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Ja, ring dem uansett.</CallConfirm>
   <CallCancel>Nei, glem det.</CallCancel>
-  <MilitaryAidSent>Representanten til {0} gjør seg enig i å sende deg krigere.</MilitaryAidSent>
+  <MilitaryAidSent>Representanten til {0} forbereder sending av krigere.</MilitaryAidSent>
   
   
 </LanguageData>

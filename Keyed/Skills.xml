@@ -7,7 +7,7 @@
   <Passion>Lidenskap</Passion>
   <PassionNone>Ingen (lærer {0}x)</PassionNone>
   <PassionMinor>Interessert (lærer {0}x)</PassionMinor>
-  <PassionMajor>Brennende (lærer {0}x)</PassionMajor>
+  <PassionMajor>Entusiastisk (lærer {0}x)</PassionMajor>
   <EffectsAtLevel>Effekt på nivå {0}</EffectsAtLevel>
   <SkillMax>MAKS</SkillMax>
 
@@ -18,16 +18,16 @@
   <Skill2>Grunnleggende bevissthet</Skill2>
   <Skill3>Grunnleggende fortrolighet</Skill3>
   <Skill4>Amatør</Skill4>
-  <Skill5>Sterk amatør</Skill5>
+  <Skill5>Dyktig amatør</Skill5>
   <Skill6>Utøver</Skill6>
   <Skill7>Erfaren utøver</Skill7>
-  <Skill8>Profesjonel</Skill8>
-  <Skill9>Erfaren profesjonel</Skill9>
+  <Skill8>Profesjonell</Skill8>
+  <Skill9>Erfaren profesjonell</Skill9>
   <Skill10>Ekspert</Skill10>
-  <Skill11>Sterk ekspert</Skill11>
-  <Skill12>Veldig sterk ekspert</Skill12>
+  <Skill11>Dyktig ekspert</Skill11>
+  <Skill12>Veldig dyktig ekspert</Skill12>
   <Skill13>Mester</Skill13>
-  <Skill14>Sterk mester</Skill14>
+  <Skill14>Dyktig mester</Skill14>
   <Skill15>Planet-klassemester</Skill15>
   <Skill16>System-klassemester</Skill16>
   <Skill17>Ærverdig mester</Skill17>

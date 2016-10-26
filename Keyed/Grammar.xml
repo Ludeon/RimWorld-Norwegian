@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <IndefiniteArticle>a</IndefiniteArticle>
+  <IndefiniteArticle>en</IndefiniteArticle>
   <DefiniteArticle>de</DefiniteArticle>
-  <IndefiniteForm>a {0}</IndefiniteForm>
-  <DefiniteForm>the {0}</DefiniteForm>
+  <IndefiniteForm>en {0}</IndefiniteForm>
+  <DefiniteForm>den {0}</DefiniteForm>
 
-  <Proits>its</Proits>
+  <Proits>dens</Proits>
   <Prohis>hans</Prohis>
   <Proher>hennes</Proher>
-  <ProitsCap>Its</ProitsCap>
+  <ProitsCap>Dens</ProitsCap>
   <ProhisCap>Hans</ProhisCap>
   <ProherCap>Hennes</ProherCap>
 

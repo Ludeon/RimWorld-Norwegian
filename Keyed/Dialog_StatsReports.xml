@@ -5,7 +5,7 @@
   <StatsReport_BaseValue>Grunnverdi</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>Relevante trekk</StatsReport_RelevantTraits>
   <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
-  <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
+  <StatsReport_LifeStage>Livsperiode</StatsReport_LifeStage>
   <StatsReport_Material>Materiale</StatsReport_Material>
   <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
   <StatsReport_Skills>Ferdighetsfaktorer</StatsReport_Skills>
@@ -14,23 +14,23 @@
   <HealthFactorPercentImpact>{0} betydning</HealthFactorPercentImpact>
   <StatsReport_PostProcessed>Etterbehandlingskurve</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Endelige verdi</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
-	<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
-  <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Stat is displayed in the following format:\nDPS ( Melee damage / Cooldown in seconds / Melee hit chance )\n\nDPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
+  <StatsReport_MarketValueFromStuffsAndWork>Grunnleggende markedsverdi er satt utifra konstruksjonsmaterialer og arbeidsmengde.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Verdiøkende kvalitet</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Alders verdipåvirkning {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Helsens verdipåvirkning {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Humørets verdipåvirkning {0}</StatsReport_MoodMultiplier>
+	<StatsReport_DifficultyMultiplier>Vansklighetsgradens verdipåvirkning {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>I sengen</StatsReport_InBed>
+  <StatsReport_Facilities>Fasiliteter</StatsReport_Facilities>
+  <StatsReport_BodySize>Kroppsstørrelsens verdipåvirkning {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Verdien er vist i følgene format:\nDPS ( Melee damage / Cooldown in seconds / Melee hit chance )\n\nDPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Melee skade</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Nedkjølning</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Melee treffsjangse</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
-  <StatsReport_UnpoweredWorkTable>No power</StatsReport_UnpoweredWorkTable>
+  <StatsReport_LifeExpectancy>Forventet levetid</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Manglende kroppsdelers verdipåvirkning</StatsReport_MissingBodyParts>
+  <AverageOfAllAttacks>gjennomsnitt av alle angrep</AverageOfAllAttacks>
+  <StatsReport_UnpoweredWorkTable>Ingen strøm</StatsReport_UnpoweredWorkTable>
   
 </LanguageData>
