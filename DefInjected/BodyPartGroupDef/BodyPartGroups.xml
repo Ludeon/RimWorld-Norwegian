@@ -15,7 +15,7 @@
     
     <Arms.label>armer</Arms.label>
     
-    <Shoulders.label>shoulders</Shoulders.label>
+    <Shoulders.label>skuldre</Shoulders.label>
     
     <Hands.label>hender</Hands.label>
     
@@ -41,9 +41,9 @@
     
     <FrontRightClaws.label>forreste høyre klo</FrontRightClaws.label>
     
-    <LeftBlade.label>left blade</LeftBlade.label>
+    <LeftBlade.label>venstre blad</LeftBlade.label>
     
-    <RightBlade.label>right blade</RightBlade.label>
+    <RightBlade.label>høyre blad</RightBlade.label>
     
     <CoveredByNaturalArmor.label>dekket av naturlig panser</CoveredByNaturalArmor.label>
     
@@ -51,7 +51,7 @@
     
     <HornAttackTool.label>horn</HornAttackTool.label>
     
-    <HeadClaw.label>claw</HeadClaw.label>
+    <HeadClaw.label>hodeklo</HeadClaw.label>
     
     <TurtleBeakAttackTool.label>nebb</TurtleBeakAttackTool.label>
     
