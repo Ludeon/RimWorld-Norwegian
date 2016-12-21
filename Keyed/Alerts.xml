@@ -20,7 +20,7 @@
   <BuildARoomDesc>Et rom er bygd opp av separate deler av vegg med en dør.\n\nBruk Arkitektmenyen nederst til venstre på skjermen for å angi hvor du har lyst til å bygge. Dersom du har valgt hvor du vil bygge vil kolonistene dine utføre arbeid når de kan.</BuildARoomDesc>
 
   <NeedDefenses>Trenger beskyttelse</NeedDefenses>
-  <NeedDefensesDesc>Du har vært her ute en god stund og har sannsynligvis blitt sett, piratplyndringer er noe som du snart vil se.\n\nDu burde gjøre klar beskyttelser.\n\nBygg noen maskingevær.</NeedDefensesDesc>
+  <NeedDefensesDesc>Du har vært her ute en god stund og har sannsynligvis blitt sett, pirater vil snart komme for å plyndre.\n\nDu burde gjøre klar forsvar.\n\nBygg noen maskingevær.</NeedDefensesDesc>
 
   <NeedDoctor>Trenger doktor</NeedDoctor>
   <NeedDoctorDesc>Disse kolonistene trenger medisinsk tilsyn. vi har ingen friske kolonister satt til å være doktorer.\n\n{0}\nAngi en frisk kolonist doktoroppgaven, hvis de blir forlatt ubehandlet vil sårene aldri gro ordentlig og kan bli permanente.</NeedDoctorDesc>
@@ -45,7 +45,7 @@
   <HunterLacksWeaponDesc>En kolonist er angitt som jeger, men har ikke noe våpen. Kolonisten trenger et våpen for å kunne jakte.\n\nFor å forebygge skader, anbefaler vi å gi dem et skytevåpen.</HunterLacksWeaponDesc>
 
   <Starvation>Sult</Starvation>
-  <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nGi dem noe å spise, eller finn en matkilde som for eksempel bringebær. I tilleg, pass på at de ikke er innkalt til militærtjeneste.</StarvationDesc>
+  <StarvationDesc>Disse kolonistene sulter:\n\n{0}\nGi dem noe å spise, eller finn en matkilde som for eksempel bringebær. I tillegg, pass på at de ikke er innkalt til militærtjeneste.</StarvationDesc>
 
   <StarvationAnimals>Dyr som sulter</StarvationAnimals>
   <StarvationAnimalsDesc>Disse kolonidyrene sulter:\n\n{0}\nSørg for å gi dem mat.</StarvationAnimalsDesc>
@@ -98,7 +98,7 @@
   <PatientsAwaitingMedicalOperationDesc>Disse pasientene venter å bli operert:\n\n{0}\nPass på at du har alt som trengs for operasjonen, og en tilgjengelig lege.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Brann!</FireInHomeArea>
-  <FireInHomeAreaDesc>Det bremmer i hjemmeområdet!</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Det brenner i hjemmeområdet!</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Alvorlig sykdom</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Disse kolonistene risikerer å dø på grunn av alvorlig sykdom:\n\n{0}\nSørg for at de får medisinsk oppfølging.</PawnsWithLifeThreateningDiseaseDesc>
