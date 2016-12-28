@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cobra.label>cobra</Cobra.label>
-    <Cobra.description>A large snake. Cobras can be highly aggressive if provoked - it's better to stay away from these creatures.</Cobra.description>
-    <Cobra_Leather.label>cobraskin</Cobra_Leather.label>
-    <Cobra_Leather.description>Leather made from the skin of a cobra.</Cobra_Leather.description>
-    <Cobra_Leather.stuffProps.stuffAdjective>cobraskin</Cobra_Leather.stuffProps.stuffAdjective>
-    <Cobra_Meat.label>cobraflesh</Cobra_Meat.label>
-    <Cobra_Meat.description>Raw flesh of a cobra.</Cobra_Meat.description>
-    <Cobra_Corpse.label>cobra corpse</Cobra_Corpse.label>
-    <Cobra_Corpse.description>Dead body of a cobra.</Cobra_Corpse.description>
+    <Cobra.label>kobra</Cobra.label>
+    <Cobra.description>En stor slange. Kobraer kan bli svært aggressive om de blir provosert - Det er best å ligge unna disse skapningene.</Cobra.description>
+    <Cobra_Leather.label>kobralær</Cobra_Leather.label>
+    <Cobra_Leather.description>Garvet lær lagd av huden fra en kobra.</Cobra_Leather.description>
+    <Cobra_Leather.stuffProps.stuffAdjective>kobralær</Cobra_Leather.stuffProps.stuffAdjective>
+    <Cobra_Meat.label>kobrakjøtt</Cobra_Meat.label>
+    <Cobra_Meat.description>Rått kjøtt fra en kobra.</Cobra_Meat.description>
+    <Cobra_Corpse.label>kobrakropp</Cobra_Corpse.label>
+    <Cobra_Corpse.description>Den døde kroppen av en kobra.</Cobra_Corpse.description>
     
     <Monkey.label>ape</Monkey.label>
-    <Monkey.description>This monkey can use its curly tail to grab on to branches, leaving its hands free to do other things.</Monkey.description>
-    <Monkey_Leather.label>monkeyhide</Monkey_Leather.label>
-    <Monkey_Leather.description>Leather made from the skin of a monkey.</Monkey_Leather.description>
-    <Monkey_Leather.stuffProps.stuffAdjective>monkeyhide</Monkey_Leather.stuffProps.stuffAdjective>
-    <Monkey_Meat.label>monkey meat</Monkey_Meat.label>
-    <Monkey_Meat.description>Raw flesh of a monkey.</Monkey_Meat.description>
-    <Monkey_Corpse.label>monkey corpse</Monkey_Corpse.label>
-    <Monkey_Corpse.description>Dead body of a monkey.</Monkey_Corpse.description>
+    <Monkey.description>Denne apen kan bruke sin buktende hale til å gripe tak i greinene, så hendene blir frigjort til å gjøre andre ting.</Monkey.description>
+    <Monkey_Leather.label>apelær</Monkey_Leather.label>
+    <Monkey_Leather.description>Garvet lær lagd av skinnet fra en ape.</Monkey_Leather.description>
+    <Monkey_Leather.stuffProps.stuffAdjective>apelær</Monkey_Leather.stuffProps.stuffAdjective>
+    <Monkey_Meat.label>apekjøtt</Monkey_Meat.label>
+    <Monkey_Meat.description>Rått kjøtt fra en ape.</Monkey_Meat.description>
+    <Monkey_Corpse.label>apekropp</Monkey_Corpse.label>
+    <Monkey_Corpse.description>Den døde kroppen av en ape.</Monkey_Corpse.description>
     
     <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Chinchilla.description>A small but quick rodent famous for its exceptionally soft fur.</Chinchilla.description>
-    <Chinchilla_Leather.label>chinchilla fur</Chinchilla_Leather.label>
-    <Chinchilla_Leather.description>Leather made from the skin of a chinchilla.</Chinchilla_Leather.description>
-    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchilla fur</Chinchilla_Leather.stuffProps.stuffAdjective>
-    <Chinchilla_Meat.label>chinchilla meat</Chinchilla_Meat.label>
-    <Chinchilla_Meat.description>Raw flesh of a chinchilla.</Chinchilla_Meat.description>
-    <Chinchilla_Corpse.label>chinchilla corpse</Chinchilla_Corpse.label>
-    <Chinchilla_Corpse.description>Dead body of a chinchilla.</Chinchilla_Corpse.description>
+    <Chinchilla.description>En liten, men rask gnager, berømt for sin eksepsjonelt myke pels.</Chinchilla.description>
+    <Chinchilla_Leather.label>Chinchillapels</Chinchilla_Leather.label>
+    <Chinchilla_Leather.description>Pels fra en chinchilla, kanskje den mykeste pelsen i dyreriket.</Chinchilla_Leather.description>
+    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapels</Chinchilla_Leather.stuffProps.stuffAdjective>
+    <Chinchilla_Meat.label>chinchillakjøtt</Chinchilla_Meat.label>
+    <Chinchilla_Meat.description>Rått kjøtt fra en chinchilla.</Chinchilla_Meat.description>
+    <Chinchilla_Corpse.label>chinchillakropp</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>Den døde kroppen av en chinchilla.</Chinchilla_Corpse.description>
     
-    <Boomalope.label>boomalope</Boomalope.label>
-    <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies.</Boomalope.description>
-    <Boomalope_Leather.label>boomalope leather</Boomalope_Leather.label>
-    <Boomalope_Leather.description>Leather made from the skin of a boomalope.</Boomalope_Leather.description>
-    <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leather</Boomalope_Leather.stuffProps.stuffAdjective>
-    <Boomalope_Meat.label>boomalope meat</Boomalope_Meat.label>
-    <Boomalope_Meat.description>Raw flesh of a boomalope.</Boomalope_Meat.description>
-    <Boomalope_Corpse.label>boomalope corpse</Boomalope_Corpse.label>
-    <Boomalope_Corpse.description>Dead body of a boomalope.</Boomalope_Corpse.description>
+    <Boomalope.label>pangtilope</Boomalope.label>
+    <Boomalope.description>pangtilopen er blitt genetisk manipulert for kjemikalieproduksjon – det vokser en stor sekk med flyktige kjemikalier på ryggen dens. Selv om den er liten og svak for størrelsen sin, har andre dyr lært seg å unngå den på grunn av den store eksplosjonen den frembringer når den dør.</Boomalope.description>
+    <Boomalope_Leather.label>pangtilopelær</Boomalope_Leather.label>
+    <Boomalope_Leather.description>Garvet lær lagd av huden fra en pangtilope.</Boomalope_Leather.description>
+    <Boomalope_Leather.stuffProps.stuffAdjective>pantilopelær</Boomalope_Leather.stuffProps.stuffAdjective>
+    <Boomalope_Meat.label>pangtilopekjøtt</Boomalope_Meat.label>
+    <Boomalope_Meat.description>Rått kjøtt fra en pangtilope.</Boomalope_Meat.description>
+    <Boomalope_Corpse.label>pangtilopekropp</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>Den døde kroppen av en pangtilope.</Boomalope_Corpse.description>
     
-    <Capybara.label>capybara</Capybara.label>
-    <Capybara.description>The largest natural rodent, the capybara is well-adapted for steaming jungle.</Capybara.description>
-    <Capybara_Leather.label>capybaraskin</Capybara_Leather.label>
-    <Capybara_Leather.description>Leather made from the skin of a capybara.</Capybara_Leather.description>
-    <Capybara_Leather.stuffProps.stuffAdjective>capybaraskin</Capybara_Leather.stuffProps.stuffAdjective>
-    <Capybara_Meat.label>capybara meat</Capybara_Meat.label>
-    <Capybara_Meat.description>Raw flesh of a capybara.</Capybara_Meat.description>
-    <Capybara_Corpse.label>capybara corpse</Capybara_Corpse.label>
-    <Capybara_Corpse.description>Dead body of a capybara.</Capybara_Corpse.description>
+    <Capybara.label>flodsvin</Capybara.label>
+    <Capybara.description>Flodsvinet er den største naturlige gnageren og veltilpasset livet i den dampende jungelen.</Capybara.description>
+    <Capybara_Leather.label>flodsvinpels</Capybara_Leather.label>
+    <Capybara_Leather.description>Pels fra et flodsvin.</Capybara_Leather.description>
+    <Capybara_Leather.stuffProps.stuffAdjective>flodsvinpels</Capybara_Leather.stuffProps.stuffAdjective>
+    <Capybara_Meat.label>flodsvinkjøtt</Capybara_Meat.label>
+    <Capybara_Meat.description>Rått kjøtt fra et flodsvin.</Capybara_Meat.description>
+    <Capybara_Corpse.label>flodsvinkropp</Capybara_Corpse.label>
+    <Capybara_Corpse.description>Den døde kroppen av et flodsvin.</Capybara_Corpse.description>
     
-    <Cougar.label>cougar</Cougar.label>
-    <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
-    <Cougar_Leather.label>cougarskin</Cougar_Leather.label>
-    <Cougar_Leather.description>Leather made from the skin of a cougar.</Cougar_Leather.description>
-    <Cougar_Leather.stuffProps.stuffAdjective>cougarskin</Cougar_Leather.stuffProps.stuffAdjective>
-    <Cougar_Meat.label>cougar meat</Cougar_Meat.label>
-    <Cougar_Meat.description>Raw flesh of a cougar.</Cougar_Meat.description>
-    <Cougar_Corpse.label>cougar corpse</Cougar_Corpse.label>
-    <Cougar_Corpse.description>Dead body of a cougar.</Cougar_Corpse.description>
+    <Cougar.label>puma</Cougar.label>
+    <Cougar.description>Pumaen er en av de farligste store kattedyrene. De jakter alene, med lange, skarpe tenner og klør. De ligger ofte og lurer på byttet i bakhold før de hopper fram.\n\nSelv om mennesker ikke er en del av den vanlige menyen, så sier de ikke nei-takk til litt lettvint menneskebiff.</Cougar.description>
+    <Cougar_Leather.label>pumapels</Cougar_Leather.label>
+    <Cougar_Leather.description>Pelsen fra en puma, saltet og beredt med mykgjørende og preparerende kjemikalier.</Cougar_Leather.description>
+    <Cougar_Leather.stuffProps.stuffAdjective>pumapels</Cougar_Leather.stuffProps.stuffAdjective>
+    <Cougar_Meat.label>pumakjøtt</Cougar_Meat.label>
+    <Cougar_Meat.description>Rått kjøtt fra en puma.</Cougar_Meat.description>
+    <Cougar_Corpse.label>pumakropp</Cougar_Corpse.label>
+    <Cougar_Corpse.description>Den døde kroppen av en puma.</Cougar_Corpse.description>
     
 </LanguageData>

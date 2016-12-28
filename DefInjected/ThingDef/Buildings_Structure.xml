@@ -2,7 +2,7 @@
 <LanguageData>
     
     <Door.label>dør</Door.label>
-    <Door.description>Deler rom. Skal åpnes og lukkes manualt, slik at folk kan gå gjennom, men senker farten.</Door.description>
+    <Door.description>Deler rom. Må åpnes og lukkes manuelt, slik at folk kan gå gjennom, men senker farten.</Door.description>
     
     <Autodoor.label>autodør</Autodoor.label>
     <Autodoor.description>Deler rom. Tilført strøm kan folk gå gjennom hurtig uten å senke farten.</Autodoor.description>

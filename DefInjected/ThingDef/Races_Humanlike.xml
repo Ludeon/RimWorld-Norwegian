@@ -2,13 +2,13 @@
 <LanguageData>
     
     <Human.label>menneske</Human.label>
-    <Human.description>Et generisk menneske, som genetiskt for det meste ikke har blitt endret av utviklingspress fra andre planeter enn jorden.</Human.description>
-    <Human_Leather.label>human leather</Human_Leather.label>
-    <Human_Leather.description>Leather made from the skin of a human.</Human_Leather.description>
-    <Human_Leather.stuffProps.stuffAdjective>human leather</Human_Leather.stuffProps.stuffAdjective>
-    <Human_Meat.label>human meat</Human_Meat.label>
-    <Human_Meat.description>Raw flesh of a human.</Human_Meat.description>
-    <Human_Corpse.label>human corpse</Human_Corpse.label>
-    <Human_Corpse.description>Dead body of a human.</Human_Corpse.description>
+    <Human.description>Et generisk menneske, som genetisk for det meste ikke har blitt endret av utviklingspress fra andre planeter enn jorden.</Human.description>
+    <Human_Leather.label>menneskeskinn</Human_Leather.label>
+    <Human_Leather.description>Skinn lagd av huden fra et menneske.</Human_Leather.description>
+    <Human_Leather.stuffProps.stuffAdjective>menneskeskinns</Human_Leather.stuffProps.stuffAdjective>
+    <Human_Meat.label>menneskekjøtt</Human_Meat.label>
+    <Human_Meat.description>Rå kjøtt fra et menneske.</Human_Meat.description>
+    <Human_Corpse.label>menneskelik</Human_Corpse.label>
+    <Human_Corpse.description>Et menneskes døde kropp.</Human_Corpse.description>
     
 </LanguageData>

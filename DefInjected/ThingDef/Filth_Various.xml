@@ -3,26 +3,26 @@
     
     <FilthDirt.label>skitt</FilthDirt.label>
     
-    <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
+    <FilthAnimalFilth.label>dyremøkk</FilthAnimalFilth.label>
     
     <FilthSand.label>sand</FilthSand.label>
     
-    <RockRubble.label>stenklumper</RockRubble.label>
+    <RockRubble.label>steinklumper</RockRubble.label>
     
-    <BuildingRubble.label>building rubble</BuildingRubble.label>
+    <BuildingRubble.label>bygningsstøv</BuildingRubble.label>
     
     <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
     
     <FilthBlood.label>blod</FilthBlood.label>
     
-    <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
+    <FilthBloodInsect.label>insektblod</FilthBloodInsect.label>
     
-    <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+    <FilthAmnioticFluid.label>fostervann</FilthAmnioticFluid.label>
     
-    <FilthSlime.label>slime</FilthSlime.label>
+    <FilthSlime.label>slim</FilthSlime.label>
     
-    <FilthVomit.label>vomit</FilthVomit.label>
+    <FilthVomit.label>oppkast</FilthVomit.label>
     
-    <FilthFireFoam.label>firefoam</FilthFireFoam.label>
+    <FilthFireFoam.label>brannskum</FilthFireFoam.label>
     
 </LanguageData>

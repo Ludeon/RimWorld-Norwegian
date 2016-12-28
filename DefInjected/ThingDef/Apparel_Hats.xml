@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Apparel_CowboyHat.label>cowboy hatt</Apparel_CowboyHat.label>
-    <Apparel_CowboyHat.description>Stilfull selv gammeldags, denne holder solen og regnen vekk - den gir alle som bærer den en smule ekstra sjarm. Det er den viktigste delen av tradisjonelt vesterntøy.</Apparel_CowboyHat.description>
+    <Apparel_CowboyHat.label>hatt</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Stilfull og gammeldags cowboyhatt. Denne holder solen og regnet vekk, og gir alle som bærer den en smule ekstra sjarm.</Apparel_CowboyHat.description>
     
-    <Apparel_Tuque.label>tuque</Apparel_Tuque.label>
-    <Apparel_Tuque.description>A soft, thick cap. Great for keeping warm in winter.</Apparel_Tuque.description>
+    <Apparel_Tuque.label>lue</Apparel_Tuque.label>
+    <Apparel_Tuque.description>En myk, tjukk lue. Super for å holde seg varm om vinteren.</Apparel_Tuque.description>
     
     <Apparel_PowerArmorHelmet.label>energirustningshjelm</Apparel_PowerArmorHelmet.label>
-    <Apparel_PowerArmorHelmet.description>Del av engerirustnings settet, til bruk av tungt infanteri.</Apparel_PowerArmorHelmet.description>
+    <Apparel_PowerArmorHelmet.description>Del av energirustnings settet, til bruk av tungt infanteri.</Apparel_PowerArmorHelmet.description>
     
     <Apparel_KevlarHelmet.label>kevlarhjelm</Apparel_KevlarHelmet.label>
     <Apparel_KevlarHelmet.description>Essensiell del av personlig rustning, brukes til å absorbere ekplosjonen av en granat.</Apparel_KevlarHelmet.description>
     
-    <Apparel_MilitaryHelmet.label>militærhjelm</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Gammeldags og tung, men veldig hjelpsom under fiendelig angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
+    <Apparel_MilitaryHelmet.label>hjelm</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Gammeldags og tung, men uunnværlig under fiendtlige angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
     
-    <Apparel_PsychicFoilHelmet.label>psychic foil helmet</Apparel_PsychicFoilHelmet.label>
-    <Apparel_PsychicFoilHelmet.description>A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic events.</Apparel_PsychicFoilHelmet.description>
+    <Apparel_PsychicFoilHelmet.label>tinnfoliehjelm</Apparel_PsychicFoilHelmet.label>
+    <Apparel_PsychicFoilHelmet.description>En tynn hjelm med fininnstilte lag av psykoabsorberende folie. Reduserer effekten av psyko-angrep.</Apparel_PsychicFoilHelmet.description>
     
 </LanguageData>
