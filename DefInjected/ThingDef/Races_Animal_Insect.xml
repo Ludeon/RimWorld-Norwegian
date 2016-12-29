@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Megascarab.label>megascarab</Megascarab.label>
-    <Megascarab.description>A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now usually seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.</Megascarab.description>
-    <Megascarab_Meat.label>scarab meat</Megascarab_Meat.label>
-    <Megascarab_Meat.description>Raw flesh of a megascarab.</Megascarab_Meat.description>
-    <Megascarab_Corpse.label>megascarab corpse</Megascarab_Corpse.label>
-    <Megascarab_Corpse.description>Dead body of a megascarab.</Megascarab_Corpse.description>
+    <Megascarab.label>megatordivel</Megascarab.label>
+    <Megascarab.description>En svær, genmodifisert bille. En gang i tida var den arbeideren i et kunstig økonsystem av insekter, skreddersydd for å sloss mot robotinvasjoner. Den sees nå vanligvis uten sine mer dødelige fettere. Dens størrelse og harde panser gjør den allikevel farlig når den angriper. Den er eusosial og kan ikke reprodusere seg som individ.</Megascarab.description>
+    <Megascarab_Meat.label>tordivelkjøtt</Megascarab_Meat.label>
+    <Megascarab_Meat.description>Rått kjøtt fra en kjempetordivel.</Megascarab_Meat.description>
+    <Megascarab_Corpse.label>tordivelkadaver</Megascarab_Corpse.label>
+    <Megascarab_Corpse.description>Det døde kadaveret av en kjempetordivel.</Megascarab_Corpse.description>
     
-    <Spelopede.label>spelopede</Spelopede.label>
-    <Spelopede.description>A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its claws.</Spelopede.description>
-    <Spelopede_Meat.label>spelopede meat</Spelopede_Meat.label>
-    <Spelopede_Meat.description>Raw flesh of a spelopede.</Spelopede_Meat.description>
-    <Spelopede_Corpse.label>spelopede corpse</Spelopede_Corpse.label>
-    <Spelopede_Corpse.description>Dead body of a spelopede.</Spelopede_Corpse.description>
+    <Spelopede.label>speloped</Spelopede.label>
+    <Spelopede.description>Et mellomstort biomodifisert insekt på størrelse med en sau. Spelopeden er i mellomkasten i kuben og tar hånd om de fleste arbeidsoppgaver, slik som å sloss med klørne sine.</Spelopede.description>
+    <Spelopede_Meat.label>spelopedkjøtt</Spelopede_Meat.label>
+    <Spelopede_Meat.description>Rått kjøtt fra en speloped.</Spelopede_Meat.description>
+    <Spelopede_Corpse.label>spelopedkadaver</Spelopede_Corpse.label>
+    <Spelopede_Corpse.description>Det døde kadaveret av en speloped.</Spelopede_Corpse.description>
     
-    <Megaspider.label>megaspider</Megaspider.label>
-    <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly.</Megaspider.description>
-    <Megaspider_Meat.label>megaspider meat</Megaspider_Meat.label>
-    <Megaspider_Meat.description>Raw flesh of a megaspider.</Megaspider_Meat.description>
-    <Megaspider_Corpse.label>megaspider corpse</Megaspider_Corpse.label>
-    <Megaspider_Corpse.description>Dead body of a megaspider.</Megaspider_Corpse.description>
+    <Megaspider.label>megaedderkopp</Megaspider.label>
+    <Megaspider.description>Megaedderkoppen er egentlig ikke en edderkopp, men et genmanipulert kjempeinsekt på størrelse med en bjørn. Designet for tungt arbeid og harde kamper. Det tykke kitinpanseret gjør den vanskelig å drepe, mens dens lange, dødelige kuttblader gjør den dødelig.</Megaspider.description>
+    <Megaspider_Meat.label>edderkoppkjøtt</Megaspider_Meat.label>
+    <Megaspider_Meat.description>Rått kjøtt fra en megaedderkopp.</Megaspider_Meat.description>
+    <Megaspider_Corpse.label>edderkoppkadaver</Megaspider_Corpse.label>
+    <Megaspider_Corpse.description>Det døde kadaveret av en  megaedderkopp.</Megaspider_Corpse.description>
     
 </LanguageData>

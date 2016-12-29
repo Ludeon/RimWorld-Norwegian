@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Squirrel.label>ekorn</Squirrel.label>
-    <Squirrel.description>En av de mange hardføre, allsidige gnagerartene som følger menneskeheten hvor enn den sprer seg.</Squirrel.description>
-    <Squirrel_Leather.label>ekornpels</Squirrel_Leather.label>
-    <Squirrel_Leather.description>Myk ekornpels. Saltet og beredt.</Squirrel_Leather.description>
-    <Squirrel_Leather.stuffProps.stuffAdjective>ekornpels</Squirrel_Leather.stuffProps.stuffAdjective>
-    <Squirrel_Meat.label>ekornkjøtt</Squirrel_Meat.label>
-    <Squirrel_Meat.description>Rått kjøtt fra et ekorn.</Squirrel_Meat.description>
-    <Squirrel_Corpse.label>ekornkadaver</Squirrel_Corpse.label>
-    <Squirrel_Corpse.description>Det døde kadaveret av et ekorn.</Squirrel_Corpse.description>
+  
     
     <Deer.label>hjort</Deer.label>
     <Deer.description>En mellomstor plante-eter som lever i flokk. Generelt fredelig, om den får være i fred.</Deer.description>
@@ -20,7 +12,17 @@
     <Deer_Meat.description>Rått kjøtt fra en hjort.</Deer_Meat.description>
     <Deer_Corpse.label>hjortekadaver</Deer_Corpse.label>
     <Deer_Corpse.description>Det døde kadaveret av en hjort.</Deer_Corpse.description>
-    
+	
+  <Ibex.label>steinbukk</Ibex.label>
+  <Ibex.description>Den tøffe forfaderen til den domestisert geita. Steinbukken lever i territorier der de fleste antiloper ikke kunne overlevd, der den spiser mark og fjellvegetasjon. De er berømte for å bevege seg ved hjelp av smidige sprang - og for kraftig stanging.</Ibex.description>
+  <Ibex_Leather.label>steinbukkpels</Ibex_Leather.label>
+  <Ibex_Leather.description>Pels  fra en steinbukk.</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>steinbukkpels</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>steinbukk-kjøtt</Ibex_Meat.label>
+  <Ibex_Meat.description>Kjøtt fra en steinbukk.</Ibex_Meat.description>
+  <Ibex_Corpse.label>steinbukkadaver</Ibex_Corpse.label>
+  <Ibex_Corpse.description>Den døde kroppen til en steinbukk.</Ibex_Corpse.description>
+	
     <Elk.label>elg</Elk.label>
     <Elk.description>Et av de større medlemmene i hjortefamilien, veltilpasset til livet i kaldere klima.</Elk.description>
     <Elk_Leather.label>elglær</Elk_Leather.label>
@@ -30,16 +32,16 @@
     <Elk_Meat.description>Rått kjøtt fra en elg.</Elk_Meat.description>
     <Elk_Corpse.label>elgkadaver</Elk_Corpse.label>
     <Elk_Corpse.description>Det døde kadaveret av en elg.</Elk_Corpse.description>
-    
-    <Alphabeaver.label>alfabever</Alphabeaver.label>
-    <Alphabeaver.description>Et stort beverderivat, genmanipulert for å behandle trær med effektiviteten til en maskin. Dersom disse dyra ikke får en spesiell type for, så går de inn i en manisk tilstand som får dem til å spise hele trær.</Alphabeaver.description>
-    <Alphabeaver_Leather.label>beverpels</Alphabeaver_Leather.label>
-    <Alphabeaver_Leather.description>Beverpels. "Han tok henne på beverpelsen." -Agnar Mykle</Alphabeaver_Leather.description>
-    <Alphabeaver_Leather.stuffProps.stuffAdjective>beverpels</Alphabeaver_Leather.stuffProps.stuffAdjective>
-    <Alphabeaver_Meat.label>alfabeverkjøtt</Alphabeaver_Meat.label>
-    <Alphabeaver_Meat.description>Rått kjøtt fra en alfabever.</Alphabeaver_Meat.description>
-    <Alphabeaver_Corpse.label>alfabeverkadaver</Alphabeaver_Corpse.label>
-    <Alphabeaver_Corpse.description>Det døde kadaveret av en alfabever.</Alphabeaver_Corpse.description>
+	
+	<Caribou.label>reinsdyr</Caribou.label>
+  <Caribou.description>Et stort medlem av hjortefamilien, som har tilpasset seg vel til livet i kaldere strøk.</Caribou.description>
+  <Caribou_Leather.label>reinskinn</Caribou_Leather.label>
+  <Caribou_Leather.description>Reinskinn - flådd, saltet og beredt.</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>reinskinns</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>reinkjøtt</Caribou_Meat.label>
+  <Caribou_Meat.description>Rått kjøtt fra et reinsdyr.</Caribou_Meat.description>
+  <Caribou_Corpse.label>reinsdyrkadaver</Caribou_Corpse.label>
+  <Caribou_Corpse.description>Det døde kadaveret av et reinsdyr.</Caribou_Corpse.description>
     
     <WildBoar.label>villsvin</WildBoar.label>
     <WildBoar.description>Denne hårete stamfaren til tamgrisen er, til tross for at den er regnet som uren i enkelte kulturer, svært ettertraktet for den gode viltsmaken i kjøttet.</WildBoar.description>
@@ -51,15 +53,6 @@
     <WildBoar_Corpse.label>villsvinkadaver</WildBoar_Corpse.label>
     <WildBoar_Corpse.description>Det døde kadaveret av et villsvin.</WildBoar_Corpse.description>
     
-    <Boomrat.label>pangrotte</Boomrat.label>
-    <Boomrat.description>Enten som et resultat av bevisst manipulasjon i våpenøyemed, eller som en uvanlig forsvarsmekanisme, lager disse gnageraktige skapningene en eksplosjon når de dør.</Boomrat.description>
-    <Boomrat_Leather.label>pangrottelær</Boomrat_Leather.label>
-    <Boomrat_Leather.description>Garvet lær lagd av huden fra en pangrotte.</Boomrat_Leather.description>
-    <Boomrat_Leather.stuffProps.stuffAdjective>pangrottelær</Boomrat_Leather.stuffProps.stuffAdjective>
-    <Boomrat_Meat.label>pangrottekjøtt</Boomrat_Meat.label>
-    <Boomrat_Meat.description>Rått kjøtt fra et pangrotte.</Boomrat_Meat.description>
-    <Boomrat_Corpse.label>pangrottekadaver</Boomrat_Corpse.label>
-    <Boomrat_Corpse.description>Det døde kadaveret av en pangrotte.</Boomrat_Corpse.description>
     
     <Tortoise.label>skilpadde</Tortoise.label>
     <Tortoise.description>Dette tungt armerte landbaserte reptilet er kjent for sin sakte bevegelseshastighet og sitt overraskende kraftige bitt.</Tortoise.description>
@@ -71,14 +64,6 @@
     <Tortoise_Corpse.label>skilpaddekadaver</Tortoise_Corpse.label>
     <Tortoise_Corpse.description>Det døde kadaveret av en skilpadde.</Tortoise_Corpse.description>
     
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-    <Thrumbo.description>En gigantisk skapning av ukjent opphav. Thrumboen er godlynt av natur, men ekstremt farlig om man provoserer den. Dens lange pels er eksepsjonelt vakker og verdifull, og dens sylskarpe horn er svært kostbart i de fleste markeder. Legender sier at en gammel thrumbo er den klokeste skapningen i hele universet - den velger å simpelten ikke si noe.</Thrumbo.description>
-    <Thrumbo_Leather.label>thrumbopels</Thrumbo_Leather.label>
-    <Thrumbo_Leather.description>Pelsen av en thrumbo, mykgjort og preparert.</Thrumbo_Leather.description>
-    <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopels</Thrumbo_Leather.stuffProps.stuffAdjective>
-    <Thrumbo_Meat.label>thrumbokjøtt</Thrumbo_Meat.label>
-    <Thrumbo_Meat.description>Rått kjøtt fra en thrumbo.</Thrumbo_Meat.description>
-    <Thrumbo_Corpse.label>thrumbokadaver</Thrumbo_Corpse.label>
-    <Thrumbo_Corpse.description>Det døde kadaveret av en thrumbo.</Thrumbo_Corpse.description>
+ 
     
 </LanguageData>

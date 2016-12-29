@@ -2,23 +2,23 @@
 <LanguageData>
     
     <Hare.label>hare</Hare.label>
-    <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
-    <Hare_Leather.label>hare leather</Hare_Leather.label>
-    <Hare_Leather.description>Leather made from the skin of a hare.</Hare_Leather.description>
-    <Hare_Leather.stuffProps.stuffAdjective>hare leather</Hare_Leather.stuffProps.stuffAdjective>
-    <Hare_Meat.label>hare meat</Hare_Meat.label>
-    <Hare_Meat.description>Raw flesh of a hare.</Hare_Meat.description>
-    <Hare_Corpse.label>hare corpse</Hare_Corpse.label>
-    <Hare_Corpse.description>Dead body of a hare.</Hare_Corpse.description>
+    <Hare.description>Denne lille, alenelevende planteeteren kan hoppe raskt vekk fra farer.</Hare.description>
+    <Hare_Leather.label>hareskinn</Hare_Leather.label>
+    <Hare_Leather.description>Skinnet av en hare.</Hare_Leather.description>
+    <Hare_Leather.stuffProps.stuffAdjective>hareskinns</Hare_Leather.stuffProps.stuffAdjective>
+    <Hare_Meat.label>harekjøtt</Hare_Meat.label>
+    <Hare_Meat.description>Rått kjøtt fra en hare.</Hare_Meat.description>
+    <Hare_Corpse.label>harekadaver</Hare_Corpse.label>
+    <Hare_Corpse.description>Det døde kadaveret av en hare.</Hare_Corpse.description>
     
-    <Snowhare.label>snowhare</Snowhare.label>
-    <Snowhare.description>This hardy, animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst months away.</Snowhare.description>
-    <Snowhare_Leather.label>snowhare leather</Snowhare_Leather.label>
-    <Snowhare_Leather.description>Leather made from the skin of a snowhare.</Snowhare_Leather.description>
-    <Snowhare_Leather.stuffProps.stuffAdjective>snowhare leather</Snowhare_Leather.stuffProps.stuffAdjective>
-    <Snowhare_Meat.label>snowhare meat</Snowhare_Meat.label>
-    <Snowhare_Meat.description>Raw flesh of a snowhare.</Snowhare_Meat.description>
-    <Snowhare_Corpse.label>snowhare corpse</Snowhare_Corpse.label>
-    <Snowhare_Corpse.description>Dead body of a snowhare.</Snowhare_Corpse.description>
+    <Snowhare.label>snøhare</Snowhare.label>
+    <Snowhare.description>Dette tøffe dyret overlever de brutale vinterne i nord ved å grave seg gjennom snøen og finne bytte under den, eller ved å gå i dvale i de verste månedene.</Snowhare.description>
+    <Snowhare_Leather.label>snåhareskinn</Snowhare_Leather.label>
+    <Snowhare_Leather.description>Skinnet fra en snøhare.</Snowhare_Leather.description>
+    <Snowhare_Leather.stuffProps.stuffAdjective>snøhareskinns</Snowhare_Leather.stuffProps.stuffAdjective>
+    <Snowhare_Meat.label>snøharekjøtt</Snowhare_Meat.label>
+    <Snowhare_Meat.description>rått kjøtt fra en snøhare</Snowhare_Meat.description>
+    <Snowhare_Corpse.label>snøharekadaver</Snowhare_Corpse.label>
+    <Snowhare_Corpse.description>Det døde kadaveret av en snøhare.</Snowhare_Corpse.description>
     
 </LanguageData>

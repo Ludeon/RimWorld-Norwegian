@@ -2,12 +2,12 @@
 <LanguageData>
     
     <PlantAgave.label>agave</PlantAgave.label>
-    <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
+    <PlantAgave.description>En ørkenplante med store blader. Den har spiselige blomster og skudd.</PlantAgave.description>
     
-    <PlantSaguaroCactus.label>saguaro cactus</PlantSaguaroCactus.label>
-    <PlantSaguaroCactus.description>A large cactus native to arid Earth environments.</PlantSaguaroCactus.description>
+    <PlantSaguaroCactus.label>kjempekaktus</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>En stor kaktus som kommer fra tørre områder på Jorda. Den kan bli over 200 år gammel.</PlantSaguaroCactus.description>
     
-    <PlantPincushionCactus.label>pincushion cactus</PlantPincushionCactus.label>
-    <PlantPincushionCactus.description>A short cactus. So named because it resembles a pincushion.</PlantPincushionCactus.description>
+    <PlantPincushionCactus.label>nåleputekaktus</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>En kort kaktus i vortekaktusfamilien. Den har fått navnet sitt fordi den ligner en nålepute.</PlantPincushionCactus.description>
     
 </LanguageData>

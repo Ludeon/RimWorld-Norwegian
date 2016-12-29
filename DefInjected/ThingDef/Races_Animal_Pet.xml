@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Warg.label>varg</Warg.label>
-    <Warg.description>Muskuløse, ulvelignende skapninger. Vitenskapsmenn sier varger er etterkommere av militære forsøksdyr lagd for å kontrollere folkeopprør. De overtroiske ser på dem som verktøy for en sint gud. De spiser kun kadavere og kjøtt.</Warg.description>
-    <Warg_Leather.label>vargskinn</Warg_Leather.label>
-    <Warg_Leather.description>Skinnet av en varg.</Warg_Leather.description>
-    <Warg_Leather.stuffProps.stuffAdjective>vargskinns</Warg_Leather.stuffProps.stuffAdjective>
-    <Warg_Meat.label>vargkjøtt</Warg_Meat.label>
-    <Warg_Meat.description>Det rå kjøttet fra en varg.</Warg_Meat.description>
-    <Warg_Corpse.label>vargkadaver</Warg_Corpse.label>
-    <Warg_Corpse.description>Det døde kadaveret av en varg.</Warg_Corpse.description>
     
     <YorkshireTerrier.label>terrier</YorkshireTerrier.label>
     <YorkshireTerrier.description>En liten, stødig hund. Den ble opprinnelig avlet fram for å jakte rotter, senere ble det en familie- og showhund.</YorkshireTerrier.description>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cassowary.label>kasuar</Cassowary.label>
+  <Cassowary.description>Kasuarer er kjempestore (normalt 100–170 cm høye, avhengig av art) flygeløse fugler med en strutselignende kropp. På innertåen har fuglene utviklet ei dolkelignende klo, som fuglene bruker som et våpen til å forsvare seg med.</Cassowary.description>
+  <Cassowary_Leather.label>kasuarskinn</Cassowary_Leather.label>
+  <Cassowary_Leather.description>Skinn fra en kasuar.</Cassowary_Leather.description>
+  <Cassowary_Leather.stuffProps.stuffAdjective>kasuarskinns</Cassowary_Leather.stuffProps.stuffAdjective>
+  <Cassowary_Meat.label>fuglekjøtt</Cassowary_Meat.label>
+  <Cassowary_Meat.description>Rått kjøtt fra en fugl.</Cassowary_Meat.description>
+  <Cassowary_Corpse.label>kasuarkadaver</Cassowary_Corpse.label>
+  <Cassowary_Corpse.description>Kadaveret av en kasuar.</Cassowary_Corpse.description>
+
+  <Emu.label>emu</Emu.label>
+  <Emu.description>Emuen er en kjempestor flygeudyktig strutsefugl (Struthioniformes), opprinnelig funnet på Jordkontinentet Australia og eneste nålevende art i slekten Dromaius.</Emu.description>
+  <Emu_Leather.label>emuskinn</Emu_Leather.label>
+  <Emu_Leather.description>Skinn fra en emu.</Emu_Leather.description>
+  <Emu_Leather.stuffProps.stuffAdjective>emuskinns</Emu_Leather.stuffProps.stuffAdjective>
+  <Emu_Corpse.label>emukadaver</Emu_Corpse.label>
+  <Emu_Corpse.description>Kadaveret av en emu.</Emu_Corpse.description>
+
+  <Ostrich.label>struts</Ostrich.label>
+  <Ostrich.description>Strutsen er verdens største ikke-genmanipulerte fugl. Den har lite hode, lang hals og en stor kropp med lange kraftige ekstremiteter tilpasset løping. Toppfarten er omkring 74 km/t.</Ostrich.description>
+  <Ostrich_Leather.label>strutseskinn</Ostrich_Leather.label>
+  <Ostrich_Leather.description>Skinn fra en struts.</Ostrich_Leather.description>
+  <Ostrich_Leather.stuffProps.stuffAdjective>strutseskinns</Ostrich_Leather.stuffProps.stuffAdjective>
+  <Ostrich_Corpse.label>strutsekadaver</Ostrich_Corpse.label>
+  <Ostrich_Corpse.description>Kadaveret av en struts.</Ostrich_Corpse.description>
+
+  <Turkey.label>kalkun</Turkey.label>
+  <Turkey.description>En liten, fet, fluktløs fugl kjent for sin morsomme paringslyd. Har lenge vært domestisert, men lever også vilt i naturen.</Turkey.description>
+  <Turkey_Leather.label>kalkunskinn</Turkey_Leather.label>
+  <Turkey_Leather.description>Skinn fra en kalkun.</Turkey_Leather.description>
+  <Turkey_Leather.stuffProps.stuffAdjective>kalkunskinns</Turkey_Leather.stuffProps.stuffAdjective>
+  <Turkey_Meat.label>kalkunkjøtt</Turkey_Meat.label>
+  <Turkey_Meat.description>Kjøtt fra en kalkun.</Turkey_Meat.description>
+  <Turkey_Corpse.label>kalkunkadaver</Turkey_Corpse.label>
+  <Turkey_Corpse.description>Kadaveret av en kalkun.</Turkey_Corpse.description>
+
+  
+  
+
+</LanguageData>

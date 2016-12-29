@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PlantRaspberry.label>raspberry bush</PlantRaspberry.label>
-    <PlantRaspberry.description>A bushy plant which yields delicious red berries.</PlantRaspberry.description>
+    <PlantRaspberry.label>bringebærbusk</PlantRaspberry.label>
+    <PlantRaspberry.description>En buskvekst som gir nydelige røde bær.</PlantRaspberry.description>
     
-    <PlantBush.label>bush</PlantBush.label>
-    <PlantBush.description>A short shrub. Does not typically talk.</PlantBush.description>
+    <PlantBush.label>busk</PlantBush.label>
+    <PlantBush.description>En kort vekst. Pleier ikke si noe.</PlantBush.description>
     
-    <PlantGrass.label>grass</PlantGrass.label>
-    <PlantGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</PlantGrass.description>
+    <PlantGrass.label>gress</PlantGrass.label>
+    <PlantGrass.description>Viltvoksende gress. Vokser overalt hvor det er litt lys og et minimum av fruktbar jord.</PlantGrass.description>
     
-    <PlantDandelion.label>dandelions</PlantDandelion.label>
-    <PlantDandelion.description>A common small flower. Though it is often considered a weed, it is pleasant to look at.</PlantDandelion.description>
+    <PlantDandelion.label>løvetann</PlantDandelion.label>
+    <PlantDandelion.description>En vanlig, liten blomst. Selv om den ofte regnes som ugress, er den fin å se på.</PlantDandelion.description>
     
-    <PlantAstragalus.label>astragalus</PlantAstragalus.label>
-    <PlantAstragalus.description>A small perennial wildflower that grows in alpine climates.</PlantAstragalus.description>
+    <PlantAstragalus.label>mjelt</PlantAstragalus.label>
+    <PlantAstragalus.description>En liten flerårig blomst som liker seg i kaldere strøk.</PlantAstragalus.description>
     
-    <PlantMoss.label>moss</PlantMoss.label>
-    <PlantMoss.description>A wild moss that grows in clumps in areas of low light and high humidity. Very hardy and frost-resistant.</PlantMoss.description>
+    <PlantMoss.label>mose</PlantMoss.label>
+    <PlantMoss.description>Viltvoksende mose kan man finne i områder med lite sollys og mye fuktighet. Svært motstandsdyktig, også mot frost..</PlantMoss.description>
     
-    <PlantTreeOak.label>oak tree</PlantTreeOak.label>
-    <PlantTreeOak.description>A strong hardwood tree. Slow-going, but its wood is very strong.</PlantTreeOak.description>
+    <PlantTreeOak.label>eiketre</PlantTreeOak.label>
+    <PlantTreeOak.description>En solid hardtresort. Vokser sakte, men gir svært solid ved.</PlantTreeOak.description>
     
-    <PlantTreePoplar.label>poplar tree</PlantTreePoplar.label>
-    <PlantTreePoplar.description>A softwood tree. Grows fast, but yield little useful wood.</PlantTreePoplar.description>
+    <PlantTreePoplar.label>poppeltre</PlantTreePoplar.label>
+    <PlantTreePoplar.description>Poppeltreets ved er nokså myk. Vokser raskt, men gir lite anvendbart trevirke.</PlantTreePoplar.description>
     
-    <PlantTreePine.label>pine tree</PlantTreePine.label>
-    <PlantTreePine.description>A large conifer.</PlantTreePine.description>
+    <PlantTreePine.label>furutre</PlantTreePine.label>
+    <PlantTreePine.description>Et stort nåletre.</PlantTreePine.description>
     
-    <PlantTreeBirch.label>birch tree</PlantTreeBirch.label>
-    <PlantTreeBirch.description>A northern tree known for its thin, paper-like bark.</PlantTreeBirch.description>
+    <PlantTreeBirch.label>Bjørketre</PlantTreeBirch.label>
+    <PlantTreeBirch.description>Et tre fra nord, kjent for sin tynne, papiraktige bark.</PlantTreeBirch.description>
     
 </LanguageData>

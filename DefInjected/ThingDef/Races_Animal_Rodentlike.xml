@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Cold weather animals -->
+
+    <Squirrel.label>ekorn</Squirrel.label>
+    <Squirrel.description>En av de mange hardføre, allsidige gnagerartene som følger menneskeheten hvor enn den sprer seg.</Squirrel.description>
+    <Squirrel_Leather.label>ekornpels</Squirrel_Leather.label>
+    <Squirrel_Leather.description>Myk ekornpels. Saltet og beredt.</Squirrel_Leather.description>
+    <Squirrel_Leather.stuffProps.stuffAdjective>ekornpels</Squirrel_Leather.stuffProps.stuffAdjective>
+    <Squirrel_Meat.label>ekornkjøtt</Squirrel_Meat.label>
+    <Squirrel_Meat.description>Rått kjøtt fra et ekorn.</Squirrel_Meat.description>
+    <Squirrel_Corpse.label>ekornkadaver</Squirrel_Corpse.label>
+    <Squirrel_Corpse.description>Det døde kadaveret av et ekorn.</Squirrel_Corpse.description>
+
+	<Alphabeaver.label>alfabever</Alphabeaver.label>
+    <Alphabeaver.description>Et stort beverderivat, genmanipulert for å behandle trær med effektiviteten til en maskin. Dersom disse dyra ikke får en spesiell type for, så går de inn i en manisk tilstand som får dem til å spise hele trær.</Alphabeaver.description>
+    <Alphabeaver_Leather.label>beverpels</Alphabeaver_Leather.label>
+    <Alphabeaver_Leather.description>Beverpels. "Han tok henne på beverpelsen." -Agnar Mykle</Alphabeaver_Leather.description>
+    <Alphabeaver_Leather.stuffProps.stuffAdjective>beverpels</Alphabeaver_Leather.stuffProps.stuffAdjective>
+    <Alphabeaver_Meat.label>alfabeverkjøtt</Alphabeaver_Meat.label>
+    <Alphabeaver_Meat.description>Rått kjøtt fra en alfabever.</Alphabeaver_Meat.description>
+    <Alphabeaver_Corpse.label>alfabeverkadaver</Alphabeaver_Corpse.label>
+    <Alphabeaver_Corpse.description>Det døde kadaveret av en alfabever.</Alphabeaver_Corpse.description>
+
+	<Capybara.label>flodsvin</Capybara.label>
+    <Capybara.description>Flodsvinet er den største naturlige gnageren og veltilpasset livet i den dampende jungelen.</Capybara.description>
+    <Capybara_Leather.label>flodsvinpels</Capybara_Leather.label>
+    <Capybara_Leather.description>Pels fra et flodsvin.</Capybara_Leather.description>
+    <Capybara_Leather.stuffProps.stuffAdjective>flodsvinpels</Capybara_Leather.stuffProps.stuffAdjective>
+    <Capybara_Meat.label>flodsvinkjøtt</Capybara_Meat.label>
+    <Capybara_Meat.description>Rått kjøtt fra et flodsvin.</Capybara_Meat.description>
+    <Capybara_Corpse.label>flodsvinkropp</Capybara_Corpse.label>
+    <Capybara_Corpse.description>Det døde kadaveret av et flodsvin.</Capybara_Corpse.description>
+
+    <Chinchilla.label>chinchilla</Chinchilla.label>
+    <Chinchilla.description>En liten, men rask gnager, berømt for sin eksepsjonelt myke pels.</Chinchilla.description>
+    <Chinchilla_Leather.label>Chinchillapels</Chinchilla_Leather.label>
+    <Chinchilla_Leather.description>Pels fra en chinchilla, kanskje den mykeste pelsen i dyreriket.</Chinchilla_Leather.description>
+    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapels</Chinchilla_Leather.stuffProps.stuffAdjective>
+    <Chinchilla_Meat.label>chinchillakjøtt</Chinchilla_Meat.label>
+    <Chinchilla_Meat.description>Rått kjøtt fra en chinchilla.</Chinchilla_Meat.description>
+    <Chinchilla_Corpse.label>chinchillakropp</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>Det døde kadaveret av en chinchilla.</Chinchilla_Corpse.description>
+
+	<Boomrat.label>pangrotte</Boomrat.label>
+    <Boomrat.description>Enten som et resultat av bevisst manipulasjon i våpenøyemed, eller som en uvanlig forsvarsmekanisme, lager disse gnageraktige skapningene en eksplosjon når de dør.</Boomrat.description>
+    <Boomrat_Leather.label>pangrottelær</Boomrat_Leather.label>
+    <Boomrat_Leather.description>Garvet lær lagd av huden fra en pangrotte.</Boomrat_Leather.description>
+    <Boomrat_Leather.stuffProps.stuffAdjective>pangrottelær</Boomrat_Leather.stuffProps.stuffAdjective>
+    <Boomrat_Meat.label>pangrottekjøtt</Boomrat_Meat.label>
+    <Boomrat_Meat.description>Rått kjøtt fra et pangrotte.</Boomrat_Meat.description>
+    <Boomrat_Corpse.label>pangrottekadaver</Boomrat_Corpse.label>
+    <Boomrat_Corpse.description>Det døde kadaveret av en pangrotte.</Boomrat_Corpse.description>
+  
+  
+  <Raccoon.label>Vaskebjørn</Raccoon.label>
+  <Raccoon.description>Et lite hardført dyr, som lever i skog og krattskog. Spiser nesten hva som helst.</Raccoon.description>
+  <Raccoon_Leather.label>vaskebjørnpels</Raccoon_Leather.label>
+  <Raccoon_Leather.description>Pelsen fra en vaskebjørn.</Raccoon_Leather.description>
+  <Raccoon_Leather.stuffProps.stuffAdjective>vaskebjørnpels</Raccoon_Leather.stuffProps.stuffAdjective>
+  <Raccoon_Meat.label>vaskebjørnkjøtt</Raccoon_Meat.label>
+  <Raccoon_Meat.description>Rått kjøtt fra en vaskebjørn.</Raccoon_Meat.description>
+  <Raccoon_Corpse.label>vaskebjørnkadaver</Raccoon_Corpse.label>
+  <Raccoon_Corpse.description>Det døde kadaveret av en vaskebjørn.</Raccoon_Corpse.description>
+
+  <Rat.label>rotte</Rat.label>
+  <Rat.description>En gnager kjent for å skitne til kjøkken og spre sykdom. Spiser nesten hva som helst og bor nesten hvor som helst.</Rat.description>
+  <Rat_Leather.label>rottepels</Rat_Leather.label>
+  <Rat_Leather.description>Pelsen fra ei rotte.</Rat_Leather.description>
+  <Rat_Leather.stuffProps.stuffAdjective>rottepels</Rat_Leather.stuffProps.stuffAdjective>
+  <Rat_Meat.label>rottekjøtt</Rat_Meat.label>
+  <Rat_Meat.description>Rått kjøtt fra ei rotte.</Rat_Meat.description>
+  <Rat_Corpse.label>Rottekadaver</Rat_Corpse.label>
+  <Rat_Corpse.description>Det døde kadaveret av ei rotte.</Rat_Corpse.description>
+
+</LanguageData>

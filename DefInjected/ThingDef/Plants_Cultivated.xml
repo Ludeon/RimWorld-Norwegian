@@ -2,36 +2,36 @@
 <LanguageData>
     
     <PlantPotato.label>Potetplante</PlantPotato.label>
-    <PlantPotato.description>En simpel plante, med høy næringsværdi. Gror godt, selv i dårlig jord.</PlantPotato.description>
+    <PlantPotato.description>En enkel plante, med høy næringsværdi. Gror godt selv i dårlig jord.</PlantPotato.description>
     
-    <PlantCorn.label>corn plant</PlantCorn.label>
-    <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
+    <PlantCorn.label>maisplante</PlantCorn.label>
+    <PlantCorn.description>En stor kornplante som får kolber med nydelige gule frø. Tar lang tid å gro, men gir mye mat, er svært holdbar, og kan spises rå uten problemer. Trenger fruktbar jord for å gro godt.</PlantCorn.description>
     
-    <PlantRice.label>rice plant</PlantRice.label>
-    <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
+    <PlantRice.label>risplante</PlantRice.label>
+    <PlantRice.description>En lav kornplante som trives i fruktbar jord og gror hurtig, men ikke er god å spise ukokt.</PlantRice.description>
     
-    <PlantHaygrass.label>haygrass</PlantHaygrass.label>
-    <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
+    <PlantHaygrass.label>beitegress</PlantHaygrass.label>
+    <PlantHaygrass.description>En miks av næringsrike gressorter som gir store mengder høy. Høy er spiselig for dyr, men ikke for mennesker.</PlantHaygrass.description>
     
     <PlantStrawberry.label>jordbærplante</PlantStrawberry.label>
-    <PlantStrawberry.description>En skrøpelig men legger frukt. Lekker selv når den er rå.</PlantStrawberry.description>
+    <PlantStrawberry.description>En sårbar plante som gir lekker frukt. Jordbær smaker godt selv når de er rå.</PlantStrawberry.description>
     
     <PlantCotton.label>bomullsplante</PlantCotton.label>
-    <PlantCotton.description>Gir bomull, en fin plantefiber som bruges til å lage stoff.</PlantCotton.description>
+    <PlantCotton.description>Gir bomull, en anvendbar plantefiber som brukes til å lage stoff.</PlantCotton.description>
     
-    <PlantDevilstrand.label>djevelstrå</PlantDevilstrand.label>
-    <PlantDevilstrand.description>Denne sårbare soppen er genetisk utformet til å produsere silke av den høyeste kvalitet. Ryktes å ha mystiske egenskaper. Den skylder sitt navn til grådigheten som planten inspirerer i folk som produserer den.</PlantDevilstrand.description>
+    <PlantDevilstrand.label>djevelstrand</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Denne sårbare soppen er genetisk utformet til å produsere et silkenett av høyeste kvalitet. Ryktes å ha mystiske egenskaper og har fått navnet sitt fra grådigheten som planten sies å få fram i folk.</PlantDevilstrand.description>
     
-    <PlantHealroot.label>healroot</PlantHealroot.label>
-    <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+    <PlantHealroot.label>helbredsrot</PlantHealroot.label>
+    <PlantHealroot.description>En saktevoksende plante som gir urtemedisin når man høster den.\n\nHelbredsrot har vært avlet og odlet av bosettere i årevis. Den kalles "Helbrederens hånd" av enkelte stammefolk - et navn den har fått på grunn av sine fem kraftige medisinske virkninger.</PlantHealroot.description>
     
-    <PlantHops.label>hop plant</PlantHops.label>
-    <PlantHops.description>A flowering plant that yields hops, and essential ingredient in beer.</PlantHops.description>
+    <PlantHops.label>humle</PlantHops.label>
+    <PlantHops.description>En blomsterplante. Blomstene er en viktig ingrediens i øl.</PlantHops.description>
     
     <PlantRose.label>rose</PlantRose.label>
-    <PlantRose.description>En skjønn kultivert blomst.</PlantRose.description>
+    <PlantRose.description>En vakker, kultivert blomst.</PlantRose.description>
     
     <PlantDaylily.label>daglilje</PlantDaylily.label>
-    <PlantDaylily.description>En søt kultivert blomst.</PlantDaylily.description>
+    <PlantDaylily.description>En pen, kultivert blomst.</PlantDaylily.description>
     
 </LanguageData>

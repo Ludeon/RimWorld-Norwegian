@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Elephant.label>elefant</Elephant.label>
+    <Elephant.description>Det største ikke-modifiserte landdyret. Den kan bruke sin støttenner som redskaper for å flytte ting - eller som dødelige våpen.</Elephant.description>
+    <Elephant_Leather.label>elefantlær</Elephant_Leather.label>
+    <Elephant_Leather.description>Lær laget av huden fra en elefant</Elephant_Leather.description>
+    <Elephant_Leather.stuffProps.stuffAdjective>elefantlær</Elephant_Leather.stuffProps.stuffAdjective>
+    <Elephant_Meat.label>elefantkjøtt</Elephant_Meat.label>
+    <Elephant_Meat.description>Rått kjøtt fra en elefant.</Elephant_Meat.description>
+    <Elephant_Corpse.label>elefantkadaver</Elephant_Corpse.label>
+    <Elephant_Corpse.description>Det døde kadaveret av en elefant.</Elephant_Corpse.description>
+
+  <Megasloth.label>kjempedovendyr</Megasloth.label>
+  <Megasloth.description>Megatheria er et slag dovendyr. De er kjempestore, alenelevende og planteetere. De var lenge utdødd, etter å ha blitt utryddet av urinnvånerne på Jordens Amerikakontinent, men ble brakt tilbake ved hjelp av avansert kloning og kunstig befruktning.</Megasloth.description>
+  <Megasloth_Leather.label>dovendyrpels</Megasloth_Leather.label>
+  <Megasloth_Leather.description>Pelsen fra et dovendyr.</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>Dovendyrpels</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>dovendyrkjøtt</Megasloth_Meat.label>
+  <Megasloth_Meat.description>Kjøttet fra et kjempedovendyr.</Megasloth_Meat.description>
+  <Megasloth_Corpse.label>dovendyrkadaver</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>Kadaveret til et kjempedovendyr.</Megasloth_Corpse.description>
+  
+    <Thrumbo.label>thrumbo</Thrumbo.label>
+    <Thrumbo.description>En gigantisk skapning av ukjent opphav. Thrumboen er godlynt av natur, men ekstremt farlig om man provoserer den. Dens lange pels er eksepsjonelt vakker og verdifull, og dens sylskarpe horn er svært kostbart i de fleste markeder. Legender sier at en gammel thrumbo er den klokeste skapningen i hele universet - den velger å simpelten ikke si noe.</Thrumbo.description>
+    <Thrumbo_Leather.label>thrumbopels</Thrumbo_Leather.label>
+    <Thrumbo_Leather.description>Pelsen av en thrumbo, mykgjort og preparert.</Thrumbo_Leather.description>
+    <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopels</Thrumbo_Leather.stuffProps.stuffAdjective>
+    <Thrumbo_Meat.label>thrumbokjøtt</Thrumbo_Meat.label>
+    <Thrumbo_Meat.description>Rått kjøtt fra en thrumbo.</Thrumbo_Meat.description>
+    <Thrumbo_Corpse.label>thrumbokadaver</Thrumbo_Corpse.label>
+    <Thrumbo_Corpse.description>Det døde kadaveret av en thrumbo.</Thrumbo_Corpse.description>
+
+</LanguageData>

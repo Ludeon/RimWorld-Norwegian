@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <UnfinishedSculpture.label>Unfinished sculpture</UnfinishedSculpture.label>
+    <UnfinishedSculpture.label>Uferdig skulptur</UnfinishedSculpture.label>
     
-    <UnfinishedGun.label>Unfinished gun</UnfinishedGun.label>
+    <UnfinishedGun.label>Uferdig skytevåpen</UnfinishedGun.label>
     
-    <UnfinishedWeapon.label>Unfinished weapon</UnfinishedWeapon.label>
+    <UnfinishedWeapon.label>Uferdig våpen</UnfinishedWeapon.label>
     
-    <UnfinishedTechArmor.label>Unfinished armor</UnfinishedTechArmor.label>
+    <UnfinishedTechArmor.label>Uferdig rustning</UnfinishedTechArmor.label>
     
-    <UnfinishedApparel.label>Unfinished apparel</UnfinishedApparel.label>
+    <UnfinishedApparel.label>Uferdig klesplagg</UnfinishedApparel.label>
     
-    <MinifiedSculpture.label>Sculpture</MinifiedSculpture.label>
+    <MinifiedSculpture.label>Skulptur</MinifiedSculpture.label>
     
-    <MinifiedFurniture.label>Furniture</MinifiedFurniture.label>
+    <MinifiedFurniture.label>Møbel</MinifiedFurniture.label>
     
 </LanguageData>
