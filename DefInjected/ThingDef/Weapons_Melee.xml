@@ -4,13 +4,13 @@
     <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
     <MeleeWeapon_Gladius.description>Et kortsverd i antikk design. Velegnet til å stikke og kutte.</MeleeWeapon_Gladius.description>
     
-    <MeleeWeapon_LongSword.label>longsword</MeleeWeapon_LongSword.label>
+    <MeleeWeapon_LongSword.label>langsverd</MeleeWeapon_LongSword.label>
     <MeleeWeapon_LongSword.description>Det antikke kongsvåpenet langsverd kan både stikke og kutte. Det er dødelig i de rette hendene.</MeleeWeapon_LongSword.description>
     
     <MeleeWeapon_Knife.label>kniv</MeleeWeapon_Knife.label>
     <MeleeWeapon_Knife.description>Som en av menneskehetens eldste verktøy, er kniven både et redskap til hverdags og et dødelig våpen.</MeleeWeapon_Knife.description>
     
-    <MeleeWeapon_Shiv.label>dolk</MeleeWeapon_Shiv.label>
+    <MeleeWeapon_Shiv.label>skrapdolk</MeleeWeapon_Shiv.label>
     <MeleeWeapon_Shiv.description>Et improvisert, knivlignende våpen.</MeleeWeapon_Shiv.description>
     
     <MeleeWeapon_Spear.label>spyd</MeleeWeapon_Spear.label>

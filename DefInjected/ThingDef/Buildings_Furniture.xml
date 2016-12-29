@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <SleepingSpot.label>sovested</SleepingSpot.label>
-    <SleepingSpot.description>Angir et område hvor folk skal sove. Ikke komfortabelt. Søvneffektivitet: 7/10</SleepingSpot.description>
+    <SleepingSpot.label>soveplass</SleepingSpot.label>
+    <SleepingSpot.description>Angir et sted hvor folk kan sove. Ikke særlig komfortabelt.</SleepingSpot.description>
     
     <Bed.label>seng</Bed.label>
-    <Bed.description>En behagelig madrass med laken på en sengeramme til å sove på. Søvneffektivitet: 10/10</Bed.description>
+    <Bed.description>Sengeramme med en behagelig madrass til å sove på.</Bed.description>
     
-    <DoubleBed.label>double bed</DoubleBed.label>
-    <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
+    <DoubleBed.label>dobbeltseng</DoubleBed.label>
+    <DoubleBed.description>En vanlig seng i dobbel bredde som har plass til to personer.</DoubleBed.description>
     
-    <RoyalBed.label>dobbeltseng</RoyalBed.label>
-    <RoyalBed.description>En luksusseng, av en kongelig verdi.</RoyalBed.description>
+    <RoyalBed.label>kongelig seng</RoyalBed.label>
+    <RoyalBed.description>En luksusseng av kongelig kvalitet.</RoyalBed.description>
     
     <HospitalBed.label>sykeseng</HospitalBed.label>
-    <HospitalBed.description>En seng spesielt designet for syke eller skadde mennesker. Forbedrer sjansen for suksessfullt medisinskt arbeid.</HospitalBed.description>
+    <HospitalBed.description>En seng spesielt designet for syke og skadde mennesker. Forbedrer sjansen for å lykkes med medisinsk arbeid.</HospitalBed.description>
     
-    <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
-    <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+    <AnimalSleepingSpot.label>dyresoveplass</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Angir et sted på bakken hvor dyr kan sove.</AnimalSleepingSpot.description>
     
-    <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
-    <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+    <AnimalSleepingBox.label>dyresovekasse</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>En liten boks for dyr til å sove i. Passer mindre dyr, som høner, katter og små hunder.</AnimalSleepingBox.description>
     
-    <AnimalBed.label>animal bed</AnimalBed.label>
-    <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+    <AnimalBed.label>dyreseng</AnimalBed.label>
+    <AnimalBed.description>En myk seng for dyr til å sove på. Passer ethvert dyr.</AnimalBed.description>
     
     <Stool.label>krakk</Stool.label>
-    <Stool.description>Folk sitter her.</Stool.description>
+    <Stool.description>Til å sitte på.</Stool.description>
     
-    <DiningChair.label>dining chair</DiningChair.label>
-    <DiningChair.description>A comfortable and attractive chair for sitting at a table.</DiningChair.description>
+    <DiningChair.label>stol</DiningChair.label>
+    <DiningChair.description>En komfortabel og pen stol, til å sitte ved bordet med.</DiningChair.description>
     
-    <Armchair.label>armchair</Armchair.label>
-    <Armchair.description>A large, soft, comfy seat. Great for relaxation.</Armchair.description>
+    <Armchair.label>lenestol</Armchair.label>
+    <Armchair.description>En stor, myk og komfortabel stol. Super til å slappe av i.</Armchair.description>
     
     <TableShort.label>bord (kort)</TableShort.label>
-    <TableShort.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableShort.description>
+    <TableShort.description>Folk spiser ved bordene, så lenge det er stoler plassert ved dem.</TableShort.description>
     
     <TableLong.label>bord (langt)</TableLong.label>
-    <TableLong.description>Folk spiser ved bordene, når det er stoler plassert ved dem.</TableLong.description>
+    <TableLong.description>Folk spiser ved bordene, så lenge det er stoler plassert ved dem.</TableLong.description>
     
-    <PlantPot.label>potteplante</PlantPot.label>
-    <PlantPot.description>Plant dekorative blomster her for å forbedre humøret til personer i nærheten.</PlantPot.description>
+    <PlantPot.label>potte</PlantPot.label>
+    <PlantPot.description>Plant dekorative blomster her for å live opp stemningen i rommet.</PlantPot.description>
     
     <StandingLamp.label>stålampe</StandingLamp.label>
     <StandingLamp.description>Stålampe som lyser opp et område.</StandingLamp.description>
@@ -50,12 +50,12 @@
     <StandingLamp_Red.description>Stålampe som lyser opp et område i rødt.</StandingLamp_Red.description>
     
     <StandingLamp_Green.label>stålampe (grønn)</StandingLamp_Green.label>
-    <StandingLamp_Green.description>Stålampe som lyser opp et område i grønnt.</StandingLamp_Green.description>
+    <StandingLamp_Green.description>Stålampe som lyser opp et område i grønt.</StandingLamp_Green.description>
     
     <StandingLamp_Blue.label>stålampe (blå)</StandingLamp_Blue.label>
     <StandingLamp_Blue.description>Stålampe som lyser opp et område i blått.</StandingLamp_Blue.description>
     
     <EquipmentRack.label>Utstyrsstativ</EquipmentRack.label>
-    <EquipmentRack.description>Bærere bærer våpen og redskaper bort hit til oppbevaring.</EquipmentRack.description>
+    <EquipmentRack.description>Våpen og redskaper kan bæres hit for oppbevaring.</EquipmentRack.description>
     
 </LanguageData>
