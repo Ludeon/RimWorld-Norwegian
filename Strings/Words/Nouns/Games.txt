@@ -1,0 +1,9 @@
+﻿poker
+sjakk
+backgammon
+terninger
+kort
+rulett
+blackjack
+bridge
+president
