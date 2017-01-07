@@ -1,0 +1,17 @@
+﻿nord
+nordøst
+øst
+sørøst
+sør
+sørvest
+vest
+nordvest
+
+nordlig
+nordøstlig
+østlig
+sørøstlig
+sørlig
+sørvestlig
+vestlig
+nordvestlig
