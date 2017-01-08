@@ -1,59 +1,79 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
-  <ManualPriorities>Manuelle prioriteter</ManualPriorities>
-  <HigherPriority>høyere prioritet </HigherPriority>
-  <LowerPriority>lavere prioritet</LowerPriority>
-  <RelevantSkills>Relevante ferdigheter: {0}\Gjennomsnitt av relevante ferdigheter: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Klikk for å hoppe til:</ClickToJumpTo>
-  <CannotDoThisWork>{0} Kan ikke utføre denne typen arbeid.</CannotDoThisWork>
-  <NoneBrackets>(ingen)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>Denne kolonisten er ikke i stand til å utføre noe arbeid av denne typen grunnet helsetilstand.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>N</EmergencyWorkMarker>
-  
-  
-  <CurrentOutfit>Nåværende antrekk</CurrentOutfit>
-  <ManageOutfits>Endre antrekk</ManageOutfits>
-  <ClearForcedApparel>Fjern tvunget</ClearForcedApparel>
-  <ApparelForcedLower>tvunget</ApparelForcedLower>
-  <ForcedApparel>Tving antrekk</ForcedApparel>
-  <OutfitEdit>Rediger ...</OutfitEdit>
-  
-  
-  <Copy>Kopier</Copy>
-  <Paste>Lim inn</Paste>
-  <AllowedArea>Tillatt område</AllowedArea>
-  
-  
-  <Master>Mester</Master>
-  <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
-  
-  
-  <Hostile>Fiendtlig</Hostile>
-  <HostileTo>Fiende av {0}</HostileTo>
-  <CurrentGoodwill>Nåværende godvilje mot denne faksjonen.</CurrentGoodwill>
-  
-  
-  <Playtime>Spilletid</Playtime>
-  <Storyteller>Forteller</Storyteller>
-  <ColonyWealthTotal>Kolonirikdom</ColonyWealthTotal>
-  <ColonyWealthItems>Kolonirikdom (ting)</ColonyWealthItems>
-  <ColonyWealthBuildings>Kolonirikdom (bygninger)</ColonyWealthBuildings>
-  <NumThreatBigs>Store trusler</NumThreatBigs>
-  <NumEnemyRaids>Fiendeangrep</NumEnemyRaids>
-  <DamageTaken>Skade påført</DamageTaken>
-  <ColonistsKilled>Kolonist drept</ColonistsKilled>
-  <ColonistsLaunched>Kolonister sendt ut i verdensrommet</ColonistsLaunched>
+  <!-- Work tab -->
+  <ManualPriorities>Manual priorities</ManualPriorities>
+  <HigherPriority>higher priority</HigherPriority>
+  <LowerPriority>lower priority</LowerPriority>
+  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
+  <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
+  <NoneBrackets>(none)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
 
-  
-  <SelectGraph>Velg graf</SelectGraph>
-  <Last30Days>Siste 30 dager</Last30Days>
-  <Last100Days>Siste 100 dager</Last100Days>
-  <Last300Days>Siste 300 dager</Last300Days>
-  <AllDays>Alle</AllDays>
-  <Day>Dager</Day>
-  <Value>Verdi</Value>
-  <External>Ekstern</External>
-  
+  <!-- Assign tab -->
+  <CurrentOutfit>Current outfit</CurrentOutfit>
+  <ManageOutfits>Manage outfits</ManageOutfits>
+  <ClearForcedApparel>Clear forced</ClearForcedApparel>
+  <ApparelForcedLower>forced</ApparelForcedLower>
+  <ForcedApparel>Forced apparel</ForcedApparel>
+  <AssignTabEdit>Edit...</AssignTabEdit>
+  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
+  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+
+  <!-- Restrictions tab -->
+  <Copy>Copy</Copy>
+  <Paste>Paste</Paste>
+  <AllowedArea>Allowed area</AllowedArea>
+
+  <!-- Animals tab -->
+  <Master>Master</Master>
+  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
+  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
+
+  <!-- Factions tab -->
+  <Hostile>Hostile</Hostile>
+  <DefeatedLower>defeated</DefeatedLower>
+  <HostileTo>Enemy of {0}</HostileTo>
+  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+
+  <!-- Social tab -->
+  <Friend>Friend</Friend>
+  <Rival>Rival</Rival>
+  <Acquaintance>Acquaintance</Acquaintance>
+
+  <!-- History tab - subtabs -->
+  <Graph>Graph</Graph>
+  <Statistics>Statistics</Statistics>
+
+  <!-- History tab - Graphs -->
+  <SelectGraph>Select graph</SelectGraph>
+  <Last30Days>Last 30 days</Last30Days>
+  <Last100Days>Last 100 days</Last100Days>
+  <Last300Days>Last 300 days</Last300Days>
+  <AllDays>All</AllDays>
+  <Day>Day</Day>
+  <Value>Value</Value>
+  <External>External</External>
+
+  <!-- History tab - Statistics -->
+  <Playtime>Play time</Playtime>
+  <Storyteller>Storyteller</Storyteller>
+  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Major threats</NumThreatBigs>
+  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
+  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <ColonistsKilled>Colonists killed</ColonistsKilled>
+  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <ProjectTechLevel>project tech level</ProjectTechLevel>
+  <YourTechLevel>your tech level</YourTechLevel>
+  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+
 </LanguageData>
