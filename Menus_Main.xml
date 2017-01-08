@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2017 sp2 (x64) (http://www.altova.com) by Eivind Olsnes (Eivind Olsnes DY) -->
+<LanguageData>
+	<!--========= Hovedmeny =========-->
+	<Tutorial>Lær å spille</Tutorial>
+	<NewColony>Start ny koloni</NewColony>
+	<BackToGame>Tilbake til spillet</BackToGame>
+	<ReviewScenario>Scenariotekst</ReviewScenario>
+	<Save>Lagre</Save>
+	<LoadGame>Last inn tidligere koloni</LoadGame>
+	<Options>Innstillinger</Options>
+	<Mods>Modder</Mods>
+	<Credits>Rulletekst</Credits>
+	<QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
+	<SaveAndQuitToMainMenu>Lagre og avslutt til hovedmeny</SaveAndQuitToMainMenu>
+	<QuitToOS>Avslutt spillet</QuitToOS>
+	<SaveAndQuitToOS>Lagre og avslutt spillet</SaveAndQuitToOS>
+	<FictionPrimer>Spillets "virkelighet"</FictionPrimer>
+	<LudeonBlog>LudeonBlog</LudeonBlog>
+	<Forums>Forum</Forums>
+	<OfficialWiki>Offisiell wiki</OfficialWiki>
+	<TynansTwitter>Tynan's twitter</TynansTwitter>
+	<TynansDesignBook>Tynan's designbok</TynansDesignBook>
+	<HelpTranslate>Hjelp med å oversette RimWorld</HelpTranslate>
+	<BuySoundtrack>Kjøp musikken</BuySoundtrack>
+	<CreateWorld>Skap ny verden</CreateWorld>
+	<!--=========== Create/review world ================-->
+	<ReviewWorld>Verdensparametere</ReviewWorld>
+	<WorldGenerate>Generer!</WorldGenerate>
+	<WorldSaveAndFinish>Lagre og fortsett</WorldSaveAndFinish>
+	<Reset>Tilbakestill</Reset>
+	<PlanetCoverage>Globe coverage</PlanetCoverage>
+	<PlanetRainfall>Overall rainfall</PlanetRainfall>
+	<PlanetTemperature>Overall temperature</PlanetTemperature>
+	<PlanetRainfall_Low>Low</PlanetRainfall_Low>
+	<PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+	<PlanetRainfall_High>High</PlanetRainfall_High>
+	<PlanetTemperature_Low>Low</PlanetTemperature_Low>
+	<PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+	<PlanetTemperature_High>High</PlanetTemperature_High>
+	<WorldSeed>Frø</WorldSeed>
+	<RandomizeSeed>Tilfeldig frø</RandomizeSeed>
+	<PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+	<!--===========Velg verden ===================-->
+	<SelectWorld>Velg Verden</SelectWorld>
+	<WorldChooseButton>Velg</WorldChooseButton>
+	<NoWorldsFilesFound>Ingen verden funnet, lag en verden først.</NoWorldsFilesFound>
+	<!--=========== Version info ==========-->
+	<BuildNowAvailable>Versjon {0} er nå tilgjengelig. Sjekk ludeon.com for mer info.</BuildNowAvailable>
+	<BuildUpToDate>Dette er nyeste versjon.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Error, klarte ikke å hente versjonsinformasjon: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Laster inn info om versjon...</LoadingVersionInfo>
+	<!--=========== World generator =========-->
+	<GenerateWorld>Generer verden</GenerateWorld>
+	<!--=========== Mods config ==========-->
+	<OpenSteamWorkshop>Åpne Steam Workshop</OpenSteamWorkshop>
+	<GetModsFromForum>Få modder fra forum</GetModsFromForum>
+	<OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
+	<ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemodifikasjonen? Spillet vil ikke fungere i det hele tatt hvis du ikke har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i kjernemodifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
+	<ConfirmDeleteMod>Er du sikker på at du vil slette alt innhold for {0}?</ConfirmDeleteMod>
+	<Unsubscribe>Avslutt abonnement</Unsubscribe>
+	<ConfirmUnsubscribe>Er du sikker på at du vil avslutte abonnementet på {0}?</ConfirmUnsubscribe>
+	<Author>Skaper</Author>
+	<WorkshopPage>Workshop side</WorkshopPage>
+	<UploadToSteamWorkshop>Last opp til Steam Workshop</UploadToSteamWorkshop>
+	<UpdateOnSteamWorkshop>Oppdater på Steam Workshop</UpdateOnSteamWorkshop>
+	<UploadAlreadyInProgress>Opplastning pågår allerede.</UploadAlreadyInProgress>
+	<WorkshopSubmissionFailed>Workshop oppdatering feilet.\n\nReason: {0}</WorkshopSubmissionFailed>
+	<WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+	<Downloading>Laster ned {0}</Downloading>
+	<Source>Kilde</Source>
+	<ModTargetVersion>For version: {0}</ModTargetVersion>
+	<ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+	<MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+	<DragToReorder>Drag to reorder</DragToReorder>
+	<!--=========== Select scenario =============-->
+	<ChooseScenario>Choose scenario</ChooseScenario>
+	<ScenariosCustom>Custom</ScenariosCustom>
+	<ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+	<ScenarioEditor>Scenario editor</ScenarioEditor>
+	<Delete>Delete</Delete>
+	<!--============ Scenario editor ===============-->
+	<Seed>seed</Seed>
+	<Load>Load</Load>
+	<EditMode>edit mode</EditMode>
+	<Summary>Summary</Summary>
+	<AddPart>Add part</AddPart>
+	<TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+	<ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+	<ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+	<Incompatible>Incompatible</Incompatible>
+	<TooMany>Too many (max {0}): </TooMany>
+	<CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+	<!--=========== Select storyteller ==========-->
+	<ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
+	<HowStorytellersWork>AI historiefortelleren skaper hendelser som piratplyndringer, ressursforsyninger eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
+	<MustChooseDifficulty>Velg vansklighetsgrad.</MustChooseDifficulty>
+	<Difficulty>Vansklighetsgrad</Difficulty>
+	<!--=========== Landing site select =========-->
+	<SelectLandingSite>Velg landingsområde</SelectLandingSite>
+	<SelectRandomSite>Select random site</SelectRandomSite>
+	<SelectSite>Velg område</SelectSite>
+	<MustSelectLandingSite>Vennligst velg et landingsområde.</MustSelectLandingSite>
+	<CannotLandBiome>Du kan ikke lande i denne biomen: {0}</CannotLandBiome>
+	<BiomeNotImplemented>Biome ikke implementert</BiomeNotImplemented>
+	<CannotLandImpassableMountains>Du kan ikke lande på uoverstigelige fjell.</CannotLandImpassableMountains>
+	<BaseAlreadyThere>{0} har allerede en base her.</BaseAlreadyThere>
+	<Biome>Biome</Biome>
+	<Terrain>Terreng</Terrain>
+	<Elevation>Høyde</Elevation>
+	<Fertility>Fruktbarhet</Fertility>
+	<AvgTemp>Gjennomsnittlig Temperatur</AvgTemp>
+	  <AvgSummerTemp>Gjennomsnittstemperatur, sommer</AvgSummerTemp>
+  <AvgWinterTemp>Gjennomsnittstemperatur, vinter</AvgWinterTemp>
+	<Rainfall>Nedbør</Rainfall>
+	<HasCoast0>Nordlig kyst</HasCoast0>
+	<HasCoast1>Østlig kyst</HasCoast1>
+	<HasCoast2>Sørlig kyst</HasCoast2>
+	<HasCoast3>Vestlig kyst</HasCoast3>
+	<FactionBase>Partens base</FactionBase>
+	<StoneTypesHere>Steinarter</StoneTypesHere>
+	<TimeZone>Time zone</TimeZone>
+	<MovementTimeNow>Current movement time</MovementTimeNow>
+	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
+	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+	<!--=========== Character chooser ==========-->
+	<CreateCharacters>Lag karakterer</CreateCharacters>
+	<FirstNameDesc>Karakterens fornavn.\n\nDette blir bare vist i visse vinduer.</FirstNameDesc>
+	<ShortIdentifierDesc>Karakterens forkortede identifikator.\n\nDette blir vist i de fleste sammenhenger. Det kan være fornavnet og etternavnet, eller et helt separat kallenavn.</ShortIdentifierDesc>
+	<LastNameDesc>Karakterens etternavn.\n\nDette blir bare vist i visse vinduer.</LastNameDesc>
+	<Randomize>Tilfeldig</Randomize>
+	<AgeIndicator>Alder {0}</AgeIndicator>
+	<Backstory>Bakgrunn</Backstory>
+	<IncapableOf>Ute av stand til</IncapableOf>
+	<Traits>Trekk</Traits>
+	<PermanentMoodEffect>Permanent effekt på humør</PermanentMoodEffect>
+	<Skills>Ferdigheter</Skills>
+	<NoneLower>ingen</NoneLower>
+	<Adulthood>Voksenliv</Adulthood>
+	<Childhood>Barndom</Childhood>
+	<Male>Mannlig</Male>
+	<Female>Kvinnelig</Female>
+	<Pain>Smerte</Pain>
+	<Health>Helse</Health>
+	<Relations>Relations</Relations>
+	<!--=========== Misc ==========-->
+	<Start>Start</Start>
+	<Advanced>Avansert</Advanced>
+	<Next>Neste</Next>
+	<Back>Tilbake</Back>
+	<Gameplay>Innstillinger</Gameplay>
+	<ConfirmQuit>Vil du virkelig avslutte? Du vil miste alt du ikke har lagret.</ConfirmQuit>
+	<EveryoneNeedsValidName>Hver person trenger et gyldig navn.</EveryoneNeedsValidName>
+	<Quit>Avslutt</Quit>
+	<Ignore>Ignorer</Ignore>
+	<!--============ Progress bar==============-->
+	<GeneratingWorld>Generer verden...</GeneratingWorld>
+	<GeneratingMap>Generer kart...</GeneratingMap>
+	<GeneratingMapForNewEncounter>Genererer kart for nytt møte.</GeneratingMapForNewEncounter>
+</LanguageData>

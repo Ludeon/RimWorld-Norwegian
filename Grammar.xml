@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle>en</IndefiniteArticle>
+  <DefiniteArticle>de</DefiniteArticle>
+  <IndefiniteForm>en {0}</IndefiniteForm>
+  <DefiniteForm>den {0}</DefiniteForm>
+
+  <Proits>dens</Proits>
+  <Prohis>hans</Prohis>
+  <Proher>hennes</Proher>
+  <ProitsCap>Dens</ProitsCap>
+  <ProhisCap>Hans</ProhisCap>
+  <ProherCap>Hennes</ProherCap>
+
+  <ProitObj>det</ProitObj>
+  <ProhimObj>han</ProhimObj>
+  <ProherObj>henne</ProherObj>
+  <ProitObjCap>Det</ProitObjCap>
+  <ProhimObjCap>Han</ProhimObjCap>
+  <ProherObjCap>Henne</ProherObjCap>
+
+  <Prohe>han</Prohe>
+  <Proshe>hun</Proshe>
+  <Proit>det</Proit>
+  <ProheCap>Han</ProheCap>
+  <ProsheCap>Hun</ProsheCap>
+  <ProitCap>Det</ProitCap>
+
+</LanguageData>

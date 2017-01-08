@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Lagre</SaveButton>
+  
+  <ClearBinding>Fjern</ClearBinding>
+  <ResetBinding>Tilbakestill til standard</ResetBinding>
+  <BindingButtonToolTip>Venstreklikk for å binde denne tasten eller høyreklikk for alternativer</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Trykk en vilkårlig tast eller Escape for å avbryte ...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Hurtigtast overskrevet: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Autolagring</Autosaving>
+  
+  <GameStartDialog>De tre av dere våkner opp i deres kryptosøvn sarkofager til lyden av sirener og skjærende metall, Dere kommer så vidt til livredningskapslene før skipet blir revet fra hverandre.\n\nLitt senere lander dere på denne ukjente rimverdenen.\n\nMens deler av det opprevne romskipet faller rundt dere, begynner dere å lage planer for å kunne overleve.</GameStartDialog>
+
+  <Colony>Koloni</Colony>
+  
+  <ChangeLanguageFromMainMenu>Du kan bare endre språk via hovedmenyen.</ChangeLanguageFromMainMenu>
+
+  <AndLower>og</AndLower>
+  <DisabledLower>deaktivert</DisabledLower>
+
+  <VersionIndicator>Versjon {0}</VersionIndicator>
+  <DevelopmentBuildLower>utviklingsutgave</DevelopmentBuildLower>
+  <CompiledOn>Kompilert {0}</CompiledOn>
+  <LoggedIntoSteamAs>Logget på Steam som {0}</LoggedIntoSteamAs>
+
+   <!-- General-use words -->
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>chance</chance>
+  <context>context</context>
+  <multiplier>multiplier</multiplier>
+  <damage>damage</damage>
+  <radius>radius</radius>
+  <durationDays>duration (days)</durationDays>
+  <intervalDays>interval (days)</intervalDays>
+  <repeat>repeat</repeat>
+  
+  
+  
+  
+	<MeatLabel>{0}kjøtt</MeatLabel>
+  <MeatDesc>Ferskt kjøtt av et {0}.</MeatDesc>
+
+  <LeatherLabel>{0}lær</LeatherLabel>
+  <LeatherDesc>Lær framstilt fra skinnet til et {0}.</LeatherDesc>
+
+  <CorpseLabel>{0}lik</CorpseLabel>
+	<CorpseDesc>Dødt lik av et {0}.</CorpseDesc>
+  <DeadLabel>{0} (død)</DeadLabel>
+
+  <RoughStoneTerrainLabel>grov {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Grov, naturlig {0} bakke.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>grov-hugget {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Grov-hugget naturlig {0} gulv.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>jevnt {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Jevnt naturlig {0} gulv.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (planlagt)</BlueprintLabelExtra>
+  <FrameLabelExtra> (bygning)</FrameLabelExtra>
+
+
+  
+  
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{0} sin {1}</SomeonesRoom>
+  <CouplesRoom>{0} og {1} sin {2}</CouplesRoom>
+  
+  <VariousLabel>(diverse)</VariousLabel>
+
+  
+  <ColonistDied>Kolonist døde</ColonistDied>
+  
+    <!-- Rotation -->
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
+  
+  
+  
+</LanguageData>
