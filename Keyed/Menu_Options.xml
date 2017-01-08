@@ -1,48 +1,47 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Lyd- og skjerm-innstillinger</Audiovisuals>
-  <GameVolume>Spillvolum</GameVolume>
-  <MusicVolume>Musikkvolum</MusicVolume>
+  <Audiovisuals>Audiovisuals</Audiovisuals>
+  <GameVolume>Game volume</GameVolume>
+  <MusicVolume>Music volume</MusicVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
-  
-  
-  
+
   <!-- Gameplay -->
-  <PauseOnUrgentLetter>Pause ved viktig brev</PauseOnUrgentLetter>
-  <PlantWindSway>Planter beveger seg ved vind</PlantWindSway>
-  <EdgeScreenScroll>Kantrulling</EdgeScreenScroll>
-  <PauseOnLoad>Pause ved start</PauseOnLoad>
-  <CustomCursor>Tilpasset markør</CustomCursor>
-  <KeyboardConfig>Tastaturoppsett</KeyboardConfig>
-  <ChooseLanguage>Velg språk</ChooseLanguage>
-  <AdaptiveTutor>Opplæringsassistent</AdaptiveTutor>
-  <ResetAdaptiveTutor>Nullstill opplæringsassistent</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Opplæringsassistent er nullstilt. Den vil nå lære deg fra bunnen av.</AdaptiveTutorIsReset>
-  <RunInBackground>Kjør i bakgrunnen</RunInBackground>
-  <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
-  <ResetModsConfigOnCrash>Automatisk tilbakestilling av mod'er ved feil.</ResetModsConfigOnCrash>
-  <LogVerbose>Utførlig logging</LogVerbose>
-  <OpenSaveGameDataFolder>Åpne lagringsdata mappen</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Etternavn av Navn I Spillet eller bakgrunnskarakter du har lyst til å se:</NamesYouWantToSee>
-  <ChangeStoryteller>Velg historieforteller</ChangeStoryteller>
-  <AutosaveInterval>Autolagringsvariabel</AutosaveInterval>
-  <TemperatureMode>Temperatur modus</TemperatureMode>
-  <ShowRealtimeClock>Vis faktisk klokke</ShowRealtimeClock>
-  <MaxPermadeathAutosaveIntervalInfo>Maksimum autolagringsperioder i permadeath modus er {0} dager.</MaxPermadeathAutosaveIntervalInfo>
-  
-  
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <PauseOnLoad>Pause on load</PauseOnLoad>
+  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
+  <CustomCursor>Custom cursor</CustomCursor>
+  <UIScale>UI scale</UIScale>
+  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
+  <ChooseLanguage>Choose language</ChooseLanguage>
+  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
+  <RunInBackground>Run in background</RunInBackground>
+  <DevelopmentMode>Development mode</DevelopmentMode>
+  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Names of player-created characters you want to see:</NamesYouWantToSee>
+  <AddName>Add name</AddName>
+  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
+  <AutosaveInterval>Autosave interval</AutosaveInterval>
+  <TemperatureMode>Temperature mode</TemperatureMode>
+  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+
   <!-- Resolution -->
-  <Resolution>Oppløsning</Resolution>
-  <Fullscreen>Fullskjerm</Fullscreen>
+  <Resolution>Resolution</Resolution>
+  <Fullscreen>Fullscreen</Fullscreen>
 
   <!-- Privacy-->
-  <Privacy>Personvern</Privacy>
-  <UserName>Brukernavn</UserName>
-  <ChooseHistoryUploadPref>Opplasting av spilldata.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Brukerens spilldata hjelper utviklere med å balansere spillet. Hvis du er enig, blir informasjonen din sendt hver {0} spilldager (Og I noen andre sjeldne tilfeller som ved slutten av spillet) til RimWorld serveren og blir deretter analysert. Opplastet spilldata består kun av statistikk og historie relatert til spillet - Ingen personlig informasjon blir sendt, bortsett ifra brukernavn, hvilket betyr at det er helt anonymt.</AboutHistoryUpload>
-  
-  
-  
+  <Privacy>Privacy</Privacy>
+  <UserName>User name</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+
 </LanguageData>
