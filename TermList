@@ -5,6 +5,7 @@ joy - fornøyelse
 chunk - klump
 block - kloss
 research - forskning
-Forbid - forby
-Unforbid - tillat
-Interact - arbeide
+forbid - forby
+unforbid - tillat
+interact - arbeide
+equip - utrust
