@@ -3,7 +3,7 @@
     
     <Body.label>kropp</Body.label>
     
-    <Beak.label>beak</Beak.label>
+    <Beak.label>nebb</Beak.label>
     
     <InsectHead.label>hode</InsectHead.label>
     
@@ -49,7 +49,7 @@
     
     <TurtleShell.label>skall</TurtleShell.label>
     
-    <Plastron.label>plastron</Plastron.label>
+    <Plastron.label>underside</Plastron.label>
     
     <TurtleBeak.label>nebb</TurtleBeak.label>
     
