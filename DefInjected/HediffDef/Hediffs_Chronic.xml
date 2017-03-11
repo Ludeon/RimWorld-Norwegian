@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BadBack.label>bad back</BadBack.label>
+    <BadBack.label>vond rygg</BadBack.label>
     
-    <Frail.label>frail</Frail.label>
+    <Frail.label>skjør</Frail.label>
     
-    <Cataract.label>cataract</Cataract.label>
+    <Cataract.label>grå stær</Cataract.label>
     
-    <HearingLoss.label>hearing loss</HearingLoss.label>
+    <HearingLoss.label>dårlig hørsel</HearingLoss.label>
     
-    <Dementia.label>dementia</Dementia.label>
+    <Dementia.label>demens</Dementia.label>
     
-    <Alzheimers.label>alzheimer's</Alzheimers.label>
-    <Alzheimers.stages.0.label>minor</Alzheimers.stages.0.label>
-    <Alzheimers.stages.1.label>minor</Alzheimers.stages.1.label>
-    <Alzheimers.stages.2.label>major</Alzheimers.stages.2.label>
-    <Alzheimers.stages.3.label>major</Alzheimers.stages.3.label>
+    <Alzheimers.label>alzheimers</Alzheimers.label>
+    <Alzheimers.stages.0.label>ufarlig</Alzheimers.stages.0.label>
+    <Alzheimers.stages.1.label>begynnende</Alzheimers.stages.1.label>
+    <Alzheimers.stages.2.label>skummel</Alzheimers.stages.2.label>
+    <Alzheimers.stages.3.label>alvorlig</Alzheimers.stages.3.label>
     
-    <Asthma.label>asthma</Asthma.label>
-    <Asthma.stages.0.label>minor</Asthma.stages.0.label>
-    <Asthma.stages.1.label>major</Asthma.stages.1.label>
-    <Asthma.stages.2.label>major</Asthma.stages.2.label>
+    <Asthma.label>astma</Asthma.label>
+    <Asthma.stages.0.label>ufarlig</Asthma.stages.0.label>
+    <Asthma.stages.1.label>skummel</Asthma.stages.1.label>
+    <Asthma.stages.2.label>alvorlig</Asthma.stages.2.label>
     
-    <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
-    <HeartArteryBlockage.stages.0.label>minor</HeartArteryBlockage.stages.0.label>
-    <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>
-    <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
-    <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
-    <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
-    <HeartArteryBlockage.stages.5.label>extreme</HeartArteryBlockage.stages.5.label>
+    <HeartArteryBlockage.label>blokkert arterie</HeartArteryBlockage.label>
+    <HeartArteryBlockage.stages.0.label>ufarlig</HeartArteryBlockage.stages.0.label>
+    <HeartArteryBlockage.stages.1.label>begynnende</HeartArteryBlockage.stages.1.label>
+    <HeartArteryBlockage.stages.2.label>skummel</HeartArteryBlockage.stages.2.label>
+    <HeartArteryBlockage.stages.3.label>alvorlig</HeartArteryBlockage.stages.3.label>
+    <HeartArteryBlockage.stages.4.label>akutt</HeartArteryBlockage.stages.4.label>
+    <HeartArteryBlockage.stages.5.label>akutt</HeartArteryBlockage.stages.5.label>
     
-    <Carcinoma.label>carcinoma</Carcinoma.label>
-    <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
-    <Carcinoma.stages.1.label>minor</Carcinoma.stages.1.label>
-    <Carcinoma.stages.2.label>major</Carcinoma.stages.2.label>
-    <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
-    <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
-    <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
+    <Carcinoma.label>karsinom</Carcinoma.label>
+    <Carcinoma.stages.0.label>ufarlig</Carcinoma.stages.0.label>
+    <Carcinoma.stages.1.label>begynnende</Carcinoma.stages.1.label>
+    <Carcinoma.stages.2.label>skummel</Carcinoma.stages.2.label>
+    <Carcinoma.stages.3.label>alvorlig</Carcinoma.stages.3.label>
+    <Carcinoma.stages.4.label>akutt</Carcinoma.stages.4.label>
+    <Carcinoma.stages.5.label>akutt</Carcinoma.stages.5.label>
     
 </LanguageData>
