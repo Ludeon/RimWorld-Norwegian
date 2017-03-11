@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FreePlay.label>Free play</FreePlay.label>
-    <FreePlay.description>A style of game focused on building a colony in a sandbox-like environment. Threats appear, but they're extremely weak.</FreePlay.description>
+    <FreePlay.label>Fritt spill</FreePlay.label>
+    <FreePlay.description>En modus for en lekekassekoloni. Farer finnes, men de er veldig underlegne.</FreePlay.description>
     
-    <Basebuilder.label>Basebuilder</Basebuilder.label>
-    <Basebuilder.description>A style of game focused on base building. Threats are scaled back quite a bit.</Basebuilder.description>
+    <Basebuilder.label>Oppbygging</Basebuilder.label>
+    <Basebuilder.description>Dene modusen fokuserer på å bygge en base. Farene errelativt enkle å hanskes med.</Basebuilder.description>
     
-    <Rough.label>Rough</Rough.label>
-    <Rough.description>It's a rough planet. Threats can be quite dangerous, and there are no bonuses to colonist mood or crop yields.</Rough.description>
+    <Rough.label>Tøft</Rough.label>
+    <Rough.description>Det er en tøff planet. Det er ingen bonuser til kolonisthumør eller jordbruk. Trå varsomt, og hold hodet kaldt.</Rough.description>
     
-    <Challenge.label>Challenge</Challenge.label>
-    <Challenge.description>A challenging game. This level requires strategy, tactics, and luck to survive. The way RimWorld was meant to be played.</Challenge.description>
+    <Challenge.label>Utfordring</Challenge.label>
+    <Challenge.description>For dem som ønsker en utfordring. Denne modusen krever strategi, selvsikkerhet og flaks. Den autentiske RimWorld-opplevelsen.</Challenge.description>
     
-    <Extreme.label>Extreme</Extreme.label>
-    <Extreme.description>As hard as a diamond-bladed dagger. Enemies are strong, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</Extreme.description>
+    <Extreme.label>Ekstremt</Extreme.label>
+    <Extreme.description>Her er det ingen kjære mor. Fiender er sterke, priser er urettferdige, mat er sjeldnere, og kolonistene er sure. For dem som nyter å slite.</Extreme.description>
     
 </LanguageData>
