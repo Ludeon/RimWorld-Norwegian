@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BloodLoss.label>blood loss</BloodLoss.label>
-    <BloodLoss.stages.0.label>trivial</BloodLoss.stages.0.label>
-    <BloodLoss.stages.1.label>minor</BloodLoss.stages.1.label>
-    <BloodLoss.stages.2.label>moderate</BloodLoss.stages.2.label>
-    <BloodLoss.stages.3.label>severe</BloodLoss.stages.3.label>
-    <BloodLoss.stages.4.label>extreme</BloodLoss.stages.4.label>
+    <BloodLoss.label>blodtap</BloodLoss.label>
+    <BloodLoss.stages.0.label>ubetydelig</BloodLoss.stages.0.label>
+    <BloodLoss.stages.1.label>minimal</BloodLoss.stages.1.label>
+    <BloodLoss.stages.2.label>moderat</BloodLoss.stages.2.label>
+    <BloodLoss.stages.3.label>alvorlig</BloodLoss.stages.3.label>
+    <BloodLoss.stages.4.label>livstruende</BloodLoss.stages.4.label>
     
-    <Anesthetic.label>anesthetic</Anesthetic.label>
+    <Anesthetic.label>bedøvelse</Anesthetic.label>
     
-    <Concussion.label>concussion</Concussion.label>
+    <Concussion.label>hjernerystelse</Concussion.label>
     
-    <PsychicShock.label>psychic shock</PsychicShock.label>
+    <PsychicShock.label>sjokk</PsychicShock.label>
     
-    <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
+    <CryptosleepSickness.label>dvalesyke</CryptosleepSickness.label>
     
-    <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+    <FoodPoisoning.label>matforgiftning</FoodPoisoning.label>
     
-    <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
-    <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
-    <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
-    <ToxicBuildup.stages.2.label>minor</ToxicBuildup.stages.2.label>
-    <ToxicBuildup.stages.3.label>moderate</ToxicBuildup.stages.3.label>
-    <ToxicBuildup.stages.4.label>serious</ToxicBuildup.stages.4.label>
-    <ToxicBuildup.stages.5.label>extreme</ToxicBuildup.stages.5.label>
+    <ToxicBuildup.label>forgiftning</ToxicBuildup.label>
+    <ToxicBuildup.stages.0.label>begynnende</ToxicBuildup.stages.0.label>
+    <ToxicBuildup.stages.1.label>minimal</ToxicBuildup.stages.1.label>
+    <ToxicBuildup.stages.2.label>svak</ToxicBuildup.stages.2.label>
+    <ToxicBuildup.stages.3.label>bekymringsverdig</ToxicBuildup.stages.3.label>
+    <ToxicBuildup.stages.4.label>alvorlig</ToxicBuildup.stages.4.label>
+    <ToxicBuildup.stages.5.label>livstruende</ToxicBuildup.stages.5.label>
     
-    <Pregnant.label>pregnant</Pregnant.label>
-    <Pregnant.comps.0.discoverLetterLabel>{0} pregnant</Pregnant.comps.0.discoverLetterLabel>
-    <Pregnant.comps.0.discoverLetterText>{0} is pregnant!</Pregnant.comps.0.discoverLetterText>
-    <Pregnant.stages.0.label>early-stage-hidden</Pregnant.stages.0.label>
-    <Pregnant.stages.1.label>middle-stage</Pregnant.stages.1.label>
-    <Pregnant.stages.2.label>late-stage</Pregnant.stages.2.label>
+    <Pregnant.label>gravid</Pregnant.label>
+    <Pregnant.comps.0.discoverLetterLabel>{0} gravid</Pregnant.comps.0.discoverLetterLabel>
+    <Pregnant.comps.0.discoverLetterText>{0} er blitt gravid!</Pregnant.comps.0.discoverLetterText>
+    <Pregnant.stages.0.label>første trimester</Pregnant.stages.0.label>
+    <Pregnant.stages.1.label>andre trimester</Pregnant.stages.1.label>
+    <Pregnant.stages.2.label>tredje trimester</Pregnant.stages.2.label>
     
 </LanguageData>
