@@ -2,42 +2,42 @@
 <LanguageData>
     
     <Cut.label>snittsår</Cut.label>
-    <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+    <Cut.deathMessage>{0} ble skåret i hjel.</Cut.deathMessage>
     
     <Crush.label>knust</Crush.label>
-    <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+    <Crush.deathMessage>{0} ble knust i hjel.</Crush.deathMessage>
     
-    <Blunt.label>stumt</Blunt.label>
-    <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+    <Blunt.label>stumpt</Blunt.label>
+    <Blunt.deathMessage>{0} ble slått i hjel.</Blunt.deathMessage>
     
     <Stab.label>stikksår</Stab.label>
-    <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+    <Stab.deathMessage>{0} ble stukket i hjel.</Stab.deathMessage>
     
     <Bullet.label>kule</Bullet.label>
-    <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+    <Bullet.deathMessage>{0} ble skutt.</Bullet.deathMessage>
     
     <Arrow.label>pil</Arrow.label>
-    <Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>
+    <Arrow.deathMessage>{0} ble gjennomboret av en pil.</Arrow.deathMessage>
     
     <Scratch.label>skrubbsår</Scratch.label>
-    <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+    <Scratch.deathMessage>{0} ble revet i biter.</Scratch.deathMessage>
     
     <Bite.label>bitt</Bite.label>
-    <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+    <Bite.deathMessage>{0} ble bitt i hjel.</Bite.deathMessage>
     
-    <ToxicBite.label>toxic bite</ToxicBite.label>
-    <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+    <ToxicBite.label>giftig bitt</ToxicBite.label>
+    <ToxicBite.deathMessage>{0} ble bitt i hjel.</ToxicBite.deathMessage>
     
     <Bomb.label>bombe</Bomb.label>
-    <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+    <Bomb.deathMessage>{0} døde i en ekslosjon.</Bomb.deathMessage>
     
     <Flame.label>ild</Flame.label>
-    <Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+    <Flame.deathMessage>{0} brente i hjel.</Flame.deathMessage>
     
-    <Frostbite.label>frostbite</Frostbite.label>
-    <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+    <Frostbite.label>frostbitt</Frostbite.label>
+    <Frostbite.deathMessage>{0} frøs i hjel.</Frostbite.deathMessage>
     
     <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
-    <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+    <SurgicalCut.deathMessage>{0} døde under operasjon.</SurgicalCut.deathMessage>
     
 </LanguageData>
