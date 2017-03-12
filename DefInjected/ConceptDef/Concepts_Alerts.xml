@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Forbidding.label>Unforbid resources</Forbidding.label>
-    <Forbidding.helpTexts.0>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it.</Forbidding.helpTexts.0>
+    <Forbidding.label>Tillat ressurser</Forbidding.label>
+    <Forbidding.helpTexts.0>Kolonister vil ikke arbeide med ting som er FORBUDTE.\n\nForbudte ting har en liten rød X ved seg. Velg en forbudt ting og bruk kontrollene på bunnen for å TILLATE den.</Forbidding.helpTexts.0>
     
-    <Stockpiles.label>Place stockpile</Stockpiles.label>
-    <Stockpiles.helpTexts.0>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpTexts.0>
+    <Stockpiles.label>Velg en lagerplass</Stockpiles.label>
+    <Stockpiles.helpTexts.0>Kolonistene dine trenger et sted for å lagre ting. Velg et LAGEROMRÅDE for dem.\n\nFinn lagerområdet i SONE-seksjonen i ARKITEKT-menyen nede til venstre.</Stockpiles.helpTexts.0>
     
-    <GrowingFood.label>Place growing zone</GrowingFood.label>
-    <GrowingFood.helpTexts.0>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</GrowingFood.helpTexts.0>
+    <GrowingFood.label>Velg et jordbruksområde</GrowingFood.label>
+    <GrowingFood.helpTexts.0>Plasser et JORDBRUKSOMRÅDE fra ARKITEKT-menyen for å dyrke mat.\n\nBakken må være fruktbar for å kunne dyrkes.</GrowingFood.helpTexts.0>
     
-    <EquippingWeapons.label>Equip weapons</EquippingWeapons.label>
-    <EquippingWeapons.helpTexts.0>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</EquippingWeapons.helpTexts.0>
+    <EquippingWeapons.label>Utrust våpen</EquippingWeapons.label>
+    <EquippingWeapons.helpTexts.0>Kolonistene dine tok med seg våpen hit. Utrust dem!\n\nVelg enkelte kolonister og høyreklikk på våpnene du vil de skal bruke.</EquippingWeapons.helpTexts.0>
     
-    <CameraZoom.label>Learn camera zooming</CameraZoom.label>
-    <CameraZoom.helpTexts.0>Zoom in and out with the MOUSEWHEEL or the T and G keys.</CameraZoom.helpTexts.0>
+    <CameraZoom.label>Lær kamerazooming</CameraZoom.label>
+    <CameraZoom.helpTexts.0>Zoom inn og ut med MUSEHJULET eller tastene T og G.</CameraZoom.helpTexts.0>
     
-    <WorkTab.label>Configure work settings</WorkTab.label>
-    <WorkTab.helpTexts.0>You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done.</WorkTab.helpTexts.0>
+    <WorkTab.label>Tilpass arbeidsinnstillinger</WorkTab.label>
+    <WorkTab.helpTexts.0>Du kan kontrollere hver kolonists arbeidsoppgaver i ARBEID-menyen nede til venstre på skjermen.\n\nDe vil alltid velge arbeidet med høyest prioritet først.\n\nHvis alle som er gitt en spesifikk oppgave jobber med viktigere ting, vil dette arbeidet aldri bli gjort.</WorkTab.helpTexts.0>
     
-    <TimeControls.label>Learn time controls</TimeControls.label>
-    <TimeControls.helpTexts.0>You can speed up, slow down, or stop time using the time controls in the bottom right.</TimeControls.helpTexts.0>
+    <TimeControls.label>Du kontrollerer tiden</TimeControls.label>
+    <TimeControls.helpTexts.0>Du kan øke og senke hastigheten på tiden, eller stoppe den helt, med de blå pilene nede til høyre på skjermen.</TimeControls.helpTexts.0>
     
-    <InfoCard.label>Open info card</InfoCard.label>
-    <InfoCard.helpTexts.0>The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane.</InfoCard.helpTexts.0>
+    <InfoCard.label>Åpne infokort</InfoCard.label>
+    <InfoCard.helpTexts.0>Infokortet gir deg detaljert statistikk om en ting, person, eller konstruksjon.\n\nVelg en person eller ting og åpne infokortet deres med "i"-knappen på oversikten deres.</InfoCard.helpTexts.0>
     
-    <SpacePause.label>Learn spacebar pause</SpacePause.label>
-    <SpacePause.helpTexts.0>Hit SPACE to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit SPACE!</SpacePause.helpTexts.0>
+    <SpacePause.label>Lær å si stopp</SpacePause.label>
+    <SpacePause.helpTexts.0>MELLOMROM-tasten er pause- og avspillingsknappen.\n\nDu kan gi order i pausen.\n\nHvis du blir stresset, er det bare å trykke MELLOMROM.</SpacePause.helpTexts.0>
     
-    <StorageTab.label>Learn storage tab</StorageTab.label>
-    <StorageTab.helpTexts.0>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.</StorageTab.helpTexts.0>
+    <StorageTab.label>Hva skal hvor?</StorageTab.label>
+    <StorageTab.helpTexts.0>Du kan kontrollere hvilket lagerområde som skal lagre hva ved å velge hver enkelt og åpne LAGRING-knappen på oversikten deres.</StorageTab.helpTexts.0>
     
-    <MedicalOperations.label>Learn medical operations</MedicalOperations.label>
-    <MedicalOperations.helpTexts.0>To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab.</MedicalOperations.helpTexts.0>
+    <MedicalOperations.label>Når ulykken er ute...</MedicalOperations.label>
+    <MedicalOperations.helpTexts.0>Når du vil gjøre en medisinsk operasjon, som å høste et organ eller å installere en protese, kan du åpne en kolonists HELSE-oversikt, og bytte fra Oversikt til OPERASJONER.</MedicalOperations.helpTexts.0>
     
-    <HomeArea.label>Learn home area</HomeArea.label>
-    <HomeArea.helpTexts.0>The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu.</HomeArea.helpTexts.0>
+    <HomeArea.label>Hjem, kjære hjem</HomeArea.label>
+    <HomeArea.helpTexts.0>HJEMME-området er stedet kolonistene dine vasker og slokker åpen ild i.\n\nMarker HJEMME-området i kategorien SONER i ARKITEKT-menyen.</HomeArea.helpTexts.0>
     
-    <RightClickClearLetter.label>Learn clearing letters with right-click</RightClickClearLetter.label>
-    <RightClickClearLetter.helpTexts.0>You can quickly dismiss incoming letters by right-clicking them.</RightClickClearLetter.helpTexts.0>
+    <RightClickClearLetter.label>Fjern plagsomme meldinger med høyreklikk</RightClickClearLetter.label>
+    <RightClickClearLetter.helpTexts.0>Du kan enkelt fjerne uleste meldinger ved å høyreklikke på dem.</RightClickClearLetter.helpTexts.0>
     
-    <BuildOrbitalTradeBeacon.label>Build orbital trade beacon</BuildOrbitalTradeBeacon.label>
-    <BuildOrbitalTradeBeacon.helpTexts.0>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</BuildOrbitalTradeBeacon.helpTexts.0>
+    <BuildOrbitalTradeBeacon.label>Bygg handelsmerke</BuildOrbitalTradeBeacon.label>
+    <BuildOrbitalTradeBeacon.helpTexts.0>For å drive banehandel må du bygge et handelsmerke og plassere ting i lagerområdet dens.</BuildOrbitalTradeBeacon.helpTexts.0>
     
-    <SetGrowingZonePlant.label>Learn growing zone config</SetGrowingZonePlant.label>
-    <SetGrowingZonePlant.helpTexts.0>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</SetGrowingZonePlant.helpTexts.0>
+    <SetGrowingZonePlant.label>Lær deg jordbruk</SetGrowingZonePlant.label>
+    <SetGrowingZonePlant.helpTexts.0>Du kan velge hva som skal dyrkes i et jordbruksområde. Du kan dyrke alt fra blomster til mat, til og med trær!\n\nVelg jordbruksområdet, trykk på "Plant:"-knappen og trykk på det du vil dyrke.</SetGrowingZonePlant.helpTexts.0>
     
-    <PrisonerTab.label>Learn prisoner tab</PrisonerTab.label>
-    <PrisonerTab.helpTexts.0>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou'll need a colonist with the Warden work to take care of the prisoner.</PrisonerTab.helpTexts.0>
+    <PrisonerTab.label>Lær om fanger</PrisonerTab.label>
+    <PrisonerTab.helpTexts.0>Trykk på FANGE i en fanges oversikt for å bestemme hvordan hen skal behandles.\n\nKun en kolonist med arbeidsinnstillingen Vakt vil ta hånd om fanger.</PrisonerTab.helpTexts.0>
     
-    <StoragePriority.label>Learn to set storage priorities</StoragePriority.label>
-    <StoragePriority.helpTexts.0>You can change the PRIORITY of storage. Colonists will fill higher-priority storage first.</StoragePriority.helpTexts.0>
+    <StoragePriority.label>Prioriter lagerplasser</StoragePriority.label>
+    <StoragePriority.helpTexts.0>Du kan endre PRIORITET på lagerområder. Høyere prioriterte lagerområder vil fylles først.</StoragePriority.helpTexts.0>
     
-    <HistoryTab.label>Learn history tab</HistoryTab.label>
-    <HistoryTab.helpTexts.0>You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen.</HistoryTab.helpTexts.0>
+    <HistoryTab.label>Ditt folks historie</HistoryTab.label>
+    <HistoryTab.helpTexts.0>Du kan se ditt folks verdibeholdning over tid i HISTORIE-menyen nede til høyre på skjermen.</HistoryTab.helpTexts.0>
     
 </LanguageData>
