@@ -5,15 +5,15 @@
     <Colony.description>Ditt eget lille samfunn.</Colony.description>
     <Colony.pawnsPlural>kolonister</Colony.pawnsPlural>
     
-    <Spacer.label>romfolk</Spacer.label>
+    <Spacer.label>romfarere</Spacer.label>
     <Spacer.description>Folk som har reist fra rommets fjerne avkroker.</Spacer.description>
-    <Spacer.pawnsPlural>romfolk</Spacer.pawnsPlural>
-    <Spacer.fixedName>Romperson</Spacer.fixedName>
+    <Spacer.pawnsPlural>romfarere</Spacer.pawnsPlural>
+    <Spacer.fixedName>Romfarer</Spacer.fixedName>
     
-    <SpacerHostile.label>romfolk</SpacerHostile.label>
+    <SpacerHostile.label>romfarere</SpacerHostile.label>
     <SpacerHostile.description>Folk som har reist fra rommets fjerne avkroker.</SpacerHostile.description>
-    <SpacerHostile.pawnsPlural>romfolk</SpacerHostile.pawnsPlural>
-    <SpacerHostile.fixedName>Romperson</SpacerHostile.fixedName>
+    <SpacerHostile.pawnsPlural>romfarere</SpacerHostile.pawnsPlural>
+    <SpacerHostile.fixedName>Romfarer</SpacerHostile.fixedName>
     
     <Insect.label>insekt</Insect.label>
     <Insect.description>Insektene her er aggresive og innvaderende av natur.</Insect.description>
