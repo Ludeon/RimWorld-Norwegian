@@ -2,7 +2,7 @@
 <LanguageData>
     
     <Misc.label>diverse</Misc.label>
-    <Misc.comps.0.labelTendedWell>bandagsjert</Misc.comps.0.labelTendedWell>
+    <Misc.comps.0.labelTendedWell>bandasjert</Misc.comps.0.labelTendedWell>
     <Misc.comps.0.labelTended>lappet sammen</Misc.comps.0.labelTended>
     <Misc.comps.0.labelTendedWellInner>sydd</Misc.comps.0.labelTendedWellInner>
     <Misc.comps.0.labelTendedInner>dårlig sydd</Misc.comps.0.labelTendedInner>
@@ -11,7 +11,7 @@
     <Misc.injuryProps.destroyedLabel>Ødelagt</Misc.injuryProps.destroyedLabel>
     
     <Burn.label>brannsår</Burn.label>
-    <Burn.comps.0.labelTendedWell>bandagsjert</Burn.comps.0.labelTendedWell>
+    <Burn.comps.0.labelTendedWell>bandasjert</Burn.comps.0.labelTendedWell>
     <Burn.comps.0.labelTended>lappet sammen</Burn.comps.0.labelTended>
     <Burn.comps.0.labelTendedWellInner>sydd</Burn.comps.0.labelTendedWellInner>
     <Burn.comps.0.labelTendedInner>dårlig sydd</Burn.comps.0.labelTendedInner>
@@ -22,7 +22,7 @@
     <Burn.injuryProps.destroyedOutLabel>Burned out</Burn.injuryProps.destroyedOutLabel>
     
     <Crush.label>knust</Crush.label>
-    <Crush.comps.0.labelTendedWell>bandagsjert</Crush.comps.0.labelTendedWell>
+    <Crush.comps.0.labelTendedWell>bandasjert</Crush.comps.0.labelTendedWell>
     <Crush.comps.0.labelTended>lappet sammen</Crush.comps.0.labelTended>
     <Crush.comps.0.labelTendedWellInner>sydd</Crush.comps.0.labelTendedWellInner>
     <Crush.comps.0.labelTendedInner>dårlig sydd</Crush.comps.0.labelTendedInner>
@@ -41,7 +41,7 @@
     <Crack.injuryProps.destroyedLabel>sprukket</Crack.injuryProps.destroyedLabel>
     
     <Cut.label>snittsår</Cut.label>
-    <Cut.comps.0.labelTendedWell>bandagsjert</Cut.comps.0.labelTendedWell>
+    <Cut.comps.0.labelTendedWell>bandasjert</Cut.comps.0.labelTendedWell>
     <Cut.comps.0.labelTended>lappet sammen</Cut.comps.0.labelTended>
     <Cut.comps.0.labelTendedWellInner>sydd</Cut.comps.0.labelTendedWellInner>
     <Cut.comps.0.labelTendedInner>dårlig sydd</Cut.comps.0.labelTendedInner>
@@ -52,7 +52,7 @@
     <Cut.injuryProps.destroyedOutLabel>Cut out</Cut.injuryProps.destroyedOutLabel>
     
     <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
-    <SurgicalCut.comps.0.labelTendedWell>bandagsjert</SurgicalCut.comps.0.labelTendedWell>
+    <SurgicalCut.comps.0.labelTendedWell>bandasjert</SurgicalCut.comps.0.labelTendedWell>
     <SurgicalCut.comps.0.labelTended>lappet sammen</SurgicalCut.comps.0.labelTended>
     <SurgicalCut.comps.0.labelTendedWellInner>sydd</SurgicalCut.comps.0.labelTendedWellInner>
     <SurgicalCut.comps.0.labelTendedInner>dårlig sydd</SurgicalCut.comps.0.labelTendedInner>
@@ -61,7 +61,7 @@
     <SurgicalCut.comps.1.oldLabel>arr</SurgicalCut.comps.1.oldLabel>
     
     <Scratch.label>skrubbsår</Scratch.label>
-    <Scratch.comps.0.labelTendedWell>bandagsjert</Scratch.comps.0.labelTendedWell>
+    <Scratch.comps.0.labelTendedWell>bandasjert</Scratch.comps.0.labelTendedWell>
     <Scratch.comps.0.labelTended>lappet sammen</Scratch.comps.0.labelTended>
     <Scratch.comps.0.labelTendedWellInner>sydd</Scratch.comps.0.labelTendedWellInner>
     <Scratch.comps.0.labelTendedInner>dårlig sydd</Scratch.comps.0.labelTendedInner>
@@ -72,7 +72,7 @@
     <Scratch.injuryProps.destroyedOutLabel>Torn out</Scratch.injuryProps.destroyedOutLabel>
     
     <Bite.label>bitt</Bite.label>
-    <Bite.comps.0.labelTendedWell>bandagsjert</Bite.comps.0.labelTendedWell>
+    <Bite.comps.0.labelTendedWell>bandasjert</Bite.comps.0.labelTendedWell>
     <Bite.comps.0.labelTended>lappet sammen</Bite.comps.0.labelTended>
     <Bite.comps.0.labelTendedWellInner>sydd</Bite.comps.0.labelTendedWellInner>
     <Bite.comps.0.labelTendedInner>dårlig sydd</Bite.comps.0.labelTendedInner>
@@ -83,7 +83,7 @@
     <Bite.injuryProps.destroyedOutLabel>Bitten out</Bite.injuryProps.destroyedOutLabel>
     
     <Stab.label>stikksår</Stab.label>
-    <Stab.comps.0.labelTendedWell>bandagsjert</Stab.comps.0.labelTendedWell>
+    <Stab.comps.0.labelTendedWell>bandasjert</Stab.comps.0.labelTendedWell>
     <Stab.comps.0.labelTended>lappet sammen</Stab.comps.0.labelTended>
     <Stab.comps.0.labelTendedWellInner>sydd</Stab.comps.0.labelTendedWellInner>
     <Stab.comps.0.labelTendedInner>dårlig sydd</Stab.comps.0.labelTendedInner>
@@ -94,7 +94,7 @@
     <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
     
     <Gunshot.label>kuleskudd</Gunshot.label>
-    <Gunshot.comps.0.labelTendedWell>bandagsjert</Gunshot.comps.0.labelTendedWell>
+    <Gunshot.comps.0.labelTendedWell>bandasjert</Gunshot.comps.0.labelTendedWell>
     <Gunshot.comps.0.labelTended>lappet sammen</Gunshot.comps.0.labelTended>
     <Gunshot.comps.0.labelTendedWellInner>sydd</Gunshot.comps.0.labelTendedWellInner>
     <Gunshot.comps.0.labelTendedInner>dårlig sydd</Gunshot.comps.0.labelTendedInner>
@@ -105,7 +105,7 @@
     <Gunshot.injuryProps.destroyedOutLabel>Shot out</Gunshot.injuryProps.destroyedOutLabel>
     
     <Shredded.label>kvernet</Shredded.label>
-    <Shredded.comps.0.labelTendedWell>bandagsjert</Shredded.comps.0.labelTendedWell>
+    <Shredded.comps.0.labelTendedWell>bandasjert</Shredded.comps.0.labelTendedWell>
     <Shredded.comps.0.labelTended>lappet sammen</Shredded.comps.0.labelTended>
     <Shredded.comps.0.labelTendedWellInner>sydd</Shredded.comps.0.labelTendedWellInner>
     <Shredded.comps.0.labelTendedInner>dårlig sydd</Shredded.comps.0.labelTendedInner>
@@ -116,7 +116,7 @@
     <Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
     
     <Bruise.label>blåmerke</Bruise.label>
-    <Bruise.comps.0.labelTendedWell>bandagsjert</Bruise.comps.0.labelTendedWell>
+    <Bruise.comps.0.labelTendedWell>bandasjert</Bruise.comps.0.labelTendedWell>
     <Bruise.comps.0.labelTended>lappet sammen</Bruise.comps.0.labelTended>
     <Bruise.comps.0.labelTendedWellInner>sydd</Bruise.comps.0.labelTendedWellInner>
     <Bruise.comps.0.labelTendedInner>dårlig sydd</Bruise.comps.0.labelTendedInner>
@@ -125,7 +125,7 @@
     <Bruise.injuryProps.destroyedLabel>Ødelagt</Bruise.injuryProps.destroyedLabel>
     
     <Frostbite.label>frostbitt</Frostbite.label>
-    <Frostbite.comps.0.labelTendedWell>bandagsjert</Frostbite.comps.0.labelTendedWell>
+    <Frostbite.comps.0.labelTendedWell>bandasjert</Frostbite.comps.0.labelTendedWell>
     <Frostbite.comps.0.labelTended>lappet sammen</Frostbite.comps.0.labelTended>
     <Frostbite.comps.0.labelTendedWellInner>sydd</Frostbite.comps.0.labelTendedWellInner>
     <Frostbite.comps.0.labelTendedInner>dårlig sydd</Frostbite.comps.0.labelTendedInner>
