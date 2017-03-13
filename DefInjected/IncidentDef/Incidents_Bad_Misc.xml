@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
-    <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+    <Eclipse.letterLabel>Solformørkelse</Eclipse.letterLabel>
+    <Eclipse.letterText>En av planetens måner har beveget seg foran sola. En solformørkelse har begynt.</Eclipse.letterText>
     
-    <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
-    <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+    <SolarFlare.letterLabel>Solstorm</SolarFlare.letterLabel>
+    <SolarFlare.letterText>En solstorm har begynt.\n\nDen sterke strålingen vil overbelaste alt elektronisk utstyr.\n\nStormen er over om ca. et døgn.</SolarFlare.letterText>
     
     
-    <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
-    <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a month.</ToxicFallout.letterText>
+    <ToxicFallout.letterLabel>Giftig nedbør</ToxicFallout.letterLabel>
+    <ToxicFallout.letterText>En kjemisk brann har spredd en sky av giftig avfall til hele området.\n\nEthvert levende vesen som ikke befinner seg under tak vil sakte men sikkert forgiftes av partiklene som regner fra atmosfæren.\n\nDet kan vare fra noen dager til over en måned.</ToxicFallout.letterText>
     
-    <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
-    <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many months.</VolcanicWinter.letterText>
+    <VolcanicWinter.letterLabel>Vulkansk vinter</VolcanicWinter.letterLabel>
+    <VolcanicWinter.letterText>En fjern vulkan har hatt utbrudd og sluppet millioner av kubikkmeter med aske ut i atmosfæren.\n\nAsken vil skygge for sola. Temperaturen vil synke og planter vil ikke få nok sollys. Det kan gå over om noen uker, men det kan vare i flere måneder.</VolcanicWinter.letterText>
     
-    <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
-    <HeatWave.letterText>An unusual heat wave has begun. Watch out for heat stroke.</HeatWave.letterText>
+    <HeatWave.letterLabel>Hetebølge</HeatWave.letterLabel>
+    <HeatWave.letterText>En uvanlig hetebølge har slått inn over området. Pass på for heteslag.</HeatWave.letterText>
     
-    <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
-    <ColdSnap.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</ColdSnap.letterText>
+    <ColdSnap.letterLabel>Kuldebølge</ColdSnap.letterLabel>
+    <ColdSnap.letterText>En uvanlig kuldebølge har slått inn over området. Pass på for hypotermi og døde avlinger.</ColdSnap.letterText>
     
     <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
-    <Flashstorm.letterText>Extreme amounts of lightning are hitting a small region. This can cause massive fires.</Flashstorm.letterText>
+    <Flashstorm.letterText>Store mengder lyn slår ned i et veldig lite område. Dette vil starte store branner.</Flashstorm.letterText>
     
     
     
