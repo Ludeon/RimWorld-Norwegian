@@ -14,7 +14,7 @@ There is a ton of stuff that needs translation, and not only that: Some source s
 Coming:
 - Term list - for those terms that are repeated in many places, to avoid inconsistencies
 
-###Translators:
+### Translators:
 
 - Darky
 - ApertureAlex
