@@ -9,7 +9,7 @@
 	<Save>Lagre</Save>
 	<LoadGame>Last inn tidligere koloni</LoadGame>
 	<Options>Innstillinger</Options>
-	<Mods>Modder</Mods>
+	<Mods>Spillmodifikasjoner</Mods>
 	<Credits>Rulletekst</Credits>
 	<QuitToMainMenu>Avslutt til hovedmeny</QuitToMainMenu>
 	<SaveAndQuitToMainMenu>Lagre og avslutt til hovedmeny</SaveAndQuitToMainMenu>
@@ -29,18 +29,18 @@
 	<WorldGenerate>Generer!</WorldGenerate>
 	<WorldSaveAndFinish>Lagre og fortsett</WorldSaveAndFinish>
 	<Reset>Tilbakestill</Reset>
-	<PlanetCoverage>Globe coverage</PlanetCoverage>
+	<PlanetCoverage>Dekning på planeten</PlanetCoverage>
 	<PlanetRainfall>Overall rainfall</PlanetRainfall>
 	<PlanetTemperature>Overall temperature</PlanetTemperature>
-	<PlanetRainfall_Low>Low</PlanetRainfall_Low>
+	<PlanetRainfall_Low>Lav</PlanetRainfall_Low>
 	<PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-	<PlanetRainfall_High>High</PlanetRainfall_High>
-	<PlanetTemperature_Low>Low</PlanetTemperature_Low>
+	<PlanetRainfall_High>Høy</PlanetRainfall_High>
+	<PlanetTemperature_Low>Lav</PlanetTemperature_Low>
 	<PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-	<PlanetTemperature_High>High</PlanetTemperature_High>
+	<PlanetTemperature_High>Høy</PlanetTemperature_High>
 	<WorldSeed>Frø</WorldSeed>
 	<RandomizeSeed>Tilfeldig frø</RandomizeSeed>
-	<PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+	<PlanetCoverageTip>Planeten vil alltid være like stor, men siden den er langt større enn det som er nødvendig for å spille, genererer vi ikke hele overflaten, fordi det ville tatt veldig lang tid. Dette er delen av overflaten som du ønsker generert.</PlanetCoverageTip>
 	<!--===========Velg verden ===================-->
 	<SelectWorld>Velg Verden</SelectWorld>
 	<WorldChooseButton>Velg</WorldChooseButton>
@@ -54,7 +54,7 @@
 	<GenerateWorld>Generer verden</GenerateWorld>
 	<!--=========== Mods config ==========-->
 	<OpenSteamWorkshop>Åpne Steam Workshop</OpenSteamWorkshop>
-	<GetModsFromForum>Få modder fra forum</GetModsFromForum>
+	<GetModsFromForum>Få modifikasjoner fra forum</GetModsFromForum>
 	<OpenModsDataFolder>Åpne modifikasjonsmappen</OpenModsDataFolder>
 	<ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemodifikasjonen? Spillet vil ikke fungere i det hele tatt hvis du ikke har en modifikasjon som bytter ut alle sentrale funksjoner.\n\nHusk, andre modifikasjoner kan overskrive andre defs i kjernemodifikasjonen ved å bruke samme defName.</ConfirmDisableCoreMod>
 	<ConfirmDeleteMod>Er du sikker på at du vil slette alt innhold for {0}?</ConfirmDeleteMod>
@@ -70,35 +70,35 @@
 	<Downloading>Laster ned {0}</Downloading>
 	<Source>Kilde</Source>
 	<ModTargetVersion>For version: {0}</ModTargetVersion>
-	<ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+	<ModNotMadeForThisVersion>Denne modifikasjonen er ikke laget for denne versjonen av Rimworld, og vil mest sannsynlig ikke virke som forventet.</ModNotMadeForThisVersion>
 	<MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-	<DragToReorder>Drag to reorder</DragToReorder>
+	<DragToReorder>Dra for å omordne</DragToReorder>
 	<!--=========== Select scenario =============-->
-	<ChooseScenario>Choose scenario</ChooseScenario>
-	<ScenariosCustom>Custom</ScenariosCustom>
+	<ChooseScenario>Velg scenario</ChooseScenario>
+	<ScenariosCustom>Tilpasset</ScenariosCustom>
 	<ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-	<ScenarioEditor>Scenario editor</ScenarioEditor>
-	<Delete>Delete</Delete>
+	<ScenarioEditor>Endre scenario</ScenarioEditor>
+	<Delete>Slett</Delete>
 	<!--============ Scenario editor ===============-->
-	<Seed>seed</Seed>
-	<Load>Load</Load>
-	<EditMode>edit mode</EditMode>
-	<Summary>Summary</Summary>
-	<AddPart>Add part</AddPart>
-	<TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-	<ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-	<ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-	<Incompatible>Incompatible</Incompatible>
-	<TooMany>Too many (max {0}): </TooMany>
-	<CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+	<Seed>frø</Seed>
+	<Load>Last</Load>
+	<EditMode>redigeringsmodus</EditMode>
+	<Summary>Oppsummering</Summary>
+	<AddPart>Legg til del</AddPart>
+	<TextFieldsMustBeFilled>Alle tekstbokser må være fylt ut.</TextFieldsMustBeFilled>
+	<ConfirmSteamWorkshopUpload>Er du sikker på at du vil laste dette opp til Steam Workshop?\n\nDu må samtykke til Steam Workshop sine vikår for bruk. Les mer her:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+	<ConfirmContentAuthor>Du må selvsagt laste opp innhold som du har produsert selv.\n\nHar du produsert dette selv?</ConfirmContentAuthor>
+	<Incompatible>Ikke støttet</Incompatible>
+	<TooMany>For mange (max {0}): </TooMany>
+	<CanBeUpdatedOnWorkshop>Kan bli oppdatert på Steam Workshop, siden du er eieren.</CanBeUpdatedOnWorkshop>
 	<!--=========== Select storyteller ==========-->
 	<ChooseAIStoryteller>Velg AI Historieforteller</ChooseAIStoryteller>
 	<HowStorytellersWork>AI historiefortelleren skaper hendelser som piratplyndringer, ressursforsyninger eller angrep fra ville dyr. Valgene deres vil påvirke historien til kolonien din.</HowStorytellersWork>
-	<MustChooseDifficulty>Velg vansklighetsgrad.</MustChooseDifficulty>
-	<Difficulty>Vansklighetsgrad</Difficulty>
+	<MustChooseDifficulty>Velg vanskelighetsgrad.</MustChooseDifficulty>
+	<Difficulty>Vanskelighetsgrad</Difficulty>
 	<!--=========== Landing site select =========-->
 	<SelectLandingSite>Velg landingsområde</SelectLandingSite>
-	<SelectRandomSite>Select random site</SelectRandomSite>
+	<SelectRandomSite>Velg tilfeldig landingsområde</SelectRandomSite>
 	<SelectSite>Velg område</SelectSite>
 	<MustSelectLandingSite>Vennligst velg et landingsområde.</MustSelectLandingSite>
 	<CannotLandBiome>Du kan ikke lande i denne biomen: {0}</CannotLandBiome>
@@ -119,10 +119,10 @@
 	<HasCoast3>Vestlig kyst</HasCoast3>
 	<FactionBase>Partens base</FactionBase>
 	<StoneTypesHere>Steinarter</StoneTypesHere>
-	<TimeZone>Time zone</TimeZone>
-	<MovementTimeNow>Current movement time</MovementTimeNow>
-	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
-	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+	<TimeZone>Tidssone</TimeZone>
+	<MovementTimeNow>Nåverende forflytningstid</MovementTimeNow>
+	<MovementTimeSummer>Forflytningstid sommer</MovementTimeSummer>
+	<MovementTimeWinter>Forflytningstid vin</MovementTimeWinter>
 	<!--=========== Character chooser ==========-->
 	<CreateCharacters>Lag karakterer</CreateCharacters>
 	<FirstNameDesc>Karakterens fornavn.\n\nDette blir bare vist i visse vinduer.</FirstNameDesc>
@@ -142,7 +142,7 @@
 	<Female>Kvinnelig</Female>
 	<Pain>Smerte</Pain>
 	<Health>Helse</Health>
-	<Relations>Relations</Relations>
+	<Relations>Slektskap</Relations>
 	<!--=========== Misc ==========-->
 	<Start>Start</Start>
 	<Advanced>Avansert</Advanced>
