@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Firefighter.labelShort>Firefight</Firefighter.labelShort>
-    <Firefighter.description>Extinguish fires in the colony.</Firefighter.description>
-    <Firefighter.pawnLabel>Brannslukker</Firefighter.pawnLabel>
-    <Firefighter.gerundLabel>Brannslukking</Firefighter.gerundLabel>
+    <Firefighter.labelShort>Brannslukking</Firefighter.labelShort>
+    <Firefighter.description>Slukk branner i kolonien</Firefighter.description>
+    <Firefighter.pawnLabel>Brannmann</Firefighter.pawnLabel>
+    <Firefighter.gerundLabel>Slukking av brann</Firefighter.gerundLabel>
     <Firefighter.verb>Slukker</Firefighter.verb>
     
-    <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-    <PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
-    <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-    <PatientEmergency.gerundLabel>Patienting</PatientEmergency.gerundLabel>
-    <PatientEmergency.verb>Become patient</PatientEmergency.verb>
+    <Patient.labelShort>Pasient</Patient.labelShort>
+    <Patient.description>Gå til en medisinsk seng for å få behandling hvis du har en livstruende helsetilstand.</Patient.description>
+    <Patient.pawnLabel>Pasient</Patient.pawnLabel>
+    <Patient.gerundLabel>Få behandling</Patient.gerundLabel>
+    <Patient.verb>Blir behandlet</Patient.verb>
     
-    <Doctor.labelShort>Doctor</Doctor.labelShort>
-    <Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
+    <Doctor.labelShort>Lege</Doctor.labelShort>
+    <Doctor.description>Behandle de syke, skaff dem mat, oppmuntre dem og utfør tildelte operasjoner. Leger vil ta seg av både kolonister og fanger.</Doctor.description>
     <Doctor.pawnLabel>Lege</Doctor.pawnLabel>
-    <Doctor.gerundLabel>Leger</Doctor.gerundLabel>
-    <Doctor.verb>Tar seg av</Doctor.verb>
+    <Doctor.gerundLabel>Behandling</Doctor.gerundLabel>
+    <Doctor.verb>Behandler</Doctor.verb>
     
-    <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
-    <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
-    <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
-    <PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
-    <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+    <PatientBedRest.labelShort>Sengeliggende</PatientBedRest.labelShort>
+    <PatientBedRest.description>Hvil i sengen for å komme til krefter fra en ikke-livstruende helsetilstand.</PatientBedRest.description>
+    <PatientBedRest.pawnLabel>Sengeliggende</PatientBedRest.pawnLabel>
+    <PatientBedRest.gerundLabel>Hviling i seng</PatientBedRest.gerundLabel>
+    <PatientBedRest.verb>Hviler</PatientBedRest.verb>
     
-    <Flicker.labelShort>Flick</Flicker.labelShort>
-    <Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
-    <Flicker.pawnLabel>Flicker</Flicker.pawnLabel>
-    <Flicker.gerundLabel>Flicking</Flicker.gerundLabel>
-    <Flicker.verb>Flick</Flicker.verb>
+    <Flicker.labelShort>Klikker</Flicker.labelShort>
+    <Flicker.description>Klikk brytere. Hvis du for eksempel angir at strømmen til et kanontårn skal skrus på, må en person manuelt klikke på den tilhørende bryteren for at på strømmen skal skrus på.</Flicker.description>
+    <Flicker.pawnLabel>Klikker</Flicker.pawnLabel>
+    <Flicker.gerundLabel>Klikking av brytere</Flicker.gerundLabel>
+    <Flicker.verb>Klikker</Flicker.verb>
     
-    <Warden.labelShort>Warden</Warden.labelShort>
-    <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
+    <Warden.labelShort>Vokting</Warden.labelShort>
+    <Warden.description>Pass på, mat, snakk med og rekrutter fanger.</Warden.description>
     <Warden.pawnLabel>Vakt</Warden.pawnLabel>
-    <Warden.gerundLabel>Vokter</Warden.gerundLabel>
-    <Warden.verb>Vakt</Warden.verb>
+    <Warden.gerundLabel>Vokting</Warden.gerundLabel>
+    <Warden.verb>Vokter</Warden.verb>
     
-    <Handling.labelShort>Handle</Handling.labelShort>
-    <Handling.description>Tame, train, harvest resources from and slaughter animals.</Handling.description>
-    <Handling.pawnLabel>Handler</Handling.pawnLabel>
-    <Handling.gerundLabel>Handling</Handling.gerundLabel>
-    <Handling.verb>Handle</Handling.verb>
+    <Handling.labelShort>Dyrepassing</Handling.labelShort>
+    <Handling.description>Tam, tren, høst ressurser fra og slakt dyr.</Handling.description>
+    <Handling.pawnLabel>Dyrepasser</Handling.pawnLabel>
+    <Handling.gerundLabel>Passe på</Handling.gerundLabel>
+    <Handling.verb>Passer på</Handling.verb>
     
-    <Cooking.labelShort>Cook</Cooking.labelShort>
-    <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
+    <Cooking.labelShort>Matlaging</Cooking.labelShort>
+    <Cooking.description>Tilbered måltider og stykk opp kjøtt.</Cooking.description>
     <Cooking.pawnLabel>Kokk</Cooking.pawnLabel>
-    <Cooking.gerundLabel>Matlaging</Cooking.gerundLabel>
-    <Cooking.verb>Koker</Cooking.verb>
+    <Cooking.gerundLabel>Laging av mat</Cooking.gerundLabel>
+    <Cooking.verb>Lage</Cooking.verb>
     
-    <Hunting.labelShort>Hunt</Hunting.labelShort>
-    <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
+    <Hunting.labelShort>Jakting</Hunting.labelShort>
+    <Hunting.description>Jakt på dyr som du har utpekt til å bli jaktet på.</Hunting.description>
     <Hunting.pawnLabel>Jeger</Hunting.pawnLabel>
-    <Hunting.gerundLabel>Jakt</Hunting.gerundLabel>
+    <Hunting.gerundLabel>Jakting</Hunting.gerundLabel>
     <Hunting.verb>Jakter</Hunting.verb>
     
-    <Construction.labelShort>Construct</Construction.labelShort>
-    <Construction.description>Build things that you've designated.</Construction.description>
+    <Construction.labelShort>Bygging</Construction.labelShort>
+    <Construction.description>Bygg ting som du har utpekt.</Construction.description>
     <Construction.pawnLabel>Bygger</Construction.pawnLabel>
     <Construction.gerundLabel>Bygging</Construction.gerundLabel>
     <Construction.verb>Bygger</Construction.verb>
     
-    <Repair.labelShort>Repair</Repair.labelShort>
-    <Repair.description>Fix damaged or broken-down buildings.</Repair.description>
+    <Repair.labelShort>Reparering</Repair.labelShort>
+    <Repair.description>Reparer skadede eller ødelagte bygninger.</Repair.description>
     <Repair.pawnLabel>Reparatør</Repair.pawnLabel>
-    <Repair.gerundLabel>Reparasjon</Repair.gerundLabel>
-    <Repair.verb>Reparer</Repair.verb>
+    <Repair.gerundLabel>Reparering</Repair.gerundLabel>
+    <Repair.verb>Reparerer</Repair.verb>
     
-    <Growing.labelShort>Grow</Growing.labelShort>
-    <Growing.description>Plant seeds and harvest grown crops.</Growing.description>
-    <Growing.pawnLabel>Dyrker</Growing.pawnLabel>
+    <Growing.labelShort>Dyrking</Growing.labelShort>
+    <Growing.description>Så frø og høst dyrkede avlinger.</Growing.description>
+    <Growing.pawnLabel>Bonde</Growing.pawnLabel>
     <Growing.gerundLabel>Dyrking</Growing.gerundLabel>
     <Growing.verb>Dyrker</Growing.verb>
     
-    <Mining.labelShort>Mine</Mining.labelShort>
-    <Mining.description>Dig out areas which are have designated for mining.</Mining.description>
-    <Mining.pawnLabel>Graver</Mining.pawnLabel>
+    <Mining.labelShort>Graving</Mining.labelShort>
+    <Mining.description>Grav ut områder som du har utpekt for gruvearbeid.</Mining.description>
+    <Mining.pawnLabel>Gruvearbeider</Mining.pawnLabel>
     <Mining.gerundLabel>Graving</Mining.gerundLabel>
     <Mining.verb>Graver</Mining.verb>
     
-    <PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
-    <PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
-    <PlantCutting.pawnLabel>Kutter</PlantCutting.pawnLabel>
-    <PlantCutting.gerundLabel>Kutting</PlantCutting.gerundLabel>
-    <PlantCutting.verb>Kutter</PlantCutting.verb>
+    <PlantCutting.labelShort>Planteklipping</PlantCutting.labelShort>
+    <PlantCutting.description>Klipp ned eller høst planter som du har utpekt.</PlantCutting.description>
+    <PlantCutting.pawnLabel>Planteklipper</PlantCutting.pawnLabel>
+    <PlantCutting.gerundLabel>Klipping</PlantCutting.gerundLabel>
+    <PlantCutting.verb>Klipper</PlantCutting.verb>
     
-    <Smithing.labelShort>Smith</Smithing.labelShort>
-    <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
-    <Smithing.pawnLabel>Smith</Smithing.pawnLabel>
-    <Smithing.gerundLabel>Smithing</Smithing.gerundLabel>
-    <Smithing.verb>Smith at</Smithing.verb>
+    <Smithing.labelShort>Smiing</Smithing.labelShort>
+    <Smithing.description>Lag våpen og verktøy fra råmaterialer, enten som smed eller ved maskinering.</Smithing.description>
+    <Smithing.pawnLabel>Smed</Smithing.pawnLabel>
+    <Smithing.gerundLabel>Smiing</Smithing.gerundLabel>
+    <Smithing.verb>Smi ved</Smithing.verb>
     
-    <Tailoring.labelShort>Tailor</Tailoring.labelShort>
-    <Tailoring.description>Tillater kolonister å bygge en skredderbenk, og lage nytt tøy av stoff, lær eller andre materialer.</Tailoring.description>
-    <Tailoring.pawnLabel>Tailor</Tailoring.pawnLabel>
-    <Tailoring.gerundLabel>Tailoring</Tailoring.gerundLabel>
-    <Tailoring.verb>Tailor at</Tailoring.verb>
+    <Tailoring.labelShort>Sying</Tailoring.labelShort>
+    <Tailoring.description>Lag nytt tøy av stoff, lær eller andre materialer.</Tailoring.description>
+    <Tailoring.pawnLabel>Skredder</Tailoring.pawnLabel>
+    <Tailoring.gerundLabel>Sying</Tailoring.gerundLabel>
+    <Tailoring.verb>Syr ved</Tailoring.verb>
     
-    <Art.labelShort>Art</Art.labelShort>
-    <Art.description>Create beautiful works of art from raw materials.</Art.description>
+    <Art.labelShort>Kunst</Art.labelShort>
+    <Art.description>Skap vakre kunstverk fra råmaterialer.</Art.description>
     <Art.pawnLabel>Kunstner</Art.pawnLabel>
     <Art.gerundLabel>Kunstskaping</Art.gerundLabel>
     <Art.verb>Skaper kunst ved</Art.verb>
     
-    <Crafting.labelShort>Craft</Crafting.labelShort>
-    <Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
-    <Crafting.pawnLabel>Håndværker</Crafting.pawnLabel>
-    <Crafting.gerundLabel>Håndværking</Crafting.gerundLabel>
-    <Crafting.verb>Håndverker ved</Crafting.verb>
+    <Crafting.labelShort>Håndverking</Crafting.labelShort>
+    <Crafting.description>Utfør forefallende oppgaver ved arbeidsbenker. Dette inkluderer steinkutting, smelting og mer.</Crafting.description> <!-- Smelting? -->
+    <Crafting.pawnLabel>Håndverker</Crafting.pawnLabel>
+    <Crafting.gerundLabel>Håndverking</Crafting.gerundLabel>
+    <Crafting.verb>Jobber ved</Crafting.verb>
     
-    <Hauling.labelShort>Haul</Hauling.labelShort>
-    <Hauling.description>Carry things to where they need to be.</Hauling.description>
-    <Hauling.pawnLabel>Sleper</Hauling.pawnLabel>
-    <Hauling.gerundLabel>Sleping</Hauling.gerundLabel>
-    <Hauling.verb>Slep</Hauling.verb>
+    <Hauling.labelShort>Transportering</Hauling.labelShort>
+    <Hauling.description>Transporter ting dit de skal være.</Hauling.description>
+    <Hauling.pawnLabel>Transporterer</Hauling.pawnLabel>
+    <Hauling.gerundLabel>Transportering</Hauling.gerundLabel>
+    <Hauling.verb>Transporter</Hauling.verb>
     
-    <Cleaning.labelShort>Clean</Cleaning.labelShort>
-    <Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
+    <Cleaning.labelShort>Rengjøring</Cleaning.labelShort>
+    <Cleaning.description>Fjern snø og rengjør gulvene i hjemmeområdet.</Cleaning.description>
     <Cleaning.pawnLabel>Rengjører</Cleaning.pawnLabel>
     <Cleaning.gerundLabel>Rengjøring</Cleaning.gerundLabel>
     <Cleaning.verb>Rengjør</Cleaning.verb>
     
-    <Research.labelShort>Research</Research.labelShort>
-    <Research.description>Studer og bestem deg for forskningerprosjekter.</Research.description>
+    <Research.labelShort>Forsker</Research.labelShort>
+    <Research.description>Forsk på de oppgavene du har utpekt.</Research.description>
     <Research.pawnLabel>Forsker</Research.pawnLabel>
-    <Research.gerundLabel>Forsking</Research.gerundLabel>
+    <Research.gerundLabel>Forskning</Research.gerundLabel>
     <Research.verb>Forsker ved</Research.verb>
     
 </LanguageData>
