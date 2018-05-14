@@ -1,3 +1,0 @@
--  Translate newer updates
--  Re-Translate bad translation
--  Spelling/Grammar checking
