@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PegLeg.label>peg leg</PegLeg.label>
+    <PegLeg.label>trebein</PegLeg.label>
     
-    <Denture.label>denture</Denture.label>
+    <Denture.label>gebiss</Denture.label>
     
     <SimpleProstheticLeg.label>enkel benprotese</SimpleProstheticLeg.label>
     
@@ -17,6 +17,6 @@
     
     <PowerClaw.label>kraftklo</PowerClaw.label>
     
-    <ScytherBlade.label>scyther blade</ScytherBlade.label>
+    <ScytherBlade.label>ljåblad</ScytherBlade.label>
     
 </LanguageData>
