@@ -9,6 +9,6 @@
   <FullDate>{0} {1}, År {2}</FullDate>
 	<DateReadout>{0} av {1}, {2}</DateReadout>
   <SeasonFullDate>{0} av {1}</SeasonFullDate>
-  <WholeYear>Fulle år</WholeYear>
+  <WholeYear>Fullt år</WholeYear>
   
 </LanguageData>
