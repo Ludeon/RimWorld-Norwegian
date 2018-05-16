@@ -7,11 +7,11 @@ block - kloss
 research - forskning
 forbid - forby
 unforbid - tillat
-interact - arbeide
+interact - arbeide / samhandle
 equip - utrust
 inspector pane - oversikt
 install (prothesis) - installere (feste?)
-home (area) - hjemme
+home (area) - hjemme (hjemmeområde)
 tab - trykk på [navn på knappen]
 orbital trade beacon - handelsmerke			
 stockpile zone - lagerområde
@@ -23,3 +23,4 @@ click - klikk
 mine - grave
 deteriorate - bryte ned
 cryptosleep - dvale
+faction - gruppe
