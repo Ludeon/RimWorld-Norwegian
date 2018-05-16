@@ -16,18 +16,15 @@ Added Google Spreadsheet for translation. Initial version. Only added the "Keys"
 #### 14.05.18
 Cleaned up main directory. Please keep the original file and directory structure, people. Will update to 0.18.
 
+Translators
+======
 
-Coming:
-- Term list - for those terms that are repeated in many places, to avoid inconsistencies. Needs updating.
-
-### Translators:
-
-- Darky
-- ApertureAlex
-- TheUnknownKiller
-- IllusionDistort
-- 2villa1
-- TheSettker95
-- EirikBirkeland
-- Bendik Berg
-- Erik Raae
+- Darky - Last update August 2014
+- IllusionDistort - Last update December 2014
+- 2villa1 - Last update ?
+- TheSettker95 - Last update December 2015
+- TheUnknownKiller - Last update December 2015
+- Bendik Berg - Last update March 2017
+- ApertureAlex - Last update March 2017
+- EirikBirkeland - Last update November 2017
+- Erik Raae (mr-raw) - Last update May 2018
