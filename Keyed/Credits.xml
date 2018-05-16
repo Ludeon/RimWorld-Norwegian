@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <MainPageCredit>En kolonisimulator av Tynan Sylvester</MainPageCredit>
@@ -10,11 +10,16 @@
   <Credit_GameArt>Spillgrafikk</Credit_GameArt>
   <Credit_MenuArt>Menygrafikk</Credit_MenuArt>
   <Credit_AdditionalCode>Ytterligere kode</Credit_AdditionalCode>
+  
+  <Credits_AdditionalDevelopment>Ytterligere utvikling</Credits_AdditionalDevelopment>
+
+  <Credit_SpecialThanks>En spesiell takk</Credit_SpecialThanks>
+
 
   <Credits_TitleCommunity>Frivillige</Credits_TitleCommunity>
   <Credit_Tester>Tester</Credit_Tester>
-  <Credit_ModDonation>Moddonør</Credit_ModDonation>
-  <Credit_WritingDonation>Skrivedonør</Credit_WritingDonation>
+  <Credit_ModDonation>Donering - modifikasjoner</Credit_ModDonation>
+  <Credit_WritingDonation>Donering - skriving</Credit_WritingDonation>
   <Credit_Moderator>Moderator</Credit_Moderator>
   <Credit_WikiMaster>Wikimester</Credit_WikiMaster>
 
