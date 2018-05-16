@@ -43,11 +43,15 @@
   <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>Build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  
   <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Create an area where roofs will not generate. This will also tear down existing thin roofs.</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Removes a no-roof area. Roofs will generate here, and existing roofs will not be torn down.</DesignatorAreaNoRoofClearDesc>
-
+  
+  <DesignatorAreaIgnoreRoofExpand>Ignore roof area</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>Colonists will ignore roofs in this area.</DesignatorAreaIgnoreRoofExpandDesc>
+  
   <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
@@ -90,7 +94,7 @@
   <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
 
 
-  
+  <!-- Failure messages -->
   <UnchosenStuff>Mangler materiale</UnchosenStuff>
   <TooCloseToMapEdge>For nær enden av banen.</TooCloseToMapEdge>
   <OutOfBounds>Ufremkommelig</OutOfBounds>
@@ -105,16 +109,17 @@
   <IdenticalBlueprintExists>Identisk planlegging eksisterer allerede her.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Terrenget her kan ikke støtte dette.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Plass allerede i bruk.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Plass er i ferd med å bli utjevnet.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
   
   
-  
+  <!-- Mouse attachments -->
   <ExpandOrCreateZone>Utvid {0} eller\nLag ny {1}</ExpandOrCreateZone>
   <CreateNewZone>Lag ny {0}</CreateNewZone>
   
   
-  
+  <!-- Desc helpers -->
   <TransmitsPower>Leder strøm</TransmitsPower>
-
+  <ConstructionNeeded>Konstruksjon behøves</ConstructionNeeded>
 
 </LanguageData>
