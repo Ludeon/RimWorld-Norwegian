@@ -10,9 +10,11 @@
   <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
   <StatsReport_Skills>Skill factors</StatsReport_Skills>
   <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
+  <StatsReport_Health>Health</StatsReport_Health>
   <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} impact</HealthOffsetScale>
   <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
   <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
@@ -20,6 +22,7 @@
   <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>
   <StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>In bed</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
@@ -35,5 +38,9 @@
   <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
   <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>Added body parts</StatsReport_AddedBodyPartsMass>
 
 </LanguageData>
