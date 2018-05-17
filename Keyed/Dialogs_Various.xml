@@ -1,159 +1,159 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
+  <!-- 0.18 file copied from game directory -->
+  <Confirm>Bekreft</Confirm>
+  <GoBack>Gå tilbake</GoBack>
   <OK>OK</OK>
   
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionInitial>RimWorld har blitt oppdatert fra versjon {0} til versjon {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Dette kan bety at lagrede spill og modifikasjoner fra den gamle versjonen vil stoppe å virke.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Lagrede spill fra den gamle versjonen bør være kompatibel, men noen modifikasjoner kan slutte å virke.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>Siden dette er en frittstående kopi av spillet, kan du installere spillet i flere separate kataloger, for å ha muligheten til å spille både gammel og ny versjon.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Hvis du vil fortsette å spille den gamle versjonen må du melde deg på Steam sin beta-funksjon.\n\n  1. I Steam-biblioteket høyreklikker du på RimWorld.\n  2. Gå inn på Egenskaper.\n  3. Gå inn på "Betaer"-fliken.\n  4. Velg den versjonen du vil bruke fra nedtrekksmenyen.\n\nGamle versjoner vil etter hvert bli fjernet, men vi vil ikke at du skal gå glipp av å fullføre spillet.\n\nMerk at hvis eieren av en modifikasjon skifter fokus til en ny versjon av spillet, vil de slutte å støtte gamle versjoner. For å forhindre dette kan du skru av automatiske opppdateringer.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Gjenopprettet fra en ikke kompatibel modifikasjon eller korrupte modifikasjons-filer.</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Det ser ut til noen av de aktive modifikasjonene forårsaket feil.\n\nDe var ikke kompatible med hverandre, laget for en annen versjon av RimWorld, eller hadde korrupte filer.\n\nAlle modifikasjoner har blitt deaktivert, men de kan aktiveres på nytt i modifikasjons-vinduet.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>Feil ved innlasting av ressurser</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Det oppstod en feil ved innlasting av spillressurser. Mer informasjon finner du i loggen.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Spillet kjører med tilpassede modifikasjoner - det kan hende at det er disse modifikasjonene som forårsaker problemer.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Feil ved generering av kart</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Det oppstod en feil ved generering av nytt kart. Mer informasjon finner du i loggen.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Feil ved innlasting av kart</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Det oppstod en feil ved innlasting av kart. Mer informasjon finner du i loggen.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <ModsChanged>Modifikasjonslisten har blitt oppdatert. Spillet vil nå starte på nytt.</ModsChanged>
+  <FailedToRestart>Det oppstod en feil ved omstart av spillet. Spillet kan ikke fjerne modifisert kode fra deaktiverte modifikasjoner, så kode fra deaktiverte modifikasjoner kan fremdeles være aktiv.\n\nDu bør avslutte og starte spillet på nytt selv for å laste inn alle modifikasjoner på nytt.</FailedToRestart>
+  <Restarting>Omstart</Restarting>
   
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Kunne ikke starte Steam API. Mulige årsaker:\n\n-Steam kjører ikke.\n-Du startet spillet uten Steam uten at steam_appid.txt var til mstede.\n-Du kjører med andre rettigheter enn Steam-klienten (feks "som administrator").\n\nI flest tilfeller vil en omstart av datamaskinen din fikse problemene.\n\nDu kan likevel spille, men ingen statistikk fra Steam vil bli lagret og Steam-funksjoner vil ikke være tilgjengelig.</SteamClientMissing>
   
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <InitializingInterface>Initialiserer grensesnitt</InitializingInterface>
+  <UnloadingUnusedAssets>Deaktiverer ubrukte ressurser</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Laster inn alle aktive modifikasjoner</LoadingAllActiveMods>
+  <LoadingDefs>Laster inn definisjoner</LoadingDefs>
+  <LoadingAssets>Laster inn ressurser</LoadingAssets>
+  <Initializing>Initialiserer</Initializing>
+  <LoadingWorld>Laster inn verden</LoadingWorld>
+  <LoadingMap>Laster inn kart</LoadingMap>
+  <InitializingGame>Initialiserer spill</InitializingGame>
+  <SpawningAllThings>Skaper alle objekter</SpawningAllThings>
+  <SpawningColonists>Skaper kolonister</SpawningColonists>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
-  <LoadAnyway>Load anyway</LoadAnyway>
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <SaveGameButton>Lagre</SaveGameButton>
+  <LoadGameButton>Last inn</LoadGameButton>
+  <OverwriteButton>Overskriv</OverwriteButton>
+  <ConfirmDelete>Vil du virkelig slette {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Slett dette lagrede spillet.</DeleteThisSavegame>
+  <SavedAs>Lagret som {0}.</SavedAs>
+  <NeedAName>Vennligst skriv inn et navn.</NeedAName>
+  <LoadingLongEvent>Laster inn</LoadingLongEvent>
+  <SavingLongEvent>Lagrer</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permanent død)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Vi kjører versjon {0} men lagret data er fra {1}, noe som er en helt annen versjon.\n\nInnlasting av vil antakeligvis ikke fungere.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Vi kjører versjon {0} men lagret data er fra {1}, noe som er en annen delversjon.\n\nInnlasting vil antakeligvis likevel fungere.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Lagret data ble lagret med vår versjon av spillet og bør fungere som det skal.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Lagret data har ukjent format og vil ganske sikkert ikke lastes inn på riktig måte.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Det oppstod en feil ved lagring av filen {0}:\n\n{1}\n\nMer informasjon finner du i loggen.</ProblemSavingFile>
+  <LoadAnyway>Last inn likevel</LoadAnyway>
+  <ChangeLoadedMods>Last inn liste over modifikasjoner fra lagret spill</ChangeLoadedMods>
+  <MissingMods>Noen modifikasjoner er utilgjengelige og må installeres</MissingMods>
   
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+  <NamePlayerFactionMessage>{0} mener at du bør gi gruppen din et navn. Hva vil du kalle gruppen din?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Gruppen din er nå kjent som {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Ups, navnet er ikke gyldig.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <NamePlayerFactionBaseMessage>Det ser ut til at du kommer til å være her en stund, så {0} mener at du bør gi samfunnet ditt et navn. Hva vil du kalle lokalsamfunnet ditt?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Samfunnet ditt er nå kjent som {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Ups, navnet er ikke gyldig.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Det ser ut til at du kommer til å være her en stund, så {0} mener også at du burde gi dette samfunnet et navn. Hva vil du kalle dette lokalsamfunnet?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Gruppen din er nå kjent som {0}, og dette samfunnet er nå kjent som {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInvalid>Vennligst skriv inn et gyldig navn.</NameIsInvalid>
+  <NameIsInUse>Navnet er allerede i bruk.</NameIsInUse>
+  <ZoneGainsName>Området er nå kalt {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
+  <PawnGainsName>Kolonistens kallenavn er nå {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <VersionMismatch>Feil versjon</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Spillet ble lagret med versjon {0}, du kjører versjon {1}.\n\n Hvis du laster inn dette spillet vil det forekomme feil.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Din verden ble generert med versjon {0}\nDu kjører versjon {1}\n\nHvis du laster inn denne verdenen vil det forekomme feil. Du bør generere en helt ny verden.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Denne filen ble lagret med versjon {0} av spillet\nDu kjører versjon {1}\n\nHvis du laster inn denne filen vil det forekomme feil.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Modifikasjoner samsvarer ikke</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Denne filen ble lagret med et annet sett av aktive modifikasjoner enn det du kjører nå. Det er mulig at dette kan forårsake problemer, avhengig av akkurat hva disse modifikasjonene gjør.\n\nFilen ble lagret (i denne rekkefølgen):\n\n{0}\n\nDu kjører med (i denne rekkefølgen):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>Du har endret skjerminnstillingene dine. Fungerer de nye?\n\nReverserer automatisk om {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Behold</ResolutionKeep>
+  <ResolutionRevert>Reverser</ResolutionRevert>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <Locked>Locked</Locked>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <Research>Forskning</Research>
+  <Researched>Ferdig utforsket</Researched>
+  <Unresearched>Ikke utforsket</Unresearched>
+  <Finished>Ferdig</Finished>
+  <InProgress>Pågår</InProgress>
+  <Locked>Låst</Locked>
+  <ResearchMenuWithoutBench>Fram til du bygger en FORSKNINGSBENK, så vil kolonistene dine ikke gjøre noen faktisk forskning.\n\nLikevel kan du fortsatt se på og velge forsknings prosjekter nå.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Forutsetninger for forskning</ResearchPrerequisites>
+  <RequiredResearchBench>Krever en forskningsbenk</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Krever forskningsbenk-anlegg</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
+  <MapTemperatureDangerWarning>ADVARSEL: Du vil lande i et frossent miljø. Det kan være vanskelig eller nesten umulig å overlever her. Hvis du ikke er ute etter en ekstrem utfordring så bør du kanskje velge et annet landingssted eller tid på året.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>ADVARSEL: Ytelsen kan minke med større bane om du ikke har en sterk datamaskin.\n\nOm du har en svak datamaskin, velg en liten bane.\n\nLatterlig størrelse er ikke testet og vil sannsynligvis ikke kjøre bra.</MapSizePerformanceWarning>
+  <MapSize>Kartstørrelse</MapSize>
   <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
+  <MapSizeSmall>Liten</MapSizeSmall>
   <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
-  <MapStartSeason>Starting season:</MapStartSeason>
+  <MapSizeLarge>Stor</MapSizeLarge>
+  <MapSizeExtreme>Latterlig stor</MapSizeExtreme>
+  <MapStartSeason>Årstid ved start:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
-  <PermadeathMode>Permadeath mode</PermadeathMode>
-  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <PermadeathMode>Permanent død-modus</PermadeathMode>
+  <PermadeathModeInfo>I permanent død-modus får du kun en lagringsfil og du kan kun lagre når du avslutter spillet. du kan ikke laste inn igjen lagret spill for å rette opp i feil, og når kolonien dør, så er det ingen vei tilbake.\n\nDet var på denne måten RimWorld var ment å bli spilt, med hver dramatisk vendig - enten tragisk eller håpefull - harde fakta!</PermadeathModeInfo>
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-	<Details>Details</Details>
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
-  <CurrentlyHave>Currently have</CurrentlyHave>
-  <CountingProducts>Counting</CountingProducts>
-  <Infinite>Infinite</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <Suspended>Utsatt</Suspended>
+  <NotSuspended>Ikke utsatt</NotSuspended>
+  <SuspendedAllCaps>UTSATT</SuspendedAllCaps>
+  <RepeatCount>Gjenta: {0}</RepeatCount>
+  <Forever>For alltid</Forever>
+	<Details>Detaljer</Details>
+  <IngredientSearchRadius>Ingrediens-radius</IngredientSearchRadius>
+  <CurrentlyHave>Har nåværende</CurrentlyHave>
+  <CountingProducts>Tellende</CountingProducts>
+  <Infinite>Uendelig</Infinite>
+  <AllowedSkillRange>Tillatt {0} egenskap:</AllowedSkillRange>
   
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Work amount</WorkAmount>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <RecipeCannotHaveTargetCount>(Denne oppskriften kan ikke ha et målantall fordi den har flere eller uforutsigbare ingredienser.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Mengde arbeid</WorkAmount>
+  <MinimumSkills>Absolutt minimum ferdigheter:</MinimumSkills>
+  <BillRequires>Krever {0} {1}</BillRequires>
+  <BillRequiresNutrition>Krever {0} næring</BillRequiresNutrition>
+  <BillRequiresMayVary>Merk: små-volum-ingredienser som gull krever {0}x så mye.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Dette er en liten-volum-ingrediens. Dette betyr at hver 'enhet' kun er 1/{0} så mye som en normal-volum-ingrediens. Så for å utfylle samme ingredienskrav trenger du {0}x så mye som vanlig.</ThisIsSmallVolume>
+  <UsableIngredients>ingredienser</UsableIngredients>
+  <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
 
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
-  <Unpause>Unpause</Unpause>
+  <PauseWhenSatisfied>Pause ved oppnådd nivå</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Gjenoppta ved</UnpauseWhenYouHave>
+  <Paused>Pauset</Paused>
+  <Unpause>Gjenoppta</Unpause>
   
   <!-- Info card -->
   <Damage>Damage</Damage>
