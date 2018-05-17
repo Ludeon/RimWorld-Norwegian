@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
-  <StatsReport_Material>Material</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Skill factors</StatsReport_Skills>
-  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
-  <StatsReport_Health>Health</StatsReport_Health>
-  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
-  <HealthOffsetScale>{0} impact</HealthOffsetScale>
-  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
-  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
-  <StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>
-  <StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
-  <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Stat is displayed in the following format:\nDPS ( Melee damage / Cooldown in seconds / Melee hit chance )\n\nDPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
+  <StatsReport_BaseValue>Grunnverdi</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevante trekk</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Relevante helseverdier</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Livsfase</StatsReport_LifeStage>
+  <StatsReport_Material>Materiale</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Ferdighetsfaktorer</StatsReport_Skills>
+  <StatsReport_OtherStats>Andre statistiske faktorer</StatsReport_OtherStats>
+  <StatsReport_Health>Helse</StatsReport_Health>
+  <HealthFactorPercentImpact>{0} betydning</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} innvirkning</HealthOffsetScale>
+  <HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>hvis mindre enn {0}</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>Etterbehandlingskurve</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Endelig verdi</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Grunnleggende markedsverdi er satt utifra konstruksjonsmaterialer og arbeidsmengde.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Verdipåvirkende kvalitet</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Alderens verdipåvirkning {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Helsens verdipåvirkning {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Humørets verdipåvirkning {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>Lysets verdipåvirkning {0}</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>Vanskelighetsgradens verdipåvirkning {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>I sengen</StatsReport_InBed>
+  <StatsReport_Facilities>Fasiliteter</StatsReport_Facilities>
+  <StatsReport_BodySize>Kroppsstørrelsens verdipåvirkning {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Verdien er vist i følgene format:\nDPS ( Slagskade / Ventetid i sekunder / Sjanse for slagskade )\n\nDPS = Skade av slag * Sjanse for treff med slag / Ventetid i sekunder</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Slagskade</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Ventetid</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Treffsjanse ved slag</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>Gear and inventory mass</StatsReport_GearAndInventoryMass>
-  <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
-  <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
+  <StatsReport_LifeExpectancy>Forventet levetid</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Manglende kroppsdelers verdipåvirkning</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Utstyrets og inventarets masse</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Verdipåvirkning ved at gjenstanden kommer fra et lik</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>gjennomsnitt av alle angrep</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
-  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_IngredientsMass>Ingredienser</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Permanent deaktivert.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <StatsReport_AddedBodyPartsMass>Added body parts</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Kroppsdeler lagt til</StatsReport_AddedBodyPartsMass>
 
 </LanguageData>
