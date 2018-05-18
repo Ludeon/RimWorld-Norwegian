@@ -15,9 +15,9 @@
   <SilverGiftSent>Representanten til {0} takker deg.\n\n(Velvilje forbedret med {1}).</SilverGiftSent>
 
   <!-- trade caravan request -->
-  <RequestTrader>Be om en handelskonvoi (kostnad: {0} sølv)</RequestTrader>
-  <ChooseTraderKind>{0} spør hva slags handelskonvoi du behøver.</ChooseTraderKind>
-  <TraderSent>{0} godtar å sende deg en handelskonvoi. Den vil ankomme om noen få dager.</TraderSent>
+  <RequestTrader>Be om en handelskaravane (kostnad: {0} sølv)</RequestTrader>
+  <ChooseTraderKind>{0} spør hva slags handelskaravane du behøver.</ChooseTraderKind>
+  <TraderSent>{0} godtar å sende deg en handelskaravane. Den vil ankomme om noen få dager.</TraderSent>
   <WaitTime>vent {0}</WaitTime>
 
 

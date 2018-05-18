@@ -106,7 +106,7 @@
   <NeedWarmClothesDesc1All>Alle dine kolonister vil mangle varme klær når vinteren kommer.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Utetemperaturen kommer til å nå {0}.\n\nDu kan sy varme klær ved skredderbenken eller kjøpe dem fra omreisende handelsfolk.</NeedWarmClothesDesc2>
   
-  <ImmobileCaravan>Ubevegelig konvoi</ImmobileCaravan>
-  <ImmobileCaravanDesc>En av dine konvoier står stille fordi den er overlasset med varer.\n\nDu kan få konvoien til å bevege seg igjen ved å forlate noen eiendeler.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Ubevegelig karavane</ImmobileCaravan>
+  <ImmobileCaravanDesc>En av dine karavaner står stille fordi den er overlasset med varer.\n\nDu kan få karavanen til å bevege seg igjen ved å forlate noen eiendeler.</ImmobileCaravanDesc>
   
 </LanguageData>
