@@ -117,7 +117,7 @@
   <MapTemperatureDangerWarning>ADVARSEL: Du vil lande i et frossent miljø. Det kan være vanskelig eller nesten umulig å overlever her. Hvis du ikke er ute etter en ekstrem utfordring så bør du kanskje velge et annet landingssted eller tid på året.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>ADVARSEL: Ytelsen kan minke med større bane om du ikke har en sterk datamaskin.\n\nOm du har en svak datamaskin, velg en liten bane.\n\nLatterlig størrelse er ikke testet og vil sannsynligvis ikke kjøre bra.</MapSizePerformanceWarning>
   <MapSize>Kartstørrelse</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} ruter)</MapSizeDesc>
   <MapSizeSmall>Liten</MapSizeSmall>
   <MapSizeMedium>Medium</MapSizeMedium>
   <MapSizeLarge>Stor</MapSizeLarge>
@@ -156,102 +156,102 @@
   <Unpause>Gjenoppta</Unpause>
   
   <!-- Info card -->
-  <Damage>Damage</Damage>
-  <Accuracy>Accuracy</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
-  <WarmupTime>Warmup</WarmupTime>
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
-  <Range>Range</Range>
-  <GrowsWild>Grows wild</GrowsWild>
-  <Harvestable>Harvestable</Harvestable>
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
-  <GrowingTime>Growing time</GrowingTime>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
-  <Days>days</Days>
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
-  <LightRequirement>Light requirement</LightRequirement>
-  <Attributes>Attributes</Attributes>
-  <LifeSpan>Lifespan</LifeSpan>
-  <Nutrition>Nutrition</Nutrition>
-  <Joy>Joy</Joy>
-  <FoodQuality>Food quality</FoodQuality>
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
-  <Diet>Diet</Diet>
-	<BodySize>Body size</BodySize>
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
-  <MarketValue>Base price</MarketValue>
-  <Covers>Covers</Covers>
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
-  <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <Damage>Skade</Damage>
+  <Accuracy>Nøyaktighet</Accuracy>
+  <BurstShotCount>Frekvens ved flerskudd</BurstShotCount>
+  <WarmupTime>Oppvarmingstid</WarmupTime>
+  <MeleeWarmupTime>Oppvarmingstid for slag</MeleeWarmupTime>
+  <CooldownTime>Ventetid</CooldownTime>
+  <BurstShotFireRate>Skuddfrekvens</BurstShotFireRate>
+  <Range>Avstand</Range>
+  <GrowsWild>Gror villt</GrowsWild>
+  <Harvestable>Kan høstes</Harvestable>
+  <LimitedLifespan>Begrenset levetid</LimitedLifespan>
+  <GrowingTime>Dyrketid</GrowingTime>
+  <GrowingTimeDesc>Planter vokser bare deler av dagen, og når det er lyst ute. Denne verdien måler hvor mye tid planten trenger for å bli fullvokst. Den faktiske dyrketiden vil som oftest være dobbelt så lang. Lav temperatur øker også dyrketiden.</GrowingTimeDesc>
+  <Days>dager</Days>
+  <MinGrowingSkillToSow>Minimium kunnskap om plantevekst for å så</MinGrowingSkillToSow>
+  <FertilityRequirement>Påkrevd fruktbarhetsnivå</FertilityRequirement>
+  <FertilitySensitivity>Fruktbarhetssensitivitet</FertilitySensitivity>
+  <LightRequirement>Påkrevd lysnivå</LightRequirement>
+  <Attributes>Egenskaper</Attributes>
+  <LifeSpan>Levetid</LifeSpan>
+  <Nutrition>Ernæring</Nutrition>
+  <Joy>Glede</Joy>
+  <FoodQuality>Matkvalitet</FoodQuality>
+  <WalkSpeedProperty>Gåhastighet</WalkSpeedProperty>
+  <MinFoodQuality>Minimum matkvalitet</MinFoodQuality>
+  <Diet>Kosthold</Diet>
+	<BodySize>Kroppsstørrelse</BodySize>
+  <RecruitDifficulty>Vanskelighetsnivå rekruttering</RecruitDifficulty>
+  <MarketValue>Markedsverdi</MarketValue>
+  <Covers>Dekker</Covers>
+  <CoverEffectiveness>Effektivitet ved dekning</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Hvor effektivt dette er når det er brukt som dekning i en skuddveksling. Høyere verdi blokkerer flere skudd.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Erfaringsgevinst-faktor</MedicineXpGainFactor>
+  <MoodChange>Humørsvingninger</MoodChange>
+  <Wildness>Villskap</Wildness>
+  <WildnessExplanation>Villere skapninger er naturligvis vanskeligere å temme, trene og håndtere.</WildnessExplanation>
   <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
-  <Addictiveness>Addictiveness</Addictiveness>
-	<PackAnimal>Pack animal</PackAnimal>
-	<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
-  <Skill>Skill</Skill>
-  <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
-  <SurgeryRequireBed>Requires bed</SurgeryRequireBed>
-  <WorkSpeedStat>Work speed governed by</WorkSpeedStat>
-  <EfficiencyStat>Output quantity governed by</EfficiencyStat>
-  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
+  <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Tid</TimeRecordsCategory>
+  <MiscRecordsCategory>Diverse</MiscRecordsCategory>
+  <Addictiveness>Avhengighet</Addictiveness>
+	<PackAnimal>Pakkdyr</PackAnimal>
+	<PackAnimalExplanation>Viser om dette dyret passer til å bære ting i en kolonne over lengre avstander.</PackAnimalExplanation>
+  <Skill>Ferdighet</Skill>
+  <SurgerySuccessChanceFactor>Verdiendrinsnivå som justerer sjansen for at operasjonen er vellykket</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>Krever seng</SurgeryRequireBed>
+  <WorkSpeedStat>Arbeidshastighet er styrt av</WorkSpeedStat>
+  <EfficiencyStat>Produsert mengde er styrt av</EfficiencyStat>
+  <ConstructionSkillRequired>Påkrevd ferdighetsnivå for konstruksjon</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Krever dette ferdighetsnivået for Konstruksjon for å bygge.</ConstructionSkillRequiredExplanation>
 
   <!-- Trade -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
-  <AcceptButton>Accept</AcceptButton>
-  <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
-  <CloseButton>Close</CloseButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
+  <PositiveBuysNegativeSells>Positive tall betyr at du kjøper.\nNegative tall betyr at du selger.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Prisen du betaler for å kjøpe dette.</BuyPriceDesc>
+  <SellPriceDesc>Prisen du mottar for å selge dette.</SellPriceDesc>
+  <PriceTypeDesc>For denne tingen er prisen {0}.</PriceTypeDesc>
+  <ColonyCount>Antall av denne tingen som kolonien har klar til å kjøpslå med..\n\nDu kan bare selge ting til "orbitale" handelsmenn hvis tingene er utendørs og nærme et handelsmerke.</ColonyCount>
+  <TraderCount>Antall av denne tingen som handelsmannen er villig til å kjøpslå med.</TraderCount>
+  <AcceptButton>Aksepter</AcceptButton>
+  <ResetButton>Nullstill</ResetButton>
+  <CancelButton>Avbryt</CancelButton>
+  <CloseButton>Lukk</CloseButton>
+  <YourTradeableSilver>Sølv tilgjengelig: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade this.</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
-  <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>Your negotiator {0} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
-  <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
+  <TraderHasNoMore>Handelsmannen har ikke mer.</TraderHasNoMore>
+  <ColonyHasNoMore>Ikke noe mer å selge.</ColonyHasNoMore>
+  <TraderWillNotTrade>Handelsmannen vil ikke bytte dette med deg.</TraderWillNotTrade>
+  <Negotiator>Forhandler</Negotiator>
+  <NegotiatorTalkingImpaired>Din forhandler, {0}, kan ikke snakke ordentlig på grunn av dårlig helse.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>Din forhandler, {0}, kan ikke høre ordentlig på grunn av dårlig helse.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>Dette vil påvirke handelsprisene.\n\nVurder om du kanskje skal bruke en forhandler som er friskere.</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>Handelsmannen har ikke nok sølv til å dekke dette kjøpet.  Fortsett likevel?</ConfirmTraderShortFunds>
+  <SortBy>Sorter etter</SortBy>
 	<TraderTypePrice>trader type</TraderTypePrice>
-	<Selling>selling</Selling>
-	<Buying>buying</Buying>
+	<Selling>selger</Selling>
+	<Buying>kjøper</Buying>
 	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
-	<DifficultyLevel>difficulty level</DifficultyLevel>
+	<DifficultyLevel>vansklighetsnivå</DifficultyLevel>
 	<PostCurve>global post-process curve</PostCurve>
 	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
-	<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+	<TradeWithFactionBaseBonus>Bonus ved handel med gruppe-base</TradeWithFactionBaseBonus>
 	<minimum>minimum</minimum>
-	<FinalPrice>Final price</FinalPrice>
+	<FinalPrice>Endelig pris</FinalPrice>
   <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
-  <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
-  <PawnsTab>People and animals</PawnsTab>
-  <ItemsTab>Items</ItemsTab>
-  <CaravanConfigTab>Config</CaravanConfigTab>
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
-  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+  <FormCaravan>Opprett karavane</FormCaravan>
+  <FormCaravanColonyThingCountTip>Antall av denne tingen som kolonien har klar til å gi til karavanen.</FormCaravanColonyThingCountTip>
+  <PawnsTab>Mennesker og dyr</PawnsTab>
+  <ItemsTab>Elementer</ItemsTab>
+  <CaravanConfigTab>Konfigurasjon</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>Du må tildele minst én oppegående kolonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Den valgte utgangen ({0}) er ikke tilgjengelig.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Kan ikke finne en gyldig parkeringsplass. Pass på at den valgte utgangen  ({0}) er tilgjengelig.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>ADVARSEL: Noen av de valgte kolonistene kan ikke nå utgangen ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
   <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
   <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
