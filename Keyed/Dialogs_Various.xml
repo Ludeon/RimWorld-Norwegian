@@ -249,146 +249,146 @@
   <CaravanConfigTab>Konfigurasjon</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Du må tildele minst én oppegående kolonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Den valgte utgangen ({0}) er ikke tilgjengelig.</CaravanCouldNotFindExitSpot>
-  <CaravanCouldNotFindPackingSpot>Kan ikke finne en gyldig parkeringsplass. Pass på at den valgte utgangen  ({0}) er tilgjengelig.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>Kan ikke finne en gyldig parkeringsplass. Pass på at den valgte utgangen ({0}) er tilgjengelig.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>ADVARSEL: Noen av de valgte kolonistene kan ikke nå utgangen ({0}).</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
-  <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+  <CaravanItemIsUnreachableSingle>Ingen av de valgte kolonistene greier å nå {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>Ingen av de valgte kolonistene er greier å nå {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Karavanen har ikke mulighet til å bære så mye.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Nåværene massebruk og massekapasitet.\n\nMassebruk inkluderer karavanens forsyninger og kolonistenes utstyr.\n\nDu kan ikke sende karavanen hvis vekten overskrider kapasiteten.</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
-  <CaravanIncapableOfSocial>You have no caravan members capable of diplomacy or trading.</CaravanIncapableOfSocial>
-  <CaravanAreYouSure>Are you sure you want to form this caravan?</CaravanAreYouSure>
-  <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Exit direction</ExitDirection>
+  <DaysWorthOfFoodInfo>{0} dager med mat</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} dager med mat, råtner om {1} dager</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Vil aldri gå tom for mat</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Omtrentlig antall dager før karavanen går tom for mat.\n\nTatt i betraktning menneskemat og dyremat, og viser "worst case scenario". Det betyr at etter så mange dager vil minst en person eller et dyr gå tom for mat.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antar vi at planteetere kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antater vi at planteetere IKKE kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodWarningDialog>Karavanen din har bare {0} dager med mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har gått tom for mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>En stor del av maten vil snart bli dårlig.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>Du har ingen karavane-medlemmer som er kapabel til utføre diplomati eller handel.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>Vil du virkelig opprette denne karavanen?</CaravanAreYouSure>
+  <NoExitDirectionForCaravanChosen>Du må velge en utgangsretning for karavanen.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(ingen utgangsretning tilgjengelig)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Utgangsretning</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
-  <MarketValueTip>Market value</MarketValueTip>
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
-  <MassCapacity>Mass capacity</MassCapacity>
-  <Mass>Mass</Mass>
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
-  <InventoryMass>Inventory mass</InventoryMass>
-  <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
-  <ReformCaravan>Reform caravan</ReformCaravan>
-  <ColonistsSection>Colonists</ColonistsSection>
-  <PrisonersSection>Prisoners</PrisonersSection>
-  <AnimalsSection>Animals</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
-  <AbandonButton>Abandon</AbandonButton>
+  <ItemWeightTip>Dette elementets vekt.</ItemWeightTip>
+  <MarketValueTip>Markedsverdi</MarketValueTip>
+  <DaysUntilRotTip>Antall dager før dette elementet begynner å råtne, basert på gjennomsnittstemperaturen i dette området.</DaysUntilRotTip>
+  <MassCapacity>Massekapasitet</MassCapacity>
+  <Mass>Masse</Mass>
+  <EquipmentAndApparelMass>Utstyrets masse</EquipmentAndApparelMass>
+  <InventoryMass>Inventarets masse</InventoryMass>
+  <CaravanFormationProcessStarted>Dine kolonister vil ta med seg de valgte elementene og forlate området så fort som mulig.</CaravanFormationProcessStarted>
+  <ReformCaravan>Samle sammen karavanen igjen</ReformCaravan>
+  <ColonistsSection>Kolonister</ColonistsSection>
+  <PrisonersSection>Fanger</PrisonersSection>
+  <AnimalsSection>Dyr</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Estimert tid til destinasjonen</EstimatedTimeToDestinationButton>
+  <AbandonButton>Forlat</AbandonButton>
   
   <!-- Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-  <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+  <SplitCaravan>Splitt opp karavanen</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Du må la minst én oppegående kolonist være igjen.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>Nåværende</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>Antall av dette elementet som karavanen har tilgjengelig til å overføre til den nye karavanen.</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Nåværende masseforbruk og massekapasitet.</SplitCaravanMassUsageTooltip>
   
   <!-- Load transporters -->
-  <LoadTransporters>Load {0}</LoadTransporters>
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
+  <LoadTransporters>Last {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>De valgte menneskene og elementene er for tunge for transport-pod'ene.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Du kan ikke sende tomme tranport-pod'er.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} kan ikke nå transport-pod'ene.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>Det finnes ingen sti mellom transport-pod'ene og  {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Det finnes ingen sti mellom transort-pod'ene og {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Nåværende masseforbruk og massekapasitet.\n\nDu kan ikke sende transport-pod'ene hvis forbruket er større enn kapasiteten.</TransportersMassUsageTooltip>
   
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>Sosiale ferdigheterSocial skill{0}</SocialSkillIs>
   
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchFinished>Forskning ferdig: {0}</ResearchFinished>
+  <ResearchScreen>Forskningsvindu</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>Vil du laste opp spillstatistikk til RimWorld-serveren for å hjelpe utviklerne med å balansere spillet? Hvis du godtar vil dine data bli lastet opp hver {0} dag(er) (og i noen skjeldne tilfeller når spillet er ferdig). Personvernsinnstillingene kan endres i innstillingene.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Selv om spillstatistikken er sendt anonymt har du mulighet til å legge ved navnet ditt.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Tillatt opplasting av spillstatistikk</HistoryUploadYes>
+  <HistoryUploadNo>Ikke tillatt opplasting av spillstatistikk</HistoryUploadNo>
+  <HistoryUploadYesOnce>Last opp kun denne gangen</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Ikke last opp denne gangen, spør meg igjen senere</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>Select outfit...</SelectOutfit>
-  <NewOutfit>New outfit</NewOutfit>
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <Outfit>Antrekk</Outfit>
+  <SelectOutfit>Velg antrekk...</SelectOutfit>
+  <NewOutfit>Nytt antrekk</NewOutfit>
+  <DeleteOutfit>Slett antrekk...</DeleteOutfit>
+  <OutfitInUse>Antrekket er i bruk av  {0}.</OutfitInUse>
+  <NoOutfitSelected>Intet antrekk er valgt</NoOutfitSelected>
   
   <!-- Drug policy management -->
-  <DrugPolicy>Drug policy</DrugPolicy>
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
-  <NewDrugPolicy>New policy</NewDrugPolicy>
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
-  <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
-  <SocialDrugs>Social drugs</SocialDrugs>
-  <NoDrugs>No drugs</NoDrugs>
-  <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
-  <Unrestricted>Unrestricted</Unrestricted>
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
-  <AddDrug>Add drug...</AddDrug>
-  <DrugColumnLabel>Drug</DrugColumnLabel>
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
-  <EveryDay>Every day</EveryDay>
-  <TimesPerDay>{0} times per day</TimesPerDay>
-  <EveryDays>Every {0} days</EveryDays>
-  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
-  <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
-  <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
+  <DrugPolicy>Narkotikapolitikk</DrugPolicy>
+  <SelectDrugPolicy>Velg politikk...</SelectDrugPolicy>
+  <NewDrugPolicy>Ny politikk</NewDrugPolicy>
+  <DeleteDrugPolicy>Slett politikk...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Narkotikapolitikken er i bruk av {0}.</DrugPolicyInUse>
+  <SocialDrugs>Sosial narkotika</SocialDrugs>
+  <NoDrugs>Ingen narkotika</NoDrugs>
+  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
+  <Unrestricted>Ubegrenset</Unrestricted>
+  <NoDrugPolicySelected>Ingen narkotikapolitikk valgt</NoDrugPolicySelected>
+  <AddDrug>Legg til narkotika...</AddDrug>
+  <DrugColumnLabel>Narkotika</DrugColumnLabel>
+  <DrugUsageColumnLabel>Bruk</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Frekvens</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Kun hvis humøret er under</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Kun hvis gleden er under</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Flytt til inventaret</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(ingen narkotika)</NoDrugsBrackets>
+  <EveryDay>Hver dag</EveryDay>
+  <TimesPerDay>{0} ganger per dag</TimesPerDay>
+  <EveryDays>Hver {0} dag(er)</EveryDays>
+  <NoDrugUseRequirement>Hva som helst</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Slett dette narkotikumet.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Navn på narkotikum.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>Hvordan narkotikumet er tillatt brukt.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>Hvor ofte kolinistene bør prøve å ta dette narkotikumet.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres humørniva er under dette nivået.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres gledesnivå er under dette nivået.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-	<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-	<DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <DrugUsageTipForAddiction>For avhengighet\n\nBruk dette narkotikumet for å stilne den avhengigheten som allerede finnes.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>For glede\n\nBruk dette narkotikumet for glede og sosial sammenheng.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Planlagt\n\nBruk dette narkotikumet i et forhåndsbestemt tidsskjema, når spesifikke betingelser er til stede.</DrugUsageTipScheduled>
 
   <!-- Medical settings -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupDefaults>Normalverdi</MedGroupDefaults>
+  <MedGroupColonist>Kolonister</MedGroupColonist>
+  <MedGroupImprisonedColonist>Fengslede kolonister</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Kolonidyr</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Nøytrale dyr</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Nøytrale grupper</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Fiendtlige grupper</MedGroupHostileFaction>
   
   <!-- Growing -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} krever {1} ferdighet i Groing for å så.\n\nIngen av dine oppegående kolonister har denne ferdigheten, så denne planten vil ikke bli sådd.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeWithColonyPawns>Noen av dine kolonister eller dyr er i dette området. Vil du virkelig forlate dette området?\n\nFølgende kolonister og dyr vil bli forlatt:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>Forlating av {0} vil føre til at de følgende menneskede vil få de følgende tankene:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Alle:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+  <ConfirmLeavePrisonersOrAnimalsBehind>Det er fremdeles noen fanger eller dyr igjen i dette området og dette er den eneste karavanen de kan bli med i øyeblikket.\n\nHvis du flytter karavanen vil de ikke være i stand til å forlate området til du er tilbake igjen. Fangene vil prøve å rømme, mens dyrene vil vente på deg.\n\nHvis du velger å vente vil de prøve å bli med karavanen så fort som mulig.\n\nVil du virkelig flytte karavanen?</ConfirmLeavePrisonersOrAnimalsBehind>
   
   <!-- Abandon pawn -->
-  <ConfirmBanishPawnDialog>Do you really want to banish {0}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{0} will most likely die.</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} will take the following items with HIM:</ConfirmBanishPawnDialog_Items>
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>Banishing {0} will cause the following people to get the following thoughts:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog>Vil du virkelig forlate {0}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{0} vil mest sannsynligvis dø.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{0} vil ta med seg de følgende elementene:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Alle kolonistene vil få de følgende tankene:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Hvis du forlater {0} vil dette resultere i at de følgende menneskene vil få disse tankene:</ConfirmBanishPawnDialog_IndividualThoughts>
   
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn't completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Gruppen med pod'er er ikke ferdig lastet. {0} mangler. Start likevel?</ConfirmSendNotCompletelyLoadedPods>
   
-</LanguageData>
+</LanguageData>0
