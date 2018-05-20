@@ -1,4 +1,4 @@
-Common terms - native translation
+﻿Common terms - native translation
 item - ting
 colonist - kolonist
 joy - fornøyelse (moro?)
@@ -24,3 +24,4 @@ mine - grave
 deteriorate - bryte ned
 cryptosleep - dvale
 faction - gruppe
+caravan - karavane
