@@ -2,77 +2,77 @@
 <LanguageData>
     
     <SpeedOffset.degreeDatas.0.label>sløv</SpeedOffset.degreeDatas.0.label>
-    <SpeedOffset.degreeDatas.0.description>NAME faller alltid etter i gruppen, når HE går noen steder som helst.</SpeedOffset.degreeDatas.0.description>
+    <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] faller alltid etter i gruppen, når [PAWN_pronoun] går noen steder som helst.</SpeedOffset.degreeDatas.0.description>
     <SpeedOffset.degreeDatas.1.label>hurtig</SpeedOffset.degreeDatas.1.label>
-    <SpeedOffset.degreeDatas.1.description>NAME er flink til å komme fort ditt HE skal til. HECAP går hurtigere en de fleste.</SpeedOffset.degreeDatas.1.description>
+    <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] er flink til å komme fort ditt [PAWN_pronoun] skal til. [PAWN_pronoun] går hurtigere en de fleste.</SpeedOffset.degreeDatas.1.description>
     <SpeedOffset.degreeDatas.2.label>jogger</SpeedOffset.degreeDatas.2.label>
-    <SpeedOffset.degreeDatas.2.description>NAME beveger seg altid som om, det var ingen tid å spille - så raskt, at andre ofte faller etter.</SpeedOffset.degreeDatas.2.description>
+    <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] beveger seg altid som om, det var ingen tid å spille - så raskt, at andre ofte faller etter.</SpeedOffset.degreeDatas.2.description>
     
     <DrugDesire.degreeDatas.0.label>chemical fascination</DrugDesire.degreeDatas.0.label>
-    <DrugDesire.degreeDatas.0.description>NAME has an intense fascination with chemical sources of enjoyment. HECAP will consume much more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.0.description>
+    <DrugDesire.degreeDatas.0.description>[PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.0.description>
     <DrugDesire.degreeDatas.1.label>chemical interest</DrugDesire.degreeDatas.1.label>
-    <DrugDesire.degreeDatas.1.description>NAME has an unusual interest in chemical sources of enjoyment. HECAP will consume more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.1.description>
+    <DrugDesire.degreeDatas.1.description>[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.1.description>
     <DrugDesire.degreeDatas.2.label>teetotaler</DrugDesire.degreeDatas.2.label>
-    <DrugDesire.degreeDatas.2.description>NAME abhors the idea of gaining pleasure from chemicals, and avoids alcohol and drugs.</DrugDesire.degreeDatas.2.description>
+    <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and drugs.</DrugDesire.degreeDatas.2.description>
     
     <NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
-    <NaturalMood.degreeDatas.0.description>NAME er bare naturlig oppe og kjører over HIS situasjon, riktig godt hele tiden, uansett hva det er som skjer.</NaturalMood.degreeDatas.0.description>
+    <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] er bare naturlig oppe og kjører over [PAWN_possessive] situasjon, riktig godt hele tiden, uansett hva det er som skjer.</NaturalMood.degreeDatas.0.description>
     <NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
-    <NaturalMood.degreeDatas.1.description>NAME er naturlig optimistisk omkring livet. Det er svært lite som kan få HIM ned på humøret.</NaturalMood.degreeDatas.1.description>
+    <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] er naturlig optimistisk omkring livet. Det er svært lite som kan få [PAWN_objective] ned på humøret.</NaturalMood.degreeDatas.1.description>
     <NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
-    <NaturalMood.degreeDatas.2.description>NAME har som vane, å se på de dårlige tingene ved livet.</NaturalMood.degreeDatas.2.description>
+    <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] har som vane, å se på de dårlige tingene ved livet.</NaturalMood.degreeDatas.2.description>
     <NaturalMood.degreeDatas.3.label>depressiv</NaturalMood.degreeDatas.3.label>
-    <NaturalMood.degreeDatas.3.description>NAME er altid trist. HECAP har problemer med å holde seg i et godt humør, selv når ting er helt ok.</NaturalMood.degreeDatas.3.description>
+    <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] er altid trist. [PAWN_pronoun] har problemer med å holde seg i et godt humør, selv når ting er helt ok.</NaturalMood.degreeDatas.3.description>
     
     <Nerves.degreeDatas.0.label>jernvilje</Nerves.degreeDatas.0.label>
-    <Nerves.degreeDatas.0.description>NAME's vilje er som et jernskiold. HECAP fortsetter altid gjennom tykt og tynt, når andre bryter ned lenge før.</Nerves.degreeDatas.0.description>
+    <Nerves.degreeDatas.0.description>[PAWN_nameDef]'s vilje er som et jernskiold. [PAWN_pronoun] fortsetter altid gjennom tykt og tynt, når andre bryter ned lenge før.</Nerves.degreeDatas.0.description>
     <Nerves.degreeDatas.1.label>standhaftig</Nerves.degreeDatas.1.label>
-    <Nerves.degreeDatas.1.description>NAME er mentalt sterk og vil ikke bryte sammen under press, der de fleste mennesker ville gjort.</Nerves.degreeDatas.1.description>
+    <Nerves.degreeDatas.1.description>[PAWN_nameDef] er mentalt sterk og vil ikke bryte sammen under press, der de fleste mennesker ville gjort.</Nerves.degreeDatas.1.description>
     <Nerves.degreeDatas.2.label>nervøs</Nerves.degreeDatas.2.label>
-    <Nerves.degreeDatas.2.description>NAME har som vane å bryte sammen under press.</Nerves.degreeDatas.2.description>
+    <Nerves.degreeDatas.2.description>[PAWN_nameDef] har som vane å bryte sammen under press.</Nerves.degreeDatas.2.description>
     <Nerves.degreeDatas.3.label>sårbar</Nerves.degreeDatas.3.label>
-    <Nerves.degreeDatas.3.description>NAME henger på spissen hele tiden. HECAP er den første som bryter sammen i en hard sitasjon.</Nerves.degreeDatas.3.description>
+    <Nerves.degreeDatas.3.description>[PAWN_nameDef] henger på spissen hele tiden. [PAWN_pronoun] er den første som bryter sammen i en hard sitasjon.</Nerves.degreeDatas.3.description>
     
     <Neurotic.degreeDatas.0.label>neurotisk</Neurotic.degreeDatas.0.label>
-    <Neurotic.degreeDatas.0.description>NAME kan godt like å gjøre ting på sin egen måte. HECAP vil arbeide hardere en de fleste, for å opprettholde tingene på sin måte, men HIS nerver kan ramme HIM hardt.</Neurotic.degreeDatas.0.description>
+    <Neurotic.degreeDatas.0.description>[PAWN_nameDef] kan godt like å gjøre ting på sin egen måte. [PAWN_pronoun] vil arbeide hardere en de fleste, for å opprettholde tingene på sin måte, men [PAWN_possessive] nerver kan ramme [PAWN_objective] hardt.</Neurotic.degreeDatas.0.description>
     <Neurotic.degreeDatas.1.label>veldig neurotisk</Neurotic.degreeDatas.1.label>
-    <Neurotic.degreeDatas.1.description>NAME føler seg konstant nervøs rundt alt det som skal ordnes. HECAP vil arbeide ekstremt hardt for å opprettholde tingene på sin måte, men HIS nerver kan ramme HIM hardt.</Neurotic.degreeDatas.1.description>
+    <Neurotic.degreeDatas.1.description>[PAWN_nameDef] føler seg konstant nervøs rundt alt det som skal ordnes. [PAWN_pronoun] vil arbeide ekstremt hardt for å opprettholde tingene på sin måte, men [PAWN_possessive] nerver kan ramme [PAWN_objective] hardt.</Neurotic.degreeDatas.1.description>
     
     <Industriousness.degreeDatas.0.label>industriøs</Industriousness.degreeDatas.0.label>
-    <Industriousness.degreeDatas.0.description>NAME har det fast med å holde seg fokusert på en oppgave av gangen, derfor blir tingene gjort hurtigere en av en normal person.</Industriousness.degreeDatas.0.description>
+    <Industriousness.degreeDatas.0.description>[PAWN_nameDef] har det fast med å holde seg fokusert på en oppgave av gangen, derfor blir tingene gjort hurtigere en av en normal person.</Industriousness.degreeDatas.0.description>
     <Industriousness.degreeDatas.1.label>hardt arbeidende</Industriousness.degreeDatas.1.label>
-    <Industriousness.degreeDatas.1.description>NAME er en naturlig hardtarbeidende person og vil ferdiggjøre oppgaver hurtiger enn de fleste.</Industriousness.degreeDatas.1.description>
+    <Industriousness.degreeDatas.1.description>[PAWN_nameDef] er en naturlig hardtarbeidende person og vil ferdiggjøre oppgaver hurtiger enn de fleste.</Industriousness.degreeDatas.1.description>
     <Industriousness.degreeDatas.2.label>slappfisk</Industriousness.degreeDatas.2.label>
-    <Industriousness.degreeDatas.2.description>NAME er litt av en slappfisk.</Industriousness.degreeDatas.2.description>
+    <Industriousness.degreeDatas.2.description>[PAWN_nameDef] er litt av en slappfisk.</Industriousness.degreeDatas.2.description>
     <Industriousness.degreeDatas.3.label>dovendyr</Industriousness.degreeDatas.3.label>
-    <Industriousness.degreeDatas.3.description>NAME elsker å gjøre ingenting, og hater alt produktivt. HECAP beveger seg langsomt og blir sjeldent ved en oppgave i lengre tid om gangen.</Industriousness.degreeDatas.3.description>
+    <Industriousness.degreeDatas.3.description>[PAWN_nameDef] elsker å gjøre ingenting, og hater alt produktivt. [PAWN_pronoun] beveger seg langsomt og blir sjeldent ved en oppgave i lengre tid om gangen.</Industriousness.degreeDatas.3.description>
     
     <PsychicSensitivity.degreeDatas.0.label>psykisk hypersensitiv</PsychicSensitivity.degreeDatas.0.label>
-    <PsychicSensitivity.degreeDatas.0.description>NAME's sinne er som en sil. HECAP er ekstremt sensitiv til fenomener som kan påvirke psyken.</PsychicSensitivity.degreeDatas.0.description>
+    <PsychicSensitivity.degreeDatas.0.description>[PAWN_nameDef]'s sinne er som en sil. [PAWN_pronoun] er ekstremt sensitiv til fenomener som kan påvirke psyken.</PsychicSensitivity.degreeDatas.0.description>
     <PsychicSensitivity.degreeDatas.1.label>psykisk sensitiv</PsychicSensitivity.degreeDatas.1.label>
-    <PsychicSensitivity.degreeDatas.1.description>NAME's sinne er usedvanlig sensitiv overfor fenomener som påvirker psyken.</PsychicSensitivity.degreeDatas.1.description>
+    <PsychicSensitivity.degreeDatas.1.description>[PAWN_nameDef]'s sinne er usedvanlig sensitiv overfor fenomener som påvirker psyken.</PsychicSensitivity.degreeDatas.1.description>
     <PsychicSensitivity.degreeDatas.2.label>stabil psyke</PsychicSensitivity.degreeDatas.2.label>
-    <PsychicSensitivity.degreeDatas.2.description>NAME's sinne er ikke som de fleste andres. HECAP blir ikke så lett påvirket av fenomener som rammer psyken.</PsychicSensitivity.degreeDatas.2.description>
+    <PsychicSensitivity.degreeDatas.2.description>[PAWN_nameDef]'s sinne er ikke som de fleste andres. [PAWN_pronoun] blir ikke så lett påvirket av fenomener som rammer psyken.</PsychicSensitivity.degreeDatas.2.description>
     <PsychicSensitivity.degreeDatas.3.label>immun psyke</PsychicSensitivity.degreeDatas.3.label>
-    <PsychicSensitivity.degreeDatas.3.description>NAME's sinne arbeider på en helt annen psykisk frekvens en alle andres. HECAP blir slett ikke påvirket av psykiske fenomener.</PsychicSensitivity.degreeDatas.3.description>
+    <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef]'s sinne arbeider på en helt annen psykisk frekvens en alle andres. [PAWN_pronoun] blir slett ikke påvirket av psykiske fenomener.</PsychicSensitivity.degreeDatas.3.description>
     
     <TemperaturePreference.degreeDatas.0.label>cold lover</TemperaturePreference.degreeDatas.0.label>
-    <TemperaturePreference.degreeDatas.0.description>NAME's body produces tremendous amounts of heat. HECAP is comfortable in temperatures which would make anyone else shiver, but HE doesn't like heat.</TemperaturePreference.degreeDatas.0.description>
+    <TemperaturePreference.degreeDatas.0.description>[PAWN_nameDef]'s body produces tremendous amounts of heat. [PAWN_pronoun] is comfortable in temperatures which would make anyone else shiver, but [PAWN_pronoun] doesn't like heat.</TemperaturePreference.degreeDatas.0.description>
     <TemperaturePreference.degreeDatas.1.label>cold tolerant</TemperaturePreference.degreeDatas.1.label>
-    <TemperaturePreference.degreeDatas.1.description>NAME handles cool temperatures better than most.</TemperaturePreference.degreeDatas.1.description>
+    <TemperaturePreference.degreeDatas.1.description>[PAWN_nameDef] handles cool temperatures better than most.</TemperaturePreference.degreeDatas.1.description>
     <TemperaturePreference.degreeDatas.2.label>heat tolerant</TemperaturePreference.degreeDatas.2.label>
-    <TemperaturePreference.degreeDatas.2.description>NAME handles warm temperatures better than most.</TemperaturePreference.degreeDatas.2.description>
+    <TemperaturePreference.degreeDatas.2.description>[PAWN_nameDef] handles warm temperatures better than most.</TemperaturePreference.degreeDatas.2.description>
     <TemperaturePreference.degreeDatas.3.label>heat lover</TemperaturePreference.degreeDatas.3.label>
-    <TemperaturePreference.degreeDatas.3.description>NAME loves hot weather - but HE doesn't handle cold very well.</TemperaturePreference.degreeDatas.3.description>
+    <TemperaturePreference.degreeDatas.3.description>[PAWN_nameDef] loves hot weather - but [PAWN_pronoun] doesn't handle cold very well.</TemperaturePreference.degreeDatas.3.description>
     
     <ShootingAccuracy.degreeDatas.0.label>careful shooter</ShootingAccuracy.degreeDatas.0.label>
-    <ShootingAccuracy.degreeDatas.0.description>NAME is a pretty good shot, but HE needs more time to focus on HIS target.</ShootingAccuracy.degreeDatas.0.description>
+    <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] is a pretty good shot, but [PAWN_pronoun] needs more time to focus on [PAWN_possessive] target.</ShootingAccuracy.degreeDatas.0.description>
     <ShootingAccuracy.degreeDatas.1.label>trigger-happy</ShootingAccuracy.degreeDatas.1.label>
-    <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! NAME is a terrible shot, but HE doesn't care, because guns are awesome!</ShootingAccuracy.degreeDatas.1.description>
+    <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! [PAWN_nameDef] is a terrible shot, but [PAWN_pronoun] doesn't care, because guns are awesome!</ShootingAccuracy.degreeDatas.1.description>
     
     <Prettiness.degreeDatas.0.label>beautiful</Prettiness.degreeDatas.0.label>
-    <Prettiness.degreeDatas.0.description>NAME is exceptionally beautiful, which makes everyone like HIM.</Prettiness.degreeDatas.0.description>
+    <Prettiness.degreeDatas.0.description>[PAWN_nameDef] is exceptionally beautiful, which makes everyone like [PAWN_objective].</Prettiness.degreeDatas.0.description>
     <Prettiness.degreeDatas.1.label>ugly</Prettiness.degreeDatas.1.label>
-    <Prettiness.degreeDatas.1.description>NAME is staggeringly ugly, which socially repels others.</Prettiness.degreeDatas.1.description>
+    <Prettiness.degreeDatas.1.description>[PAWN_nameDef] is staggeringly ugly, which socially repels others.</Prettiness.degreeDatas.1.description>
     
 </LanguageData>
