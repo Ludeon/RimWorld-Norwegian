@@ -2,11 +2,19 @@
 <LanguageData>
     
     <PrisonerFriendlyChat.label>overtalt av vakt</PrisonerFriendlyChat.label>
-    <PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>logentry->Tried to convince [other_nameShortIndef] of the goodness of the colony.</PrisonerFriendlyChat.logRulesInitiator.rulesStrings.0>
-    <PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>logentry->Listened to [other_nameShortIndef] talk about how nice the colony is.</PrisonerFriendlyChat.logRulesRecipient.rulesStrings.0>
+	<PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+		<li>logentry->Tried to convince [other_nameShortIndef] of the goodness of the colony.</li>
+	</PrisonerFriendlyChat.logRulesInitiator.rulesStrings>
+	<PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to [other_nameShortIndef] talk about how nice the colony is.</li>
+	</PrisonerFriendlyChat.logRulesRecipient.rulesStrings>
     
     <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
-    <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Attempted to recruit [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-    <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Listened to a recruitment pitch from [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Attempted to recruit [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Listened to a recruitment pitch from [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
     
 </LanguageData>
