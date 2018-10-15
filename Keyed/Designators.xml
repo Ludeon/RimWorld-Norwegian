@@ -10,8 +10,8 @@
   <DesignatorDeconstruct>Dekonstruer</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Dekonstruer bygninger og gjenvinn deler av ressursene.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Avinstaller</DesignatorUninstall>
+  <DesignatorUninstallDesc>Avinstaller dette så det  kan flyttes, selges, eller installeres et annet sted.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Høst inn</DesignatorHarvest>
   <DesignatorHarvestDesc>Marker planter til å bli høstet inn som mat og andre produkter.</DesignatorHarvestDesc>
@@ -29,7 +29,7 @@
   <DesignatorMine>Grav</DesignatorMine>
   <DesignatorMineDesc>Marker område av stein til å bli gravd ut.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Jevn gulv</DesignatorSmoothFloor>
+  <DesignatorSmoothFloor>Utjevn gulv</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Uthev grovt steinterreng som skal jevnes ut.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Planlegg</DesignatorPlan>
@@ -38,30 +38,30 @@
   <DesignatorPlanRemove>Fjern planlegging</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Fjerner planleggingslinjer.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeExpand>Utvid hjemmeområdet</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistene vil bare reparere bygninger, vaske gulv, og slokke flammer i hjemmeområdet.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Fjern fra hjemmeområdet</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Fjerner steder fra hjemmeområdet.Kolonistene vil ikke reparere, vaske, eller slokke flammer her.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpand>Bygg tak</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonister vil bygge tak i området du markerer.</DesignatorAreaBuildRoofExpandDesc>
   
-  <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Create an area where roofs will not generate. This will also tear down existing thin roofs.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpand>Ikke bygg tak</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Kolonister vil IKKE bygge tak her. Bygde tak og tynne bergtak vil rives.</DesignatorAreaNoRoofExpandDesc>
   
-  <DesignatorAreaIgnoreRoofExpand>Ignore roof area</DesignatorAreaIgnoreRoofExpand>
-  <DesignatorAreaIgnoreRoofExpandDesc>Colonists will ignore roofs in this area.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpand>Ignorer tak</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>Kolonistene vil ikke bygge nye tak i dette området.</DesignatorAreaIgnoreRoofExpandDesc>
   
-  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearExpand>Utvid måkeområde</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Marker et område som vil måkes når det trengs.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Fjern måkeområde</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Fjerner steder fra måkeområde. Kolonister vil ikke lenger måke i det valgte området.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Manage areas...</ManageAreas>
+  <DesignatorExpandAreaAllowed>Utvid tilgangsområdet</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Utvid et tilgangsområde.\n\nTilgangsområder er steder du tildeler kolonister. De vil ikke gå utenfor sitt tilgangsområde.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Fjern tilgangsområde</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Fjern steder fra tilgangsområdet.\n\nTilgangsområder er steder du tildeler kolonister. De vil ikke gå utenfor sitt tilgangsområde.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Områdemeny...</ManageAreas>
 
   <DesignatorGrowingZoneDesc>Angir et lagringsområde hvor kolonistene vil prøve å gro en bestemt type plante.</DesignatorGrowingZoneDesc>
 
@@ -75,23 +75,23 @@
   <DesignatorClaim>Innlem</DesignatorClaim>
   <DesignatorClaimDesc>Innlem nøytrale strukturer i kolonien, inkludert eldgamle ruiner og forlatte beleiringer. Strukturer som innlemmes i kolonien, kan repareres og vedlikeholes av kolonistene.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>Fjern gulv</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Fjern gulv for å vise bakken under.</DesignatorRemoveFloorDesc>
 
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+  <DesignatorStrip>Avkle</DesignatorStrip>
+  <DesignatorStripDesc>Fjern klær fra lik og skadde.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>Sett opp felle</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Sett opp utløste feller så de kan brukes på nytt.</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpen>Åpne</DesignatorOpen>
+  <DesignatorOpenDesc>Åpne graver eller beholdere med noe i.</DesignatorOpenDesc>
   
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>Slakt</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Slakt et temmet dyr.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>Tem</DesignatorTame>
+  <DesignatorTameDesc>Tem et vilt dyr.</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
@@ -106,11 +106,11 @@
   <TerrainIsAlready>Terrenget her er allerede {0}.</TerrainIsAlready>
   <TerrainBeingSmoothed>Terrenget her skal allerede jevnes ut.</TerrainBeingSmoothed>
   <IdenticalThingExists>Identisk objekt eksisterer allerede her.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identisk planlegging eksisterer allerede her.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Identisk plan eksisterer allerede her.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Terrenget her kan ikke støtte dette.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Plass allerede i bruk.</SpaceAlreadyOccupied>
   <SpaceBeingSmoothed>Plass er i ferd med å bli utjevnet.</SpaceBeingSmoothed>
-  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Du må velge gulv som kan fjernes.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->
