@@ -192,7 +192,7 @@
   <MoodChange>Humørsvingninger</MoodChange>
   <Wildness>Villskap</Wildness>
   <WildnessExplanation>Villere skapninger er naturligvis vanskeligere å temme, trene og håndtere.</WildnessExplanation>
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRate>Dyrets skittenhet</AnimalFilthRate>
   <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Tid</TimeRecordsCategory>
   <MiscRecordsCategory>Diverse</MiscRecordsCategory>
@@ -219,7 +219,7 @@
   <CancelButton>Avbryt</CancelButton>
   <CloseButton>Lukk</CloseButton>
   <YourTradeableSilver>Sølv tilgjengelig: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+	<YourTradeableSilverTip>Du kan bare handle med sølv som er ved et handelsmerke og ikke under et tak.</YourTradeableSilverTip>
   <TraderHasNoMore>Handelsmannen har ikke mer.</TraderHasNoMore>
   <ColonyHasNoMore>Ikke noe mer å selge.</ColonyHasNoMore>
   <TraderWillNotTrade>Handelsmannen vil ikke bytte dette med deg.</TraderWillNotTrade>
@@ -232,20 +232,20 @@
 	<TraderTypePrice>trader type</TraderTypePrice>
 	<Selling>selger</Selling>
 	<Buying>kjøper</Buying>
-	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+	<ItemSellPriceFactor>salgsmultiplikator</ItemSellPriceFactor>
 	<DifficultyLevel>vansklighetsnivå</DifficultyLevel>
 	<PostCurve>global post-process curve</PostCurve>
-	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+	<YourNegotiatorBonus>Din forhandlers bonus</YourNegotiatorBonus>
 	<TradeWithFactionBaseBonus>Bonus ved handel med gruppe-base</TradeWithFactionBaseBonus>
 	<minimum>minimum</minimum>
 	<FinalPrice>Endelig pris</FinalPrice>
-  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+  <TradeMassUsageTooltip>Den endelige massebruken og massekapasiteten.</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
   <FormCaravan>Opprett karavane</FormCaravan>
   <FormCaravanColonyThingCountTip>Antall av denne tingen som kolonien har klar til å gi til karavanen.</FormCaravanColonyThingCountTip>
   <PawnsTab>Mennesker og dyr</PawnsTab>
-  <ItemsTab>Elementer</ItemsTab>
+  <ItemsTab>Ting</ItemsTab>
   <CaravanConfigTab>Konfigurasjon</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Du må tildele minst én oppegående kolonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Den valgte utgangen ({0}) er ikke tilgjengelig.</CaravanCouldNotFindExitSpot>
@@ -272,7 +272,7 @@
   <NoCaravanExitDirectionAvailable>(ingen utgangsretning tilgjengelig)</NoCaravanExitDirectionAvailable>
   <ExitDirection>Utgangsretning</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <ItemWeightTip>Dette elementets vekt.</ItemWeightTip>
+  <ItemWeightTip>Denne tingens vekt.</ItemWeightTip>
   <MarketValueTip>Markedsverdi</MarketValueTip>
   <DaysUntilRotTip>Antall dager før dette elementet begynner å råtne, basert på gjennomsnittstemperaturen i dette området.</DaysUntilRotTip>
   <MassCapacity>Massekapasitet</MassCapacity>
@@ -284,7 +284,7 @@
   <ColonistsSection>Kolonister</ColonistsSection>
   <PrisonersSection>Fanger</PrisonersSection>
   <AnimalsSection>Dyr</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Estimert tid til destinasjonen</EstimatedTimeToDestinationButton>
+  <EstimatedTimeToDestinationButton>Antatt tid til destinasjonen</EstimatedTimeToDestinationButton>
   <AbandonButton>Forlat</AbandonButton>
   
   <!-- Split caravan -->
@@ -292,7 +292,7 @@
   <SourceCaravanMustHaveAtLeastOneColonist>Du må la minst én oppegående kolonist være igjen.</SourceCaravanMustHaveAtLeastOneColonist>
   <CaravanSplitSourceLabel>Nåværende</CaravanSplitSourceLabel>
   <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
-  <SplitCaravanThingCountTip>Antall av dette elementet som karavanen har tilgjengelig til å overføre til den nye karavanen.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>Antall av denne tingen som karavanen har tilgjengelig til å overføre til den nye karavanen.</SplitCaravanThingCountTip>
   <SplitCaravanMassUsageTooltip>Nåværende masseforbruk og massekapasitet.</SplitCaravanMassUsageTooltip>
   
   <!-- Load transporters -->
@@ -305,7 +305,7 @@
   <TransportersMassUsageTooltip>Nåværende masseforbruk og massekapasitet.\n\nDu kan ikke sende transport-pod'ene hvis forbruket er større enn kapasiteten.</TransportersMassUsageTooltip>
   
   <!-- Comms -->
-  <SocialSkillIs>Sosiale ferdigheterSocial skill{0}</SocialSkillIs>
+  <SocialSkillIs>Sosiale ferdigheter: {0}</SocialSkillIs>
   
   <!--Research-->
   <ResearchFinished>Forskning ferdig: {0}</ResearchFinished>
@@ -328,16 +328,16 @@
   <NoOutfitSelected>Intet antrekk er valgt</NoOutfitSelected>
   
   <!-- Drug policy management -->
-  <DrugPolicy>Narkotikapolitikk</DrugPolicy>
-  <SelectDrugPolicy>Velg politikk...</SelectDrugPolicy>
-  <NewDrugPolicy>Ny politikk</NewDrugPolicy>
-  <DeleteDrugPolicy>Slett politikk...</DeleteDrugPolicy>
-  <DrugPolicyInUse>Narkotikapolitikken er i bruk av {0}.</DrugPolicyInUse>
+  <DrugPolicy>Narkotikaregler</DrugPolicy>
+  <SelectDrugPolicy>Velg regler...</SelectDrugPolicy>
+  <NewDrugPolicy>Nye regler</NewDrugPolicy>
+  <DeleteDrugPolicy>Slett regler...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Narkotikareglene er i bruk av {0}.</DrugPolicyInUse>
   <SocialDrugs>Sosial narkotika</SocialDrugs>
   <NoDrugs>Ingen narkotika</NoDrugs>
   <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
   <Unrestricted>Ubegrenset</Unrestricted>
-  <NoDrugPolicySelected>Ingen narkotikapolitikk valgt</NoDrugPolicySelected>
+  <NoDrugPolicySelected>Ingen narkotikaregler valgt</NoDrugPolicySelected>
   <AddDrug>Legg til narkotika...</AddDrug>
   <DrugColumnLabel>Narkotika</DrugColumnLabel>
   <DrugUsageColumnLabel>Bruk</DrugUsageColumnLabel>
@@ -356,7 +356,7 @@
   <FrequencyColumnDesc>Hvor ofte kolinistene bør prøve å ta dette narkotikumet.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres humørniva er under dette nivået.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres gledesnivå er under dette nivået.</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>Mengden stoff kolonistene vil ta med seg når de tar stoffet, for å gå frem og tilbake.</TakeToInventoryColumnDesc>
   <DrugUsageTipForAddiction>For avhengighet\n\nBruk dette narkotikumet for å stilne den avhengigheten som allerede finnes.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForAddiction>
   <DrugUsageTipForJoy>For glede\n\nBruk dette narkotikumet for glede og sosial sammenheng.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Planlagt\n\nBruk dette narkotikumet i et forhåndsbestemt tidsskjema, når spesifikke betingelser er til stede.</DrugUsageTipScheduled>
