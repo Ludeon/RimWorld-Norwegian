@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BorealForest.label>Boreal barskog</BorealForest.label>
-    <BorealForest.description>Nordlige skoger av høye trær. På tross av barske vintre kan skogene her støtte en bred mengde av dyr i forskjellige størrelser.</BorealForest.description>
+    <BorealForest.label>Subarktisk barskog</BorealForest.label>
+    <BorealForest.description>Frosne skoger av høye trær. På tross av barske vintre kan skogene her støtte en bred mengde av dyr i forskjellige størrelser.</BorealForest.description>
     
     <Tundra.label>Tundra</Tundra.label>
     <Tundra.description>Område hvor det hovedsakelig er frossen jord. Det er lite av trær og vegetasjon. Anall dyr er få, og det er store vandrende flokker av planteetere – samt kjøtteterne som følger etter dem.</Tundra.description>
