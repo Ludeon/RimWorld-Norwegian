@@ -18,7 +18,7 @@
   <AbandonSpecificCountTip>Forlat spesifisert antall</AbandonSpecificCountTip>
   <AbandonAllTip>Forlat (alt)</AbandonAllTip>
   <AbandonItemTipExtraText>Forlatte elementer kan aldri bli gjenvunnet.</AbandonItemTipExtraText>
-  <BanishTipWillDie>{0} vil mest sannsynligvis dø.</BanishTipWillDie>
+  <BanishTipWillDie>{0} vil sannsynligvis dø.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <CaravanColonists>Kolonister</CaravanColonists>
