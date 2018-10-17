@@ -6,7 +6,7 @@
   <ScenPart_PlayerFaction>Din gruppe vil bli en {0}.</ScenPart_PlayerFaction>
 
   <ScenPart_StartWithPawns>Start med {0} mennesker, valgt fra {1}.</ScenPart_StartWithPawns>
-  <ScenPart_StartWithPawns_OutOf>valgt fra</ScenPart_StartWithPawns_OutOf>
+  <ScenPart_StartWithPawns_OutOf>valgt blandt</ScenPart_StartWithPawns_OutOf>
   <RandomPet>tilfeldig kjæledyr</RandomPet>
 
   <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>
@@ -38,7 +38,7 @@
   <ScenPart_MapScatteredWith>Kartet har spredte</ScenPart_MapScatteredWith>
   <ScenPart_PermaGameCondition>Permanente spillbetingelser</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Hendelse(r) deaktivert</ScenPart_DisableIncident>
-  <ScenPart_CreateIncident>Hendelse opprettet</ScenPart_CreateIncident>
+  <ScenPart_CreateIncident>Hendelse aktivert</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Kan aldri bygge</ScenPart_DisallowBuilding>
 
 </LanguageData>
