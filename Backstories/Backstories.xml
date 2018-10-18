@@ -116,45 +116,45 @@ HECAP jobbet mest med omfattende og kreative kosmetiske løft. HECAP vet hvordan
 		<desc>NAME jobbet som bartender på en snuskete romstasjon. Jobben var tredelt: Drinkeblanding, diplomati, og kampavbrudd.</desc>
 	</Bartender47>
 	<HiveworldDrone29>
-		<title>Hiveworld drone</title>
+		<title>Drone på en samverden</title>
 		<titleShort>Drone</titleShort>
-		<desc>NAME worked as a mindless construction drone in a massive hiveworld civilization. Though HE is now freed from the brutal social experiments to which HE was subjected, HE remains incapable of creative thought and leadership.</desc>
+		<desc>NAME jobbet som en uselvstendig byggarbeider i en planetstor kollektiv bevissthet. Selv om HE nå har rømt fra det sosiale eksperimentet HE deltok i, klarer HE fortsatt ikke å tenke fritt. Dette gjør kreativt arbeid og lederstillinger vanskelige.</desc>
 	</HiveworldDrone29>
 	<Evangelist66>
-		<title>Evangelist</title>
+		<title>Religiøs budbringer</title>
 		<titleShort>Evangelist</titleShort>
-		<desc>On HIS 21st birthday, NAME experienced a religious awakening. HECAP decided to spend the rest of HIS life spreading the word of HIS deity, the beauty of its culture, and its unusual medical tradition.</desc>
+		<desc>På sin 21. bursdag opplevde NAME en oppvåkning. HECAP bestemte seg der og da for å bruke resten av sitt liv på å tale sin guds ord blandt menneskene, og samtidig lære folk om hans kultur og syn på medisinsk praksis.</desc>
 	</Evangelist66>
 	<TunnelworldIlluminator50>
-		<title>Tunnelworld illuminator</title>
-		<titleShort>Illuminator</titleShort>
-		<desc>Among tunnel-dwellers, those with vision as strong as NAME’s are revered as sages. HECAP would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger.</desc>
+		<title>Seer på en tunnelverden</title>
+		<titleShort>Seer</titleShort>
+		<desc>På tunnelverdenene er ingen egenskap mer verdsatt enn godt syn. NAME kunne se finne veien, se svake punkter i veggene, og advare om farer.</desc>
 	</TunnelworldIlluminator50>
 	<Herbalist89>
-		<title>Herbalist</title>
-		<titleShort>Herbalist</titleShort>
-		<desc>NAME lived in the forest near a village. Though many of the villagers feared HIM, sick villagers would come to HIM to purchase salves and poultices made from the herbs HE grew in HIS garden. HECAP was happy to help them — for a price.</desc>
+		<title>Vismann i skogenHerbalist</title>
+		<titleShort>Kanindoktor</titleShort>
+		<desc>NAME bodde i skogen ved en landsby. De fleste holdt seg unna HIM, til de ble syke. Da kunne NAME hjelpe, hvis de hadde penger til det...</desc>
 	</Herbalist89>
 	<CivilServant75>
-		<title>Civil servant</title>
-		<titleShort>Clerk</titleShort>
-		<desc>NAME worked as a low-ranking administrator for a moribund government bureaucracy. HECAP is most at home filling out complicated paperwork and playing office politics.</desc>
+		<title>Kontorarbeider</title>
+		<titleShort>Kontorist</titleShort>
+		<desc>NAME jobbet i administrasjonen i et ineffektivt byråkrati. HECAP er i sitt ess når det gjelder å fylle ut papirarbeid og ta administrative avjgørelser.</desc>
 	</CivilServant75>
 	<AsceticPriest87>
-		<title>Ascetic priest</title>
-		<titleShort>Priest</titleShort>
-		<desc>After taking a vow of silence, NAME joined a monastery on a peaceful backwater planet to spend HIS days in quiet contemplation.
+		<title>Asketisk prest</title>
+		<titleShort>Prest</titleShort>
+		<desc>Etter å ha avlagt stillhetseden, dro NAME til et kloster på en rolig, avsides planet hvor HE kunne leve sine dager i stille hengivenhet.
 
-HECAP found happiness growing vegetables in the garden and making cheese in the monastery cellars.</desc>
+HECAP lærte seg å dryke grønnsaker i hagen og yste ost i klosterkjelleren.</desc>
 	</AsceticPriest87>
 	<EscapedConvict68>
-		<title>Escaped convict</title>
-		<titleShort>Escapee</titleShort>
-		<desc>NAME denies involvement in the crimes that brought about HIS incarceration in a brutal penal colony. HECAP escaped by tunnelling beneath the perimeter using modified cutlery.</desc>
+		<title>Rømling</title>
+		<titleShort>Rømling</titleShort>
+		<desc>NAME sier HE var uskyldig i forbrytelsene som førte til at HE ble innsatt i en høysikkerhetskoloni. HECAP flyktet ved å grave seg under gjerdene ved hjelp av bestikk.</desc>
 	</EscapedConvict68>
 	<StarshipJanitor15>
-		<title>Starship janitor</title>
-		<titleShort>Janitor</titleShort>
+		<title>Vaktmester på et romskip</title>
+		<titleShort>Vaktmester</titleShort>
 		<desc>While other passengers pass the years between star systems in cryptosleep sarcophagi, NAME had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids.</desc>
 	</StarshipJanitor15>
 	<Nurse0>
