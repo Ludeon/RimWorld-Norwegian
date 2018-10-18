@@ -18,6 +18,9 @@
     <Animals.label>Dyr</Animals.label>
     <Animals.description>Konfigurer hvordan koloniens tamme dyr skal behandles.</Animals.description>
     
+    <Wildlife.label>Ville dyr</Wildlife.label>
+    <Wildlife.description>Liste over ville dyr på banen. Hurtigvalg for jakt og temming.</Wildlife.description>
+    
     <Factions.label>Fraksjoner</Factions.label>
     <Factions.description>Gå gjennom fraksjoner som er kjente for kolonien din samt forhold</Factions.description>
     
