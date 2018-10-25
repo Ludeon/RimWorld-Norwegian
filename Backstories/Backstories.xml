@@ -131,7 +131,7 @@ HECAP jobbet mest med omfattende og kreative kosmetiske løft. HECAP vet hvordan
 		<desc>På tunnelverdenene er ingen egenskap mer verdsatt enn godt syn. NAME kunne se finne veien, se svake punkter i veggene, og advare om farer.</desc>
 	</TunnelworldIlluminator50>
 	<Herbalist89>
-		<title>Vismann i skogenHerbalist</title>
+		<title>Vismann i skogen</title>
 		<titleShort>Kanindoktor</titleShort>
 		<desc>NAME bodde i skogen ved en landsby. De fleste holdt seg unna HIM, til de ble syke. Da kunne NAME hjelpe, hvis de hadde penger til det...</desc>
 	</Herbalist89>
@@ -158,78 +158,78 @@ HECAP lærte seg å dryke grønnsaker i hagen og yste ost i klosterkjelleren.</d
 		<desc>Mens andre legges i dvale på lange romreiser, måtte NAME våkne med jevne mellomrom for å inspisere utstyr, dobbeltsjekke navigasjonen, og gjøre vedlikeholdsarbeid på skip og mekanoider.</desc>
 	</StarshipJanitor15>
 	<Nurse0>
-		<title>Nurse</title>
-		<titleShort>Nurse</titleShort>
-		<desc>NAME worked in an industrial-era hospital, doing routine work such as changing bandages and taking temperatures.
+		<title>Sykepleier</title>
+		<titleShort>Sykepleier</titleShort>
+		<desc>NAME jobbet på et byverdensk sykehus, og jobbet stort sett med å bytte bandasjer og sette sprøyter.
 
-It was a busy job, but HE could always find time for a chat with a patient.</desc>
+Jobben var krevende, men det var viktig å være hyggelig med pasientene.</desc>
 	</Nurse0>
 	<HouseServant78>
-		<title>House servant</title>
-		<titleShort>Servant</titleShort>
-		<desc>Early in HIS adulthood, NAME was kidnapped and sold to wealthy aristocrats as a domestic servant.
+		<title>Tjener i et herskapshus</title>
+		<titleShort>Tjener</titleShort>
+		<desc>Som ung voksen ble NAME kidnappet og solgt som tjener til en rikmannsfamilie.
 
-HECAP got to know the kitchens and basements of HIS master's mansion well, but never did any work outside.</desc>
+HECAP ble godt kjent med kjøkkenet og kjelleren i sin mesters hjem, men fikk sjeldent gå ut.</desc>
 	</HouseServant78>
 	<Bodyguard22>
-		<title>Bodyguard</title>
-		<titleShort>Bodyguard</titleShort>
-		<desc>NAME found work on a midworld, protecting whoever paid HIM from harm. HECAP gained proficiency in many different combat forms, and was known for HIS ruthlessness against those who crossed HIM.</desc>
+		<title>Livvakt</title>
+		<titleShort>Livvakt</titleShort>
+		<desc>NAME fant seg til rette på en mellomverden som betalt livvakt. HECAP lærte seg mange kampteknikker, og fikk et rykte som spesielt hardbarket.</desc>
 	</Bodyguard22>
 	<Novelist96>
-		<title>Novelist</title>
-		<titleShort>Novelist</titleShort>
-		<desc>NAME lived on a glitterworld, penning wildly successful novels. HECAP lived a carefree lifestyle, spending HIS days writing and HIS nights partying...and never did a day's manual labour in HIS life.</desc>
+		<title>Forfatter</title>
+		<titleShort>Forfatter</titleShort>
+		<desc>NAME var en veldig populær forfatter på en slaraffenverden. HECAP levde et bekymringsløst liv, med kreativt arbeid hver dag og fester hver natt. HE gjorde aldri noe fysisk arbeid.</desc>
 	</Novelist96>
 	<Mathematician18>
-		<title>Mathematician</title>
-		<titleShort>Math prof</titleShort>
-		<desc>NAME did mathematical research at a university.
+		<title>Professor i matematikk</title>
+		<titleShort>Matematiker</titleShort>
+		<desc>NAME løste matematiske problemer på universitetsnivå.
 
-HECAP spent much of HIS spare time immersed in shooting simulations, though HE was frequently ridiculed by other players for HIS terrible aim.</desc>
+HECAP brukte mye av fritiden sin i skytespill. Medspillerne latterliggjorde HIM for HIS elendige sikte.</desc>
 	</Mathematician18>
 	<Paramedic85>
-		<title>Paramedic</title>
-		<titleShort>Paramedic</titleShort>
-		<desc>NAME's job was to respond rapidly to medical emergencies. HECAP is used to dealing with severe injuries with only limited medical supplies.
+		<title>Ambulansepersonell</title>
+		<titleShort>Ambulansepersonell</titleShort>
+		<desc>NAME jobbet i medisinsk utrykningstjeneste, og var alltid den første til et skadested. HECAP er vant med å berge mennesker med alvorlige skader, med kun begrensede midler for hånd.
 
-HECAP treated so many gunshot wounds over the years that even seeing a gun made HIM uncomfortable.</desc>
+Etter å ha sett mange skyteskader oppigjennom årene, har NAME blitt skvetten av skyting.</desc>
 	</Paramedic85>
 	<Castaway74>
-		<title>Castaway</title>
-		<titleShort>Castaway</titleShort>
-		<desc>NAME was the only survivor of a ship crash on an unhabited animal world. For many years until HIS rescue HE scrounged an existence out of whatever HE could find.
+		<title>Strandet på en øde planet</title>
+		<titleShort>Strandet</titleShort>
+		<desc>NAME var den eneste som overlevde et romforlis på en ubebodd planet. HE overlevde fra hånd til munn i mange år, uten hverken luksus eller unødvendigheter.
 
-HISCAP survival skills became razor-sharp, but spending so long alone severely dampened HIS conversatial abilities.</desc>
+Instinktene HIS ble lynraske, men å leve så mange å uten sosial kontakt har satt sine spor i HIM.</desc>
 	</Castaway74>
 	<Gardener25>
-		<title>Gardener</title>
-		<titleShort>Gardener</titleShort>
-		<desc>On industrial worlds, wealth concentrates in the hands of those who own the factories and sell the goods. NAME worked at the mansion of one such rich family, tending the lavish gardens as part of a team of servants.</desc>
+		<title>Gartner på en industriverden</title>
+		<titleShort>Gartner</titleShort>
+		<desc>På industriverdner konsentreres rikdommen hos dem som eier fabrikkene og selger varene. NAME jobbet på herskapshuset til en sånn familie. HE vedlikeholdt de flotte hagene sammen med en tropp av tjenere.</desc>
 	</Gardener25>
 	<MafiaBoss49>
-		<title>Mafia boss</title>
-		<titleShort>Boss</titleShort>
-		<desc>NAME was a high-ranking member of an urbworld crime syndicate.
+		<title>Mafiaboss på enn byverden</title>
+		<titleShort>Mafioso</titleShort>
+		<desc>NAME var en mektig leder i et kriminelt syndikat på en byverden.
 
-HECAP bribed officials, maintained the loyalty of HIS subordinates, and extracted overdue payments - by any means necessary.</desc>
+HECAP bestakk tjenestefolk, motiverte sine underordnede, og hentet pengene folk skyldte – uansett hvor mye de tryglet.</desc>
 	</MafiaBoss49>
 	<Torturer24>
-		<title>Torturer</title>
-		<titleShort>Torturer</titleShort>
-		<desc>Working for a tyrannical monarch on a medieval world, NAME earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with NAME's smile scarred permanently into their nightmares.</desc>
+		<title>Føydal torturist</title>
+		<titleShort>Torturist</titleShort>
+		<desc>NAME jobbetfor en tyrannisk monark på en føydal verden. HE ble sett på som en ekspert i "overbevisning". Alle og enhver som ble ført ned i fangehullet forlot det, tom for hemmeligheter, med NAME's smil brent inn i netthinnen.</desc>
 	</Torturer24>
 	<ConstructionEngineer77>
-		<title>Construction engineer</title>
-		<titleShort>Builder</titleShort>
-		<desc>NAME was a construction worker on a midworld. HECAP lead a team which built everything from office blocks to cathedrals.
+		<title>Byggingeniør</title>
+		<titleShort>Byggingeniør</titleShort>
+		<desc>NAME jobbet med byggteknikk på en mellomverden. Teamet HIS jobbet med alt fra kontorlokaler til katedraler.
 
-HISCAP busy job and numerous nearby fast-food outlets meant HE never cooked for HIMself.</desc>
+Den krevende jobben og tilgangen på fastfood gjorde at HE sjeldent lagde sin egen mat.</desc>
 	</ConstructionEngineer77>
 	<Blacksmith19>
-		<title>Blacksmith</title>
-		<titleShort>Blacksmith</titleShort>
-		<desc>As a smith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</desc>
+		<title>Smed</title>
+		<titleShort>Smed</titleShort>
+		<desc>NAME var en godt ansett smed på en føydal verden. HECAP fikk også anledning til å trene med sverdene HE lagde.</desc>
 	</Blacksmith19>
 	<CharityWorker80>
 		<title>Charity worker</title>
