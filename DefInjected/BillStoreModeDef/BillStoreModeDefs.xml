@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <DropOnFloor.label>drop on floor</DropOnFloor.label>
-  <BestStockpile.label>take to best stockpile</BestStockpile.label>
-  <SpecificStockpile.label>take to {0}</SpecificStockpile.label>
+  <DropOnFloor.label>legg på gulvet</DropOnFloor.label>
+  <BestStockpile.label>ta med til beste lagersted</BestStockpile.label>
+  <SpecificStockpile.label>ta med til {0}</SpecificStockpile.label>
 
 
 </LanguageData>
