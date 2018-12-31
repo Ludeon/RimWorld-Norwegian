@@ -135,8 +135,8 @@
 
   <!-- Animal name display mode -->
   <ShowAnimalNames>Vis dyrenavn</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Temme (kun navngitte)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Temme (alle)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameNamed>Tamme (kun navngitte)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Tamme (alle)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
