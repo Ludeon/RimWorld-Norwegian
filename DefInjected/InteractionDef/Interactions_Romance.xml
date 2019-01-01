@@ -1,28 +1,84 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <RomanceAttempt.label>romance attempt</RomanceAttempt.label>
-	<RomanceAttempt.logRulesInitiator.rulesStrings>
-		<li>logentry->Attempted to woo [other_nameShortIndef] into a romance.</li>
-	</RomanceAttempt.logRulesInitiator.rulesStrings>
-	<RomanceAttempt.logRulesRecipient.rulesStrings>
-		<li>logentry->Was wooed by [other_nameShortIndef].</li>
-	</RomanceAttempt.logRulesRecipient.rulesStrings>
-    
-    <Breakup.label>breakup</Breakup.label>
-	<Breakup.logRulesInitiator.rulesStrings>
-		<li>logentry->Broke up with [other_nameShortIndef].</li>
-	</Breakup.logRulesInitiator.rulesStrings>
-	<Breakup.logRulesRecipient.rulesStrings>
-		<li>logentry->Was broken up with by [other_nameShortIndef].</li>
-	</Breakup.logRulesRecipient.rulesStrings>
-    
-    <MarriageProposal.label>marriage proposal</MarriageProposal.label>
-	<MarriageProposal.logRulesInitiator.rulesStrings>
-		<li>logentry->Proposed marriage to [other_nameShortIndef].</li>
-	</MarriageProposal.logRulesInitiator.rulesStrings>
-	<MarriageProposal.logRulesRecipient.rulesStrings>
-		<li>logentry->Was proposed to by [other_nameShortIndef].</li>
-	</MarriageProposal.logRulesRecipient.rulesStrings>
-    
+
+  <RomanceAttempt.label>flørteforsøk</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [OTHER_nameDef] ved [wootactic].</li>
+    <li>wooed->prøvde å flørte med</li>
+    <li>wooed->flørtet med</li>
+    <li>wooed->prøvde å få oppmerksomhet av</li>
+    <li>wooed->prøvde å sjarmere</li>
+    <li>wooed->prøvde å imponere</li>
+    <li>wooed->sjarmerte</li>
+    <li>wooed->imponerte</li>
+    <li>wooed->fikk oppmerksomhet fra</li>
+    <li>wooed->sjarmerte</li>
+    <li>wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->å fortelle en historie om [TalkTopicAny]</li>
+    <li>wootactic->fortelle en hisotrie omtelling a tale about [TalkTopicAny]</li>
+    <li>wootactic->tulle om [TalkTopicAny]</li>
+    <li>wootactic->bemerke noe om [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->å sammenlikne [OTHER_objective] med en [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->å beskrive [OTHER_objective] som en [romantic_adj] [romantic_noun]</li>
+    <li>boasting->å skryte av</li>
+    <li>boasting->å nevne</li>
+    <li>boasting->å implisere gode ting om</li>
+    <li>boasting->å overdrive</li>
+    <li>boasting->å snakke om</li>
+    <li>boasting->å rette oppmerksomheten mot</li>
+    <li>complimenting(p=3)->komplimentere</li>
+    <li>complimenting->subtilt kompimentere</li>
+    <li>complimenting->skryte av</li>
+    <li>complimenting->bedyre</li>
+    <li>complimenting->si gode ting om</li>
+    <li>complimenting(p=2)->erte</li>
+    <li>complimenting->prike på</li>
+    <li>complimenting->skryteerte av</li>
+    <li>complimenting->stille ertende spørsmål ved</li>
+    <li>complimenting->gjøre narr av</li>
+    <li>romantic_adj->vakkert</li>
+    <li>romantic_adj->skinnende</li>
+    <li>romantic_adj->glinsende</li>
+    <li>romantic_adj->gledelig</li>
+    <li>romantic_adj->gylden</li>
+    <li>romantic_adj->lys</li>
+    <li>romantic_adj->fantastisk</li>
+    <li>romantic_adj->deilig</li>
+    <li>romantic_adj->forrykende</li>
+    <li>romantic_adj->skjønn</li>
+    <li>romantic_adj->fin</li>
+    <li>romantic_adj->utrolig</li>
+    <li>romantic_adj->elskverdig</li>
+    <li>romantic_adj->overjordisk</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->blomst</li>
+    <li>romantic_noun->vårdag</li>
+    <li>romantic_noun->elv</li>
+    <li>romantic_noun->stjerne</li>
+    <li>romantic_noun->måne</li>
+    <li>romantic_noun->sol</li>
+    <li>romantic_noun->hus</li>
+    <li>romantic_noun->nordlys</li>
+    <li>romantic_noun->[TreeType] tre</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+
+  <MarriageProposal.label>frieri</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] fridde til  [OTHER_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ba [OTHER_nameDef] om å få dele livet sitt med [INITIATOR_objective] .</li>
+    <li>r_logentry->[INITIATOR_nameDef] fortalte [OTHER_nameDef] at [INITIATOR_pronoun] vil tilbringe [INITIATOR_possessive] liv med [OTHER_objective].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+
+  <Breakup.label>brudd</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] slo opp med [OTHER_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ba [OTHER_nameDef] om en pause.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sa til [OTHER_nameDef] at det ikke funker lenger.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sa til [OTHER_nameDef] at "det er ikke deg – det er meg".</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+
+
 </LanguageData>
