@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Frenzy_Work.label>work frenzy</Frenzy_Work.label>
-  <Frenzy_Work.baseInspectLine>Inspired: Work frenzy</Frenzy_Work.baseInspectLine>
-  <Frenzy_Work.beginLetter>{0} has just been inspired. [PAWN_pronoun] will work 2.5 times faster for the next 24 hours.</Frenzy_Work.beginLetter>
-  <Frenzy_Work.beginLetterLabel>Inspiration: Work frenzy</Frenzy_Work.beginLetterLabel>
-  <Frenzy_Work.endMessage>{0} is no longer inspired (work frenzy).</Frenzy_Work.endMessage>
+  <Frenzy_Work.label>arbeidsom</Frenzy_Work.label>
+  <Frenzy_Work.baseInspectLine>Inspirert: Arbeidsom</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil arbeide 2.5 ganger raskere de neste 24 timene.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Inspirasjon: Arbeidsom</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.endMessage>{0} er ikke lenger inspirert (arbeidsom).</Frenzy_Work.endMessage>
 
-  <Frenzy_Go.label>go frenzy</Frenzy_Go.label>
-  <Frenzy_Go.baseInspectLine>Inspired: Go frenzy</Frenzy_Go.baseInspectLine>
-  <Frenzy_Go.beginLetter>{0} has just been inspired. [PAWN_pronoun] will walk 1.5 times faster for the next 2 days.</Frenzy_Go.beginLetter>
-  <Frenzy_Go.beginLetterLabel>Inspiration: Go frenzy</Frenzy_Go.beginLetterLabel>
-  <Frenzy_Go.endMessage>{0} is no longer inspired (go frenzy).</Frenzy_Go.endMessage>
+  <Frenzy_Go.label>vandreglad</Frenzy_Go.label>
+  <Frenzy_Go.baseInspectLine>Inspirert: Vandreglad</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil gå 1.5 ganger raskere de neste to (2) dagene.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Inspirasjon: Vandreglad</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.endMessage>{0} er ikke lenger inspirert (vandreglad).</Frenzy_Go.endMessage>
 
-  <Frenzy_Shoot.label>shoot frenzy</Frenzy_Shoot.label>
-  <Frenzy_Shoot.baseInspectLine>Inspired: Shoot frenzy</Frenzy_Shoot.baseInspectLine>
-  <Frenzy_Shoot.beginLetter>{0} has just been inspired. [PAWN_possessive] shooting accuracy will be improved for the next 3 days.</Frenzy_Shoot.beginLetter>
-  <Frenzy_Shoot.beginLetterLabel>Inspiration: Shoot frenzy</Frenzy_Shoot.beginLetterLabel>
-  <Frenzy_Shoot.endMessage>{0} is no longer inspired (shoot frenzy).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.label>skytegalskap</Frenzy_Shoot.label>
+  <Frenzy_Shoot.baseInspectLine>Inspirert: Skytegalskap</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>{0} har blitt inspirert. [PAWN_possessive] treffsikkerhet vil være økt de neste tre (3) dagene.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Inspirasjon: Skytegalskap</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.endMessage>{0} er ikke lenger inspirert (skytegalskap).</Frenzy_Shoot.endMessage>
 
-  <Inspired_Trade.label>inspired trade</Inspired_Trade.label>
-  <Inspired_Trade.baseInspectLine>Inspired: Inspired trade</Inspired_Trade.baseInspectLine>
-  <Inspired_Trade.beginLetter>{0} has just been inspired. [PAWN_pronoun] will get a significant trade price bonus for [PAWN_possessive] next trade deal.\n\nThe inspiration will end after 8 days or when the deal is done.</Inspired_Trade.beginLetter>
-  <Inspired_Trade.beginLetterLabel>Inspiration: Inspired trade</Inspired_Trade.beginLetterLabel>
-  <Inspired_Trade.endMessage>{0} is no longer inspired (inspired trade).</Inspired_Trade.endMessage>
+  <Inspired_Trade.label>inspirert til å handle</Inspired_Trade.label>
+  <Inspired_Trade.baseInspectLine>Inspirert: Handel</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil sikre bedre priser i [PAWN_possessive] neste handel.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når neste handel er ferdig.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>Inspirasjon: Handel</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.endMessage>{0} er ikke lenger inspirert (til å handle).</Inspired_Trade.endMessage>
 
-  <Inspired_Recruitment.label>inspired recruitment</Inspired_Recruitment.label>
-  <Inspired_Recruitment.baseInspectLine>Inspired: Inspired recruitment</Inspired_Recruitment.baseInspectLine>
-  <Inspired_Recruitment.beginLetter>{0} has just been inspired. [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty.\n\nThe inspiration will end after 8 days or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
-  <Inspired_Recruitment.beginLetterLabel>Inspiration: Inspired recruitment</Inspired_Recruitment.beginLetterLabel>
-  <Inspired_Recruitment.endMessage>{0} is no longer inspired (inspired recruitment).</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.label>inspirert til å rekruttere</Inspired_Recruitment.label>
+  <Inspired_Recruitment.baseInspectLine>Inspirert: Rekruttering</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil rekruttere en fange på neste forsøk uansett vanskelighetsgrad.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når en fange er rekruttert.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>Inspirasjon: Rekruttering</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.endMessage>{0} er ikke lenger inspirert (til å rekruttere).</Inspired_Recruitment.endMessage>
 
-  <Inspired_Surgery.label>inspired surgery</Inspired_Surgery.label>
-  <Inspired_Surgery.baseInspectLine>Inspired: Inspired surgery</Inspired_Surgery.baseInspectLine>
-  <Inspired_Surgery.beginLetter>{0} has just been inspired. The surgery failure chance for the next surgery performed by [PAWN_objective] will be 10 times smaller.\n\nThe inspiration will end after 8 days or when the surgery is performed.</Inspired_Surgery.beginLetter>
-  <Inspired_Surgery.beginLetterLabel>Inspiration: Inspired surgery</Inspired_Surgery.beginLetterLabel>
-  <Inspired_Surgery.endMessage>{0} is no longer inspired (inspired surgery).</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.label>inspirert til å operere</Inspired_Surgery.label>
+  <Inspired_Surgery.baseInspectLine>Inspirert: Operasjon</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>{0} har blitt inspirert. Sjansen for å mislykkes på neste operasjon [PAWN_pronoun] gjennomfører har sunket til en tidel (1/10).\n\nInspirasjonen vil avslutte om åtte (8) dager eller når en operasjon er utført.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>Inspirasjon: Operasjon</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.endMessage>{0} er ikke lenger inspirert (til å operere).</Inspired_Surgery.endMessage>
 
-  <Inspired_Creativity.label>inspired creativity</Inspired_Creativity.label>
-  <Inspired_Creativity.baseInspectLine>Inspired: Inspired creativity</Inspired_Creativity.baseInspectLine>
-  <Inspired_Creativity.beginLetter>{0} has just been inspired. Any item crafted or piece of furniture or art completed will be 2 quality levels higher than it would otherwise be.\n\nThe inspiration will end after 8 days or when the item, furniture or art is completed.</Inspired_Creativity.beginLetter>
-  <Inspired_Creativity.beginLetterLabel>Inspiration: Inspired creativity</Inspired_Creativity.beginLetterLabel>
-  <Inspired_Creativity.endMessage>{0} is no longer inspired (inspired creativity).</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.label>blaff av kreativitet</Inspired_Creativity.label>
+  <Inspired_Creativity.baseInspectLine>Inspirert: Blaff av kreativitet</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>{0} har blitt inspirert. Den neste tingen, møbelet eller kunstverket [PAWN_nameDef] lager vil være to (2) kvalitetsnivåer høyere enn det ellers skulle.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når tingen, møbelet eller kunstverket er ferdig.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>Inspirasjon: Kreativitet</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.endMessage>{0} er ikke lenger inspirert (blaff av kreativitet).</Inspired_Creativity.endMessage>
 
 
 </LanguageData>
