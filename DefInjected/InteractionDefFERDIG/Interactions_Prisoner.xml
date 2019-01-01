@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BuildRapport.label>prøv å bli kjent med</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] om [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] fortalte [RECIPIENT_nameDef] om [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] beskrev [subject] til [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] oppfordret [RECIPIENT_nameDef] til [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tilbød [RECIPIENT_nameDef] [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->fortalte en hisotrie om</li>
+    <li>toldastoryabout->fortalte en morsom hisotrie om</li>
+    <li>toldastoryabout->fortalte en rørende hisotrie om</li>
+    <li>toldastoryabout->fortalte en gammel hisotrie om</li>
+    <li>toldastoryabout->fortalte en hisotrie fra familien sin om</li>
+    <li>toldastoryabout->fortalte en hisotrie fra barndommen om</li>
+    <li>toldastoryabout->nevnte en anekdote om</li>
+    <li>talkabout->å snakke om</li>
+    <li>talkabout->å diskutere</li>
+    <li>talkabout->å ha en diskusjon om</li>
+    <li>talkabout->å spørre om</li>
+    <li>talkabout->å tenke på</li>
+    <li>talkabout->å bli enige om</li>
+    <li>subject->kolonien</li>
+    <li>subject->dette stedet</li>
+    <li>subject->å bli med i kolonien</li>
+    <li>subject->bli med dem</li>
+    <li>subject->få venner</li>
+    <li>subject->bli kjent med nye folk</li>
+    <li>subject->å revurdere [RECIPIENT_possessive] fordommer</li>
+    <li>subject->å revurdere [RECIPIENT_possessive] tilhørighet</li>
+    <li>subject->[RECIPIENT_possessive] helse</li>
+    <li>subject->fremtiden</li>
+    <li>subject->å gi slipp</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+
+  <RecruitAttempt.label>rekrutteringsforsøk</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å rekruttere [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] lovet [RECIPIENT_nameDef] [goodthing], og ba [RECIPIENT_objective] om å bli med.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->gratis, fersk [Vegetable]</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+
+  <SparkJailbreak.label>starte et fluktforsøk</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] fortalte om gleden ved [freedom], og tilbød en fluktmulighet.</li>
+    <li>r_logentry->[INITIATOR_nameDef] fortalte om hvor vakkert [TerrainFeature] er, og tilbød en fluktmulighet.</li>
+    <li>r_logentry->[INITIATOR_nameDef] viste [RECIPIENT_nameDef] hvordan [RECIPIENT_pronoun] kan flykte, og lovet [RECIPIENT_objective] [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] fortalte [RECIPIENT_nameDef] at sikkerheten er lav, og oppmuntret et rømningsforsøk.</li>
+    <li>freedom->frihet</li>
+    <li>freedom->muligheter</li>
+    <li>freedom->et hjem</li>
+    <li>freedom->å få bestemme selv</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

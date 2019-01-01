@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalChat.label>dyrets chat</AnimalChat.label>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] satt med [RECIPIENT_nameDef] og snakket med [INITIATOR_objective]selv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gikk bort til [RECIPIENT_nameDef] mens [INITIATOR_pronoun] hvisket for [INITIATOR_objective]selv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] rørte ved [RECIPIENT_nameDef] mens [INITIATOR_pronoun] snakket med [INITIATOR_objective]selv om [TalkTopicAny].</li>
+    <li>tamed->lagde beroligende lyder til</li>
+    <li>tamed->gjorde sakte, vennlige bevegelser mot</li>
+    <li>tamed->lagde hysjelyder til</li>
+    <li>tamed->lagde glade klikkelyder mot</li>
+    <li>tamed->beveget hendene rolig og nærmet seg</li>
+    <li>tamed->beveget seg sakte mot</li>
+    <li>tamed->berørte</li>
+    <li>tamed->beroliget og oppmuntret</li>
+    <li>tamed->tilpasset pusten sin til</li>
+    <li>tamed->bøyde seg ned og gikk mot</li>
+    <li>tamed->viste ingen frykt eller sinne mot</li>
+    <li>tamed->prøvde å overse</li>
+    <li>tamed->nynnet en rolig melodi for</li>
+    <li>tamed->sang en vuggesang for</li>
+    <li>tamed->berørte</li>
+    <li>tamed->oppførte seg rolig overfor</li>
+    <li>tamed->satt tålmodig og ventet på</li>
+    <li>tamed->hvisket en historie om [TalkTopicAny] til</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+
+  <TameAttempt.label>temmingsforsøk</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å temme [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å få kontroll på [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å legge bånd på [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] krevde underdanighet fra [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ba [RECIPIENT_nameDef] komme.</li>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å få [RECIPIENT_nameDef] til å sitte stille.</li>
+    <li>r_logentry->[INITIATOR_nameDef] grep [RECIPIENT_nameDef] hard og ropte en kommando.</li>
+    <li>r_logentry->[INITIATOR_nameDef] prøvde å holde [RECIPIENT_nameDef] rolig.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropte en kommando mot [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] slo [RECIPIENT_nameDef] for å vise overlegenhet.</li>
+    <li>r_logentry->[INITIATOR_nameDef] viste [RECIPIENT_nameDef] veien til stedet [INITIATOR_pronoun] bor.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ba [RECIPIENT_nameDef] komme hjem.</li>
+    <li>r_logentry->[INITIATOR_nameDef] berørte en sårbar del av [RECIPIENT_nameDef] sin kropp for å vise makt.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pekte på bakken og krevde at [RECIPIENT_nameDef] skulle komme.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ga [RECIPIENT_nameDef] en kommando.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+
+  <TrainAttempt.label>treningsforsøk</TrainAttempt.label>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] å trene</li>
+    <li>trained->[tried] å vise et nytt triks til</li>
+    <li>trained->[tried] å lære</li>
+    <li>trained->[tried] å trene</li>
+    <li>trained->[tried] å oppmuntre en ny ferdighet hos</li>
+    <li>trained->demonstrerte en ferdighet til</li>
+    <li>trained->oppmuntret en respons fra</li>
+    <li>tried->prøvde</li>
+    <li>tried->forøkte</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+
+  <Nuzzle.label>kos</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gned snuten [INITIATOR_possessive] [nuzzleadverb] mot [RECIPIENT_nameDef] sin [rubbedpart].</li>
+    <li>nuzzled(p=2)->koste</li>
+    <li>nuzzled->gned seg intil</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->forsiktig</li>
+    <li>nuzzleadverb->oppmuntrende</li>
+    <li>nuzzleadverb->lekent</li>
+    <li>nuzzleadverb->mykt</li>
+    <li>nuzzleadverb->støttende</li>
+    <li>nuzzleadverb->lett</li>
+    <li>nuzzleadverb->godt</li>
+    <li>nuzzleadverb->ivrig</li>
+    <li>nuzzleadverb->kosete</li>
+    <li>nuzzleadverb->kjærlig</li>
+    <li>rubbedpart->bein</li>
+    <li>rubbedpart->kne</li>
+    <li>rubbedpart->fot</li>
+    <li>rubbedpart->albue</li>
+    <li>rubbedpart->hofte</li>
+    <li>rubbedpart->skulder</li>
+    <li>rubbedpart->hånd</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

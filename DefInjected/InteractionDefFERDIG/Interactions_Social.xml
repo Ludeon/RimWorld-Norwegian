@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <Chitchat.label>småprat</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] og [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] med [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] for [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->pratet om</li>
+    <li>talkedabout->hadde et ord om</li>
+    <li>talkedabout->snakket om</li>
+    <li>talkedabout->preiket om</li>
+    <li>talkedabout->diskuterte</li>
+    <li>talkedabout->tullet om</li>
+    <li>talkedabout->plapret om</li>
+    <li>commentedabout->sa noe om</li>
+    <li>commentedabout->nevnte</li>
+    <li>commentedabout->mumlet noe om</li>
+    <li>commentedabout->kommenterte</li>
+    <li>commentedabout->tullet om</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
+
+  <DeepTalk.label>dyp samtale</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] og [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] med [RECIPIENT_nameDef].</li>
+    <li>talkedabout->delte tanker om</li>
+    <li>talkedabout->utvekslet tanker om</li>
+    <li>talkedabout->utvekslet idéer om</li>
+    <li>talkedabout->luftet sine tanker om</li>
+    <li>talkedabout->utvekslet meninger om</li>
+    <li>talkedabout->diskuterte</li>
+    <li>talkedabout->hadde en engasjerende samtale om</li>
+    <li>talkedabout->snakket stille om</li>
+    <li>talkedabout->snakket lenge om</li>
+    <li>talkedabout->knyttet bånd over</li>
+    <li>subject->[TalkTopicHeavy]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
+
+  <Slight.label>slengmerking</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]s [PersonalCharacteristic].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef] sin [PersonFamily]</li>
+    <li>madefunof->ertet</li>
+    <li>madefunof->fornermet</li>
+    <li>madefunof->fornærmet subtilt</li>
+    <li>madefunof->var fæl om</li>
+    <li>madefunof->snakket stygt om</li>
+    <li>madefunof->snakket bittert om</li>
+    <li>madefunof->lo av</li>
+    <li>madefunof->slang med leppa etter</li>
+    <li>madefunof->impliserte noe stygt om</li>
+    <li>madefunof->nedvurderte</li>
+    <li>madefunof->kommenterte</li>
+    <li>madefunof->ga et bakvendt komplement om</li>
+  </Slight.logRulesInitiator.rulesStrings>
+
+  <Insult.label>fornærmelse</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sammenliknet [target] men en [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kalte [target] en [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef] sin [PersonFamily]</li>
+    <li>insulted(p=3)->fornærmet insulted</li>
+    <li>insulted->fornærmet åpenlyst</li>
+    <li>insulted->fornærmet høylytt</li>
+    <li>insulted->fornærmet med innlevelse</li>
+    <li>insulted->fornærmet direkte</li>
+    <li>insulted->fornærmet ondskapsfullt</li>
+    <li>insulted->var veldig respektløs om</li>
+    <li>insulted->kastet fornærmelser etter</li>
+    <li>insulted->spyttet ild og svovel etter</li>
+    <li>insulted->svertet</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  </Insult.logRulesInitiator.rulesStrings>
+
+  <KindWords.label>fine ord</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]s [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->komplimenterte</li>
+    <li>complimented->hyllet</li>
+    <li>complimented->sa hyggelige ting om</li>
+    <li>complimented->sa at [INITIATOR_pronoun] skulle ønske [INITIATOR_pronoun] hadde</li>
+    <li>complimented->aplauderte</li>
+    <li>complimented->danset en liten dans for</li>
+    <li>complimented->komplimenterte</li>
+    <li>complimented->sa noe snilt om</li>
+    <li>complimented->sa lovord om</li>
+    <li>complimented->takket for</li>
+    <li>complimented->bemerket</li>
+    <li>complimented->sa hvor takknemlig [INITIATOR_pronoun] er for</li>
+    <li>complimented->sa noe bra om</li>
+  </KindWords.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>
