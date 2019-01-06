@@ -24,7 +24,7 @@ Translators
 - 2villa1 - Last update ?
 - TheSettker95 - Last update December 2015
 - TheUnknownKiller - Last update December 2015
-- Bendik Berg - Last update March 2017
+- Bendik Berg - Last update January 2019
 - ApertureAlex - Last update March 2017
 - EirikBirkeland - Last update November 2017
 - Erik Raae (mr-raw) - Last update May 2018
