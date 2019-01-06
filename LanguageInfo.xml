@@ -8,6 +8,10 @@
       <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>Erik 'mr-raw' Raae</creditee>
+        
+      <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Bendik Berg</creditee>
     </li>
   </credits>
 </LanguageInfo>
