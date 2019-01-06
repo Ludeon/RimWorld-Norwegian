@@ -391,4 +391,4 @@
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>Gruppen med pod'er er ikke ferdig lastet. {0} mangler. Start likevel?</ConfirmSendNotCompletelyLoadedPods>
   
-</LanguageData>0
+</LanguageData>
