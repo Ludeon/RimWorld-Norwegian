@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
-    <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
-    
-    <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
-    <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
-    <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
-    
-    <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
-    <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
-    
-    <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-    <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
-    <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
-    
+
+  <ImmediateAttack.arrivalTextEnemy>De angriper øyeblikkelig.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextFriendly>De kommer til unnsetning øyeblikkelig.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.letterLabelEnemy>Angrep</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>Vennligsinnede</ImmediateAttack.letterLabelFriendly>
+
+  <StageThenAttack.arrivalTextEnemy>De vil forberede seg en stund før de angriper.\n\nForbered forsvaret ditt nøye, eller organiser et motangrep.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextFriendly>De forberede seg en stund før de kommer til unnsetning.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.letterLabelEnemy>Angrep</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>Vennligsinnede</StageThenAttack.letterLabelFriendly>
+
+  <ImmediateAttackSmart.arrivalTextEnemy>De angriper øyeblikkelig.\n\nPass på – de ser ut til å ha planlagt dette. De vil unngå kanonene dine og noen av fellene.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextFriendly>De kommer til unnsetning øyeblikkelig.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.letterLabelEnemy>Angrep</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Vennligsinnede</ImmediateAttackSmart.letterLabelFriendly>
+
+  <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som om de vil grave seg rundt forsvarsverkene dine.</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Angrep</ImmediateAttackSappers.letterLabelEnemy>
+
+  <Siege.arrivalTextEnemy>Det ser ut som de vil beleire kolonien og hule den ut med artilleri fra trygg avstand. Du kan enten vente til de angriper – eller ta dem først.</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
+  <Siege.letterLabelEnemy>Beleiring</Siege.letterLabelEnemy>
+  <Siege.letterLabelFriendly>Vennligsinnede</Siege.letterLabelFriendly>
+
+
 </LanguageData>

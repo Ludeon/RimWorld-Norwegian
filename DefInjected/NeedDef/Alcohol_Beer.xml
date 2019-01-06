@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Alcohol addiction -->
+
+  <Chemical_Alcohol.label>alkohol</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>På grunn av en avhengighet trenger denne personen jevnlig inntak av alkohol for å unngå abstinens.</Chemical_Alcohol.description>
+
+
+</LanguageData>

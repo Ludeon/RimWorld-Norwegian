@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Special mental states not from mental breaks -->
+
+  <WanderConfused.label>vandrer i ørska</WanderConfused.label>
+  <WanderConfused.baseInspectLine>Sinnstilstand: Forvirret</WanderConfused.baseInspectLine>
+  <WanderConfused.beginLetter>{0} har mistet grepet og går rundt uten mål og mening.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>forvirret</WanderConfused.beginLetterLabel>
+  <WanderConfused.recoveryMessage>{0} er ikke lenger forvirret.</WanderConfused.recoveryMessage>
+
+  <PanicFlee.label>flykter i panikk</PanicFlee.label>
+  <PanicFlee.baseInspectLine>Sinnstilstand: Panisk</PanicFlee.baseInspectLine>
+  <PanicFlee.beginLetter>{0} flykter i panikk.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>flukt</PanicFlee.beginLetterLabel>
+  <PanicFlee.recoveryMessage>{0} er ikke lenger panisk.</PanicFlee.recoveryMessage>
+
+  <Manhunter.label>mannevond</Manhunter.label>
+  <Manhunter.baseInspectLine>Forargret: Mannevond</Manhunter.baseInspectLine>
+  <Manhunter.beginLetter>{0} har blitt mannevond!</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>mannevond</Manhunter.beginLetterLabel>
+  <Manhunter.recoveryMessage>{0} sin lyst etter blod har gitt seg.</Manhunter.recoveryMessage>
+
+  <ManhunterPermanent.label>mannevond</ManhunterPermanent.label>
+  <ManhunterPermanent.baseInspectLine>Forargret: Mannevond</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.beginLetter>{0} har blitt mannevond!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>mannevond</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.recoveryMessage>{0}sin lyst etter blod har gitt seg.</ManhunterPermanent.recoveryMessage>
+
+  <SocialFighting.label>kamp</SocialFighting.label>
+  <SocialFighting.baseInspectLine>Sinnstilstand: Ute etter en kamp</SocialFighting.baseInspectLine>
+
+
+</LanguageData>

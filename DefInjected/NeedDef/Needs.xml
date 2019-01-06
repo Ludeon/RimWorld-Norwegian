@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Mood.label>mood</Mood.label>
-    <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break.</Mood.description>
-    
-    <Food.label>food</Food.label>
-    <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will take starvation damage over time.</Food.description>
-    
-    <Rest.label>rest</Rest.label>
-    <Rest.description>Rest is how much sleep a creature has gotten recently.</Rest.description>
-    
-    <Joy.label>fornøyelser</Joy.label>
-    <Joy.description>Underholdning og fornøyelige gjenstander for kolonistenes velbefinnende.</Joy.description>
-    
-    <Beauty.label>beauty</Beauty.label>
-    <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently.</Beauty.description>
-    
-    <Comfort.label>comfort</Comfort.label>
-    <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture.</Comfort.description>
-    
-    <Space.label>space</Space.label>
-    <Space.description>Space reflects a sense of being physically free and able to move around. It is harmed by spending extended periods in cramped rooms.</Space.description>
-    
+
+  <Mood.label>humør</Mood.label>
+  <Mood.description>Humør viser hvor glad eller stresset en person er. Blir humøret for lavt, kan personen få et sammenbrudd. Avhengig av hvor lavt humøret er når sammenbruddet inntreffer, kan personen gjemme seg på rommet sitt eller prøve å myrde noen.</Mood.description>
+
+  <Food.label>mat</Food.label>
+  <Food.description>Mat er mengden næring en skapning har inntatt i det siste. Hvis denne måleren er på null, vil skapningen utvikle underernæring, som er dødelig.</Food.description>
+
+  <Rest.label>hvile</Rest.label>
+  <Rest.description>Hvile er hvor mye søvn en skapning har fått i det siste. Hvis den er null, kan skapningen falle i søvn når som helst.</Rest.description>
+
+  <Joy.label>moro</Joy.label>
+  <Joy.description>Moro er adspredelse fra plikter. Å gjenta den samme aktiviteten ofte blir repetitivt og kjedelig, så sørg for at kolonistene dine har mye å finne på.</Joy.description>
+
+  <Beauty.label>skjønnhet</Beauty.label>
+  <Beauty.description>Skjønnhet er hvor estetisk en person synes omgivelsene er. Vakre ting som kunst bedre skjønnheten, men stygge ting som skitt og ujevn stein minsker den.</Beauty.description>
+
+  <Comfort.label>komfort</Comfort.label>
+  <Comfort.description>Komfort øker når man sitter på eller ligger i komfortable møbler. Man kan få det ved å sove i en seng, sitter i en stol mens man jobber, eller ved andre anledninger. God kvalitet øker et møbels komfort.</Comfort.description>
+
+  <Outdoors.label>frisk luft</Outdoors.label>
+  <Outdoors.description>Frisk luft er hvor mye en karakter har fått være ute i det siste. Den minker når man er inne, spesielt under bakken. Den øker når man er under åpen himmel, spesielt utendørs. Dette handler ikke om størrelsen på rommet man er i, men behovet for å være ute. Mangel på utetid er et stort problem for dem som tilbringer mye tid inne i trange grotter.</Outdoors.description>
+
+  <RoomSize.label>romstørrelse</RoomSize.label>
+
+
 </LanguageData>

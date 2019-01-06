@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Luciferium addiction -->
+
+  <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
+  <Chemical_Luciferium.description>Denne personens kropp er forsterket av luciferiummekanitter.\n\nUten jevnlig inntak av luciferium, vil mekanittene løse seg opp. Hvis det skjer vil offeret bli stadig mer voldelig, og til slutt dø.\n\nDenne avhengigheten vil aldri forsvinne.</Chemical_Luciferium.description>
+
+
+</LanguageData>
