@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <SpaceRefugee.label>space refugee</SpaceRefugee.label>
-    
-    <SpaceSoldier.label>space soldier</SpaceSoldier.label>
-    
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>space soldier</AncientSoldier.label>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
+  
 </LanguageData>

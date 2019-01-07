@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <NoInteraction.label>no interaction</NoInteraction.label>
-  <Chat.label>friendly chat</Chat.label>
+  
+  <!-- EN: recruit -->
   <AttemptRecruit.label>chat and recruit</AttemptRecruit.label>
-  <Release.label>release</Release.label>
+  
+  <!-- UNUSED -->
+  <Chat.label>friendly chat</Chat.label>
+  
+  <!-- EN: execute -->
   <Execution.label>execution</Execution.label>
-
-
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>no interaction</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>TODO</ReduceResistance.label>
+  
+  <!-- EN: release -->
+  <Release.label>release</Release.label>
+  
 </LanguageData>

@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <CremateCorpse.label>kremer lik</CremateCorpse.label>
-    <CremateCorpse.description>Kremerer et lik for å fjerne det helt.</CremateCorpse.description>
-    <CremateCorpse.jobString>Kremerer.</CremateCorpse.jobString>
-    
-    <BurnApparel.label>brenn klær</BurnApparel.label>
-    <BurnApparel.description>Brenn klær for å fjerne det helt.</BurnApparel.description>
-    <BurnApparel.jobString>Brenner klær.</BurnApparel.jobString>
-    
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>brenn klær</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>Brenn klær for å fjerne det helt.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>Brenner klær.</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>TODO</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>TODO</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>TODO</BurnDrugs.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>kremer lik</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>Kremerer et lik for å fjerne det helt.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>Kremerer.</CremateCorpse.jobString>
+  
 </LanguageData>

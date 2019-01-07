@@ -1,13 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Master.label>master</Master.label>
-  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>allowed area</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
-  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
-  <Outfit.label>current outfit</Outfit.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>drug policy</DrugPolicy.label>
-
-
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>TODO</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>master</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>current outfit</Outfit.label>
+  
 </LanguageData>

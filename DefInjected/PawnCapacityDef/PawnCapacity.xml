@@ -1,28 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Consciousness.label>consciousness</Consciousness.label>
-    <Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
-    
-    <Sight.label>sight</Sight.label>
-    
-    <Hearing.label>hearing</Hearing.label>
-    
-    <Moving.label>moving</Moving.label>
-    
-    <Manipulation.label>manipulation</Manipulation.label>
-    
-    <Talking.label>talking</Talking.label>
-    <Talking.labelMechanoids>Communication</Talking.labelMechanoids>
-    
-    <Eating.label>eating</Eating.label>
-    
-    <Breathing.label>breathing</Breathing.label>
-    
-    <BloodFiltration.label>blood filtration</BloodFiltration.label>
-    
-    <BloodPumping.label>blood pumping</BloodPumping.label>
-    
-    <Metabolism.label>metabolism</Metabolism.label>
-    
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>blood filtration</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>blood pumping</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>breathing</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>consciousness</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>eating</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>hearing</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>manipulation</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>metabolism</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>moving</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>sight</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>talking</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Communication</Talking.labelMechanoids>
+  
 </LanguageData>

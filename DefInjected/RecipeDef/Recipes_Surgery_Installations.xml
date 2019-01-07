@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech arm -->
+  <InstallArchotechArm.label>TODO</InstallArchotechArm.label>
+  <!-- EN: Install an archotech arm. -->
+  <InstallArchotechArm.description>TODO</InstallArchotechArm.description>
+  <!-- EN: Installing archotech arm. -->
+  <InstallArchotechArm.jobString>TODO</InstallArchotechArm.jobString>
+  
+  <!-- EN: install archotech eye -->
+  <InstallArchotechEye.label>TODO</InstallArchotechEye.label>
+  <!-- EN: Install an archotech eye. -->
+  <InstallArchotechEye.description>TODO</InstallArchotechEye.description>
+  <!-- EN: Installing archotech eye. -->
+  <InstallArchotechEye.jobString>TODO</InstallArchotechEye.jobString>
+  
+  <!-- EN: install archotech leg -->
+  <InstallArchotechLeg.label>TODO</InstallArchotechLeg.label>
+  <!-- EN: Install an archotech leg. -->
+  <InstallArchotechLeg.description>TODO</InstallArchotechLeg.description>
+  <!-- EN: Installing archotech leg. -->
+  <InstallArchotechLeg.jobString>TODO</InstallArchotechLeg.jobString>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>installer bionisk arm</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>Installerer bionisk arm.</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>Installerer bionisk arm.</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>installer bionisk øye</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>Installerer bionisk øye.</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>Installerer bionisk øye.</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic heart -->
+  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>installer bionisk ben</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>Installerer bionisk ben.</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>Installerer bionisk ben.</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <!-- EN: Install a bionic spine. -->
+  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <!-- EN: Installing bionic spine. -->
+  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install denture -->
+  <InstallDenture.label>installer gebiss</InstallDenture.label>
+  <!-- EN: Install a denture. -->
+  <InstallDenture.description>Installerer gebiss.</InstallDenture.description>
+  <!-- EN: Installing denture. -->
+  <InstallDenture.jobString>Installerer gebiss.</InstallDenture.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>installer hjerte</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>Installerer hjerte.</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>Installerer hjerte.</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>installer nyre</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>Installerer nyre.</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>Installerer nyre.</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>installer lever</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>Installerer lever.</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>Installerer lever.</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>installer lunge</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>Installerer lunge.</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>Installerer lunge.</InstallNaturalLung.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  
+  <!-- EN: install peg leg -->
+  <InstallPegLeg.label>installer treben</InstallPegLeg.label>
+  <!-- EN: Install a peg leg. -->
+  <InstallPegLeg.description>Installerer treben.</InstallPegLeg.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegLeg.jobString>Installerer treben.</InstallPegLeg.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>installer kraftklo</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>Installerer kraftklo.</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>Installerer kraftklo.</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>installer simpel armprotese</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Installerer simpel armprotese.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>Installerer simpel armprotese.</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>installer simpel benprotese</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>Installerer simpel benprotese.</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>Installerer simpel benprotese.</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: install wooden foot -->
+  <InstallWoodenFoot.label>TODO</InstallWoodenFoot.label>
+  <!-- EN: Install a wooden foot. -->
+  <InstallWoodenFoot.description>TODO</InstallWoodenFoot.description>
+  <!-- EN: Installing wooden foot. -->
+  <InstallWoodenFoot.jobString>TODO</InstallWoodenFoot.jobString>
+  
+</LanguageData>
