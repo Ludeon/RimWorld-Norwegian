@@ -6,9 +6,9 @@
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
   <Beer.description>Den første drikken mennesker lagde fra vann. Øl kan smake, men det viktigste er berusningseffekten. Overforbruk kan lede til blackouts og avhengighet.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>Drikk</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Drikk {0}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>Drikker</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>Drikker {0}</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
   <Beer.tools.bottle.label>flaske</Beer.tools.bottle.label>
   <!-- EN: neck -->
@@ -17,6 +17,6 @@
   <!-- EN: wort -->
   <Wort.label>malt</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>Ugjæret øl. Dette stoffet må gjæres i et meskekar før det kan nytes kaldt</Wort.description>
+  <Wort.description>Ugjæret øl. Dette stoffet må gjæres i et meskekar før det kan nytes kaldt.</Wort.description>
   
 </LanguageData>
