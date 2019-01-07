@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>bitt</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} ble bitt i hjel.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>stumpt</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} ble slått i hjel.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>knust</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} ble knust i hjel.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>snittsår</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} ble skåret i hjel.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>TODO</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>TODO</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>skrubbsår</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} ble revet i biter.</Scratch.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>stikksår</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} ble stukket i hjel.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>giftig bitt</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} ble bitt i hjel.</ToxicBite.deathMessage>
+  
+</LanguageData>

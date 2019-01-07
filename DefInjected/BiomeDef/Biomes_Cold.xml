@@ -1,13 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <BorealForest.label>Subarktisk barskog</BorealForest.label>
-    <BorealForest.description>Frosne skoger av høye trær. På tross av barske vintre kan skogene her støtte en bred mengde av dyr i forskjellige størrelser.</BorealForest.description>
-    
-    <Tundra.label>Tundra</Tundra.label>
-    <Tundra.description>Område hvor det hovedsakelig er frossen jord. Det er lite av trær og vegetasjon. Anall dyr er få, og det er store vandrende flokker av planteetere – samt kjøtteterne som følger etter dem.</Tundra.description>
-    
-    <IceSheet.label>Iskappe</IceSheet.label>
-    <IceSheet.description>Overflate dekket av en iskappe. Isen kan blir opp til flere kilometer tykk, og det er ingen tilgang på jord som kan dyrkes eller stein som kan hugges. Ingen dyr kan leve under disse forholdene; dyrene som er her har enten gått seg vill, eller så migrerer de til andre strøk.</IceSheet.description>
-    
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>Subarktisk barskog</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Frosne skoger av høye trær. På tross av barske vintre kan skogene her støtte en bred mengde av dyr i forskjellige størrelser.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>TODO</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>TODO</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>Iskappe</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Overflate dekket av en iskappe. Isen kan blir opp til flere kilometer tykk, og det er ingen tilgang på jord som kan dyrkes eller stein som kan hugges. Ingen dyr kan leve under disse forholdene; dyrene som er her har enten gått seg vill, eller så migrerer de til andre strøk.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>TODO</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>TODO</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>Tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Område hvor det hovedsakelig er frossen jord. Det er lite av trær og vegetasjon. Anall dyr er få, og det er store vandrende flokker av planteetere – samt kjøtteterne som følger etter dem.</Tundra.description>
+  
 </LanguageData>

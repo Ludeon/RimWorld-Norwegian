@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OnSkin.label>innerst</OnSkin.label>
-  <Middle.label>mellomlag</Middle.label>
-  <Shell.label>yttertøy</Shell.label>
+  
+  <!-- EN: belt -->
   <Belt.label>belte</Belt.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>mellomlag</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>innerst</OnSkin.label>
+  
+  <!-- EN: headgear -->
   <Overhead.label>hodeplagg</Overhead.label>
-
-
+  
+  <!-- EN: outer -->
+  <Shell.label>yttertøy</Shell.label>
+  
 </LanguageData>

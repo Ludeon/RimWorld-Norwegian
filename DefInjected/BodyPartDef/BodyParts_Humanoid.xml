@@ -1,82 +1,154 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Torso.label>overkropp</Torso.label>
-    
-    <LeftShoulder.label>venstre skulder</LeftShoulder.label>
-    
-    <LeftArm.label>venstre arm</LeftArm.label>
-    
-    <LeftHand.label>venstre hånd</LeftHand.label>
-    
-    <LeftHandPinky.label>venstre hånds lillefinger</LeftHandPinky.label>
-    
-    <LeftHandRingFinger.label>venstre hånds ringfinger</LeftHandRingFinger.label>
-    
-    <LeftHandMiddleFinger.label>venstre hånds langefinger</LeftHandMiddleFinger.label>
-    
-    <LeftHandIndexFinger.label>venstre hånds pekefinger</LeftHandIndexFinger.label>
-    
-    <LeftHandThumb.label>venstre hånds tommelfinger</LeftHandThumb.label>
-    
-    <RightShoulder.label>høyre skulder</RightShoulder.label>
-    
-    <RightArm.label>høyre arm</RightArm.label>
-    
-    <RightHand.label>høyre hånd</RightHand.label>
-    
-    <RightHandPinky.label>høyre hånds lillefinger</RightHandPinky.label>
-    
-    <RightHandRingFinger.label>høyre hånds ringfinger</RightHandRingFinger.label>
-    
-    <RightHandMiddleFinger.label>høyre hånds langefinger</RightHandMiddleFinger.label>
-    
-    <RightHandIndexFinger.label>høyre hånds pekefinger</RightHandIndexFinger.label>
-    
-    <RightHandThumb.label>høyre hånds tommelfinger</RightHandThumb.label>
-    
-    <LeftFootLittleToe.label>venstre fots lilletå</LeftFootLittleToe.label>
-    
-    <LeftFootFourthToe.label>venstre fots fjerde tå</LeftFootFourthToe.label>
-    
-    <LeftFootMiddleToe.label>venstre fots midterste tå</LeftFootMiddleToe.label>
-    
-    <LeftFootSecondToe.label>venstre fots andre tå</LeftFootSecondToe.label>
-    
-    <LeftFootBigToe.label>venstre fots storetå</LeftFootBigToe.label>
-    
-    <RightFootLittleToe.label>høyre fots lilletå</RightFootLittleToe.label>
-    
-    <RightFootFourthToe.label>høyre fots fjerde tå</RightFootFourthToe.label>
-    
-    <RightFootMiddleToe.label>høyre fots midterste tå</RightFootMiddleToe.label>
-    
-    <RightFootSecondToe.label>høyre fots andre tå</RightFootSecondToe.label>
-    
-    <RightFootBigToe.label>høyre fots storetå</RightFootBigToe.label>
-    
-    <LeftClavicle.label>venstre kragebein</LeftClavicle.label>
-    
-    <RightClavicle.label>høyre kragebein</RightClavicle.label>
-    
-    <Sternum.label>brystbein</Sternum.label>
-    
-    <LeftHumerus.label>venstre overarmsbein</LeftHumerus.label>
-    
-    <RightHumerus.label>høyre overarmsbein</RightHumerus.label>
-    
-    <LeftRadius.label>venstre underarmsknokkel</LeftRadius.label>
-    
-    <RightRadius.label>høyre underarmsknokkel</RightRadius.label>
-    
-    <Pelvis.label>hofte</Pelvis.label>
-    
-    <LeftFemur.label>venstre lårbein</LeftFemur.label>
-    
-    <RightFemur.label>høyre lårbein</RightFemur.label>
-    
-    <LeftTibia.label>venstre skinnebein</LeftTibia.label>
-    
-    <RightTibia.label>høyre skinnebein</RightTibia.label>
-    
+  
+  <!-- EN: arm -->
+  <Arm.label>TODO</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>TODO</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>TODO</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>TODO</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>TODO</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>TODO</Humerus.label>
+  
+  <!-- UNUSED -->
+  <LeftArm.label>venstre arm</LeftArm.label>
+  
+  <!-- UNUSED -->
+  <LeftClavicle.label>venstre kragebein</LeftClavicle.label>
+  
+  <!-- UNUSED -->
+  <LeftFemur.label>venstre lårbein</LeftFemur.label>
+  
+  <!-- UNUSED -->
+  <LeftFootBigToe.label>venstre fots storetå</LeftFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootFourthToe.label>venstre fots fjerde tå</LeftFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootLittleToe.label>venstre fots lilletå</LeftFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootMiddleToe.label>venstre fots midterste tå</LeftFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootSecondToe.label>venstre fots andre tå</LeftFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <LeftHand.label>venstre hånd</LeftHand.label>
+  
+  <!-- UNUSED -->
+  <LeftHandIndexFinger.label>venstre hånds pekefinger</LeftHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandMiddleFinger.label>venstre hånds langefinger</LeftHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandPinky.label>venstre hånds lillefinger</LeftHandPinky.label>
+  
+  <!-- UNUSED -->
+  <LeftHandRingFinger.label>venstre hånds ringfinger</LeftHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandThumb.label>venstre hånds tommelfinger</LeftHandThumb.label>
+  
+  <!-- UNUSED -->
+  <LeftHumerus.label>venstre overarmsbein</LeftHumerus.label>
+  
+  <!-- UNUSED -->
+  <LeftRadius.label>venstre underarmsknokkel</LeftRadius.label>
+  
+  <!-- UNUSED -->
+  <LeftShoulder.label>venstre skulder</LeftShoulder.label>
+  
+  <!-- UNUSED -->
+  <LeftTibia.label>venstre skinnebein</LeftTibia.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>hofte</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>TODO</Radius.label>
+  
+  <!-- UNUSED -->
+  <RightArm.label>høyre arm</RightArm.label>
+  
+  <!-- UNUSED -->
+  <RightClavicle.label>høyre kragebein</RightClavicle.label>
+  
+  <!-- UNUSED -->
+  <RightFemur.label>høyre lårbein</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <RightFootBigToe.label>høyre fots storetå</RightFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootFourthToe.label>høyre fots fjerde tå</RightFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootLittleToe.label>høyre fots lilletå</RightFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootMiddleToe.label>høyre fots midterste tå</RightFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootSecondToe.label>høyre fots andre tå</RightFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <RightHand.label>høyre hånd</RightHand.label>
+  
+  <!-- UNUSED -->
+  <RightHandIndexFinger.label>høyre hånds pekefinger</RightHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandMiddleFinger.label>høyre hånds langefinger</RightHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandPinky.label>høyre hånds lillefinger</RightHandPinky.label>
+  
+  <!-- UNUSED -->
+  <RightHandRingFinger.label>høyre hånds ringfinger</RightHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandThumb.label>høyre hånds tommelfinger</RightHandThumb.label>
+  
+  <!-- UNUSED -->
+  <RightHumerus.label>høyre overarmsbein</RightHumerus.label>
+  
+  <!-- UNUSED -->
+  <RightRadius.label>høyre underarmsknokkel</RightRadius.label>
+  
+  <!-- UNUSED -->
+  <RightShoulder.label>høyre skulder</RightShoulder.label>
+  
+  <!-- UNUSED -->
+  <RightTibia.label>høyre skinnebein</RightTibia.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>TODO</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>brystbein</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>TODO</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>TODO</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>overkropp</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>TODO</Waist.label>
+  
 </LanguageData>

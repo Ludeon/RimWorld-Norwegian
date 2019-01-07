@@ -1,36 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <BloodLoss.label>blodtap</BloodLoss.label>
-    <BloodLoss.stages.0.label>ubetydelig</BloodLoss.stages.0.label>
-    <BloodLoss.stages.1.label>minimal</BloodLoss.stages.1.label>
-    <BloodLoss.stages.2.label>moderat</BloodLoss.stages.2.label>
-    <BloodLoss.stages.3.label>alvorlig</BloodLoss.stages.3.label>
-    <BloodLoss.stages.4.label>livstruende</BloodLoss.stages.4.label>
-    
-    <Anesthetic.label>bedøvelse</Anesthetic.label>
-    
-    <Concussion.label>hjernerystelse</Concussion.label>
-    
-    <PsychicShock.label>sjokk</PsychicShock.label>
-    
-    <CryptosleepSickness.label>dvalesyke</CryptosleepSickness.label>
-    
-    <FoodPoisoning.label>matforgiftning</FoodPoisoning.label>
-    
-    <ToxicBuildup.label>forgiftning</ToxicBuildup.label>
-    <ToxicBuildup.stages.0.label>begynnende</ToxicBuildup.stages.0.label>
-    <ToxicBuildup.stages.1.label>minimal</ToxicBuildup.stages.1.label>
-    <ToxicBuildup.stages.2.label>svak</ToxicBuildup.stages.2.label>
-    <ToxicBuildup.stages.3.label>bekymringsverdig</ToxicBuildup.stages.3.label>
-    <ToxicBuildup.stages.4.label>alvorlig</ToxicBuildup.stages.4.label>
-    <ToxicBuildup.stages.5.label>livstruende</ToxicBuildup.stages.5.label>
-    
-    <Pregnant.label>gravid</Pregnant.label>
-    <Pregnant.comps.0.discoverLetterLabel>{0} gravid</Pregnant.comps.0.discoverLetterLabel>
-    <Pregnant.comps.0.discoverLetterText>{0} er blitt gravid!</Pregnant.comps.0.discoverLetterText>
-    <Pregnant.stages.0.label>første trimester</Pregnant.stages.0.label>
-    <Pregnant.stages.1.label>andre trimester</Pregnant.stages.1.label>
-    <Pregnant.stages.2.label>tredje trimester</Pregnant.stages.2.label>
-    
+  
+  <!-- UNUSED -->
+  <Concussion.label>hjernerystelse</Concussion.label>
+  
 </LanguageData>

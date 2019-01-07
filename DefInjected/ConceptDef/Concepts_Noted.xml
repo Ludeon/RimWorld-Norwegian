@@ -1,38 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <CameraDolly.helpTexts.0>FLytt kameraet ved å trykke og dra med MUSEHJULKNAPPEN eller med WASD.</CameraDolly.helpTexts.0>
-    
-    <Rescuing.helpTexts.0>For å redde en skadet kolonist, velg en kolonist som kan gå, og høyreklikk på den skadde. Velg Berg.</Rescuing.helpTexts.0>
-    
-    <Capturing.helpTexts.0>En fiende er bevisstløs. Du kan fange hen!</Capturing.helpTexts.0>
-    <Capturing.helpTexts.1>Du kan fange en ikke-kolonist ved å velge en kolonist, og høyreklikke på den bevisstløse, og velge Fang.\n\nFangen kan bare sove i rom med fangesenger.</Capturing.helpTexts.1>
-    
-    <InteractingWithTraders.helpTexts.0>Du kan snakke med folk med ? over hodet.\n\nVelg en kolonist og høyreklikk på personen med ?.</InteractingWithTraders.helpTexts.0>
-    
-    <Drafting.helpTexts.0>Du kan kontrollere kolonister direkte ved å velge dem og trykke Draft eller R.</Drafting.helpTexts.0>
-    <Drafting.helpTexts.1>I Draft vil kolonister bare gjøre det du forteller dem, og kan bare gjøre militante handlinger. Har kolonisten våpen, vil hen prøve å bruke det.\n\nHvis du lar kolonister forbli i Draft, vil de sulte og bli lei seg.</Drafting.helpTexts.1>
-    
-    <AnimalsDontAttackDoors.helpTexts.0>Mannevonde dyr vil stort sett ikke skade dører eller inaktive automatvåpen.\n\nKolonistene dine er er trygge med en vegg mellom seg og fienden. Men beistene vil vente på deg...</AnimalsDontAttackDoors.helpTexts.0>
-    
-    <BillsTab.helpTexts.0>Før kolonister kan jobbe ved en benk, må du gi arbeidsområdet en bestilling under Bestillinger. Her angir du hvilke retter og hvilket utstyr som skal lages, og om dyr skal flås. Velg Gjør for alltid om du vil at bestillingen skal var for alltid.</BillsTab.helpTexts.0>
-    
-    <TVForSickPeople.helpTexts.0>Sengeliggende pasienter kan kose seg om du gir dem en TV å se på.</TVForSickPeople.helpTexts.0>
-    
-    <AnimalTraining.helpTexts.0>Du kan angi spesifikk trening for et tamt dyr under TRENING.\n\nNår noen har hatt en treningsøkt med dyret, trenger det en pause før det kan trenes igjen.</AnimalTraining.helpTexts.0>
-    
-    <StorageTabCategories.helpTexts.0>I lagringsområdets oversikt, under Lagring-knappen, kan du velge hvilke spesifikke ting og kategorier som skal tillates eller forbys i lagringsområdet. Klikk på pilene til venstre for kategorinavnene.</StorageTabCategories.helpTexts.0>
-    
-    <Mining.helpTexts.0>Du velger hvilke felter som skal graves i ved å åpne ARKITEKT-menyen og velge knappen ORDRE.\n\nNoen mineraler gir STÅL, GULL, PLASTÅL, og andre materialer.</Mining.helpTexts.0>
-    
-    <HostilityResponse.helpTexts.0>Du kan bestemme hvordan kolonistene skal reagere på farer.\n\nVelg mellom FLYKT, ANGRIP og OVERSE i kolonistens oversikt.</HostilityResponse.helpTexts.0>
-    
-    <OpeningComms.helpTexts.0>Få en kolonist til å kommunisere gjennom kommunikasjonsbordet ved å velge kolonisten og høyreklikke på kommunikasjonsbordet.</OpeningComms.helpTexts.0>
-    
-    <Deterioration.helpTexts.0>Ting som ligger ute vil sakte men sikkert brytes ned.\n\nBygg et tak over ting du vil beholde.</Deterioration.helpTexts.0>
-    
-    <InspectRoomStats.helpTexts.0>Du kan se hvert enkelt roms estetikk og verdi med INSPISER ROMS TREKK nede til høyre.</InspectRoomStats.helpTexts.0>
-    
-    <ClickingMessages.helpTexts.0>Klikk på merknadene øverst til venstre på skjermen for å føre til det de handler om.</ClickingMessages.helpTexts.0>
-    
+  
+  <!-- UNUSED -->
+  <Capturing.helpTexts.1>Du kan fange en ikke-kolonist ved å velge en kolonist, og høyreklikke på den bevisstløse, og velge Fang.\n\nFangen kan bare sove i rom med fangesenger.</Capturing.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <Drafting.helpTexts.1>I Draft vil kolonister bare gjøre det du forteller dem, og kan bare gjøre militante handlinger. Har kolonisten våpen, vil hen prøve å bruke det.\n\nHvis du lar kolonister forbli i Draft, vil de sulte og bli lei seg.</Drafting.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <StorageTabCategories.helpText>I lagringsområdets oversikt, under Lagring-knappen, kan du velge hvilke spesifikke ting og kategorier som skal tillates eller forbys i lagringsområdet. Klikk på pilene til venstre for kategorinavnene.</StorageTabCategories.helpText>
+  
 </LanguageData>

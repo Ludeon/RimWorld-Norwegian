@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <TradeGoodsMustBeNearBeacon.helpTexts.0>Du må bygge et handelsmerke med ting i nærheten for å sende tingene til banehandlere.</TradeGoodsMustBeNearBeacon.helpTexts.0>
-    
-    <ArrestingCreatesEnemies.helpTexts.0>Advarsel: Personen du vil arrestere vil mest sannsynlig gjøre motstand.\n\nHvis du arresterer en ikke-kolonist vil faksjonen deres erklære krig mot deg.</ArrestingCreatesEnemies.helpTexts.0>
-    
-    <SwitchFlickingDesignation.helpTexts.0>Merk: Dette markerer bare at en kolonist bør dra i spaken.\n\nIngen ting vil skje før en kolonist faktisk drar i den.</SwitchFlickingDesignation.helpTexts.0>
-    
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>TODO</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
+  <ArrestingCreatesEnemies.helpText>Advarsel: Personen du vil arrestere vil mest sannsynlig gjøre motstand.\n\nHvis du arresterer en ikke-kolonist vil faksjonen deres erklære krig mot deg.</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
+  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Merk: Dette markerer bare at en kolonist bør dra i spaken.\n\nIngen ting vil skje før en kolonist faktisk drar i den.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>TODO</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Du må bygge et handelsmerke med ting i nærheten for å sende tingene til banehandlere.</TradeGoodsMustBeNearBeacon.helpText>
+  
 </LanguageData>

@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Repair.label>reparerer</Repair.label>
-    
-    <HealInjury.label>helbred skade</HealInjury.label>
-    
-    <HealGlobal.label>heal global</HealGlobal.label>
-    
-    <RestoreBodyPart.label>restore body part</RestoreBodyPart.label>
-    
+  
+  <!-- UNUSED -->
+  <HealGlobal.label>heal global</HealGlobal.label>
+  
+  <!-- UNUSED -->
+  <HealInjury.label>helbred skade</HealInjury.label>
+  
+  <!-- UNUSED -->
+  <Repair.label>reparerer</Repair.label>
+  
+  <!-- UNUSED -->
+  <RestoreBodyPart.label>restore body part</RestoreBodyPart.label>
+  
 </LanguageData>
