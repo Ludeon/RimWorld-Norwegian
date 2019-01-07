@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- =============================== Threats =============================== -->
-
+  
+  <!-- EN: ambush -->
   <Ambush.label>bakhold</Ambush.label>
+  <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Karavane blir angrepet</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
   <Ambush.letterText>{0} blir angrepet av {1} fra {2}!</Ambush.letterText>
-
-  <ManhunterAmbush.label>anngrepet av mannevonde dyr</ManhunterAmbush.label>
-  <ManhunterAmbush.letterLabel>Karavane blir angrepet (mannevonde dyr)</ManhunterAmbush.letterLabel>
-  <ManhunterAmbush.letterText>{0} blir angrepet av mannevonde {1}!</ManhunterAmbush.letterText>
-
-
-  <!--================================ Good ================================-->
-
-  <CaravanMeeting.label>karavanemøte</CaravanMeeting.label>
-
-
-  <!--==================================== Bad ==================================-->
-
+  
+  <!-- EN: payment demand -->
   <CaravanDemand.label>krav om betaling</CaravanDemand.label>
-
-
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>karavanemøte</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>anngrepet av mannevonde dyr</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Karavane blir angrepet (mannevonde dyr)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by manhunting {1}! -->
+  <ManhunterAmbush.letterText>{0} blir angrepet av mannevonde {1}!</ManhunterAmbush.letterText>
+  
 </LanguageData>

@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Mental breaks: extreme -->
-
+  
+  <!-- EN: catatonic -->
   <Catatonic.label>catatonic</Catatonic.label>
+  
+  <!-- EN: run wild -->
   <RunWild.label>run wild</RunWild.label>
-
-
-  <!-- Mental breaks: major -->
-
-
-  <!-- Mental breaks: minor -->
-
-
+  
 </LanguageData>

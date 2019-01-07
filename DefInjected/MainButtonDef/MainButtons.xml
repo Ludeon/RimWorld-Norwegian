@@ -1,42 +1,66 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Inspect.label>Undersøk</Inspect.label>
-
-    <Architect.label>Arkitekt</Architect.label>
-    <Architect.description>Angi hvor og hva kolonister skal bygge, dyrke, lagre gjenstander osv.</Architect.description>
-
-    <Work.label>Arbeid</Work.label>
-    <Work.description>Velg hvilken kolonist som skal gjøre hva slags arbeid, og i hvilken rekkefølge.</Work.description>
-
-    <Restrict.label>Begrens</Restrict.label>
-    <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen. Du kan også angi tillatt oppholdsområde.</Restrict.description>
-
-    <Assign.label>Tildel</Assign.label>
-    <Assign.description>Konfigurer hva hver kolonist kan ha på seg samt hvordan de reagerer på fiender i nærheten.</Assign.description>
-
-    <Animals.label>Dyr</Animals.label>
-    <Animals.description>Konfigurer hvordan koloniens tamme dyr skal behandles.</Animals.description>
-
-    <Wildlife.label>Ville dyr</Wildlife.label>
-    <Wildlife.description>Liste over ville dyr på banen. Hurtigvalg for jakt og temming.</Wildlife.description>
-
-    <Factions.label>Fraksjoner</Factions.label>
-    <Factions.description>Gå gjennom fraksjoner som er kjente for kolonien din samt forhold</Factions.description>
-
-    <World.label>Verden</World.label>
-    <World.description>Studer verdenskartet.</World.description>
-
-    <History.label>Historie</History.label>
-    <History.description>Gå gjennom koloniens historie</History.description>
-
-    <Statistics.label>Statistikk</Statistics.label>
-    <Statistics.description>Gå gjennom statistikk for kolonien.</Statistics.description>
-
-    <Research.label>Forskning</Research.label>
-    <Research.description>Studer og bestem deg for forskningerprosjekter.</Research.description>
-
-    <Menu.label>Meny</Menu.label>
-    <Menu.description>Andre alternativer, lagre, laste inn, eller avslutt spillet.</Menu.description>
-
+  
+  <!-- EN: animals -->
+  <Animals.label>Dyr</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>Konfigurer hvordan koloniens tamme dyr skal behandles.</Animals.description>
+  
+  <!-- EN: architect -->
+  <Architect.label>Arkitekt</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Angi hvor og hva kolonister skal bygge, dyrke, lagre gjenstander osv.</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>Tildel</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Konfigurer hva hver kolonist kan ha på seg samt hvordan de reagerer på fiender i nærheten.</Assign.description>
+  
+  <!-- EN: factions -->
+  <Factions.label>Fraksjoner</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Gå gjennom fraksjoner som er kjente for kolonien din samt forhold</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>Historie</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Gå gjennom koloniens historie</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>Undersøk</Inspect.label>
+  
+  <!-- EN: menu -->
+  <Menu.label>Meny</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>Andre alternativer, lagre, laste inn, eller avslutt spillet.</Menu.description>
+  
+  <!-- EN: research -->
+  <Research.label>Forskning</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Studer og bestem deg for forskningerprosjekter.</Research.description>
+  
+  <!-- EN: restrict -->
+  <Restrict.label>Begrens</Restrict.label>
+  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen. Du kan også angi tillatt oppholdsområde.</Restrict.description>
+  
+  <!-- UNUSED -->
+  <Statistics.label>Statistikk</Statistics.label>
+  <Statistics.description>Gå gjennom statistikk for kolonien.</Statistics.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>Ville dyr</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>Liste over ville dyr på banen. Hurtigvalg for jakt og temming.</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>Arbeid</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Velg hvilken kolonist som skal gjøre hva slags arbeid, og i hvilken rekkefølge.</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>Verden</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Studer verdenskartet.</World.description>
+  
 </LanguageData>

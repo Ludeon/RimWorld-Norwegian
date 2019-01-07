@@ -1,22 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MechanoidFullyFormed.label>fullt utbygd</MechanoidFullyFormed.label>
-  <HumanlikeBaby.label>bebi</HumanlikeBaby.label>
-  <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
-  <HumanlikeChild.label>barn</HumanlikeChild.label>
-
-  <HumanlikeTeenager.label>tenåring</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>tenårig</HumanlikeTeenager.adjective>
-
-  <HumanlikeAdult.label>voksen</HumanlikeAdult.label>
-  <EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>uferdig</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>voksen</EusocialInsectAdult.label>
-  <AnimalBaby.label>bebi</AnimalBaby.label>
-  <AnimalBabyTiny.label>bebi</AnimalBabyTiny.label>
-  <AnimalJuvenile.label>ung</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
   <AnimalAdult.label>voksen</AnimalAdult.label>
-
-
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>bebi</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>bebi</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>ung</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>voksen</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>uferdig</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>voksen</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>bebi</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>barn</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>tenåring</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>tenårig</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>fullt utbygd</MechanoidFullyFormed.label>
+  
 </LanguageData>

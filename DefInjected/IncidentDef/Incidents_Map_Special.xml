@@ -1,31 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--=============== ShipChunkDrop =============-->
-
-  <ShipChunkDrop.label>skipsbit falt ned</ShipChunkDrop.label>
-
-
-  <!--=============== OrbitalVisitor =============-->
-
+  
+  <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>handler har gått inn i bane</OrbitalTraderArrival.label>
-
-
-  <!--================= FactionArrival ================-->
-
-  <TraderCaravanArrival.label>handelskaravane ankommet</TraderCaravanArrival.label>
-  <VisitorGroup.label>besøkende gruppe</VisitorGroup.label>
-  <TravelerGroup.label>reisende gruppe</TravelerGroup.label>
-
-
-  <!--================= AllyAssistance ================-->
-
-  <RaidFriendly.label>vennlig angrep</RaidFriendly.label>
-
-
-  <!--================= Raid-beacon-attracted events ================-->
-
+  
+  <!-- EN: enemy raid (special locations) -->
   <RaidEnemyBeacon.label>fiendtlig angrep (special locations)</RaidEnemyBeacon.label>
-
-
+  
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>vennlig angrep</RaidFriendly.label>
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>skipsbit falt ned</ShipChunkDrop.label>
+  
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>TODO</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>TODO</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>TODO</StrangerInBlackJoin.letterText>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>handelskaravane ankommet</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>reisende gruppe</TravelerGroup.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>besøkende gruppe</VisitorGroup.label>
+  
 </LanguageData>

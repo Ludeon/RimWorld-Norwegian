@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Go-juice addiction -->
-
+  
+  <!-- EN: go-juice -->
   <Chemical_GoJuice.label>hyperjuice</Chemical_GoJuice.label>
+  <!-- EN: Because of a go-juice addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
   <Chemical_GoJuice.description>På grunn av en avhengighet trenger denne personen jevnlig inntak av juice for å unngå abstinens.</Chemical_GoJuice.description>
-
-
+  
 </LanguageData>

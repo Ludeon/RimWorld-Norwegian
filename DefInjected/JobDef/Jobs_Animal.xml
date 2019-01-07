@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Nuzzle.reportString>koser med TargetA.</Nuzzle.reportString>
-  <Mate.reportString>parer med TargetA.</Mate.reportString>
+  
+  <!-- EN: laying egg. -->
   <LayEgg.reportString>legger egg.</LayEgg.reportString>
-  <PredatorHunt.reportString>jakter på TargetA.</PredatorHunt.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
   <Maintain.reportString>vedlikeholder TargetA.</Maintain.reportString>
-
-
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>parer med TargetA.</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>koser med TargetA.</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>jakter på TargetA.</PredatorHunt.reportString>
+  
 </LanguageData>

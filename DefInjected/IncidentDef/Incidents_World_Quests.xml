@@ -1,39 +1,52 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Quest_TradeRequest.label>oppfordring om handel</Quest_TradeRequest.label>
-
+  
+  <!-- EN: bandit camp quest -->
   <Quest_BanditCamp.label>oppfordring bandittleir</Quest_BanditCamp.label>
+  <!-- EN: Bandit camp quest -->
   <Quest_BanditCamp.letterLabel>Bandittleir</Quest_BanditCamp.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
   <Quest_BanditCamp.letterText>{0}, {1} fra {2}, har sendt en melding.\n\nBanditter har slått leir i nærheten og plyndret karavanene deres. De har bedt oss om å drepe eller skremme alle bandittene og ødelegge alle kanonene deres.\n\nHvis vi klarer det, vil forholdet til dem bedres, og de vil sende oss en belønning:\n\n{3}</Quest_BanditCamp.letterText>
-
-  <Quest_ItemStash.label>oppfordring om skattekiste</Quest_ItemStash.label>
-  <Quest_ItemStash.letterLabel>Skattekiste</Quest_ItemStash.letterLabel>
-  <Quest_ItemStash.letterText>{0}, {1} fra {2}, har fortalt oss om en samling verdigjenstander ikke langt fra oss. Denne samlingen består av:\n\n{3}\n\nMen rykter sprer seg fort, og andre kommer til å ta tingene om {4} dager.\n\nPass på – verdisaker tiltrekker seg mange farer. {0} sier at {5}.</Quest_ItemStash.letterText>
-
-
-  <!-- Used as a utility incident def for the core-requesting faction option -->
-
-  <Quest_ItemStashAICore.label>oppfording om skattekiste med AI-kjerne</Quest_ItemStashAICore.label>
-  <Quest_ItemStashAICore.letterLabel>Skattekiste</Quest_ItemStashAICore.letterLabel>
-  <Quest_ItemStashAICore.letterText>{0}, {1} fra {2}, har fortalt oss om en samling verdigjenstander ikke langt fra oss. Denne samlingen består av:\n\n{3}\n\nMen rykter sprer seg fort, og andre kommer til å ta tingene om {4} dager.\n\nPass på – verdisaker tiltrekker seg mange farer. {0} sier at {5}..</Quest_ItemStashAICore.letterText>
-
+  
+  <!-- EN: incapacitated refugee quest -->
   <Quest_DownedRefugee.label>oppfordring om skadet flykting</Quest_DownedRefugee.label>
+  <!-- EN: Incapacitated refugee quest -->
   <Quest_DownedRefugee.letterLabel>Skadet flyktning</Quest_DownedRefugee.letterLabel>
+  <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
   <Quest_DownedRefugee.letterText>[PAWN_nameDef] kontakter deg og ber om hjelp. [PAWN_pronoun] er for skadet til å beveg seg. Uten din hjelp vil [PAWN_pronoun] dø om {0} dager.\n\n[PAWN_nameDef] er en {1} år gammel {2}. [PAWN_pronoun] lover å bli med dere om du kan redde [PAWN_objective].\n\n[PAWN_nameDef] sier at {3}.</Quest_DownedRefugee.letterText>
-
-  <Quest_PrisonerRescue.label>oppfordring om flykting</Quest_PrisonerRescue.label>
-  <Quest_PrisonerRescue.letterLabel>Flykting er fanget</Quest_PrisonerRescue.letterLabel>
-  <Quest_PrisonerRescue.letterText>En person som blir holdt fanget av {0} har klart å få tak i en radio og kontakte deg!\n\n[PAWN_nameDef] holdes i en leir ikke langt unna under strengt vakthold. Hvis du redder [PAWN_objective] vil [PAWN_pronoun] la seg rekruttere. [PAWN_pronoun] er en {1} år gammel {2}. [PAWN_pronoun] sier at {3}.</Quest_PrisonerRescue.letterText>
-
-  <Quest_PeaceTalks.label>oppfordring om å hjelpe forhandlinger</Quest_PeaceTalks.label>
-  <Quest_PeaceTalks.letterLabel>Forhandlinger</Quest_PeaceTalks.letterLabel>
-  <Quest_PeaceTalks.letterText>[PAWN_nameDef], {0} fra {1}, har sendt en melding. [PAWN_pronoun] vil snakke med oss ikke langt fra kolonien vår.\n\nDette kan være en gylden mulighet til å bedre forholdet til faksjonen deres, men pass på – en dårlig forhandler kan skade forholdet.\n\nForslaget utgår om {2} dager.</Quest_PeaceTalks.letterText>
-
-
-  <!-- Main quests -->
-
+  
+  <!-- EN: item stash quest -->
+  <Quest_ItemStash.label>oppfordring om skattekiste</Quest_ItemStash.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStash.letterLabel>Skattekiste</Quest_ItemStash.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStash.letterText>{0}, {1} fra {2}, har fortalt oss om en samling verdigjenstander ikke langt fra oss. Denne samlingen består av:\n\n{3}\n\nMen rykter sprer seg fort, og andre kommer til å ta tingene om {4} dager.\n\nPass på – verdisaker tiltrekker seg mange farer. {0} sier at {5}.</Quest_ItemStash.letterText>
+  
+  <!-- EN: item stash quest (AI core) -->
+  <Quest_ItemStashAICore.label>oppfording om skattekiste med AI-kjerne</Quest_ItemStashAICore.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStashAICore.letterLabel>Skattekiste</Quest_ItemStashAICore.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStashAICore.letterText>{0}, {1} fra {2}, har fortalt oss om en samling verdigjenstander ikke langt fra oss. Denne samlingen består av:\n\n{3}\n\nMen rykter sprer seg fort, og andre kommer til å ta tingene om {4} dager.\n\nPass på – verdisaker tiltrekker seg mange farer. {0} sier at {5}..</Quest_ItemStashAICore.letterText>
+  
+  <!-- EN: escape ship quest -->
   <Quest_JourneyOffer.label>fluktskip</Quest_JourneyOffer.label>
-
-
+  
+  <!-- EN: peace talks quest -->
+  <Quest_PeaceTalks.label>oppfordring om å hjelpe forhandlinger</Quest_PeaceTalks.label>
+  <!-- EN: Peace talks quest -->
+  <Quest_PeaceTalks.letterLabel>Forhandlinger</Quest_PeaceTalks.letterLabel>
+  <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <Quest_PeaceTalks.letterText>[PAWN_nameDef], {0} fra {1}, har sendt en melding. [PAWN_pronoun] vil snakke med oss ikke langt fra kolonien vår.\n\nDette kan være en gylden mulighet til å bedre forholdet til faksjonen deres, men pass på – en dårlig forhandler kan skade forholdet.\n\nForslaget utgår om {2} dager.</Quest_PeaceTalks.letterText>
+  
+  <!-- EN: prisoner rescue quest -->
+  <Quest_PrisonerRescue.label>oppfordring om flykting</Quest_PrisonerRescue.label>
+  <!-- EN: Prisoner rescue quest -->
+  <Quest_PrisonerRescue.letterLabel>Flykting er fanget</Quest_PrisonerRescue.letterLabel>
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
+  <Quest_PrisonerRescue.letterText>En person som blir holdt fanget av {0} har klart å få tak i en radio og kontakte deg!\n\n[PAWN_nameDef] holdes i en leir ikke langt unna under strengt vakthold. Hvis du redder [PAWN_objective] vil [PAWN_pronoun] la seg rekruttere. [PAWN_pronoun] er en {1} år gammel {2}. [PAWN_pronoun] sier at {3}.</Quest_PrisonerRescue.letterText>
+  
+  <!-- EN: trade request -->
+  <Quest_TradeRequest.label>oppfordring om handel</Quest_TradeRequest.label>
+  
 </LanguageData>
