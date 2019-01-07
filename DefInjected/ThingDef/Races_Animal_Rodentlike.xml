@@ -1,77 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Cold weather animals -->
-
-    <Squirrel.label>ekorn</Squirrel.label>
-    <Squirrel.description>En av de mange hardføre, allsidige gnagerartene som følger menneskeheten hvor enn den sprer seg.</Squirrel.description>
-    <Squirrel_Leather.label>ekornpels</Squirrel_Leather.label>
-    <Squirrel_Leather.description>Myk ekornpels. Saltet og beredt.</Squirrel_Leather.description>
-    <Squirrel_Leather.stuffProps.stuffAdjective>ekornpels</Squirrel_Leather.stuffProps.stuffAdjective>
-    <Squirrel_Meat.label>ekornkjøtt</Squirrel_Meat.label>
-    <Squirrel_Meat.description>Rått kjøtt fra et ekorn.</Squirrel_Meat.description>
-    <Squirrel_Corpse.label>ekornkadaver</Squirrel_Corpse.label>
-    <Squirrel_Corpse.description>Det døde kadaveret av et ekorn.</Squirrel_Corpse.description>
-
-	<Alphabeaver.label>alfabever</Alphabeaver.label>
-    <Alphabeaver.description>Et stort beverderivat, genmanipulert for å behandle trær med effektiviteten til en maskin. Dersom disse dyra ikke får en spesiell type for, så går de inn i en manisk tilstand som får dem til å spise hele trær.</Alphabeaver.description>
-    <Alphabeaver_Leather.label>beverpels</Alphabeaver_Leather.label>
-    <Alphabeaver_Leather.description>Beverpels. "Han tok henne på beverpelsen." -Agnar Mykle</Alphabeaver_Leather.description>
-    <Alphabeaver_Leather.stuffProps.stuffAdjective>beverpels</Alphabeaver_Leather.stuffProps.stuffAdjective>
-    <Alphabeaver_Meat.label>alfabeverkjøtt</Alphabeaver_Meat.label>
-    <Alphabeaver_Meat.description>Rått kjøtt fra en alfabever.</Alphabeaver_Meat.description>
-    <Alphabeaver_Corpse.label>alfabeverkadaver</Alphabeaver_Corpse.label>
-    <Alphabeaver_Corpse.description>Det døde kadaveret av en alfabever.</Alphabeaver_Corpse.description>
-
-	<Capybara.label>flodsvin</Capybara.label>
-    <Capybara.description>Flodsvinet er den største naturlige gnageren og veltilpasset livet i den dampende jungelen.</Capybara.description>
-    <Capybara_Leather.label>flodsvinpels</Capybara_Leather.label>
-    <Capybara_Leather.description>Pels fra et flodsvin.</Capybara_Leather.description>
-    <Capybara_Leather.stuffProps.stuffAdjective>flodsvinpels</Capybara_Leather.stuffProps.stuffAdjective>
-    <Capybara_Meat.label>flodsvinkjøtt</Capybara_Meat.label>
-    <Capybara_Meat.description>Rått kjøtt fra et flodsvin.</Capybara_Meat.description>
-    <Capybara_Corpse.label>flodsvinkropp</Capybara_Corpse.label>
-    <Capybara_Corpse.description>Det døde kadaveret av et flodsvin.</Capybara_Corpse.description>
-
-    <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Chinchilla.description>En liten, men rask gnager, berømt for sin eksepsjonelt myke pels.</Chinchilla.description>
-    <Chinchilla_Leather.label>Chinchillapels</Chinchilla_Leather.label>
-    <Chinchilla_Leather.description>Pels fra en chinchilla, kanskje den mykeste pelsen i dyreriket.</Chinchilla_Leather.description>
-    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapels</Chinchilla_Leather.stuffProps.stuffAdjective>
-    <Chinchilla_Meat.label>chinchillakjøtt</Chinchilla_Meat.label>
-    <Chinchilla_Meat.description>Rått kjøtt fra en chinchilla.</Chinchilla_Meat.description>
-    <Chinchilla_Corpse.label>chinchillakropp</Chinchilla_Corpse.label>
-    <Chinchilla_Corpse.description>Det døde kadaveret av en chinchilla.</Chinchilla_Corpse.description>
-
-	<Boomrat.label>pangrotte</Boomrat.label>
-    <Boomrat.description>Enten som et resultat av bevisst manipulasjon i våpenøyemed, eller som en uvanlig forsvarsmekanisme, lager disse gnageraktige skapningene en eksplosjon når de dør.</Boomrat.description>
-    <Boomrat_Leather.label>pangrottelær</Boomrat_Leather.label>
-    <Boomrat_Leather.description>Garvet lær lagd av huden fra en pangrotte.</Boomrat_Leather.description>
-    <Boomrat_Leather.stuffProps.stuffAdjective>pangrottelær</Boomrat_Leather.stuffProps.stuffAdjective>
-    <Boomrat_Meat.label>pangrottekjøtt</Boomrat_Meat.label>
-    <Boomrat_Meat.description>Rått kjøtt fra et pangrotte.</Boomrat_Meat.description>
-    <Boomrat_Corpse.label>pangrottekadaver</Boomrat_Corpse.label>
-    <Boomrat_Corpse.description>Det døde kadaveret av en pangrotte.</Boomrat_Corpse.description>
   
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfabever</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Et stort beverderivat, genmanipulert for å behandle trær med effektiviteten til en maskin. Dersom disse dyra ikke får en spesiell type for, så går de inn i en manisk tilstand som får dem til å spise hele trær.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>TODO</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>TODO</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>TODO</Alphabeaver.tools.head.label>
   
+  <!-- EN: boomrat -->
+  <Boomrat.label>pangrotte</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>Enten som et resultat av bevisst manipulasjon i våpenøyemed, eller som en uvanlig forsvarsmekanisme, lager disse gnageraktige skapningene en eksplosjon når de dør.</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>TODO</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>TODO</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>TODO</Boomrat.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>flodsvin</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Flodsvinet er den største naturlige gnageren og veltilpasset livet i den dampende jungelen.</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>TODO</Capybara.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>TODO</Capybara.tools.right_claw.label>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>TODO</Capybara.tools.head.label>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>En liten, men rask gnager, berømt for sin eksepsjonelt myke pels.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>TODO</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>TODO</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>TODO</Chinchilla.tools.head.label>
+  
+  <!-- EN: raccoon -->
   <Raccoon.label>Vaskebjørn</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
   <Raccoon.description>Et lite hardført dyr, som lever i skog og krattskog. Spiser nesten hva som helst.</Raccoon.description>
-  <Raccoon_Leather.label>vaskebjørnpels</Raccoon_Leather.label>
-  <Raccoon_Leather.description>Pelsen fra en vaskebjørn.</Raccoon_Leather.description>
-  <Raccoon_Leather.stuffProps.stuffAdjective>vaskebjørnpels</Raccoon_Leather.stuffProps.stuffAdjective>
-  <Raccoon_Meat.label>vaskebjørnkjøtt</Raccoon_Meat.label>
-  <Raccoon_Meat.description>Rått kjøtt fra en vaskebjørn.</Raccoon_Meat.description>
-  <Raccoon_Corpse.label>vaskebjørnkadaver</Raccoon_Corpse.label>
-  <Raccoon_Corpse.description>Det døde kadaveret av en vaskebjørn.</Raccoon_Corpse.description>
-
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>TODO</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>TODO</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>TODO</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
   <Rat.label>rotte</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>En gnager kjent for å skitne til kjøkken og spre sykdom. Spiser nesten hva som helst og bor nesten hvor som helst.</Rat.description>
-  <Rat_Leather.label>rottepels</Rat_Leather.label>
-  <Rat_Leather.description>Pelsen fra ei rotte.</Rat_Leather.description>
-  <Rat_Leather.stuffProps.stuffAdjective>rottepels</Rat_Leather.stuffProps.stuffAdjective>
-  <Rat_Meat.label>rottekjøtt</Rat_Meat.label>
-  <Rat_Meat.description>Rått kjøtt fra ei rotte.</Rat_Meat.description>
-  <Rat_Corpse.label>Rottekadaver</Rat_Corpse.label>
-  <Rat_Corpse.description>Det døde kadaveret av ei rotte.</Rat_Corpse.description>
-
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>TODO</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>TODO</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>TODO</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>ekorn</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>En av de mange hardføre, allsidige gnagerartene som følger menneskeheten hvor enn den sprer seg.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>TODO</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>TODO</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>TODO</Squirrel.tools.head.label>
+  
 </LanguageData>

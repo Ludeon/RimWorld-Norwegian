@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Warg.label>varg</Warg.label>
-    <Warg.description>Muskuløse, ulvelignende skapninger. Vitenskapsmenn sier varger er etterkommere av militære forsøksdyr lagd for å kontrollere folkeopprør. De overtroiske ser på dem som verktøy for en sint gud. De spiser kun kadavere og kjøtt.</Warg.description>
-    <Warg_Leather.label>vargskinn</Warg_Leather.label>
-    <Warg_Leather.description>Skinnet av en varg.</Warg_Leather.description>
-    <Warg_Leather.stuffProps.stuffAdjective>vargskinns</Warg_Leather.stuffProps.stuffAdjective>
-    <Warg_Meat.label>vargkjøtt</Warg_Meat.label>
-    <Warg_Meat.description>Rått kjøtt fra en varg.</Warg_Meat.description>
-    <Warg_Corpse.label>vargkadaver</Warg_Corpse.label>
-    <Warg_Corpse.description>Det døde kadaveret av en varg.</Warg_Corpse.description>
-
-  <WolfTimber.label>ulv</WolfTimber.label>
-  <WolfTimber.description>En tøff kjøtteter, lenge fryktet av mange av de gamle Jordkulturene. Siden de jakter i flokk, har ulver et komplekst sosialt liv og er svært intelligente.</WolfTimber.description>
-  <WolfTimber_Leather.label>ulveskinn</WolfTimber_Leather.label>
-  <WolfTimber_Leather.description>Skinnet av en ulv.</WolfTimber_Leather.description>
-  <WolfTimber_Leather.stuffProps.stuffAdjective>ulveskinns</WolfTimber_Leather.stuffProps.stuffAdjective>
-  <WolfTimber_Meat.label>ulvekjøtt</WolfTimber_Meat.label>
-  <WolfTimber_Meat.description>Rått kjøtt fra en ulv.</WolfTimber_Meat.description>
-  <WolfTimber_Corpse.label>ulvekadaver</WolfTimber_Corpse.label>
-  <WolfTimber_Corpse.description>Kadaveret av en ulv.</WolfTimber_Corpse.description>
-
-  <WolfArctic.label>polarulv</WolfArctic.label>
-  <WolfArctic.description>En arktisk variant av Den gamle Jordulven. Siden de jakter i flokk, har ulver et komplekst sosialt liv og er svært intelligente.</WolfArctic.description>
-  <WolfArctic_Leather.label>Polarulveskinn</WolfArctic_Leather.label>
-  <WolfArctic_Leather.description>Pels fra en polarulv.</WolfArctic_Leather.description>
-  <WolfArctic_Leather.stuffProps.stuffAdjective>polarulveskinns</WolfArctic_Leather.stuffProps.stuffAdjective>
-  <WolfArctic_Corpse.label>polarulvkadaver</WolfArctic_Corpse.label>
-  <WolfArctic_Corpse.description>Kadaveret av en polarulv.</WolfArctic_Corpse.description>
-
-  <FoxFennec.label>ørkenrev</FoxFennec.label>
-  <FoxFennec.description>En liten rev, opprinnelig fra norddelen av Jordas Afrikakontinent. Den lever av småvilt og har svært store ører.</FoxFennec.description>
-  <FoxFennec_Leather.label>ørkenrevpels</FoxFennec_Leather.label>
-  <FoxFennec_Leather.description>Pels fra en ørkenrev.</FoxFennec_Leather.description>
-  <FoxFennec_Leather.stuffProps.stuffAdjective>ørkenrevpels</FoxFennec_Leather.stuffProps.stuffAdjective>
-  <FoxFennec_Meat.label>revekjøtt</FoxFennec_Meat.label>
-  <FoxFennec_Meat.description>Rått kjøtt fra en rev.</FoxFennec_Meat.description>
-  <FoxFennec_Corpse.label>ørkenrevkadaver</FoxFennec_Corpse.label>
-  <FoxFennec_Corpse.description>Kadaveret av en ørkenrev.</FoxFennec_Corpse.description>
-
-  <FoxRed.label>rødrev</FoxRed.label>
-  <FoxRed.description>En liten kjøtteter som trives med å jakte småvilt i temperert klima.</FoxRed.description>
-  <FoxRed_Leather.label>revepels</FoxRed_Leather.label>
-  <FoxRed_Leather.description>Pels fra en rødrev.</FoxRed_Leather.description>
-  <FoxRed_Leather.stuffProps.stuffAdjective>revepels</FoxRed_Leather.stuffProps.stuffAdjective>
-  <FoxRed_Corpse.label>rødrevkadaver</FoxRed_Corpse.label>
-  <FoxRed_Corpse.description>Kadaveret av en rødrev.</FoxRed_Corpse.description>
-
-  <FoxArctic.label>polarrev</FoxArctic.label>
-  <FoxArctic.description>En liten kjøtteter, tilpasset livet i det høye nord. Den jakter mus og annet småvilt og graver seg noen ganger gjennom en meter med snø for å nå byttet sitt.</FoxArctic.description>
-  <FoxArctic_Leather.label>polarrevpels</FoxArctic_Leather.label>
-  <FoxArctic_Leather.description>Pels fra en polarrev.</FoxArctic_Leather.description>
-  <FoxArctic_Leather.stuffProps.stuffAdjective>polarrevpels</FoxArctic_Leather.stuffProps.stuffAdjective>
-  <FoxArctic_Corpse.label>polarrevkadaver</FoxArctic_Corpse.label>
-  <FoxArctic_Corpse.description>Kadaveret av en polarrev.</FoxArctic_Corpse.description>
-
-
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>polarrev</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>En liten kjøtteter, tilpasset livet i det høye nord. Den jakter mus og annet småvilt og graver seg noen ganger gjennom en meter med snø for å nå byttet sitt.</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>TODO</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>TODO</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>TODO</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>ørkenrev</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>En liten rev, opprinnelig fra norddelen av Jordas Afrikakontinent. Den lever av småvilt og har svært store ører.</Fox_Fennec.description>
+  <!-- EN: foxmeat -->
+  <Fox_Fennec.race.meatLabel>TODO</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>TODO</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>TODO</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>TODO</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>rødrev</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>En liten kjøtteter som trives med å jakte småvilt i temperert klima.</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>TODO</Fox_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>TODO</Fox_Red.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>TODO</Fox_Red.tools.head.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>varg</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>Muskuløse, ulvelignende skapninger. Vitenskapsmenn sier varger er etterkommere av militære forsøksdyr lagd for å kontrollere folkeopprør. De overtroiske ser på dem som verktøy for en sint gud. De spiser kun kadavere og kjøtt.</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>TODO</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>TODO</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>TODO</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>TODO</Warg.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>polarulv</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>En arktisk variant av Den gamle Jordulven. Siden de jakter i flokk, har ulver et komplekst sosialt liv og er svært intelligente.</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>TODO</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>TODO</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>TODO</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>ulv</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>En tøff kjøtteter, lenge fryktet av mange av de gamle Jordkulturene. Siden de jakter i flokk, har ulver et komplekst sosialt liv og er svært intelligente.</Wolf_Timber.description>
+  <!-- EN: wolfmeat -->
+  <Wolf_Timber.race.meatLabel>TODO</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>TODO</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>TODO</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>TODO</Wolf_Timber.tools.head.label>
+  
 </LanguageData>

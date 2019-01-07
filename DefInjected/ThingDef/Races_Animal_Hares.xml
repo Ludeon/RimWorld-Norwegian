@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Hare.label>hare</Hare.label>
-    <Hare.description>Denne lille, alenelevende planteeteren kan hoppe raskt vekk fra farer.</Hare.description>
-    <Hare_Leather.label>hareskinn</Hare_Leather.label>
-    <Hare_Leather.description>Skinnet av en hare.</Hare_Leather.description>
-    <Hare_Leather.stuffProps.stuffAdjective>hareskinns</Hare_Leather.stuffProps.stuffAdjective>
-    <Hare_Meat.label>harekjøtt</Hare_Meat.label>
-    <Hare_Meat.description>Rått kjøtt fra en hare.</Hare_Meat.description>
-    <Hare_Corpse.label>harekadaver</Hare_Corpse.label>
-    <Hare_Corpse.description>Det døde kadaveret av en hare.</Hare_Corpse.description>
-    
-    <Snowhare.label>snøhare</Snowhare.label>
-    <Snowhare.description>Dette tøffe dyret overlever de brutale vinterne i nord ved å grave seg gjennom snøen og finne bytte under den, eller ved å gå i dvale i de verste månedene.</Snowhare.description>
-    <Snowhare_Leather.label>snåhareskinn</Snowhare_Leather.label>
-    <Snowhare_Leather.description>Skinnet fra en snøhare.</Snowhare_Leather.description>
-    <Snowhare_Leather.stuffProps.stuffAdjective>snøhareskinns</Snowhare_Leather.stuffProps.stuffAdjective>
-    <Snowhare_Meat.label>snøharekjøtt</Snowhare_Meat.label>
-    <Snowhare_Meat.description>rått kjøtt fra en snøhare</Snowhare_Meat.description>
-    <Snowhare_Corpse.label>snøharekadaver</Snowhare_Corpse.label>
-    <Snowhare_Corpse.description>Det døde kadaveret av en snøhare.</Snowhare_Corpse.description>
-    
+  
+  <!-- EN: hare -->
+  <Hare.label>hare</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>Denne lille, alenelevende planteeteren kan hoppe raskt vekk fra farer.</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Meat_Snowhare.label>snøharekjøtt</Meat_Snowhare.label>
+  <Meat_Snowhare.description>rått kjøtt fra en snøhare</Meat_Snowhare.description>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>snøhare</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>Dette tøffe dyret overlever de brutale vinterne i nord ved å grave seg gjennom snøen og finne bytte under den, eller ved å gå i dvale i de verste månedene.</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  
 </LanguageData>

@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Human.label>menneske</Human.label>
-    <Human.description>Et generisk menneske, som genetisk for det meste ikke har blitt endret av utviklingspress fra andre planeter enn jorden.</Human.description>
-    <Human_Leather.label>menneskeskinn</Human_Leather.label>
-    <Human_Leather.description>Skinn lagd av huden fra et menneske.</Human_Leather.description>
-    <Human_Leather.stuffProps.stuffAdjective>menneskeskinns</Human_Leather.stuffProps.stuffAdjective>
-    <Human_Meat.label>menneskekjøtt</Human_Meat.label>
-    <Human_Meat.description>Rå kjøtt fra et menneske.</Human_Meat.description>
-    <Human_Corpse.label>menneskelik</Human_Corpse.label>
-    <Human_Corpse.description>Et menneskes døde kropp.</Human_Corpse.description>
-    
+  
+  <!-- EN: human -->
+  <Human.label>menneske</Human.label>
+  <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
+  <Human.description>Et generisk menneske, som genetisk for det meste ikke har blitt endret av utviklingspress fra andre planeter enn jorden.</Human.description>
+  <!-- EN: left fist -->
+  <Human.tools.left_fist.label>TODO</Human.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Human.tools.right_fist.label>TODO</Human.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Human.tools.teeth.label>TODO</Human.tools.teeth.label>
+  <!-- EN: head -->
+  <Human.tools.head.label>TODO</Human.tools.head.label>
+  
 </LanguageData>

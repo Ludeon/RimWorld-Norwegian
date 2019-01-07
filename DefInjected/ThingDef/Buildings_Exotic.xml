@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <CrashedPsychicEmanatorShipPart.label>krasjlandet skipsdel</CrashedPsychicEmanatorShipPart.label>
-    <CrashedPsychicEmanatorShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne teknologien kan være farlig.</CrashedPsychicEmanatorShipPart.description>
-    
-    <CrashedPoisonShipPart.label>crashed poison ship part</CrashedPoisonShipPart.label>
-    <CrashedPoisonShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne virker å forgifte bakken rundt skipet.</CrashedPoisonShipPart.description>
-    
-    <ShipChunk.label>skipsbit</ShipChunk.label>
-    <ShipChunk.description>En bit fra et romskip. Kan tas fra hverandre og gi anvendbart stål og komponenter.</ShipChunk.description>
-    
+  
+  <!-- EN: ship part (poison) -->
+  <CrashedPoisonShipPart.label>crashed poison ship part</CrashedPoisonShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
+  <CrashedPoisonShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne virker å forgifte bakken rundt skipet.</CrashedPoisonShipPart.description>
+  
+  <!-- EN: ship part (psychic) -->
+  <CrashedPsychicEmanatorShipPart.label>krasjlandet skipsdel</CrashedPsychicEmanatorShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
+  <CrashedPsychicEmanatorShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne teknologien kan være farlig.</CrashedPsychicEmanatorShipPart.description>
+  
+  <!-- EN: ship chunk -->
+  <ShipChunk.label>skipsbit</ShipChunk.label>
+  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <ShipChunk.description>En bit fra et romskip. Kan tas fra hverandre og gi anvendbart stål og komponenter.</ShipChunk.description>
+  
 </LanguageData>

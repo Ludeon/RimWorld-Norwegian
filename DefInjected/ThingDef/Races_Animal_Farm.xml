@@ -1,41 +1,48 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Chicken.label>høne</Chicken.label>
-    <Chicken.description>Høna er den mest tradisjonelle gårdsfuglen og gir både kjøtt og egg.</Chicken.description>
-    <Chicken_Meat.label>kyllingkjøtt</Chicken_Meat.label>
-    <Chicken_Meat.description>Rått kjøtt fra en kylling.</Chicken_Meat.description>
-    <Chicken_Corpse.label>kyllingkadaver</Chicken_Corpse.label>
-    <Chicken_Corpse.description>Det døde kadaveret av en kylling.</Chicken_Corpse.description>
-    
-    <Pig.description>Grisen var en av de første dyrene som menneskene temmet. Den holdes fordi den kan gi både kjøtt og lær, og er lett å fore opp, siden den er nærmest altetende.</Pig.description>
-    <Pig.label>gris</Pig.label>
-    <Pig_Leather.label>griselær</Pig_Leather.label>
-    <Pig_Leather.description>Lær lagd av huden fra en gris.</Pig_Leather.description>
-    <Pig_Leather.stuffProps.stuffAdjective>Griselær</Pig_Leather.stuffProps.stuffAdjective>
-    <Pig_Meat.label>svinekjøtt</Pig_Meat.label>
-    <Pig_Meat.description>Rått kjøtt fra en gris.</Pig_Meat.description>
-    <Pig_Corpse.label>grisekadaver</Pig_Corpse.label>
-    <Pig_Corpse.description>Det døde kadaveret av en gris.</Pig_Corpse.description>
-    
-    <Cow.label>ku</Cow.label>
-    <Cow.description>Et svært vanlig tamdyr. Den kan produsere store mengder melk, eller slaktes for deilig kjøttmat.</Cow.description>
-    <Cow_Leather.label>kuskinn</Cow_Leather.label>
-    <Cow_Leather.description>Skinn fra ei ku.</Cow_Leather.description>
-    <Cow_Leather.stuffProps.stuffAdjective>kuskinns</Cow_Leather.stuffProps.stuffAdjective>
-    <Cow_Meat.label>oksekjøtt</Cow_Meat.label>
-    <Cow_Meat.description>Rått kjøtt fra en ku. Selv kuer produserer oksekjøtt på norsk.</Cow_Meat.description>
-    <Cow_Corpse.label>kukadaver</Cow_Corpse.label>
-    <Cow_Corpse.description>Det døde kadaveret av en ku.</Cow_Corpse.description>
-    
-    <Alpaca.label>alpakka</Alpaca.label>
-    <Alpaca.description>Alpakkaen er et mellomstort klovdyr som er nært i slekt med llamaen. Alpakkaen holdes ofte for sin særdeles myke ull.</Alpaca.description>
-    <Alpaca_Leather.label>alpakkaskinn</Alpaca_Leather.label>
-    <Alpaca_Leather.description>Skinn fra en alpakka.</Alpaca_Leather.description>
-    <Alpaca_Leather.stuffProps.stuffAdjective>alpakkaskinns</Alpaca_Leather.stuffProps.stuffAdjective>
-    <Alpaca_Meat.label>alpakkakjøtt</Alpaca_Meat.label>
-    <Alpaca_Meat.description>Rått kjøtt fra en alpakka.</Alpaca_Meat.description>
-    <Alpaca_Corpse.label>alpakka-kadaver</Alpaca_Corpse.label>
-    <Alpaca_Corpse.description>Det døde kadaveret av en alpakka.</Alpaca_Corpse.description>
-    
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>alpakka</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
+  <Alpaca.description>Alpakkaen er et mellomstort klovdyr som er nært i slekt med llamaen. Alpakkaen holdes ofte for sin særdeles myke ull.</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>TODO</Alpaca.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>TODO</Alpaca.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>TODO</Alpaca.tools.head.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>høne</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>Høna er den mest tradisjonelle gårdsfuglen og gir både kjøtt og egg.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>TODO</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>TODO</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>TODO</Chicken.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>ku</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>Et svært vanlig tamdyr. Den kan produsere store mengder melk, eller slaktes for deilig kjøttmat.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>TODO</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>TODO</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>TODO</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>TODO</Cow.tools.right_hoof.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>gris</Pig.label>
+  <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
+  <Pig.description>Grisen var en av de første dyrene som menneskene temmet. Den holdes fordi den kan gi både kjøtt og lær, og er lett å fore opp, siden den er nærmest altetende.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>TODO</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>TODO</Pig.tools.head.label>
+  
 </LanguageData>

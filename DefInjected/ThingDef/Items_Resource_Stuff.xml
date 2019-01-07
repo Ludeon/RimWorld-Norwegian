@@ -1,72 +1,113 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Pure stuffs: Basics -->
-
-  <Silver.label>sølv</Silver.label>
-  <Silver.description>Dette metallet brukes mest som fellesvaluta. Det kan også brukes til attraktive dekorasjoner.</Silver.description>
-  <Silver.stuffProps.stuffAdjective>sølv</Silver.stuffProps.stuffAdjective>
-
-  <Gold.label>gull</Gold.label>
-  <Gold.description>Det mest forførende metallet av dem alle. Millioner har dødd i det menneskeheten har førsøkt å døyve sin utømmelige tørst etter gull.</Gold.description>
-  <Gold.stuffProps.stuffAdjective>gull</Gold.stuffProps.stuffAdjective>
-
-  <Steel.label>stål</Steel.label>
-  <Steel.description>En jern-legering med karbon som brukes til bygninger, redskaper og våpen.</Steel.description>
-  <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
-
-  <Plasteel.label>Plastål</Plasteel.label>
-  <Plasteel.description>Avansert romteknologisk strukturmateriale. Plastål er ekstremt sterkt på grunn av sin unike molekylære struktur.</Plasteel.description>
-
-  <WoodLog.label>tre</WoodLog.label>
-  <WoodLog.description>Tre fra trær eller andre fiber-rike planter. Nyttig til å bygge bygninger, våpen og selv enkle proteser. En trekubbe kan brukes som improvisert våpen, om det er krise.</WoodLog.description>
-  <WoodLog.stuffProps.stuffAdjective>tre</WoodLog.stuffProps.stuffAdjective>
-
-  <Uranium.label>uran</Uranium.label>
-  <Uranium.description>Et ekstremt hardt, tungt metall. Selv om det er mest kjent for sin rolle i å drive atomreaktorer, så gjør dets fysiske egenskaper det utmerket i noen roller som redskap, våpen eller rustning.</Uranium.description>
-  <Uranium.stuffProps.stuffAdjective>uran</Uranium.stuffProps.stuffAdjective>
-
-  <Jade.label>jade</Jade.label>
-  <Jade.description>En hard, grønn stein. På grunn av sin skjønnhet og sjeldenhet brukes jade ofte til ornamenter og dekorasjoner. Dens hardhet og tunghet gjør at den også til et godt materiale for slagvåpen.</Jade.description>
-  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
-
-  <!-- Pure stuffs: Fabric, leather, etc  -->
-
+  
+  <!-- UNUSED -->
+  <AlpacaWool.label>alpakkaull</AlpacaWool.label>
+  <AlpacaWool.description>Den utrolig myke ullen fra en alpakka.</AlpacaWool.description>
+  <AlpacaWool.stuffProps.stuffAdjective>alpakkaull</AlpacaWool.stuffProps.stuffAdjective>
+  
+  <!-- UNUSED -->
+  <CamelHair.label>Kamelhår</CamelHair.label>
+  <CamelHair.description>Klær av kamelhår bæres for det meste av ørkenfarere, for å skjerme dem mot heten. Hårene gir fremragende isolasjon, som følge av sine termostatiske egenskaper.</CamelHair.description>
+  <CamelHair.stuffProps.stuffAdjective>Kamelhårs</CamelHair.stuffProps.stuffAdjective>
+  
+  <!-- EN: cloth -->
   <Cloth.label>tøy</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
   <Cloth.description>Tøy vevd av organiske fibre.</Cloth.description>
   <Cloth.stuffProps.stuffAdjective>tøy</Cloth.stuffProps.stuffAdjective>
-
-  <Synthread.label>syntråd</Synthread.label>
-  <Synthread.description>Romteknologisk syntetisk stoff, designet for å lage vanlige klær. Det er mykt, lett, sterkt og isolerer godt.</Synthread.description>
-  <Synthread.stuffProps.stuffAdjective>syntråd</Synthread.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: devilstrand -->
   <DevilstrandCloth.label>djevelstrand</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
   <DevilstrandCloth.description>Tøy spunnet av mikrofibre ekstrahert fra silkeproduserende djevelstrandsopp. Svært sterkt, men isolerer ikke bedre enn vanlig tøy.</DevilstrandCloth.description>
   <DevilstrandCloth.stuffProps.stuffAdjective>djevelstrand</DevilstrandCloth.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: gold -->
+  <Gold.label>gull</Gold.label>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>Det mest forførende metallet av dem alle. Millioner har dødd i det menneskeheten har førsøkt å døyve sin utømmelige tørst etter gull.</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>gull</Gold.stuffProps.stuffAdjective>
+  
+  <!-- EN: hyperweave -->
   <Hyperweave.label>hypervev</Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
   <Hyperweave.description>Tøystykker vevd av av høyteknologiske nanofibre. Materialet er nokså tungt, men utrolig vanskelig å ødelegge. Hemmelighetene bak produksjonen er kjent bare av de mest avanserte glitterverdenkulturene.</Hyperweave.description>
   <Hyperweave.stuffProps.stuffAdjective>hypervevs</Hyperweave.stuffProps.stuffAdjective>
-
-
-  <!--=====================================================================-->
-  <!--=============================== Wool ================================-->
-  <!--=====================================================================-->
   
+  <!-- EN: jade -->
+  <Jade.label>jade</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.description>En hard, grønn stein. På grunn av sin skjønnhet og sjeldenhet brukes jade ofte til ornamenter og dekorasjoner. Dens hardhet og tunghet gjør at den også til et godt materiale for slagvåpen.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
+  
+  <!-- UNUSED -->
   <MegaslothWool.label>dovendyrull</MegaslothWool.label>
   <MegaslothWool.description>Selv om den er ganske grov, så gjør dovendyrullens lange fibre den veldig sterk. Den er også svært varm.</MegaslothWool.description>
   <MegaslothWool.stuffProps.stuffAdjective>dovendyrull</MegaslothWool.stuffProps.stuffAdjective>
   
+  <!-- UNUSED -->
   <MuffaloWool.label>muffelull</MuffaloWool.label>
   <MuffaloWool.description>Myk, lett og gir særdeles god isolasjon. Ullklær kan holde kroppen varm, selv i ekstreme situasjoner.</MuffaloWool.description>
   <MuffaloWool.stuffProps.stuffAdjective>muffelull</MuffaloWool.stuffProps.stuffAdjective>
-
-  <CamelHair.label>Kamelhår</CamelHair.label>
-  <CamelHair.description>Klær av kamelhår bæres for det meste av ørkenfarere, for å skjerme dem mot heten. Hårene gir fremragende isolasjon, som følge av sine termostatiske egenskaper.</CamelHair.description>
-  <CamelHair.stuffProps.stuffAdjective>Kamelhårs</CamelHair.stuffProps.stuffAdjective>
-
-  <AlpacaWool.label>alpakkaull</AlpacaWool.label>
-  <AlpacaWool.description>Den utrolig myke ullen fra en alpakka.</AlpacaWool.description>
-  <AlpacaWool.stuffProps.stuffAdjective>alpakkaull</AlpacaWool.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: plasteel -->
+  <Plasteel.label>Plastål</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>Avansert romteknologisk strukturmateriale. Plastål er ekstremt sterkt på grunn av sin unike molekylære struktur.</Plasteel.description>
+  
+  <!-- EN: silver -->
+  <Silver.label>sølv</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>Dette metallet brukes mest som fellesvaluta. Det kan også brukes til attraktive dekorasjoner.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>sølv</Silver.stuffProps.stuffAdjective>
+  
+  <!-- EN: steel -->
+  <Steel.label>stål</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>En jern-legering med karbon som brukes til bygninger, redskaper og våpen.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
+  
+  <!-- EN: synthread -->
+  <Synthread.label>syntråd</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.description>Romteknologisk syntetisk stoff, designet for å lage vanlige klær. Det er mykt, lett, sterkt og isolerer godt.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>syntråd</Synthread.stuffProps.stuffAdjective>
+  
+  <!-- EN: uranium -->
+  <Uranium.label>uran</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>Et ekstremt hardt, tungt metall. Selv om det er mest kjent for sin rolle i å drive atomreaktorer, så gjør dets fysiske egenskaper det utmerket i noen roller som redskap, våpen eller rustning.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>uran</Uranium.stuffProps.stuffAdjective>
+  
+  <!-- EN: wood -->
+  <WoodLog.label>tre</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>Tre fra trær eller andre fiber-rike planter. Nyttig til å bygge bygninger, våpen og selv enkle proteser. En trekubbe kan brukes som improvisert våpen, om det er krise.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>tre</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
+  
+  <!-- EN: alpaca wool -->
+  <WoolAlpaca.label>TODO</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
+  <WoolAlpaca.description>TODO</WoolAlpaca.description>
+  
+  <!-- EN: camelhair -->
+  <WoolCamel.label>TODO</WoolCamel.label>
+  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
+  <WoolCamel.description>TODO</WoolCamel.description>
+  
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>TODO</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>TODO</WoolMegasloth.description>
+  
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>TODO</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>TODO</WoolMuffalo.description>
+  
 </LanguageData>

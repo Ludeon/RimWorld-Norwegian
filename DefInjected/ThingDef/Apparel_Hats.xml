@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Apparel_CowboyHat.label>hatt</Apparel_CowboyHat.label>
-    <Apparel_CowboyHat.description>Stilfull og gammeldags cowboyhatt. Denne holder solen og regnet vekk, og gir alle som bærer den en smule ekstra sjarm.</Apparel_CowboyHat.description>
-    
-    <Apparel_Tuque.label>lue</Apparel_Tuque.label>
-    <Apparel_Tuque.description>En myk, tjukk lue. Super for å holde seg varm om vinteren.</Apparel_Tuque.description>
-    
-    <Apparel_PowerArmorHelmet.label>energirustningshjelm</Apparel_PowerArmorHelmet.label>
-    <Apparel_PowerArmorHelmet.description>Del av energirustnings settet, til bruk av tungt infanteri.</Apparel_PowerArmorHelmet.description>
-    
-    <Apparel_KevlarHelmet.label>kevlarhjelm</Apparel_KevlarHelmet.label>
-    <Apparel_KevlarHelmet.description>Essensiell del av personlig rustning, brukes til å absorbere ekplosjonen av en granat.</Apparel_KevlarHelmet.description>
-    
-    <Apparel_MilitaryHelmet.label>hjelm</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Gammeldags og tung, men uunnværlig under fiendtlige angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
-    
-    <Apparel_PsychicFoilHelmet.label>tinnfoliehjelm</Apparel_PsychicFoilHelmet.label>
-    <Apparel_PsychicFoilHelmet.description>En tynn hjelm med fininnstilte lag av psykoabsorberende folie. Reduserer effekten av psyko-angrep.</Apparel_PsychicFoilHelmet.description>
-    
+  
+  <!-- UNUSED -->
+  <Apparel_KevlarHelmet.label>kevlarhjelm</Apparel_KevlarHelmet.label>
+  <Apparel_KevlarHelmet.description>Essensiell del av personlig rustning, brukes til å absorbere ekplosjonen av en granat.</Apparel_KevlarHelmet.description>
+  
+  <!-- UNUSED -->
+  <Apparel_MilitaryHelmet.label>hjelm</Apparel_MilitaryHelmet.label>
+  <Apparel_MilitaryHelmet.description>Gammeldags og tung, men uunnværlig under fiendtlige angrep. Mest brukt mot lavhastigets prosjektiler.</Apparel_MilitaryHelmet.description>
+  
 </LanguageData>

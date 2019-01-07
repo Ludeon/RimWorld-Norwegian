@@ -1,34 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Elephant.label>elefant</Elephant.label>
-    <Elephant.description>Det største ikke-modifiserte landdyret. Den kan bruke sin støttenner som redskaper for å flytte ting - eller som dødelige våpen.</Elephant.description>
-    <Elephant_Leather.label>elefantlær</Elephant_Leather.label>
-    <Elephant_Leather.description>Lær laget av huden fra en elefant</Elephant_Leather.description>
-    <Elephant_Leather.stuffProps.stuffAdjective>elefantlær</Elephant_Leather.stuffProps.stuffAdjective>
-    <Elephant_Meat.label>elefantkjøtt</Elephant_Meat.label>
-    <Elephant_Meat.description>Rått kjøtt fra en elefant.</Elephant_Meat.description>
-    <Elephant_Corpse.label>elefantkadaver</Elephant_Corpse.label>
-    <Elephant_Corpse.description>Det døde kadaveret av en elefant.</Elephant_Corpse.description>
-
-  <Megasloth.label>kjempedovendyr</Megasloth.label>
-  <Megasloth.description>Megatheria er et slag dovendyr. De er kjempestore, alenelevende og planteetere. De var lenge utdødd, etter å ha blitt utryddet av urinnvånerne på Jordens Amerikakontinent, men ble brakt tilbake ved hjelp av avansert kloning og kunstig befruktning.</Megasloth.description>
-  <Megasloth_Leather.label>dovendyrpels</Megasloth_Leather.label>
-  <Megasloth_Leather.description>Pelsen fra et dovendyr.</Megasloth_Leather.description>
-  <Megasloth_Leather.stuffProps.stuffAdjective>Dovendyrpels</Megasloth_Leather.stuffProps.stuffAdjective>
-  <Megasloth_Meat.label>dovendyrkjøtt</Megasloth_Meat.label>
-  <Megasloth_Meat.description>Kjøttet fra et kjempedovendyr.</Megasloth_Meat.description>
-  <Megasloth_Corpse.label>dovendyrkadaver</Megasloth_Corpse.label>
-  <Megasloth_Corpse.description>Kadaveret til et kjempedovendyr.</Megasloth_Corpse.description>
   
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-    <Thrumbo.description>En gigantisk skapning av ukjent opphav. Thrumboen er godlynt av natur, men ekstremt farlig om man provoserer den. Dens lange pels er eksepsjonelt vakker og verdifull, og dens sylskarpe horn er svært kostbart i de fleste markeder. Legender sier at en gammel thrumbo er den klokeste skapningen i hele universet - den velger å simpelten ikke si noe.</Thrumbo.description>
-    <Thrumbo_Leather.label>thrumbopels</Thrumbo_Leather.label>
-    <Thrumbo_Leather.description>Pelsen av en thrumbo, mykgjort og preparert.</Thrumbo_Leather.description>
-    <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopels</Thrumbo_Leather.stuffProps.stuffAdjective>
-    <Thrumbo_Meat.label>thrumbokjøtt</Thrumbo_Meat.label>
-    <Thrumbo_Meat.description>Rått kjøtt fra en thrumbo.</Thrumbo_Meat.description>
-    <Thrumbo_Corpse.label>thrumbokadaver</Thrumbo_Corpse.label>
-    <Thrumbo_Corpse.description>Det døde kadaveret av en thrumbo.</Thrumbo_Corpse.description>
-
+  <!-- EN: elephant -->
+  <Elephant.label>elefant</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>Det største ikke-modifiserte landdyret. Den kan bruke sin støttenner som redskaper for å flytte ting - eller som dødelige våpen.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>TODO</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>TODO</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>TODO</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>TODO</Elephant.tools.head.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>kjempedovendyr</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>Megatheria er et slag dovendyr. De er kjempestore, alenelevende og planteetere. De var lenge utdødd, etter å ha blitt utryddet av urinnvånerne på Jordens Amerikakontinent, men ble brakt tilbake ved hjelp av avansert kloning og kunstig befruktning.</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>TODO</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>TODO</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>TODO</Megasloth.tools.head.label>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>neshorn</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Dette store landpattedyret er normalt sett nokså fredelig, men vil ikke nøle med å storme fram med hornet først, for å  jage vekk inntrengere.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>TODO</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>TODO</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>En gigantisk skapning av ukjent opphav. Thrumboen er godlynt av natur, men ekstremt farlig om man provoserer den. Dens lange pels er eksepsjonelt vakker og verdifull, og dens sylskarpe horn er svært kostbart i de fleste markeder. Legender sier at en gammel thrumbo er den klokeste skapningen i hele universet - den velger å simpelten ikke si noe.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>TODO</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>TODO</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>TODO</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>TODO</Thrumbo.tools.head.label>
+  
 </LanguageData>

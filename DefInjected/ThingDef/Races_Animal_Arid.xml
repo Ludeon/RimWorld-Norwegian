@@ -1,54 +1,48 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Muffalo.label>muffel</Muffalo.label>
-    <Muffalo.description>En stor planteeter som lever i flokk. Den nedstammer fra bøffelen og har tilpasset seg noe til mer eksotiske miljøer. Fredelig om den ikke blir provosert.</Muffalo.description>
-    <Muffalo_Leather.label>muffelskinn</Muffalo_Leather.label>
-    <Muffalo_Leather.description>Skinnet fra en muffel.</Muffalo_Leather.description>
-    <Muffalo_Leather.stuffProps.stuffAdjective>muffelskinns</Muffalo_Leather.stuffProps.stuffAdjective>
-    <Muffalo_Meat.label>muffelkjøtt</Muffalo_Meat.label>
-    <Muffalo_Meat.description>Rått kjøtt fra en muffel.</Muffalo_Meat.description>
-    <Muffalo_Corpse.label>muffelkadaver</Muffalo_Corpse.label>
-    <Muffalo_Corpse.description>Det døde kadaveret av en muffel.</Muffalo_Corpse.description>
-    
-    <Gazelle.label>Gasell</Gazelle.label>
-	<Gazelle.description>En liten, ekstremt rask Antilope, som er kjent for sine kjempelange hopp.</Gazelle.description>
-	<Gazelle_Leather.label>gasellær</Gazelle_Leather.label>
-	<Gazelle_Leather.description>Lær fra en gasell.</Gazelle_Leather.description>
-	<Gazelle_Leather.stuffProps.stuffAdjective>gasellær</Gazelle_Leather.stuffProps.stuffAdjective>
-	<Gazelle_Meat.label>gasellkjøtt</Gazelle_Meat.label>
-	<Gazelle_Meat.description>Kjøtt fra en gasell.</Gazelle_Meat.description>
-	<Gazelle_Corpse.label>gasellkadaver</Gazelle_Corpse.label>
-	<Gazelle_Corpse.description>Kadaveret av en gasell.</Gazelle_Corpse.description>
-	
-	<Iguana.label>iguan</Iguana.label>
-    <Iguana.description>Disse store øglene spiser vanligvis planteføde. Om man får dem sinte, så gjør deres tykke hud og skarpe klør dem nokså farlige.</Iguana.description>
-    <Iguana_Leather.label>iguanskinn</Iguana_Leather.label>
-    <Iguana_Leather.description>Skinnet fra en iguan.</Iguana_Leather.description>
-    <Iguana_Leather.stuffProps.stuffAdjective>iguanskinns</Iguana_Leather.stuffProps.stuffAdjective>
-    <Iguana_Meat.label>iguankjøtt</Iguana_Meat.label>
-    <Iguana_Meat.description>Rått kjøtt fra en iguan.</Iguana_Meat.description>
-    <Iguana_Corpse.label>iguankadaver</Iguana_Corpse.label>
-    <Iguana_Corpse.description>Det døde kadaveret av en iguan.</Iguana_Corpse.description>
-    
-    <Rhinoceros.label>neshorn</Rhinoceros.label>
-    <Rhinoceros.description>Dette store landpattedyret er normalt sett nokså fredelig, men vil ikke nøle med å storme fram med hornet først, for å  jage vekk inntrengere.</Rhinoceros.description>
-    <Rhinoceros_Leather.label>neshornlær</Rhinoceros_Leather.label>
-    <Rhinoceros_Leather.description>Lær laget av huden fra et neshorn.</Rhinoceros_Leather.description>
-    <Rhinoceros_Leather.stuffProps.stuffAdjective>neshornlærs</Rhinoceros_Leather.stuffProps.stuffAdjective>
-    <Rhinoceros_Meat.label>neshornkjøtt</Rhinoceros_Meat.label>
-    <Rhinoceros_Meat.description>Rått kjøtt fra et neshorn.</Rhinoceros_Meat.description>
-    <Rhinoceros_Corpse.label>neshornkadaver</Rhinoceros_Corpse.label>
-    <Rhinoceros_Corpse.description>Det døde kadaveret av et neshorn.</Rhinoceros_Corpse.description>
-    
-    <Dromedary.label>dromedar</Dromedary.label>
-    <Dromedary.description>Dromedaren er tilpasset til å overleve i tørre miljøer. Denne fjerne slektningen til hesten, kan gå i ukevis uten vann.</Dromedary.description>
-    <Dromedary_Leather.label>dromedarlær</Dromedary_Leather.label>
-    <Dromedary_Leather.description>Lær laget av huden fra en dromedar.</Dromedary_Leather.description>
-    <Dromedary_Leather.stuffProps.stuffAdjective>dromedarlær</Dromedary_Leather.stuffProps.stuffAdjective>
-    <Dromedary_Meat.label>dromedarkjøtt</Dromedary_Meat.label>
-    <Dromedary_Meat.description>Rått kjøt fra en dromedar.</Dromedary_Meat.description>
-    <Dromedary_Corpse.label>dromedarkadaver</Dromedary_Corpse.label>
-    <Dromedary_Corpse.description>Det døde kadaveret av en dromedar.</Dromedary_Corpse.description>
-     
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedar</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>Dromedaren er tilpasset til å overleve i tørre miljøer. Denne fjerne slektningen til hesten, kan gå i ukevis uten vann.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>TODO</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>TODO</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>TODO</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>Gasell</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>En liten, ekstremt rask Antilope, som er kjent for sine kjempelange hopp.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>TODO</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>TODO</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguan</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Disse store øglene spiser vanligvis planteføde. Om man får dem sinte, så gjør deres tykke hud og skarpe klør dem nokså farlige.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>TODO</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>TODO</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>TODO</Iguana.tools.head.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>muffel</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>En stor planteeter som lever i flokk. Den nedstammer fra bøffelen og har tilpasset seg noe til mer eksotiske miljøer. Fredelig om den ikke blir provosert.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>TODO</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>TODO</Muffalo.tools.right_hoof.label>
+  
 </LanguageData>

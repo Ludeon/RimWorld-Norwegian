@@ -1,43 +1,96 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <SunLamp.label>sollampe</SunLamp.label>
-    <SunLamp.description>Belyser et område, slik at man kan gro planter i nærheten.</SunLamp.description>
-    
-    <OrbitalTradeBeacon.label>handelsmerke.</OrbitalTradeBeacon.label>
-    <OrbitalTradeBeacon.description>Nødvendig til omløpshandel. Du kan bare selge varer som er tett på et handelsmerke som ikke er under et tak, handelsmenn vil også slippe ned det du kjøper nær merket.</OrbitalTradeBeacon.description>
-    
-    <CommsConsole.label>kommunikasjonskonsoll</CommsConsole.label>
-    <CommsConsole.description>Kommuniser med romskip i bane rundt planeten for å handle varer.</CommsConsole.description>
-    
-    <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
-    
-    <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-    <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
-    
-    <ToolCabinet.label>tool cabinet</ToolCabinet.label>
-    <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
-    
-    <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
-    <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
-    
-    <Grave.label>gravsted</Grave.label>
-    <Grave.description>Plasser de døde i gravsteder, for å gi dem et verdig siste hvilested.</Grave.description>
-    
-    <Sarcophagus.label>sarcophagus</Sarcophagus.label>
-    <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
-    
-    <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
-    <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
-    
-    <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
-    <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
-    
-    <MarriageSpot.label>marriage spot</MarriageSpot.label>
-    <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
-    
-    <PartySpot.label>party spot</PartySpot.label>
-    <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
-    
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan packing spot -->
+  <CaravanPackingSpot.label>TODO</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
+  <CaravanPackingSpot.description>TODO</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>kommunikasjonskonsoll</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Kommuniser med romskip i bane rundt planeten for å handle varer.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>TODO</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>gravsted</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Plasser de døde i gravsteder, for å gi dem et verdig siste hvilested.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
+  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>TODO</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>TODO</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>handelsmerke.</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Nødvendig til omløpshandel. Du kan bare selge varer som er tett på et handelsmerke som ikke er under et tak, handelsmenn vil også slippe ned det du kjøper nær merket.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>party spot</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>TODO</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>TODO</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>sarcophagus</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>tool cabinet</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>TODO</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>TODO</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
+  
 </LanguageData>

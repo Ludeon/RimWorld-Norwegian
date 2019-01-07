@@ -1,24 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <GrizzlyBear.label>grizzlybjørn</GrizzlyBear.label>
-    <GrizzlyBear.description>Stort altetende pattedyr tilpasset kaldere strøk. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk, bær, honning og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</GrizzlyBear.description>
-    <GrizzlyBear_Leather.label>bjørneskinn</GrizzlyBear_Leather.label>
-    <GrizzlyBear_Leather.description>Skinn fra en grizzlybjørn.</GrizzlyBear_Leather.description>
-    <GrizzlyBear_Leather.stuffProps.stuffAdjective>bjørneskinns</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-    <GrizzlyBear_Meat.label>bjørnekjøtt</GrizzlyBear_Meat.label>
-    <GrizzlyBear_Meat.description>Rått kjøtt fra en grizzlybjørn.</GrizzlyBear_Meat.description>
-    <GrizzlyBear_Corpse.label>grizzlybjørnkadaver</GrizzlyBear_Corpse.label>
-    <GrizzlyBear_Corpse.description>Det døde kadaveret av en grizzlybjørn.</GrizzlyBear_Corpse.description>
-    
-    <PolarBear.label>isbjørn</PolarBear.label>
-    <PolarBear.description>En kjempestor hvit bjørn, som kommer fra de arktiske strøkene rundt Nordpolen, på Den gamle Jorda. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</PolarBear.description>
-    <PolarBear_Leather.label>isbjørnskinn</PolarBear_Leather.label>
-    <PolarBear_Leather.description>Skinn fra en isbjørn.</PolarBear_Leather.description>
-    <PolarBear_Leather.stuffProps.stuffAdjective>isbjørnskinns</PolarBear_Leather.stuffProps.stuffAdjective>
-    <PolarBear_Meat.label>isbjørnkjøtt</PolarBear_Meat.label>
-    <PolarBear_Meat.description>Rått kjøtt fra en isbjørn.</PolarBear_Meat.description>
-    <PolarBear_Corpse.label>isbjørnkadaver.</PolarBear_Corpse.label>
-    <PolarBear_Corpse.description>Det døde kadaveret av en isbjørn.</PolarBear_Corpse.description>
-    
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>grizzlybjørn</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Stort altetende pattedyr tilpasset kaldere strøk. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk, bær, honning og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>TODO</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>TODO</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>TODO</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>TODO</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>isbjørn</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>En kjempestor hvit bjørn, som kommer fra de arktiske strøkene rundt Nordpolen, på Den gamle Jorda. Deres tykke spekk- og pelslag holder dem varme om vinteren.\n\nDeres vanlige diett består av fisk og åtsler. Grizzlybjørnen er imidlertid i stand til å bruke sin massive styrke og dødelige klør til å drepe levende bytte. De er oppsiktsvekkende raske, til å være så svære dyr.</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Meat_PolarBear.label>isbjørnkjøtt</Meat_PolarBear.label>
+  <Meat_PolarBear.description>Rått kjøtt fra en isbjørn.</Meat_PolarBear.description>
+  
 </LanguageData>

@@ -1,28 +1,57 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <FilthDirt.label>skitt</FilthDirt.label>
-    
-    <FilthAnimalFilth.label>dyremøkk</FilthAnimalFilth.label>
-    
-    <FilthSand.label>sand</FilthSand.label>
-    
-    <RockRubble.label>steinklumper</RockRubble.label>
-    
-    <BuildingRubble.label>bygningsstøv</BuildingRubble.label>
-    
-    <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
-    
-    <FilthBlood.label>blod</FilthBlood.label>
-    
-    <FilthBloodInsect.label>insektblod</FilthBloodInsect.label>
-    
-    <FilthAmnioticFluid.label>fostervann</FilthAmnioticFluid.label>
-    
-    <FilthSlime.label>slim</FilthSlime.label>
-    
-    <FilthVomit.label>oppkast</FilthVomit.label>
-    
-    <FilthFireFoam.label>brannskum</FilthFireFoam.label>
-    
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>fostervann</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>dyremøkk</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>TODO</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>blod</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>insektblod</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>TODO</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>skitt</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>brannskum</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>TODO</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>TODO</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>bygningsstøv</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>steinklumper</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>sand</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>slim</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>TODO</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>oppkast</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>TODO</SlagRubble.label>
+  
 </LanguageData>
