@@ -1,61 +1,113 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MechanicalCentipede.label>skolpender</MechanicalCentipede.label>
-  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>venstre synsapparat</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>høyre synsapparat</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>venstre høreapparat</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>høyre høreapparat</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
-
+  
+  <!-- EN: lancer -->
   <Lancer.label>lansebot</Lancer.label>
-  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>venstre synsapparat</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>høyre synsapparat</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>venstre høreapparat</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>høyre høreapparat</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Lancer.corePart.parts.1.customLabel>venstre skulder</Lancer.corePart.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.customLabel>venstre arm</Lancer.corePart.parts.1.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>venstre hånd</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>venstre lillefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>venstre langefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>venstre pekefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>venstre tommel</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.2.customLabel>høyre skulder</Lancer.corePart.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.customLabel>høyre arm</Lancer.corePart.parts.2.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>høyre hånd</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>høyre lillefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>høyre langefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>høyre pekefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>høyre tommel</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.3.customLabel>venstre ben</Lancer.corePart.parts.3.customLabel>
-  <Lancer.corePart.parts.3.parts.0.customLabel>venstre fot</Lancer.corePart.parts.3.parts.0.customLabel>
-  <Lancer.corePart.parts.4.customLabel>høyre ben</Lancer.corePart.parts.4.customLabel>
-  <Lancer.corePart.parts.4.parts.0.customLabel>høyre fot</Lancer.corePart.parts.4.parts.0.customLabel>
-
+  <!-- EN: left sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>venstre synsapparat</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>høyre synsapparat</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>venstre høreapparat</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>høyre høreapparat</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <Lancer.corePart.parts.left_shoulder.customLabel>venstre skulder</Lancer.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>venstre arm</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>venstre hånd</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>venstre lillefinger</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>venstre langefinger</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>venstre pekefinger</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>venstre tommel</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right mechanical shoulder -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>høyre skulder</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>høyre arm</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>høyre hånd</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>høyre lillefinger</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>høyre langefinger</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>høyre pekefinger</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>høyre tommel</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Lancer.corePart.parts.left_leg.customLabel>venstre ben</Lancer.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>venstre fot</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Lancer.corePart.parts.right_leg.customLabel>høyre ben</Lancer.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>høyre fot</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <!-- EN: mechanical centipede -->
+  <MechanicalCentipede.label>skolpender</MechanicalCentipede.label>
+  <!-- EN: left sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>venstre synsapparat</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>høyre synsapparat</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>venstre høreapparat</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>høyre høreapparat</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: scyther -->
   <Scyther.label>ljåbot</Scyther.label>
-  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>venstre synsapparat</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>høyre synsapparat</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>venstre høreapparat</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>høyre høreapparat</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Scyther.corePart.parts.1.customLabel>venstre skulder</Scyther.corePart.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.customLabel>venstre arm</Scyther.corePart.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>venstre ljå</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>venstre hånd</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>venstre lillefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>venstre langefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>venstre pekefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>venstre tommel</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
-  <Scyther.corePart.parts.2.customLabel>høyre skulder</Scyther.corePart.parts.2.customLabel>
-  <Scyther.corePart.parts.2.parts.0.customLabel>høyre arm</Scyther.corePart.parts.2.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>høyre ljå</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>høyre hånd</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>høyre lillefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>høyre langefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>høyre pekefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>høyre tommel</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
-  <Scyther.corePart.parts.3.customLabel>venstre ben</Scyther.corePart.parts.3.customLabel>
-  <Scyther.corePart.parts.3.parts.0.customLabel>venstre fot</Scyther.corePart.parts.3.parts.0.customLabel>
-  <Scyther.corePart.parts.4.customLabel>høyre ben</Scyther.corePart.parts.4.customLabel>
-  <Scyther.corePart.parts.4.parts.0.customLabel>høyre fot</Scyther.corePart.parts.4.parts.0.customLabel>
-
-
+  <!-- EN: left sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>venstre synsapparat</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>høyre synsapparat</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>venstre høreapparat</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>høyre høreapparat</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <Scyther.corePart.parts.left_shoulder.customLabel>venstre skulder</Scyther.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>venstre arm</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left blade -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>venstre ljå</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <!-- EN: left hand -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>venstre hånd</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>venstre lillefinger</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>venstre langefinger</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>venstre pekefinger</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>venstre tommel</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Scyther.corePart.parts.right_shoulder.customLabel>høyre skulder</Scyther.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>høyre arm</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right blade -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>høyre ljå</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <!-- EN: right hand -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>høyre hånd</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>høyre lillefinger</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>høyre langefinger</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>høyre pekefinger</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>høyre tommel</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Scyther.corePart.parts.left_leg.customLabel>venstre ben</Scyther.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>venstre fot</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Scyther.corePart.parts.right_leg.customLabel>høyre ben</Scyther.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>høyre fot</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
 </LanguageData>

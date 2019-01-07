@@ -1,48 +1,82 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--======== Common to various mechanoids ========-->
-
-  <MechanicalNeck.label>hals</MechanicalNeck.label>
-  <MechanicalHead.label>hode</MechanicalHead.label>
+  
+  <!-- EN: artificial brain -->
   <ArtificialBrain.label>nevronkretser</ArtificialBrain.label>
-  <SightSensor.label>synsapparat</SightSensor.label>
-  <HearingSensor.label>lyttepparat</HearingSensor.label>
-  <SmellSensor.label>lukteapparat</SmellSensor.label>
-  <MechanicalShoulder.label>skulder</MechanicalShoulder.label>
-  <MechanicalArm.label>arm</MechanicalArm.label>
-  <MechanicalHand.label>hånd</MechanicalHand.label>
-  <MechanicalFinger.label>finger</MechanicalFinger.label>
-  <MechanicalLeg.label>ben</MechanicalLeg.label>
-  <MechanicalFoot.label>fot</MechanicalFoot.label>
-
-
-  <!--===================== Human-like specific (lancer, scyther) ====================-->
-
-  <MechanicalThorax.label>overkropp</MechanicalThorax.label>
-
-
-  <!--===================== Scyther specific ====================-->
-
+  
+  <!-- EN: blade -->
   <Blade.label>ljå</Blade.label>
-
-  <MechanicalCentipedeBodyFirstRing.label>1. ringdel</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodyFirstRing.labelShort>ringdel</MechanicalCentipedeBodyFirstRing.labelShort>
-
-  <MechanicalCentipedeBodySecondRing.label>2. ringdel</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodySecondRing.labelShort>ringdel</MechanicalCentipedeBodySecondRing.labelShort>
-
-  <MechanicalCentipedeBodyThirdRing.label>3. ringdel</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyThirdRing.labelShort>ringdel</MechanicalCentipedeBodyThirdRing.labelShort>
-
-  <MechanicalCentipedeBodyFourthRing.label>4. ringdel</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFourthRing.labelShort>ringdel</MechanicalCentipedeBodyFourthRing.labelShort>
-
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>lyttepparat</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>arm</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>5. ringdel</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
   <MechanicalCentipedeBodyFifthRing.labelShort>ringdel</MechanicalCentipedeBodyFifthRing.labelShort>
-
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>1. ringdel</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>ringdel</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>4. ringdel</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>ringdel</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>2. ringdel</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>ringdel</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>6. ringdel</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
   <MechanicalCentipedeBodySixthRing.labelShort>ringdel</MechanicalCentipedeBodySixthRing.labelShort>
-
-
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>3. ringdel</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>ringdel</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>finger</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>fot</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>hånd</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>hode</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>ben</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>hals</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>skulder</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>overkropp</MechanicalThorax.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>TODO</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>synsapparat</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>lukteapparat</SmellSensor.label>
+  
 </LanguageData>

@@ -1,231 +1,446 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <QuadrupedAnimalWithPaws.label>firbent dyr</QuadrupedAnimalWithPaws.label>
-  <QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>venstre forben</QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>venstre forpote</QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>høyre forben</QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>høyre forpote</QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>venstre bakben</QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>venstre bakpote</QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>høyre bakben</QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>høyre bakpote</QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>
-
-  <QuadrupedAnimalWithPawsAndTail.label>firbent dyr</QuadrupedAnimalWithPawsAndTail.label>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>venstre lunge</QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>høyre lunge</QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>venstre nyre</QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>høyre nyre</QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>venstre forben</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>venstre forpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>høyre forben</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>høyre forpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>venstre bakben</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>venstre bakpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>høyre bakben</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>høyre bakpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
-
-  <QuadrupedAnimalWithHooves.label>firbent dyr</QuadrupedAnimalWithHooves.label>
-  <QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>venstre forben</QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>venstre forhov</QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>høyre forben</QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>høyre forhov</QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>venstre bakben</QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>venstre bakhov</QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>høyre bakben</QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>høyre bakhov</QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>
-
-  <QuadrupedAnimalWithHoovesAndHump.label>firbent dyr</QuadrupedAnimalWithHoovesAndHump.label>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndHump.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndHump.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.9.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.10.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.10.parts.0.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.11.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.11.parts.0.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.12.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.12.parts.0.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.12.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.13.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.13.customLabel>
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.13.parts.0.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.13.parts.0.customLabel>
-
-  <QuadrupedAnimalWithHoovesAndTusks.label>firbent dyr</QuadrupedAnimalWithHoovesAndTusks.label>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>venstre støttann</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>høyre støttann</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.9.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.9.parts.0.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.10.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.10.parts.0.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.11.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.11.parts.0.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.12.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.12.parts.0.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.12.parts.0.customLabel>
-
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>firbent dyr</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>venstre støttann</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>høyre støttann</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.9.customLabel>venstre forben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.9.parts.0.customLabel>venstre forhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.10.customLabel>høyre forben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.10.parts.0.customLabel>høyre forhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.11.customLabel>venstre bakben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.11.parts.0.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.12.customLabel>høyre bakben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.12.parts.0.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.12.parts.0.customLabel>
-
-  <QuadrupedAnimalWithHoovesAndHorn.label>firbent dyr</QuadrupedAnimalWithHoovesAndHorn.label>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.3.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.4.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.5.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.6.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.9.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.9.parts.0.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.10.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.10.parts.0.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.11.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.11.parts.0.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.12.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.12.parts.0.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.12.parts.0.customLabel>
-
-  <QuadrupedAnimalWithClawsTailAndJowl.label>firbent dyr</QuadrupedAnimalWithClawsTailAndJowl.label>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.4.customLabel>venstre lunge</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.5.customLabel>høyre lunge</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.6.customLabel>venstre nyre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.7.customLabel>høyre nyre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.7.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.1.customLabel>venstre øye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.2.customLabel>høyre øye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.3.customLabel>venstre øre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.4.customLabel>høyre øre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.9.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.customLabel>venstre forben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.0.customLabel>venstre forben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.1.customLabel>venstre forben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.1.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.2.customLabel>venstre forben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.2.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.3.customLabel>venstre forben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.3.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.4.customLabel>venstre forben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.10.parts.4.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.customLabel>høyre forben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.0.customLabel>høyre forben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.1.customLabel>høyre forben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.1.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.2.customLabel>høyre forben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.2.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.3.customLabel>høyre forben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.3.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.4.customLabel>høyre forben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.11.parts.4.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.customLabel>venstre bakben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.0.customLabel>venstre bakben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.0.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.1.customLabel>venstre bakben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.1.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.2.customLabel>venstre bakben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.2.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.3.customLabel>venstre bakben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.3.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.4.customLabel>venstre bakben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.12.parts.4.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.customLabel>høyre bakben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.0.customLabel>høyre bakben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.0.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.1.customLabel>høyre bakben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.1.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.2.customLabel>høyre bakben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.2.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.3.customLabel>høyre bakben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.3.customLabel>
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.4.customLabel>høyre bakben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.13.parts.4.customLabel>
-
-  <TurtleLike.label>reptil</TurtleLike.label>
-  <TurtleLike.corePart.parts.5.customLabel>venstre lunge</TurtleLike.corePart.parts.5.customLabel>
-  <TurtleLike.corePart.parts.6.customLabel>høyre lunge</TurtleLike.corePart.parts.6.customLabel>
-  <TurtleLike.corePart.parts.7.customLabel>venstre nyre</TurtleLike.corePart.parts.7.customLabel>
-  <TurtleLike.corePart.parts.8.customLabel>høyre nyre</TurtleLike.corePart.parts.8.customLabel>
-  <TurtleLike.corePart.parts.10.parts.1.customLabel>venstre øye</TurtleLike.corePart.parts.10.parts.1.customLabel>
-  <TurtleLike.corePart.parts.10.parts.2.customLabel>høyre øye</TurtleLike.corePart.parts.10.parts.2.customLabel>
-  <TurtleLike.corePart.parts.11.customLabel>venstre forben</TurtleLike.corePart.parts.11.customLabel>
-  <TurtleLike.corePart.parts.12.customLabel>høyre forben</TurtleLike.corePart.parts.12.customLabel>
-  <TurtleLike.corePart.parts.13.customLabel>venstre bakben</TurtleLike.corePart.parts.13.customLabel>
-  <TurtleLike.corePart.parts.14.customLabel>høyre bakben</TurtleLike.corePart.parts.14.customLabel>
-
+  
+  <!-- EN: monkey -->
   <Monkey.label>apekatt</Monkey.label>
-  <Monkey.corePart.parts.1.customLabel>venstre kragebein</Monkey.corePart.parts.1.customLabel>
-  <Monkey.corePart.parts.2.customLabel>høyre kragebein</Monkey.corePart.parts.2.customLabel>
-  <Monkey.corePart.parts.9.customLabel>venstre lunge</Monkey.corePart.parts.9.customLabel>
-  <Monkey.corePart.parts.10.customLabel>høyre lunge</Monkey.corePart.parts.10.customLabel>
-  <Monkey.corePart.parts.11.customLabel>venstre nyre</Monkey.corePart.parts.11.customLabel>
-  <Monkey.corePart.parts.12.customLabel>høyre nyre</Monkey.corePart.parts.12.customLabel>
-  <Monkey.corePart.parts.14.parts.0.parts.1.customLabel>venstre øye</Monkey.corePart.parts.14.parts.0.parts.1.customLabel>
-  <Monkey.corePart.parts.14.parts.0.parts.2.customLabel>høyre øye</Monkey.corePart.parts.14.parts.0.parts.2.customLabel>
-  <Monkey.corePart.parts.14.parts.0.parts.3.customLabel>venstre øre</Monkey.corePart.parts.14.parts.0.parts.3.customLabel>
-  <Monkey.corePart.parts.14.parts.0.parts.4.customLabel>høyre øre</Monkey.corePart.parts.14.parts.0.parts.4.customLabel>
-  <Monkey.corePart.parts.15.customLabel>venstre skulder</Monkey.corePart.parts.15.customLabel>
-  <Monkey.corePart.parts.15.parts.0.customLabel>venstre arm</Monkey.corePart.parts.15.parts.0.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.0.customLabel>venstre overarmsbein</Monkey.corePart.parts.15.parts.0.parts.0.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.1.customLabel>venstre spolebein</Monkey.corePart.parts.15.parts.0.parts.1.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.customLabel>venstre hånd</Monkey.corePart.parts.15.parts.0.parts.2.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>venstre lillefinger</Monkey.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>venstre ringefinger</Monkey.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>venstre langefinger</Monkey.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>venstre pekefinger</Monkey.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>
-  <Monkey.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>venstre tommel</Monkey.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>
-  <Monkey.corePart.parts.16.customLabel>høyre skulder</Monkey.corePart.parts.16.customLabel>
-  <Monkey.corePart.parts.16.parts.0.customLabel>høyre arm</Monkey.corePart.parts.16.parts.0.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.0.customLabel>høyre overarmsbein</Monkey.corePart.parts.16.parts.0.parts.0.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.1.customLabel>høyre spolebein</Monkey.corePart.parts.16.parts.0.parts.1.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.customLabel>høyre hånd</Monkey.corePart.parts.16.parts.0.parts.2.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.parts.0.customLabel>høyre lillefinger</Monkey.corePart.parts.16.parts.0.parts.2.parts.0.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.parts.1.customLabel>høyre ringefinger</Monkey.corePart.parts.16.parts.0.parts.2.parts.1.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.parts.2.customLabel>høyre langefinger</Monkey.corePart.parts.16.parts.0.parts.2.parts.2.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.parts.3.customLabel>høyre pekefinger</Monkey.corePart.parts.16.parts.0.parts.2.parts.3.customLabel>
-  <Monkey.corePart.parts.16.parts.0.parts.2.parts.4.customLabel>høyre tommel</Monkey.corePart.parts.16.parts.0.parts.2.parts.4.customLabel>
-  <Monkey.corePart.parts.17.customLabel>venstre ben</Monkey.corePart.parts.17.customLabel>
-  <Monkey.corePart.parts.17.parts.0.customLabel>venstre lårbein</Monkey.corePart.parts.17.parts.0.customLabel>
-  <Monkey.corePart.parts.17.parts.1.customLabel>venstre skinnebein</Monkey.corePart.parts.17.parts.1.customLabel>
-  <Monkey.corePart.parts.17.parts.2.customLabel>venstre fot</Monkey.corePart.parts.17.parts.2.customLabel>
-  <Monkey.corePart.parts.17.parts.2.parts.0.customLabel>venstre lilletå</Monkey.corePart.parts.17.parts.2.parts.0.customLabel>
-  <Monkey.corePart.parts.17.parts.2.parts.1.customLabel>venstre 4. tå</Monkey.corePart.parts.17.parts.2.parts.1.customLabel>
-  <Monkey.corePart.parts.17.parts.2.parts.2.customLabel>venstre 3. tå</Monkey.corePart.parts.17.parts.2.parts.2.customLabel>
-  <Monkey.corePart.parts.17.parts.2.parts.3.customLabel>venstre 2. tå</Monkey.corePart.parts.17.parts.2.parts.3.customLabel>
-  <Monkey.corePart.parts.17.parts.2.parts.4.customLabel>venstre storetå</Monkey.corePart.parts.17.parts.2.parts.4.customLabel>
-  <Monkey.corePart.parts.18.customLabel>høyre ben</Monkey.corePart.parts.18.customLabel>
-  <Monkey.corePart.parts.18.parts.0.customLabel>høyre lårbein</Monkey.corePart.parts.18.parts.0.customLabel>
-  <Monkey.corePart.parts.18.parts.1.customLabel>høyre skinnebein</Monkey.corePart.parts.18.parts.1.customLabel>
-  <Monkey.corePart.parts.18.parts.2.customLabel>høyre fot</Monkey.corePart.parts.18.parts.2.customLabel>
-  <Monkey.corePart.parts.18.parts.2.parts.0.customLabel>høyre lilletå</Monkey.corePart.parts.18.parts.2.parts.0.customLabel>
-  <Monkey.corePart.parts.18.parts.2.parts.1.customLabel>høyre 4. tå</Monkey.corePart.parts.18.parts.2.parts.1.customLabel>
-  <Monkey.corePart.parts.18.parts.2.parts.2.customLabel>høyre 3. tå</Monkey.corePart.parts.18.parts.2.parts.2.customLabel>
-  <Monkey.corePart.parts.18.parts.2.parts.3.customLabel>høyre 2. tå</Monkey.corePart.parts.18.parts.2.parts.3.customLabel>
-  <Monkey.corePart.parts.18.parts.2.parts.4.customLabel>høyre storetå</Monkey.corePart.parts.18.parts.2.parts.4.customLabel>
-
-
+  <!-- EN: left clavicle -->
+  <Monkey.corePart.parts.left_clavicle.customLabel>venstre kragebein</Monkey.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <Monkey.corePart.parts.right_clavicle.customLabel>høyre kragebein</Monkey.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <Monkey.corePart.parts.left_lung.customLabel>venstre lunge</Monkey.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Monkey.corePart.parts.right_lung.customLabel>høyre lunge</Monkey.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Monkey.corePart.parts.left_kidney.customLabel>venstre nyre</Monkey.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Monkey.corePart.parts.right_kidney.customLabel>høyre nyre</Monkey.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Monkey.corePart.parts.left_shoulder.customLabel>venstre skulder</Monkey.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>venstre arm</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>venstre overarmsbein</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>venstre spolebein</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>venstre hånd</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>venstre lillefinger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>venstre ringefinger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>venstre langefinger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>venstre pekefinger</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>venstre tommel</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Monkey.corePart.parts.right_shoulder.customLabel>høyre skulder</Monkey.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>høyre arm</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>høyre overarmsbein</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>høyre spolebein</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>høyre hånd</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>høyre lillefinger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>høyre ringefinger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>høyre langefinger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>høyre pekefinger</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>høyre tommel</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Monkey.corePart.parts.left_leg.customLabel>venstre ben</Monkey.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>venstre lårbein</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>venstre skinnebein</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>venstre fot</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>venstre lilletå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>venstre 4. tå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>venstre 3. tå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>venstre 2. tå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>venstre storetå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Monkey.corePart.parts.right_leg.customLabel>høyre ben</Monkey.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>høyre lårbein</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>høyre skinnebein</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>høyre fot</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>høyre lilletå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>høyre 4. tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>høyre 3. tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>høyre 2. tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>høyre storetå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithClawsTailAndJowl.label>firbent dyr</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>venstre forben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>venstre forben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>venstre forben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>venstre forben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <!-- EN: front left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>venstre forben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>høyre forben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>høyre forben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>høyre forben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: front right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>høyre forben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <!-- EN: front right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>høyre forben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>venstre bakben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>venstre bakben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>venstre bakben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>venstre bakben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <!-- EN: rear left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>venstre bakben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>høyre bakben 1. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>høyre bakben 2. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>høyre bakben 3. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <!-- EN: rear right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>høyre bakben 4. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <!-- EN: rear right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>høyre bakben 5. klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHooves.label>firbent dyr</QuadrupedAnimalWithHooves.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>venstre forhov</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>høyre forhov</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>venstre bakhov</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>høyre bakhov</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHorn.label>firbent dyr</QuadrupedAnimalWithHoovesAndHorn.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHump.label>firbent dyr</QuadrupedAnimalWithHoovesAndHump.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndTusks.label>firbent dyr</QuadrupedAnimalWithHoovesAndTusks.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>venstre støttann</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>høyre støttann</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>venstre forhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>høyre forhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>firbent dyr</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>venstre støttann</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>høyre støttann</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>venstre forhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>høyre forhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>venstre bakhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>høyre bakhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPaws.label>firbent dyr</QuadrupedAnimalWithPaws.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>venstre forpote</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>høyre forpote</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>venstre bakpote</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>høyre bakpote</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsAndTail.label>firbent dyr</QuadrupedAnimalWithPawsAndTail.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>venstre lunge</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>høyre lunge</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>venstre nyre</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>høyre nyre</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>venstre øye</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>høyre øye</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>venstre øre</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>høyre øre</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>venstre forben</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>venstre forpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>høyre forben</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>høyre forpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>venstre bakben</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>venstre bakpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>høyre bakben</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>høyre bakpote</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: turtle-like -->
+  <TurtleLike.label>reptil</TurtleLike.label>
+  <!-- EN: left lung -->
+  <TurtleLike.corePart.parts.left_lung.customLabel>venstre lunge</TurtleLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <TurtleLike.corePart.parts.right_lung.customLabel>høyre lunge</TurtleLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <TurtleLike.corePart.parts.left_kidney.customLabel>venstre nyre</TurtleLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <TurtleLike.corePart.parts.right_kidney.customLabel>høyre nyre</TurtleLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>venstre øye</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>høyre øye</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>venstre forben</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>høyre forben</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>venstre bakben</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>høyre bakben</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  
 </LanguageData>

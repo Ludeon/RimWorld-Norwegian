@@ -1,18 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Head.label>hode</Head.label>
-  <Skull.label>kranie</Skull.label>
+  
+  <!-- EN: brain -->
   <Brain.label>hjerne</Brain.label>
-  <Eye.label>øye</Eye.label>
+  
+  <!-- EN: ear -->
   <Ear.label>øre</Ear.label>
-  <Nose.label>nese</Nose.label>
-  <Jaw.label>kjeve</Jaw.label>
-  <Neck.label>hals</Neck.label>
-  <Ribcage.label>brystkasse</Ribcage.label>
-  <Spine.label>ryggrad</Spine.label>
-  <Leg.label>ben</Leg.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>øye</Eye.label>
+  
+  <!-- EN: foot -->
   <Foot.label>fot</Foot.label>
-
-
+  
+  <!-- EN: head -->
+  <Head.label>hode</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>kjeve</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>ben</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>hals</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>nese</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>brystkasse</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>kranie</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>ryggrad</Spine.label>
+  
 </LanguageData>

@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Torso.label>torso</Torso.label>
-  <Shoulder.label>skulder</Shoulder.label>
+  
+  <!-- EN: arm -->
   <Arm.label>arm</Arm.label>
-  <Hand.label>hånd</Hand.label>
-  <Finger.label>finger</Finger.label>
-  <Waist.label>midje</Waist.label>
-  <Toe.label>tå</Toe.label>
-
-
-  <!-- Bones -->
-
+  
+  <!-- EN: clavicle -->
   <Clavicle.label>kragebein</Clavicle.label>
-  <Sternum.label>brystbein</Sternum.label>
-  <Humerus.label>overarmsbein</Humerus.label>
-  <Radius.label>spolebein</Radius.label>
-  <Pelvis.label>bekken</Pelvis.label>
+  
+  <!-- EN: femur -->
   <Femur.label>lårbein</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>finger</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>hånd</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>overarmsbein</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>bekken</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>spolebein</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>skulder</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>brystbein</Sternum.label>
+  
+  <!-- EN: tibia -->
   <Tibia.label>skinnebein</Tibia.label>
-
-
+  
+  <!-- EN: toe -->
+  <Toe.label>tå</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>torso</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>midje</Waist.label>
+  
 </LanguageData>
