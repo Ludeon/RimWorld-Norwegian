@@ -1,58 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <!-- EN: beetle-like -->
-  <BeetleLike.label>bille-aktig</BeetleLike.label>
-  <!-- EN: left elytra -->
-  <BeetleLike.corePart.parts.left_elytra.customLabel>TODO</BeetleLike.corePart.parts.left_elytra.customLabel>
-  <!-- EN: right elytra -->
-  <BeetleLike.corePart.parts.right_elytra.customLabel>TODO</BeetleLike.corePart.parts.right_elytra.customLabel>
-  <!-- EN: left eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
-  <!-- EN: right eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
-  <!-- EN: left antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
-  <!-- EN: right antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
-  <!-- EN: front left leg -->
-  <BeetleLike.corePart.parts.front_left_leg.customLabel>TODO</BeetleLike.corePart.parts.front_left_leg.customLabel>
-  <!-- EN: front right leg -->
-  <BeetleLike.corePart.parts.front_right_leg.customLabel>TODO</BeetleLike.corePart.parts.front_right_leg.customLabel>
-  <!-- EN: middle left leg -->
-  <BeetleLike.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_left_leg.customLabel>
-  <!-- EN: middle right leg -->
-  <BeetleLike.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_right_leg.customLabel>
-  <!-- EN: rear left leg -->
-  <BeetleLike.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_left_leg.customLabel>
-  <!-- EN: rear right leg -->
-  <BeetleLike.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_right_leg.customLabel>
-  
-  <!-- EN: beetle-like with claw -->
-  <BeetleLikeWithClaw.label>bille-aktig med klør</BeetleLikeWithClaw.label>
-  <!-- EN: left elytra -->
-  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
-  <!-- EN: right elytra -->
-  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
-  <!-- EN: left eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
-  <!-- EN: right eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
-  <!-- EN: left antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
-  <!-- EN: right antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
-  <!-- EN: front left leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
-  <!-- EN: front right leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
-  <!-- EN: middle left leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
-  <!-- EN: middle right leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
-  <!-- EN: rear left leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
-  <!-- EN: rear right leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
-  
+
+  <BeetleLike.label>billeaktig</BeetleLike.label>
+  <BeetleLike.corePart.parts.0.customLabel>venstre dekkvinge</BeetleLike.corePart.parts.0.customLabel>
+  <BeetleLike.corePart.parts.1.customLabel>høyre dekkvinge</BeetleLike.corePart.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>venstre øye</BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>høyre øye</BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>venstre antenne</BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>høyre antenne</BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLike.corePart.parts.5.customLabel>venstre forben</BeetleLike.corePart.parts.5.customLabel>
+  <BeetleLike.corePart.parts.6.customLabel>høyre forben</BeetleLike.corePart.parts.6.customLabel>
+  <BeetleLike.corePart.parts.7.customLabel>venstre midtben</BeetleLike.corePart.parts.7.customLabel>
+  <BeetleLike.corePart.parts.8.customLabel>høyre midtben</BeetleLike.corePart.parts.8.customLabel>
+  <BeetleLike.corePart.parts.9.customLabel>venstre bakben</BeetleLike.corePart.parts.9.customLabel>
+  <BeetleLike.corePart.parts.10.customLabel>høyre bakben</BeetleLike.corePart.parts.10.customLabel>
+
+  <BeetleLikeWithClaw.label>billeaktig med klør</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.corePart.parts.0.customLabel>venstre dekkvinge</BeetleLikeWithClaw.corePart.parts.0.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.1.customLabel>høyre dekkvinge</BeetleLikeWithClaw.corePart.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>venstre øye</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>høyre øye</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>venstre antenne</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>høyre antenne</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.5.customLabel>venstre forben</BeetleLikeWithClaw.corePart.parts.5.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.6.customLabel>høyre forben</BeetleLikeWithClaw.corePart.parts.6.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.7.customLabel>venstre midtben</BeetleLikeWithClaw.corePart.parts.7.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.8.customLabel>høyre midtben</BeetleLikeWithClaw.corePart.parts.8.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.9.customLabel>venstre bakben</BeetleLikeWithClaw.corePart.parts.9.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.10.customLabel>høyre bakben</BeetleLikeWithClaw.corePart.parts.10.customLabel>
+
+
 </LanguageData>

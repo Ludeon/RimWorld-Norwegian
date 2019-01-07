@@ -1,233 +1,53 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <!-- EN: jaw -->
-  <AnimalJaw.label>TODO</AnimalJaw.label>
-  
-  <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
-  
-  <!-- EN: beak -->
+
+  <!--===================== Misc =====================-->
+
+  <Body.label>torso</Body.label>
   <Beak.label>nebb</Beak.label>
-  
-  <!-- EN: body -->
-  <Body.label>kropp</Body.label>
-  
-  <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
-  
-  <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
-  <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <FrontLeftHoof.label>forreste venstre hov</FrontLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftInsectLeg.label>venstre forben</FrontLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFifthClaw.label>forreste bens venstre femte klo</FrontLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFirstClaw.label>forreste bens venstre første klo</FrontLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFourthClaw.label>forreste bens venstre fjerde klo</FrontLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegSecondClaw.label>forreste bens venstre andre klo</FrontLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegThirdClaw.label>forreste bens venstre tredje klo</FrontLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftPaw.label>forben venstre pote</FrontLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightHoof.label>forreste høyre hov</FrontRightHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontRightInsectLeg.label>høyre forben</FrontRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLeg.label>høyre forben</FrontRightLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFifthClaw.label>forreste bens høyre femte klo</FrontRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFirstClaw.label>forreste bens høyre første klo</FrontRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFourthClaw.label>forreste bens høyre fjerde klo</FrontRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegSecondClaw.label>forreste bens høyre andre klo</FrontRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegThirdClaw.label>forreste bens høyre tredje klo</FrontRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightPaw.label>forben høyre pote</FrontRightPaw.label>
-  
-  <!-- EN: head claw -->
-  <HeadClaw.label>hodeklo</HeadClaw.label>
-  
-  <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
-  
-  <!-- EN: horn -->
-  <Horn.label>horn</Horn.label>
-  
-  <!-- EN: hump -->
-  <Hump.label>pukkel</Hump.label>
-  
-  <!-- EN: head -->
   <InsectHead.label>hode</InsectHead.label>
-  
-  <!-- EN: heart -->
-  <InsectHeart.label>hjerte</InsectHeart.label>
-  
-  <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
-  
-  <!-- EN: mouth -->
-  <InsectMouth.label>munn</InsectMouth.label>
-  
-  <!-- EN: nostril -->
-  <InsectNostril.label>nesebor</InsectNostril.label>
-  
-  <!-- EN: jowl -->
-  <Jowl.label>underkjeve</Jowl.label>
-  
-  <!-- UNUSED -->
-  <LeftAntenna.label>venstre antenne</LeftAntenna.label>
-  
-  <!-- UNUSED -->
-  <LeftElytra.label>venstre dekkvinge</LeftElytra.label>
-  
-  <!-- UNUSED -->
-  <LeftTusk.label>venstre støttann</LeftTusk.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftInsectLeg.label>midterste venstre ben</MiddleLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftLeg.label>midterste venstre ben</MiddleLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightInsectLeg.label>midterste høyre ben</MiddleRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightLeg.label>midterste høyre ben</MiddleRightLeg.label>
-  
-  <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
-  
-  <!-- EN: plastron -->
-  <Plastron.label>underside</Plastron.label>
-  
-  <!-- EN: pronotum -->
-  <Pronotum.label>pronotum</Pronotum.label>
-  
-  <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
-  <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <RearLeftHoof.label>bakerste venstre hov</RearLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <RearLeftInsectLeg.label>bakerste venstre ben</RearLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLeg.label>bakerste venstre ben</RearLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFifthClaw.label>bakerste venstre bens femte klo</RearLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFirstClaw.label>bakerste venstre bens første klo</RearLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFourthClaw.label>bakerste venstre bens fjerde klo</RearLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegSecondClaw.label>bakerste venstre bens andre klo</RearLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegThirdClaw.label>bakerste venstre bens tredje klo</RearLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftPaw.label>bakerste venstre pote</RearLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightHoof.label>bakerste høyre hov</RearRightHoof.label>
-  
-  <!-- UNUSED -->
-  <RearRightInsectLeg.label>bakerste høyre ben</RearRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLeg.label>bakerste høyre ben</RearRightLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFifthClaw.label>bakerste høyre bens femte klo</RearRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFirstClaw.label>bakerste høyre bens første klo</RearRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFourthClaw.label>bakerste høyre bens fjerde klo</RearRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegSecondClaw.label>bagkrste høyre bens andre klo</RearRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegThirdClaw.label>bakerste høyre bens tredje klo</RearRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightPaw.label>bakerste høyre pote</RearRightPaw.label>
-  
-  <!-- UNUSED -->
-  <RightAntenna.label>høyre antenne</RightAntenna.label>
-  
-  <!-- UNUSED -->
-  <RightElytra.label>høyre dekkvinge</RightElytra.label>
-  
-  <!-- UNUSED -->
-  <RightTusk.label>høyre støttann</RightTusk.label>
-  
-  <!-- EN: shell -->
-  <Shell.label>skall</Shell.label>
-  
-  <!-- EN: body -->
   <SnakeBody.label>kropp</SnakeBody.label>
-  
-  <!-- EN: head -->
   <SnakeHead.label>hode</SnakeHead.label>
-  
-  <!-- EN: mouth -->
   <SnakeMouth.label>munn</SnakeMouth.label>
-  
-  <!-- EN: tail -->
+  <InsectHeart.label>hjerte</InsectHeart.label>
+  <InsectNostril.label>nesebor</InsectNostril.label>
+  <InsectMouth.label>tyggedeler</InsectMouth.label>
+  <AnimalJaw.label>underkjeve</AnimalJaw.label>
+  <Jowl.label>kinn</Jowl.label>
   <Tail.label>hale</Tail.label>
-  
-  <!-- EN: trunk -->
+  <Antenna.label>antenne</Antenna.label>
+  <Pronotum.label>mageskall</Pronotum.label>
+  <Shell.label>skall</Shell.label>
+  <Elytra.label>dekkvinge</Elytra.label>
+  <Tusk.label>støttann</Tusk.label>
   <Trunk.label>snabel</Trunk.label>
-  
-  <!-- EN: beak -->
-  <TurtleBeak.label>nebb</TurtleBeak.label>
-  
-  <!-- EN: shell -->
+  <Horn.label>horn</Horn.label>
+  <HeadClaw.label>hodeklo</HeadClaw.label>
+  <Hump.label>pukkel</Hump.label>
   <TurtleShell.label>skall</TurtleShell.label>
-  
-  <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
-  
+  <Plastron.label>mageskall</Plastron.label>
+  <TurtleBeak.label>nebb</TurtleBeak.label>
+
+
+  <!--===================== Insect legs =====================-->
+
+  <InsectLeg.label>ben</InsectLeg.label>
+
+
+  <!--===================== Paws =====================-->
+
+  <Paw.label>pote</Paw.label>
+
+
+  <!--===================== Hoofs =====================-->
+
+  <Hoof.label>hov</Hoof.label>
+
+  <FrontClaw.label>forklo</FrontClaw.label>
+  <FrontClaw.labelShort>klo</FrontClaw.labelShort>
+
+  <RearClaw.label>bakklo</RearClaw.label>
+  <RearClaw.labelShort>klo</RearClaw.labelShort>
+
+
 </LanguageData>
