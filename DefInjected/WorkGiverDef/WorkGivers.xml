@@ -1,252 +1,623 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <FightFires.label>fight fires</FightFires.label>
-    <FightFires.verb>extinguish</FightFires.verb>
-    <FightFires.gerund>extinguishing</FightFires.gerund>
-    
-    <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
-    <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
-    <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
-    
-    <DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
-    <DoctorTreatEmergency.verb>treat</DoctorTreatEmergency.verb>
-    <DoctorTreatEmergency.gerund>treating</DoctorTreatEmergency.gerund>
-    
-    <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
-    <DoctorRescue.verb>rescue</DoctorRescue.verb>
-    <DoctorRescue.gerund>rescuing</DoctorRescue.gerund>
-    
-    <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
-    <DoBillsMedicalHumanOperation.verb>operate</DoBillsMedicalHumanOperation.verb>
-    <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
-    
-    <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
-    <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
-    <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
-    
-    <DoctorTreat.label>give treatment</DoctorTreat.label>
-    <DoctorTreat.verb>treat</DoctorTreat.verb>
-    <DoctorTreat.gerund>treating</DoctorTreat.gerund>
-    
-    <DoctorFeed.label>feed patients</DoctorFeed.label>
-    <DoctorFeed.verb>feed</DoctorFeed.verb>
-    <DoctorFeed.gerund>feeding</DoctorFeed.gerund>
-    
-    <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
-    <TakeToBedToOperate.verb>take to operate</TakeToBedToOperate.verb>
-    <TakeToBedToOperate.gerund>taking to operate</TakeToBedToOperate.gerund>
-    
-    <VisitSickPawn.label>visit sick people</VisitSickPawn.label>
-    <VisitSickPawn.verb>visit</VisitSickPawn.verb>
-    <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
-    
-    <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
-    <PatientGoToBed.verb>get bed rest in</PatientGoToBed.verb>
-    <PatientGoToBed.gerund>getting bed rest in</PatientGoToBed.gerund>
-    
-    <Flick.label>flick switches</Flick.label>
-    <Flick.verb>flick switch on</Flick.verb>
-    <Flick.gerund>flicking switch on</Flick.gerund>
-    
-    <DoExecution.label>execute prisoners</DoExecution.label>
-    <DoExecution.verb>do execution on</DoExecution.verb>
-    <DoExecution.gerund>doing execution on</DoExecution.gerund>
-    
-    <ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
-    <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
-    <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
-    
-    <TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
-    <TakePrisonerToBed.verb>take to bed</TakePrisonerToBed.verb>
-    <TakePrisonerToBed.gerund>taking to bed</TakePrisonerToBed.gerund>
-    
-    <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
-    <FeedPrisoner.verb>feed</FeedPrisoner.verb>
-    <FeedPrisoner.gerund>feeding</FeedPrisoner.gerund>
-    
-    <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
-    <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
-    <DeliverFoodToPrisoner.gerund>delivering food for</DeliverFoodToPrisoner.gerund>
-    
-    <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
-    <ChatWithPrisoner.verb>chat with</ChatWithPrisoner.verb>
-    <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
-    
-    <Slaughter.label>slaughter animals</Slaughter.label>
-    <Slaughter.verb>slaughter</Slaughter.verb>
-    <Slaughter.gerund>slaughtering</Slaughter.gerund>
-    
-    <Milk.label>milk animals</Milk.label>
-    <Milk.verb>milk</Milk.verb>
-    <Milk.gerund>milking</Milk.gerund>
-    
-    <Shear.label>shear animals</Shear.label>
-    <Shear.verb>shear</Shear.verb>
-    <Shear.gerund>shearing</Shear.gerund>
-    
-    <Tame.label>tame animals</Tame.label>
-    <Tame.verb>tame</Tame.verb>
-    <Tame.gerund>taming</Tame.gerund>
-    
-    <Train.label>train animals</Train.label>
-    <Train.verb>train</Train.verb>
-    <Train.gerund>training</Train.gerund>
-    
-    <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
-    <DoBillsCook.verb>cook</DoBillsCook.verb>
-    <DoBillsCook.gerund>cooking</DoBillsCook.gerund>
-    
-    <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
-    <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
-    <DoBillsCookCampfire.gerund>cooking</DoBillsCookCampfire.gerund>
-    
-    <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
-    <DoBillsBrew.verb>brew</DoBillsBrew.verb>
-    <DoBillsBrew.gerund>brewing</DoBillsBrew.gerund>
-    
-    <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
-    <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
-    <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
-    
-    <CookFillHopper.label>fill food hoppers</CookFillHopper.label>
-    <CookFillHopper.verb>fill</CookFillHopper.verb>
-    <CookFillHopper.gerund>filling</CookFillHopper.gerund>
-    
-    <HunterHunt.label>hunt</HunterHunt.label>
-    <HunterHunt.verb>hunt</HunterHunt.verb>
-    <HunterHunt.gerund>hunting</HunterHunt.gerund>
-    
-    <Deconstruct.label>deconstruct structures</Deconstruct.label>
-    <Deconstruct.verb>deconstruct</Deconstruct.verb>
-    <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
-    
-    <Uninstall.label>uninstall structures</Uninstall.label>
-    <Uninstall.verb>uninstall</Uninstall.verb>
-    <Uninstall.gerund>uninstalling</Uninstall.gerund>
-    
-    <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
-    <ConstructFinishFrames.verb>construct</ConstructFinishFrames.verb>
-    <ConstructFinishFrames.gerund>constructing</ConstructFinishFrames.gerund>
-    
-    <ConstructDeliverResourcesToFrames.label>deliver resources to frames</ConstructDeliverResourcesToFrames.label>
-    <ConstructDeliverResourcesToFrames.verb>work on</ConstructDeliverResourcesToFrames.verb>
-    <ConstructDeliverResourcesToFrames.gerund>working on</ConstructDeliverResourcesToFrames.gerund>
-    
-    <ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</ConstructDeliverResourcesToBlueprints.label>
-    <ConstructDeliverResourcesToBlueprints.verb>work on</ConstructDeliverResourcesToBlueprints.verb>
-    <ConstructDeliverResourcesToBlueprints.gerund>working on</ConstructDeliverResourcesToBlueprints.gerund>
-    
-    <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
-    <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
-    <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
-    
-    <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
-    <ConstructSmoothFloors.verb>smooth</ConstructSmoothFloors.verb>
-    <ConstructSmoothFloors.gerund>smoothing</ConstructSmoothFloors.gerund>
-    
-    <FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
-    <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
-    <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
-    
-    <Repair.label>repair damaged things</Repair.label>
-    <Repair.verb>Reparer</Repair.verb>
-    <Repair.gerund>repairing</Repair.gerund>
-    
-    <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
-    <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
-    <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
-    
-    <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
-    <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
-    <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
-    
-    <GrowerSow.label>sow crops</GrowerSow.label>
-    <GrowerSow.verb>sow</GrowerSow.verb>
-    <GrowerSow.gerund>sowing</GrowerSow.gerund>
-    
-    <Mine.label>mine</Mine.label>
-    <Mine.verb>mine</Mine.verb>
-    <Mine.gerund>mining</Mine.gerund>
-    
-    <PlantsCut.label>cut plants</PlantsCut.label>
-    <PlantsCut.verb>cut</PlantsCut.verb>
-    <PlantsCut.gerund>cutting</PlantsCut.gerund>
-    
-    <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
-    <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
-    <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
-    
-    <DoBillsMachiningTable.label>do bills at machining table</DoBillsMachiningTable.label>
-    <DoBillsMachiningTable.verb>work</DoBillsMachiningTable.verb>
-    <DoBillsMachiningTable.gerund>working at</DoBillsMachiningTable.gerund>
-    
-    <DoBillsComponentAssemblyBench.label>assemble components</DoBillsComponentAssemblyBench.label>
-    <DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>
-    <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
-    
-    <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
-    <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
-    <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
-    
-    <DoBillsSculpt.label>sculpt</DoBillsSculpt.label>
-    <DoBillsSculpt.verb>sculpt</DoBillsSculpt.verb>
-    <DoBillsSculpt.gerund>sculpting at</DoBillsSculpt.gerund>
-    
-    <DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
-    <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
-    <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
-    
-    <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
-    <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
-    <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
-    
-    <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
-    <DoBillsSmelter.verb>refine</DoBillsSmelter.verb>
-    <DoBillsSmelter.gerund>refining at</DoBillsSmelter.gerund>
-    
-    <Refuel.label>refuel fuelable buildings</Refuel.label>
-    <Refuel.verb>refuel</Refuel.verb>
-    <Refuel.gerund>refueling</Refuel.gerund>
-    
-    <RearmTraps.label>rearm traps</RearmTraps.label>
-    <RearmTraps.verb>rearm</RearmTraps.verb>
-    <RearmTraps.gerund>rearming</RearmTraps.gerund>
-    
-    <Strip.label>strip corpses</Strip.label>
-    <Strip.verb>strip</Strip.verb>
-    <Strip.gerund>stripping</Strip.gerund>
-    
-    <Open.label>open containers</Open.label>
-    <Open.verb>open</Open.verb>
-    <Open.gerund>opening</Open.gerund>
-    
-    <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
-    <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
-    <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
-    
-    <BuryCorpses.label>bury corpses</BuryCorpses.label>
-    <BuryCorpses.verb>bury</BuryCorpses.verb>
-    <BuryCorpses.gerund>burying</BuryCorpses.gerund>
-    
-    <HaulCorpses.label>haul corpses</HaulCorpses.label>
-    <HaulCorpses.verb>haul</HaulCorpses.verb>
-    <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
-    
-    <HaulGeneral.label>haul general things</HaulGeneral.label>
-    <HaulGeneral.verb>haul</HaulGeneral.verb>
-    <HaulGeneral.gerund>hauling</HaulGeneral.gerund>
-    
-    <CleanClearSnow.label>clear snow</CleanClearSnow.label>
-    <CleanClearSnow.verb>clear snow</CleanClearSnow.verb>
-    <CleanClearSnow.gerund>clearing snow</CleanClearSnow.gerund>
-    
-    <CleanFilth.label>clean filth</CleanFilth.label>
-    <CleanFilth.verb>clean</CleanFilth.verb>
-    <CleanFilth.gerund>cleaning</CleanFilth.gerund>
-    
-    <Research.label>Forskning</Research.label>
-    <Research.verb>Forsker ved</Research.verb>
-    <Research.gerund>researching at</Research.gerund>
-    
+  
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
+  <BuildRoofs.label>TODO</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>TODO</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>TODO</BuildRoofs.verb>
+  
+  <!-- UNUSED -->
+  <BuryCorpses.label>bury corpses</BuryCorpses.label>
+  <BuryCorpses.verb>bury</BuryCorpses.verb>
+  <BuryCorpses.gerund>burying</BuryCorpses.gerund>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>chat with</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
+  <CleanClearSnow.label>clear snow</CleanClearSnow.label>
+  <!-- EN: clearing snow -->
+  <CleanClearSnow.gerund>clearing snow</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>clear snow</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
+  <CleanFilth.label>clean filth</CleanFilth.label>
+  <!-- EN: cleaning -->
+  <CleanFilth.gerund>cleaning</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>clean</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>working on</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>work on</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>deliver resources to frames</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>working on</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>work on</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>constructing</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>construct</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>smoothing</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>smooth</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>fill food hoppers</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>filling</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>fill</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>deconstruct structures</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>deconstruct</Deconstruct.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>delivering food for</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>brewing</DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  
+  <!-- UNUSED -->
+  <DoBillsComponentAssemblyBench.label>assemble components</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>cooking</DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>cooking</DoBillsCookCampfire.gerund>
+  <!-- EN: cook -->
+  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
+  <!-- EN: cremate -->
+  <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricating things -->
+  <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>TODO</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>TODO</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>TODO</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>do bills at machining table</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>working at</DoBillsMachiningTable.gerund>
+  <!-- EN: work -->
+  <DoBillsMachiningTable.verb>work</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith -->
+  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>operate</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- UNUSED -->
+  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>TODO</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>TODO</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs -->
+  <DoBillsProduceDrugs.verb>TODO</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>TODO</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>TODO</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals -->
+  <DoBillsRefinery.verb>TODO</DoBillsRefinery.verb>
+  
+  <!-- EN: make sculptures -->
+  <DoBillsSculpt.label>sculpt</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>sculpting at</DoBillsSculpt.gerund>
+  <!-- EN: sculpt -->
+  <DoBillsSculpt.verb>sculpt</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>refining at</DoBillsSmelter.gerund>
+  <!-- EN: refine -->
+  <DoBillsSmelter.verb>refine</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
+  <!-- EN: stonecut -->
+  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft -->
+  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  
+  <!-- UNUSED -->
+  <DoctorFeed.label>feed patients</DoctorFeed.label>
+  <DoctorFeed.verb>feed</DoctorFeed.verb>
+  <DoctorFeed.gerund>feeding</DoctorFeed.gerund>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>TODO</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>TODO</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>TODO</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>TODO</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>TODO</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>TODO</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>rescuing</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>rescue</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>TODO</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>TODO</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>TODO</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>TODO</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>TODO</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>TODO</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>TODO</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>TODO</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>TODO</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>TODO</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>TODO</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>TODO</DoctorTendToSelf.verb>
+  
+  <!-- UNUSED -->
+  <DoctorTreat.label>give treatment</DoctorTreat.label>
+  <DoctorTreat.verb>treat</DoctorTreat.verb>
+  <DoctorTreat.gerund>treating</DoctorTreat.gerund>
+  
+  <!-- UNUSED -->
+  <DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
+  <DoctorTreatEmergency.verb>treat</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>treating</DoctorTreatEmergency.gerund>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>execute prisoners</DoExecution.label>
+  <!-- EN: doing execution on -->
+  <DoExecution.gerund>doing execution on</DoExecution.gerund>
+  <!-- EN: do execution on -->
+  <DoExecution.verb>do execution on</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>TODO</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>TODO</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>TODO</Drill.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>feeding</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>feed</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>fight fires</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>extinguishing</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>extinguish</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>TODO</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>TODO</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>TODO</FillFermentingBarrel.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>flick switches</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>flicking switch on</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>flick switch on</Flick.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>sow crops</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>sowing</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>sow</GrowerSow.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>TODO</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>TODO</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>TODO</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>haul corpses</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>haul</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>haul general things</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>hauling</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>haul</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>TODO</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>TODO</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>TODO</HaulMerge.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>TODO</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>TODO</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>TODO</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>hunt</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>hunting</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>hunt</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>TODO</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>TODO</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>TODO</LoadTransporters.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>milk animals</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>milking</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>milk</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>mine</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>mining</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>mine</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>open containers</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>opening</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>open</Open.verb>
+  
+  <!-- UNUSED -->
+  <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
+  <PatientGoToBed.verb>get bed rest in</PatientGoToBed.verb>
+  <PatientGoToBed.gerund>getting bed rest in</PatientGoToBed.gerund>
+  
+  <!-- UNUSED -->
+  <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
+  <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>TODO</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>TODO</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>TODO</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>TODO</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>TODO</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>TODO</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>cut plants</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>cutting</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>cut</PlantsCut.verb>
+  
+  <!-- UNUSED -->
+  <RearmTraps.label>rearm traps</RearmTraps.label>
+  <RearmTraps.verb>rearm</RearmTraps.verb>
+  <RearmTraps.gerund>rearming</RearmTraps.gerund>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>TODO</RearmTurrets.verb>
+  
+  <!-- EN: refuel fuelable buildings -->
+  <Refuel.label>refuel fuelable buildings</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>refueling</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>refuel</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>TODO</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>TODO</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>TODO</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>repair damaged things</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>repairing</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>Reparer</Repair.verb>
+  
+  <!-- EN: do research -->
+  <Research.label>Forskning</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>researching at</Research.gerund>
+  <!-- EN: research -->
+  <Research.verb>Forsker ved</Research.verb>
+  
+  <!-- EN: operate scanner -->
+  <Scan.label>TODO</Scan.label>
+  <!-- EN: scanning at -->
+  <Scan.gerund>TODO</Scan.gerund>
+  <!-- EN: scan -->
+  <Scan.verb>TODO</Scan.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>shear animals</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>shearing</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>shear</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>slaughter animals</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>slaughtering</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>slaughter</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>strip corpses</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>stripping</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>strip</Strip.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>TODO</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>TODO</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>TODO</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>taking to bed</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>take to bed</TakePrisonerToBed.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>taking to operate</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>take to operate</TakeToBedToOperate.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>tame animals</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>taming</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>tame</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>train animals</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>training</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>train</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>uninstall structures</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>uninstalling</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>uninstall</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>TODO</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>TODO</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>TODO</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>visit sick people</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>visit</VisitSickPawn.verb>
+  
 </LanguageData>

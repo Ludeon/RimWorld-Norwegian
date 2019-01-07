@@ -1,28 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Clear.label>skyfritt</Clear.label>
-    <Clear.description>En skyfri dag. Ingen spesielle forhold.</Clear.description>
-    
-    <Fog.label>tåket</Fog.label>
-    <Fog.description>Tåke nedsetter nøyaktigheten og rekkevidden på skytevåpen.</Fog.description>
-    
-    <Rain.label>regn</Rain.label>
-    <Rain.description>Regnvær nedsetter nøyaktigheten på skytevåpen, slukker ildbrann og nedsetter farten for kolonister.</Rain.description>
-    
-    <DryThunderstorm.label>tørt tordenvær</DryThunderstorm.label>
-    <DryThunderstorm.description>Tørt tordenvejr er farlig, fordi lyn kan starte ildbrann og det er ikke noe regn som kan slukke den igjen.</DryThunderstorm.description>
-    
-    <RainyThunderstorm.label>regnfylt tordenvær</RainyThunderstorm.label>
-    <RainyThunderstorm.description>Lyn kan starte ildbrann, men regnet vil slukke den igjen. Regnet nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd.</RainyThunderstorm.description>
-    
-    <FoggyRain.label>tåket regnvær</FoggyRain.label>
-    <FoggyRain.description>Nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd.</FoggyRain.description>
-    
-    <SnowHard.label>hard snøvær</SnowHard.label>
-    <SnowHard.description>Snø nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd, men slukker også brann.</SnowHard.description>
-    
-    <SnowGentle.label>mildt snøvær</SnowGentle.label>
-    <SnowGentle.description>Snø nedsetter nøyaktighet av skudd, slukker ildbrann og nedsetter bevegelseshastigheten.</SnowGentle.description>
-    
+  
+  <!-- EN: clear -->
+  <Clear.label>skyfritt</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>En skyfri dag. Ingen spesielle forhold.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>tørt tordenvær</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Tørt tordenvejr er farlig, fordi lyn kan starte ildbrann og det er ikke noe regn som kan slukke den igjen.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>tåket</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Tåke nedsetter nøyaktigheten og rekkevidden på skytevåpen.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>tåket regnvær</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>regn</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Regnvær nedsetter nøyaktigheten på skytevåpen, slukker ildbrann og nedsetter farten for kolonister.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>regnfylt tordenvær</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Lyn kan starte ildbrann, men regnet vil slukke den igjen. Regnet nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>mildt snøvær</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Snø nedsetter nøyaktighet av skudd, slukker ildbrann og nedsetter bevegelseshastigheten.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>hard snøvær</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Snø nedsetter kolonistenes bevegelseshastighet og nøyaktighet av skudd, men slukker også brann.</SnowHard.description>
+  
 </LanguageData>
