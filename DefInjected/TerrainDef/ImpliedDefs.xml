@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rough granitt -->
+  <Granite_Rough.label>rough granite</Granite_Rough.label>
+  
+  <!-- EN: rough-hewn granitt -->
+  <Granite_RoughHewn.label>rough-hewn granite</Granite_RoughHewn.label>
+  
+  <!-- EN: smooth granitt -->
+  <Granite_Smooth.label>smooth granite</Granite_Smooth.label>
+  
+  <!-- EN: rough kalkstein -->
+  <Limestone_Rough.label>rough limestone</Limestone_Rough.label>
+  
+  <!-- EN: rough-hewn kalkstein -->
+  <Limestone_RoughHewn.label>rough-hewn limestone</Limestone_RoughHewn.label>
+  
+  <!-- EN: smooth kalkstein -->
+  <Limestone_Smooth.label>smooth limestone</Limestone_Smooth.label>
+  
+  <!-- EN: rough marmor -->
+  <Marble_Rough.label>rough marble</Marble_Rough.label>
+  
+  <!-- EN: rough-hewn marmor -->
+  <Marble_RoughHewn.label>rough-hewn marble</Marble_RoughHewn.label>
+  
+  <!-- EN: smooth marmor -->
+  <Marble_Smooth.label>smooth marble</Marble_Smooth.label>
+  
+  <!-- EN: rough sandstein -->
+  <Sandstone_Rough.label>rough sandstone</Sandstone_Rough.label>
+  
+  <!-- EN: rough-hewn sandstein -->
+  <Sandstone_RoughHewn.label>rough-hewn sandstone</Sandstone_RoughHewn.label>
+  
+  <!-- EN: smooth sandstein -->
+  <Sandstone_Smooth.label>smooth sandstone</Sandstone_Smooth.label>
+  
+  <!-- EN: rough skifer -->
+  <Slate_Rough.label>rough slate</Slate_Rough.label>
+  
+  <!-- EN: rough-hewn skifer -->
+  <Slate_RoughHewn.label>rough-hewn slate</Slate_RoughHewn.label>
+  
+  <!-- EN: smooth skifer -->
+  <Slate_Smooth.label>smooth slate</Slate_Smooth.label>
+  
+</LanguageData>
