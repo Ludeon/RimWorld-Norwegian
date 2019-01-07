@@ -1,13 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <None.label>none</None.label>
-  <Name.label>name</Name.label>
-  <MarketValue.label>market value</MarketValue.label>
+  
+  <!-- EN: category -->
   <Category.label>category</Category.label>
-  <Quality.label>quality</Quality.label>
-  <Mass.label>mass</Mass.label>
+  
+  <!-- EN: hit points percentage -->
   <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
-
-
+  
+  <!-- EN: market value -->
+  <MarketValue.label>market value</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>mass</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>name</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>none</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>quality</Quality.label>
+  
 </LanguageData>

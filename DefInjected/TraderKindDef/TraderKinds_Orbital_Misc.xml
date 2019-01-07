@@ -1,12 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Orbital_Misc_BulkGoods.label>bulk goods trader</Orbital_Misc_BulkGoods.label>
-    
-    <Orbital_Misc_CombatSupplier.label>combat supplier</Orbital_Misc_CombatSupplier.label>
-    
-    <Orbital_Misc_Exotic.label>exotic goods trader</Orbital_Misc_Exotic.label>
-    
-    <Orbital_Misc_PirateMerchant.label>pirate merchant</Orbital_Misc_PirateMerchant.label>
-    
+  
+  <!-- EN: bulk goods trader -->
+  <Orbital_BulkGoods.label>TODO</Orbital_BulkGoods.label>
+  
+  <!-- EN: combat supplier -->
+  <Orbital_CombatSupplier.label>TODO</Orbital_CombatSupplier.label>
+  
+  <!-- EN: exotic goods trader -->
+  <Orbital_Exotic.label>TODO</Orbital_Exotic.label>
+  
+  <!-- UNUSED -->
+  <Orbital_Misc_BulkGoods.label>bulk goods trader</Orbital_Misc_BulkGoods.label>
+  
+  <!-- UNUSED -->
+  <Orbital_Misc_CombatSupplier.label>combat supplier</Orbital_Misc_CombatSupplier.label>
+  
+  <!-- UNUSED -->
+  <Orbital_Misc_Exotic.label>exotic goods trader</Orbital_Misc_Exotic.label>
+  
+  <!-- UNUSED -->
+  <Orbital_Misc_PirateMerchant.label>pirate merchant</Orbital_Misc_PirateMerchant.label>
+  
+  <!-- EN: pirate merchant -->
+  <Orbital_PirateMerchant.label>TODO</Orbital_PirateMerchant.label>
+  
 </LanguageData>
