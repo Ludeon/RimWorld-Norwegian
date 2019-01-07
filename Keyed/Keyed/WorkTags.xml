@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>Ingen</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>Intellektuelt</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>Ufagkyndig arbeid</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>Fagkyndig arbeid</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>Vold</WorkTagViolent>
+  <!-- EN: caring -->
+  <WorkTagCaring>Omsorg</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>Sosialt</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>Animals</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>Kunstnerisk</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>Håndverk</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>Matlaging</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>Brannslukking</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>Vasking</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>Frakting</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>Grøntarbeid</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>Graving</WorkTagMining>
+
+  <!-- UNUSED -->
+  <WorkTagScary>Skummelt</WorkTagScary>
+
+</LanguageData>

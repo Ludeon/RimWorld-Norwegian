@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>en</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>de</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>en {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>den {0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>dens</Proits>
+  <!-- EN: his -->
+  <Prohis>hans</Prohis>
+  <!-- EN: her -->
+  <Proher>hennes</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>Dens</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Hans</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Hennes</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>det</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>han</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>henne</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>Det</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Han</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Henne</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>han</Prohe>
+  <!-- EN: she -->
+  <Proshe>hun</Proshe>
+  <!-- EN: it -->
+  <Proit>det</Proit>
+  <!-- EN: He -->
+  <ProheCap>Han</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Hun</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>Det</ProitCap>
+
+</LanguageData>

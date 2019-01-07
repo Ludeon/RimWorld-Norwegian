@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>TODO</Tool>
+  <!-- EN: damage -->
+  <DamageLower>TODO</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>Grunnverdi</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>Relevante trekk</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>Relevante helseverdier</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>Livsfase</StatsReport_LifeStage>
+  <!-- EN: Material -->
+  <StatsReport_Material>Materiale</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>Ferdighetsfaktorer</StatsReport_Skills>
+  <!-- EN: Other stats -->
+  <StatsReport_OtherStats>Andre statistiske faktorer</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>Helse</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>{0} betydning</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>{0} innvirkning</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>hvis mindre enn {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>Etterbehandlingskurve</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>Endelig verdi</StatsReport_FinalValue>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>Grunnleggende markedsverdi er satt utifra konstruksjonsmaterialer og arbeidsmengde.</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>Verdipåvirkende kvalitet</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>Alderens verdipåvirkning {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>Helsens verdipåvirkning {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>Humørets verdipåvirkning {0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>Lysets verdipåvirkning {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>Vanskelighetsgradens verdipåvirkning {0}</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>I sengen</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>Fasiliteter</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>Kroppsstørrelsens verdipåvirkning {0}</StatsReport_BodySize>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>Verdien er vist i følgene format:\nDPS ( Slagskade / Ventetid i sekunder / Sjanse for slagskade )\n\nDPS = Skade av slag * Sjanse for treff med slag / Ventetid i sekunder</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>Slagskade</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>Ventetid</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>Treffsjanse ved slag</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>Forventet levetid</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>Manglende kroppsdelers verdipåvirkning</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>Utstyrets og inventarets masse</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>Verdipåvirkning ved at gjenstanden kommer fra et lik</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>gjennomsnitt av alle angrep</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>Ingredienser</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>Permanent deaktivert.</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>Kroppsdeler lagt til</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>TODO</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>TODO</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
+
+</LanguageData>

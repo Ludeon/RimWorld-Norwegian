@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>d</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>t</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>s</LetterSecond>
+  
+  <!-- EN: days -->
+  <DaysLower>dager</DaysLower>
+  <!-- EN: seconds -->
+  <SecondsLower>sekunder</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>Vår</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>Sommer</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>Høst</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>Vinter</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>TODO</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>TODO</QuadrumDecembary>
+  
+  <!-- EN: Born: {0} -->
+  <Born>Født: {0} {1} {2}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Kronologisk alder: {0} år, {1} måneder, {2} dager</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Biologisk alder: {0} år, {1} måneder, {2} dager</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 år</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} år</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>TODO</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 dag</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} dager</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 time</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} timer</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>TODO</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>TODO</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Startet</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Varte</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>skjedde {0} siden</OccurredTimeAgo>
+  
+  <!-- UNUSED -->
+  <Period1Season>1 sesong</Period1Season>
+  <PeriodSeasons>{0} sesong</PeriodSeasons>
+
+</LanguageData>

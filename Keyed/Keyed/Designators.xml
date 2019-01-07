@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cancel -->
+  <DesignatorCancel>Avbryt</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
+  <DesignatorCancelDesc>Avbryt utpekt bygging, graving, frakting, innhøsting eller andre oppgaver.</DesignatorCancelDesc>
+
+  <!-- EN: Cut plants -->
+  <DesignatorCutPlants>Kutt planter</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
+  <DesignatorCutPlantsDesc>Marker planter til nedkutting. Planten vil bli helt fjernet, all mat som befinner seg i planten blir høstet inn.</DesignatorCutPlantsDesc>
+
+  <!-- EN: Deconstruct -->
+  <DesignatorDeconstruct>Dekonstruer</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
+  <DesignatorDeconstructDesc>Dekonstruer bygninger og gjenvinn deler av ressursene.</DesignatorDeconstructDesc>
+
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>Avinstaller</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc>Avinstaller dette så det  kan flyttes, selges, eller installeres et annet sted.</DesignatorUninstallDesc>
+
+  <!-- EN: Harvest -->
+  <DesignatorHarvest>Høst inn</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
+  <DesignatorHarvestDesc>Marker planter til å bli høstet inn som mat og andre produkter.</DesignatorHarvestDesc>
+
+  <!-- EN: Chop wood -->
+  <DesignatorHarvestWood>Kutt tre</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
+  <DesignatorHarvestWoodDesc>Marker trær til å bli kuttet ned til trevirke.</DesignatorHarvestWoodDesc>
+
+  <!-- EN: Haul things -->
+  <DesignatorHaulThings>Rydd</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
+  <DesignatorHaulThingsDesc>Marker steiner og andre ting til å bli flyttet til et sted det kan dumpes, trengs ikke for ting som mat og lik som alltid kan ryddes.</DesignatorHaulThingsDesc>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables>Kan bare markere steiner og slagg som ikke ryddes bort automatiskt.</MustHaulHaulables>
+
+  <!-- EN: Hunt -->
+  <DesignatorHunt>Jakt</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <DesignatorHuntDesc>Marker dyr til å bli jaktet av jakterne dine.</DesignatorHuntDesc>
+
+  <!-- EN: Mine -->
+  <DesignatorMine>Grav</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
+  <DesignatorMineDesc>Marker område av stein til å bli gravd ut.</DesignatorMineDesc>
+
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+
+  <!-- EN: Plan -->
+  <DesignatorPlan>Planlegg</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
+  <DesignatorPlanDesc>Plasserer planlegging. Dette gjør ikke annet enn å hjelpe deg med fremtidige utvidelser.</DesignatorPlanDesc>
+
+  <!-- EN: Remove plans -->
+  <DesignatorPlanRemove>Fjern planlegging</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
+  <DesignatorPlanRemoveDesc>Fjerner planleggingslinjer.</DesignatorPlanRemoveDesc>
+
+  <!-- EN: Forbid -->
+  <DesignatorForbid>TODO</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+
+  <!-- EN: Allow -->
+  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
+  <DesignatorAreaHomeExpand>Utvid hjemmeområdet</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc>Kolonistene vil bare reparere bygninger, vaske gulv, og slokke flammer i hjemmeområdet.</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
+  <DesignatorAreaHomeClear>Fjern fra hjemmeområdet</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc>Fjerner steder fra hjemmeområdet.Kolonistene vil ikke reparere, vaske, eller slokke flammer her.</DesignatorAreaHomeClearDesc>
+
+  <!-- EN: Build roof area -->
+  <DesignatorAreaBuildRoofExpand>Bygg tak</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc>Kolonister vil bygge tak i området du markerer.</DesignatorAreaBuildRoofExpandDesc>
+
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>Ikke bygg tak</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>Kolonister vil IKKE bygge tak her. Bygde tak og tynne bergtak vil rives.</DesignatorAreaNoRoofExpandDesc>
+
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>Ignorer tak</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>Kolonistene vil ikke bygge nye tak i dette området.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Expand snow clear area -->
+  <DesignatorAreaSnowClearExpand>Utvid måkeområde</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>Marker et område som vil måkes når det trengs.</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow clear Area -->
+  <DesignatorAreaSnowClearClear>Fjern måkeområde</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>Fjerner steder fra måkeområde. Kolonister vil ikke lenger måke i det valgte området.</DesignatorAreaSnowClearClearDesc>
+
+  <!-- EN: Expand allowed area -->
+  <DesignatorExpandAreaAllowed>Utvid tilgangsområdet</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>Utvid et tilgangsområde.\n\nTilgangsområder er steder du tildeler kolonister. De vil ikke gå utenfor sitt tilgangsområde.</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
+  <DesignatorClearAreaAllowed>Fjern tilgangsområde</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>Fjern steder fra tilgangsområdet.\n\nTilgangsområder er steder du tildeler kolonister. De vil ikke gå utenfor sitt tilgangsområde.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
+  <ManageAreas>Områdemeny...</ManageAreas>
+
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc>Angir et lagringsområde hvor kolonistene vil prøve å gro en bestemt type plante.</DesignatorGrowingZoneDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageResourcesDesc>Angi et nytt lagringsområde hvor kolonistene dine vil lagre ressurser.\nDette verktøyet kan også brukes til å utvide ekisterende lagringsområder.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageDumpingDesc>Angi et nytt lagringsområde hvor kolonistene dine vil lagre søppel.\nDette verktøyet kan også brukes til å utvide eksisterende søppeldynger.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <!-- EN: Shrink zones -->
+  <DesignatorZoneDelete>Fjern soner</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc>Fjern soner, eksempelvis lagersoner og vekstsoner.</DesignatorZoneDeleteDesc>
+
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  
+  <!-- EN: Claim -->
+  <DesignatorClaim>Innlem</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc>Innlem nøytrale strukturer i kolonien, inkludert eldgamle ruiner og forlatte beleiringer. Strukturer som innlemmes i kolonien, kan repareres og vedlikeholes av kolonistene.</DesignatorClaimDesc>
+
+  <!-- EN: Remove floor -->
+  <DesignatorRemoveFloor>Fjern gulv</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>Fjern gulv for å vise bakken under.</DesignatorRemoveFloorDesc>
+
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
+  <DesignatorStrip>Avkle</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc>Fjern klær fra lik og skadde.</DesignatorStripDesc>
+
+  <!-- EN: Open -->
+  <DesignatorOpen>Åpne</DesignatorOpen>
+  <!-- EN: Open containers. -->
+  <DesignatorOpenDesc>Åpne graver eller beholdere med noe i.</DesignatorOpenDesc>
+  
+  <!-- EN: Slaughter -->
+  <DesignatorSlaughter>Slakt</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc>Slakt et temmet dyr.</DesignatorSlaughterDesc>
+
+  <!-- EN: Tame -->
+  <DesignatorTame>Tem</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
+  <DesignatorTameDesc>Tem et vilt dyr.</DesignatorTameDesc>
+
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
+  <UnchosenStuff>Mangler materiale</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
+  <TooCloseToMapEdge>For nær enden av banen.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
+  <OutOfBounds>Ufremkommelig</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered>Kan ikke plassere i uutforsked område.</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>Bruksområde er blokkert av {0}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds>Bruksområde er ufremkommelig.</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>Bruksområde vil bli blokkert av {0}.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot>{0} ville blokkert {1}'s bruksområde.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
+  <TerrainIsAlready>Terrenget her er allerede {0}.</TerrainIsAlready>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
+  <IdenticalThingExists>Identisk objekt eksisterer allerede her.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists>Identisk plan eksisterer allerede her.</IdenticalBlueprintExists>
+  <!-- EN: The terrain here cannot support this. -->
+  <TerrainCannotSupport>Terrenget her kan ikke støtte dette.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: Space already occupied. -->
+  <SpaceAlreadyOccupied>Plass allerede i bruk.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>Plass er i ferd med å bli utjevnet.</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>Du må velge gulv som kan fjernes.</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
+  <ExpandOrCreateZone>Utvid {0} eller\nLag ny {1}</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
+  <CreateNewZone>Lag ny {0}</CreateNewZone>
+  
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
+  <TransmitsPower>Leder strøm</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>Konstruksjon behøves</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+
+  <!-- UNUSED -->
+  <DesignatorSmoothFloor>Utjevn gulv</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Uthev grovt steinterreng som skal jevnes ut.</DesignatorSmoothFloorDesc>
+  <DesignatorRearmTrap>Sett opp felle</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Sett opp utløste feller så de kan brukes på nytt.</DesignatorRearmTrapDesc>
+  <TerrainBeingSmoothed>Terrenget her skal allerede jevnes ut.</TerrainBeingSmoothed>
+
+</LanguageData>

@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>Mørkt</Dark>
+  <!-- EN: Lit -->
+  <Lit>Opplyst</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>Sterkt opplyst</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>veldig billig</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>billig</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>dyr</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>skyhøy</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>ulagret</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>lav</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>foretrukket</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>viktig</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>kritisk</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>frukt</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>rått kjøtt</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>lik</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>frø</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>dyreprodukter</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>levende planter</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>levende trær</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>måltider</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>bearbeidet mat</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>sprit</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>tørrfor</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>forferdelig</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>dårlig</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>god</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>utmerket</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>mesterverk</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>forf</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>dårl</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>god</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>utm</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>leg</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>Dødssulten</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>Kritisk sulten</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>Sulten</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>Mett</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>Utslitt</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>Veldig sliten</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>Trøtt</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>Uthvilt</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>flat</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>små høyder</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>store høyder</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>fjellrikt</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>uframkommelig</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>Skaper</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>Sender inn</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ugyldig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Forbereder konfigurasjonsdata</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Forbereder innholdsfiler</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Laster opp innhold</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Laster opp forhåndsvisningsfil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Lagrer endringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: local folder -->
+  <ContentSource_LocalFolder>lokal katalog</ContentSource_LocalFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: No medical care -->
+  <MedicalCareCategory_NoCare>Intet medisinsk tilsyn</MedicalCareCategory_NoCare>
+  <!-- EN: Doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>Legetilsyn, men ingen medisin</MedicalCareCategory_NoMeds>
+  <!-- EN: Herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>Urtemedisin eller verre</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: Industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>Normal medisin eller verre</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: Best quality medicine -->
+  <MedicalCareCategory_Best>Beste mulige medisinske tilsyn</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>Overse</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>Angrip</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>Flykt</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>vokser</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>remisjon</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>dyr</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>neolittisk</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>middelalder</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>industriell</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>romalder</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>Slipp-pod'er</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>alle karakterer</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>spiller-startende karakterer</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>ikke-spiller-startende karakterer</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>Vis dyrenavn</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>Tamme (kun navngitte)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>Tamme (alle)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>Celsius</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>NØ</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>Ø</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>SØ</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>SV</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>V</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+
+  <!-- UNUSED -->
+  <Unspecified>Ubestemt</Unspecified>
+  <Always>Tillatt</Always>
+  <Never>Ikke tillat</Never>
+  <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
+  <QualityCategory_Superior>overlegen</QualityCategory_Superior>
+  <QualityCategoryShort_Shoddy>rufs</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Superior>over</QualityCategoryShort_Superior>
+  <TrainableIntelligence_None>ingen</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>enkel</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>middels</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>avansert</TrainableIntelligence_Advanced>
+  <TechLevel_Transcendent>hinsides</TechLevel_Transcendent>
+
+</LanguageData>

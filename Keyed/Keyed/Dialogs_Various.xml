@@ -1,0 +1,886 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Confirm -->
+  <Confirm>Bekreft</Confirm>
+  <!-- EN: Go back -->
+  <GoBack>Gå tilbake</GoBack>
+  <!-- EN: OK -->
+  <OK>OK</OK>
+  <!-- EN: Close -->
+  <Close>TODO</Close>
+  
+  <!-- Game updated to new version -->
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
+  <GameUpdatedToNewVersionInitial>RimWorld har blitt oppdatert fra versjon {0} til versjon {1}.</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible>Dette kan bety at lagrede spill og modifikasjoner fra den gamle versjonen vil stoppe å virke.</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible>Lagrede spill fra den gamle versjonen bør være kompatibel, men noen modifikasjoner kan slutte å virke.</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
+  <GameUpdatedToNewVersionNonSteam>Siden dette er en frittstående kopi av spillet, kan du installere spillet i flere separate kataloger, for å ha muligheten til å spille både gammel og ny versjon.</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
+  <GameUpdatedToNewVersionSteam>Hvis du vil fortsette å spille den gamle versjonen må du melde deg på Steam sin beta-funksjon.\n\n  1. I Steam-biblioteket høyreklikker du på RimWorld.\n  2. Gå inn på Egenskaper.\n  3. Gå inn på "Betaer"-fliken.\n  4. Velg den versjonen du vil bruke fra nedtrekksmenyen.\n\nGamle versjoner vil etter hvert bli fjernet, men vi vil ikke at du skal gå glipp av å fullføre spillet.\n\nMerk at hvis eieren av en modifikasjon skifter fokus til en ny versjon av spillet, vil de slutte å støtte gamle versjoner. For å forhindre dette kan du skru av automatiske opppdateringer.</GameUpdatedToNewVersionSteam>
+  
+  <!-- Recovered from errors caused by mods -->
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
+  <RecoveredFromErrorsDialogTitle>Gjenopprettet fra en ikke kompatibel modifikasjon eller korrupte modifikasjons-filer.</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
+  <RecoveredFromErrorsText>Det ser ut til noen av de aktive modifikasjonene forårsaket feil.\n\nDe var ikke kompatible med hverandre, laget for en annen versjon av RimWorld, eller hadde korrupte filer.\n\nAlle modifikasjoner har blitt deaktivert, men de kan aktiveres på nytt i modifikasjons-vinduet.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <!-- EN: Error while loading assets -->
+  <ErrorWhileLoadingAssetsTitle>Feil ved innlasting av ressurser</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
+  <ErrorWhileLoadingAssets>Det oppstod en feil ved innlasting av spillressurser. Mer informasjon finner du i loggen.</ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
+  <ErrorWhileLoadingAssets_ModsInfo>Spillet kjører med tilpassede modifikasjoner - det kan hende at det er disse modifikasjonene som forårsaker problemer.</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
+  <ErrorWhileGeneratingMapTitle>Feil ved generering av kart</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
+  <ErrorWhileGeneratingMap>Det oppstod en feil ved generering av nytt kart. Mer informasjon finner du i loggen.</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
+  <ErrorWhileLoadingMapTitle>Feil ved innlasting av kart</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
+  <ErrorWhileLoadingMap>Det oppstod en feil ved innlasting av kart. Mer informasjon finner du i loggen.</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged>Modifikasjonslisten har blitt oppdatert. Spillet vil nå starte på nytt.</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart>Det oppstod en feil ved omstart av spillet. Spillet kan ikke fjerne modifisert kode fra deaktiverte modifikasjoner, så kode fra deaktiverte modifikasjoner kan fremdeles være aktiv.\n\nDu bør avslutte og starte spillet på nytt selv for å laste inn alle modifikasjoner på nytt.</FailedToRestart>
+  <!-- EN: Restarting -->
+  <Restarting>Omstart</Restarting>
+  
+  <!-- Missing Steam -->
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
+  <SteamClientMissing>Kunne ikke starte Steam API. Mulige årsaker:\n\n-Steam kjører ikke.\n-Du startet spillet uten Steam uten at steam_appid.txt var til mstede.\n-Du kjører med andre rettigheter enn Steam-klienten (feks "som administrator").\n\nI flest tilfeller vil en omstart av datamaskinen din fikse problemene.\n\nDu kan likevel spille, men ingen statistikk fra Steam vil bli lagret og Steam-funksjoner vil ikke være tilgjengelig.</SteamClientMissing>
+  
+  <!-- Long events -->
+  <!-- EN: Initializing interface -->
+  <InitializingInterface>Initialiserer grensesnitt</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
+  <UnloadingUnusedAssets>Deaktiverer ubrukte ressurser</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
+  <LoadingAllActiveMods>Laster inn alle aktive modifikasjoner</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
+  <LoadingDefs>Laster inn definisjoner</LoadingDefs>
+  <!-- EN: Loading assets -->
+  <LoadingAssets>Laster inn ressurser</LoadingAssets>
+  <!-- EN: Initializing -->
+  <Initializing>Initialiserer</Initializing>
+  <!-- EN: Loading world -->
+  <LoadingWorld>Laster inn verden</LoadingWorld>
+  <!-- EN: Loading map -->
+  <LoadingMap>Laster inn kart</LoadingMap>
+  <!-- EN: Initializing game -->
+  <InitializingGame>Initialiserer spill</InitializingGame>
+  <!-- EN: Spawning things -->
+  <SpawningAllThings>Skaper alle objekter</SpawningAllThings>
+  <!-- EN: Spawning colonists -->
+  <SpawningColonists>Skaper kolonister</SpawningColonists>
+  
+  <!-- Save/load -->
+  <!-- EN: Save -->
+  <SaveGameButton>Lagre</SaveGameButton>
+  <!-- EN: Load -->
+  <LoadGameButton>Last inn</LoadGameButton>
+  <!-- EN: Overwrite -->
+  <OverwriteButton>Overskriv</OverwriteButton>
+  <!-- EN: Really delete {0}? -->
+  <ConfirmDelete>Vil du virkelig slette {0}?</ConfirmDelete>
+  <!-- EN: Delete this savegame. -->
+  <DeleteThisSavegame>Slett dette lagrede spillet.</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
+  <SavedAs>Lagret som {0}.</SavedAs>
+  <!-- EN: Please enter a name. -->
+  <NeedAName>Vennligst skriv inn et navn.</NeedAName>
+  <!-- EN: Loading -->
+  <LoadingLongEvent>Laster inn</LoadingLongEvent>
+  <!-- EN: Saving -->
+  <SavingLongEvent>Lagrer</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
+  <PermadeathModeSaveSuffix>(Permanent død)</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion>Vi kjører versjon {0} men lagret data er fra {1}, noe som er en helt annen versjon.\n\nInnlasting av vil antakeligvis ikke fungere.</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild>Vi kjører versjon {0} men lagret data er fra {1}, noe som er en annen delversjon.\n\nInnlasting vil antakeligvis likevel fungere.</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild>Lagret data ble lagret med vår versjon av spillet og bør fungere som det skal.</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat>Lagret data har ukjent format og vil ganske sikkert ikke lastes inn på riktig måte.</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile>Det oppstod en feil ved lagring av filen {0}:\n\n{1}\n\nMer informasjon finner du i loggen.</ProblemSavingFile>
+  <!-- EN: Load anyway -->
+  <LoadAnyway>Last inn likevel</LoadAnyway>
+  <!-- EN: Load mod list from save -->
+  <ChangeLoadedMods>Last inn liste over modifikasjoner fra lagret spill</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
+  <MissingMods>Noen modifikasjoner er utilgjengelige og må installeres</MissingMods>
+  
+  <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>{0} mener at du bør gi gruppen din et navn. Hva vil du kalle gruppen din?</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
+  <PlayerFactionGainsName>Gruppen din er nå kjent som {0}.</PlayerFactionGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>Ups, navnet er ikke gyldig.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+  <NamePlayerFactionBaseMessage>Det ser ut til at du kommer til å være her en stund, så {0} mener at du bør gi samfunnet ditt et navn. Hva vil du kalle lokalsamfunnet ditt?</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName>Samfunnet ditt er nå kjent som {0}.</PlayerFactionBaseGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>Ups, navnet er ikke gyldig.</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Det ser ut til at du kommer til å være her en stund, så {0} mener også at du burde gi dette samfunnet et navn. Hva vil du kalle dette lokalsamfunnet?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName>Gruppen din er nå kjent som {0}, og dette samfunnet er nå kjent som {1}.</PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
+  <NameIsInvalid>Vennligst skriv inn et gyldig navn.</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
+  <NameIsInUse>Navnet er allerede i bruk.</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
+  <ZoneGainsName>Området er nå kalt {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
+  <PawnGainsName>Kolonistens kallenavn er nå {0}.</PawnGainsName>
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>TODO</AnimalGainsName>
+
+  <!-- Save game incompatible warning -->
+  <!-- EN: Version mismatch -->
+  <VersionMismatch>Feil versjon</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText>Spillet ble lagret med versjon {0}, du kjører versjon {1}.\n\n Hvis du laster inn dette spillet vil det forekomme feil.</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch>Din verden ble generert med versjon {0}\nDu kjører versjon {1}\n\nHvis du laster inn denne verdenen vil det forekomme feil. Du bør generere en helt ny verden.</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning>Denne filen ble lagret med versjon {0} av spillet\nDu kjører versjon {1}\n\nHvis du laster inn denne filen vil det forekomme feil.</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
+  <ModsMismatchWarningTitle>Modifikasjoner samsvarer ikke</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <ModsMismatchWarningText>Denne filen ble lagret med et annet sett av aktive modifikasjoner enn det du kjører nå. Det er mulig at dette kan forårsake problemer, avhengig av akkurat hva disse modifikasjonene gjør.\n\nFilen ble lagret (i denne rekkefølgen):\n\n{0}\n\nDu kjører med (i denne rekkefølgen):\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
+  <ConfirmResolutionChange>Du har endret skjerminnstillingene dine. Fungerer de nye?\n\nReverserer automatisk om {0}...</ConfirmResolutionChange>
+  <!-- EN: Keep -->
+  <ResolutionKeep>Behold</ResolutionKeep>
+  <!-- EN: Revert -->
+  <ResolutionRevert>Reverser</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>TODO</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Research -->
+  <!-- EN: Research -->
+  <Research>Forskning</Research>
+  <!-- EN: Researched -->
+  <Researched>Ferdig utforsket</Researched>
+  <!-- EN: Unresearched -->
+  <Unresearched>Ikke utforsket</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>Ferdig</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>Pågår</InProgress>
+  <!-- EN: Locked -->
+  <Locked>Låst</Locked>
+  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
+  <ResearchMenuWithoutBench>Fram til du bygger en FORSKNINGSBENK, så vil kolonistene dine ikke gjøre noen faktisk forskning.\n\nLikevel kan du fortsatt se på og velge forsknings prosjekter nå.</ResearchMenuWithoutBench>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>Forutsetninger for forskning</ResearchPrerequisites>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>Krever en forskningsbenk</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>Krever forskningsbenk-anlegg</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
+  <MapTemperatureDangerWarning>ADVARSEL: Du vil lande i et frossent miljø. Det kan være vanskelig eller nesten umulig å overlever her. Hvis du ikke er ute etter en ekstrem utfordring så bør du kanskje velge et annet landingssted eller tid på året.</MapTemperatureDangerWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning>ADVARSEL: Ytelsen kan minke med større bane om du ikke har en sterk datamaskin.\n\nOm du har en svak datamaskin, velg en liten bane.\n\nLatterlig størrelse er ikke testet og vil sannsynligvis ikke kjøre bra.</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
+  <MapSize>Kartstørrelse</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
+  <MapSizeDesc>{0}x{0} ({1} ruter)</MapSizeDesc>
+  <!-- EN: Small -->
+  <MapSizeSmall>Liten</MapSizeSmall>
+  <!-- EN: Medium -->
+  <MapSizeMedium>Medium</MapSizeMedium>
+  <!-- EN: Large -->
+  <MapSizeLarge>Stor</MapSizeLarge>
+  <!-- EN: Extreme (test) -->
+  <MapSizeExtreme>Latterlig stor</MapSizeExtreme>
+  <!-- EN: Starting season -->
+  <MapStartSeason>Årstid ved start:</MapStartSeason>
+  <!-- EN: Auto -->
+  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <!-- EN: Notice -->
+  <Notice>TODO</Notice>
+
+  <!-- Bill config -->
+  <!-- EN: Suspended -->
+  <Suspended>Utsatt</Suspended>
+  <!-- EN: Not suspended -->
+  <NotSuspended>Ikke utsatt</NotSuspended>
+  <!-- EN: SUSPENDED -->
+  <SuspendedAllCaps>UTSATT</SuspendedAllCaps>
+  <!-- EN: Repeat: -->
+  <RepeatCount>Gjenta: {0}</RepeatCount>
+  <!-- EN: Forever -->
+  <Forever>For alltid</Forever>
+  <!-- EN: Details -->
+  <Details>Detaljer</Details>
+  <!-- EN: Ingredient radius -->
+  <IngredientSearchRadius>Ingrediens-radius</IngredientSearchRadius>
+  <!-- EN: Currently have -->
+  <CurrentlyHave>Har nåværende</CurrentlyHave>
+  <!-- EN: Counting -->
+  <CountingProducts>Tellende</CountingProducts>
+  <!-- EN: Infinite -->
+  <Infinite>Uendelig</Infinite>
+  <!-- EN: Allowed {0} skill: -->
+  <AllowedSkillRange>Tillatt {0} egenskap:</AllowedSkillRange>
+  <!-- EN: incompatible -->
+  <IncompatibleLower>TODO</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>TODO</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>TODO</Unlimited>
+  
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
+  <RecipeCannotHaveTargetCount>(Denne oppskriften kan ikke ha et målantall fordi den har flere eller uforutsigbare ingredienser.)</RecipeCannotHaveTargetCount>
+  <!-- EN: Work amount -->
+  <WorkAmount>Mengde arbeid</WorkAmount>
+  <!-- EN: Minimum skills: -->
+  <MinimumSkills>Absolutt minimum ferdigheter:</MinimumSkills>
+  <!-- EN: Requires {0} {1} -->
+  <BillRequires>Krever {0} {1}</BillRequires>
+  <!-- EN: Requires {0} nutrition -->
+  <BillRequiresNutrition>Krever {0} næring</BillRequiresNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary>Merk: små-volum-ingredienser som gull krever {0}x så mye.</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume>Dette er en liten-volum-ingrediens. Dette betyr at hver 'enhet' kun er 1/{0} så mye som en normal-volum-ingrediens. Så for å utfylle samme ingredienskrav trenger du {0}x så mye som vanlig.</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
+  <UsableIngredients>ingredienser</UsableIngredients>
+  <!-- EN: To {0} -->
+  <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
+
+  <!-- EN: Pause when satisfied -->
+  <PauseWhenSatisfied>Pause ved oppnådd nivå</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
+  <UnpauseWhenYouHave>Gjenoppta ved</UnpauseWhenYouHave>
+  <!-- EN: Paused -->
+  <Paused>Pauset</Paused>
+  <!-- EN: Unpause -->
+  <Unpause>Gjenoppta</Unpause>
+
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>TODO</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>TODO</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>TODO</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>TODO</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>TODO</IncludeSpecific>
+  
+  <!-- Info card -->
+  <!-- EN: Damage -->
+  <Damage>Skade</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>TODO</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
+  <!-- EN: Accuracy -->
+  <Accuracy>Nøyaktighet</Accuracy>
+  <!-- EN: Burst shot count -->
+  <BurstShotCount>Frekvens ved flerskudd</BurstShotCount>
+  <!-- EN: Warmup -->
+  <WarmupTime>Oppvarmingstid</WarmupTime>
+  <!-- EN: Melee warmup -->
+  <MeleeWarmupTime>Oppvarmingstid for slag</MeleeWarmupTime>
+  <!-- EN: Cooldown -->
+  <CooldownTime>Ventetid</CooldownTime>
+  <!-- EN: Fire rate -->
+  <BurstShotFireRate>Skuddfrekvens</BurstShotFireRate>
+  <!-- EN: Range -->
+  <Range>Avstand</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>TODO</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>TODO</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>TODO</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>TODO</MissRadius>
+  <!-- EN: Grows wild -->
+  <GrowsWild>Gror villt</GrowsWild>
+  <!-- EN: Harvestable -->
+  <Harvestable>Kan høstes</Harvestable>
+  <!-- EN: Limited lifespan -->
+  <LimitedLifespan>Begrenset levetid</LimitedLifespan>
+  <!-- EN: Growing time -->
+  <GrowingTime>Dyrketid</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>TODO</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <GrowingTimeDesc>Planter vokser bare deler av dagen, og når det er lyst ute. Denne verdien måler hvor mye tid planten trenger for å bli fullvokst. Den faktiske dyrketiden vil som oftest være dobbelt så lang. Lav temperatur øker også dyrketiden.</GrowingTimeDesc>
+  <!-- EN: days -->
+  <Days>dager</Days>
+  <!-- EN: Minimum growing skill to sow -->
+  <MinGrowingSkillToSow>Minimium kunnskap om plantevekst for å så</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
+  <FertilityRequirement>Påkrevd fruktbarhetsnivå</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
+  <FertilitySensitivity>Fruktbarhetssensitivitet</FertilitySensitivity>
+  <!-- EN: Light requirement -->
+  <LightRequirement>Påkrevd lysnivå</LightRequirement>
+  <!-- EN: Attributes -->
+  <Attributes>Egenskaper</Attributes>
+  <!-- EN: Lifespan -->
+  <LifeSpan>Levetid</LifeSpan>
+  <!-- EN: Nutrition -->
+  <Nutrition>Ernæring</Nutrition>
+  <!-- EN: Recreation -->
+  <Joy>Glede</Joy>
+  <!-- EN: Food quality -->
+  <FoodQuality>Matkvalitet</FoodQuality>
+  <!-- EN: Walk speed -->
+  <WalkSpeedProperty>Gåhastighet</WalkSpeedProperty>
+  <!-- EN: Min. food quality -->
+  <MinFoodQuality>Minimum matkvalitet</MinFoodQuality>
+  <!-- EN: Diet -->
+  <Diet>Kosthold</Diet>
+  <!-- EN: Leather type -->
+  <LeatherType>TODO</LeatherType>
+  <!-- EN: Body size -->
+  <BodySize>Kroppsstørrelse</BodySize>
+  <!-- EN: Recruit difficulty -->
+  <RecruitDifficulty>Vanskelighetsnivå rekruttering</RecruitDifficulty>
+  <!-- EN: Base price -->
+  <MarketValue>Markedsverdi</MarketValue>
+  <!-- EN: Covers -->
+  <Covers>Dekker</Covers>
+  <!-- EN: Layer -->
+  <Layer>TODO</Layer>
+  <!-- EN: Cover effectiveness -->
+  <CoverEffectiveness>Effektivitet ved dekning</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>Hvor effektivt dette er når det er brukt som dekning i en skuddveksling. Høyere verdi blokkerer flere skudd.</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
+  <MedicineXpGainFactor>Erfaringsgevinst-faktor</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
+  <MoodChange>Humørsvingninger</MoodChange>
+  <!-- EN: Wildness -->
+  <Wildness>Villskap</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation>Villere skapninger er naturligvis vanskeligere å temme, trene og håndtere.</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>TODO</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay. -->
+  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <!-- EN: Animal filth rate -->
+  <AnimalFilthRate>Dyrets skittenhet</AnimalFilthRate>
+  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
+  <!-- EN: Time -->
+  <TimeRecordsCategory>Tid</TimeRecordsCategory>
+  <!-- EN: Misc -->
+  <MiscRecordsCategory>Diverse</MiscRecordsCategory>
+  <!-- EN: Addictiveness -->
+  <Addictiveness>Avhengighet</Addictiveness>
+  <!-- EN: Pack animal -->
+  <PackAnimal>Pakkdyr</PackAnimal>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>Viser om dette dyret passer til å bære ting i en kolonne over lengre avstander.</PackAnimalExplanation>
+  <!-- EN: Skill -->
+  <Skill>Ferdighet</Skill>
+  <!-- EN: Success rate multiplier -->
+  <SurgerySuccessChanceFactor>Verdiendrinsnivå som justerer sjansen for at operasjonen er vellykket</SurgerySuccessChanceFactor>
+  <!-- EN: Work speed governed by -->
+  <WorkSpeedStat>Arbeidshastighet er styrt av</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
+  <EfficiencyStat>Produsert mengde er styrt av</EfficiencyStat>
+  <!-- EN: Construction skill required -->
+  <ConstructionSkillRequired>Påkrevd ferdighetsnivå for konstruksjon</ConstructionSkillRequired>
+  <!-- EN: Requires this level of Construction in order to build. -->
+  <ConstructionSkillRequiredExplanation>Krever dette ferdighetsnivået for Konstruksjon for å bygge.</ConstructionSkillRequiredExplanation>
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>TODO</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>TODO</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>TODO</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>TODO</RearmCost>
+  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>TODO</PowerConsumption>
+
+  <!-- Trade -->
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells>Positive tall betyr at du kjøper.\nNegative tall betyr at du selger.</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
+  <BuyPriceDesc>Prisen du betaler for å kjøpe dette.</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
+  <SellPriceDesc>Prisen du mottar for å selge dette.</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
+  <PriceTypeDesc>For denne tingen er prisen {0}.</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
+  <ColonyCount>Antall av denne tingen som kolonien har klar til å kjøpslå med..\n\nDu kan bare selge ting til "orbitale" handelsmenn hvis tingene er utendørs og nærme et handelsmerke.</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
+  <TraderCount>Antall av denne tingen som handelsmannen er villig til å kjøpslå med.</TraderCount>
+  <!-- EN: Accept -->
+  <AcceptButton>Aksepter</AcceptButton>
+  <!-- EN: Reset -->
+  <ResetButton>Nullstill</ResetButton>
+  <!-- EN: Cancel -->
+  <CancelButton>Avbryt</CancelButton>
+  <!-- EN: Close -->
+  <CloseButton>Lukk</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
+  <YourTradeableSilver>Sølv tilgjengelig: {0}</YourTradeableSilver>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+  <YourTradeableSilverTip>Du kan bare handle med sølv som er ved et handelsmerke og ikke under et tak.</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
+  <TraderHasNoMore>Handelsmannen har ikke mer.</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
+  <ColonyHasNoMore>Ikke noe mer å selge.</ColonyHasNoMore>
+  <!-- EN: Trader is not willing to buy this. -->
+  <TraderWillNotTrade>Handelsmannen vil ikke bytte dette med deg.</TraderWillNotTrade>
+  <!-- EN: Negotiator -->
+  <Negotiator>Forhandler</Negotiator>
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>Din forhandler, {0}, kan ikke snakke ordentlig på grunn av dårlig helse.</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>Din forhandler, {0}, kan ikke høre ordentlig på grunn av dårlig helse.</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired>Dette vil påvirke handelsprisene.\n\nVurder om du kanskje skal bruke en forhandler som er friskere.</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds>Handelsmannen har ikke nok sølv til å dekke dette kjøpet.  Fortsett likevel?</ConfirmTraderShortFunds>
+  <!-- EN: Sort by -->
+  <SortBy>Sorter etter</SortBy>
+  <!-- EN: trader type -->
+  <TraderTypePrice>trader type</TraderTypePrice>
+  <!-- EN: selling -->
+  <Selling>selger</Selling>
+  <!-- EN: buying -->
+  <Buying>kjøper</Buying>
+  <!-- EN: item sell price multiplier -->
+  <ItemSellPriceFactor>salgsmultiplikator</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
+  <DifficultyLevel>vansklighetsnivå</DifficultyLevel>
+  <!-- EN: global post-process curve -->
+  <PostCurve>global post-process curve</PostCurve>
+  <!-- EN: Your negotiator bonus -->
+  <YourNegotiatorBonus>Din forhandlers bonus</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
+  <TradeWithFactionBaseBonus>Bonus ved handel med gruppe-base</TradeWithFactionBaseBonus>
+  <!-- EN: minimum -->
+  <minimum>minimum</minimum>
+  <!-- EN: Final price -->
+  <FinalPrice>Endelig pris</FinalPrice>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>TODO</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>TODO</TradeModeTip>
+
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>TODO</PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <FormCaravan>Opprett karavane</FormCaravan>
+  <!-- EN: Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>Antall av denne tingen som kolonien har klar til å gi til karavanen.</FormCaravanColonyThingCountTip>
+  <!-- EN: People and animals -->
+  <PawnsTab>Mennesker og dyr</PawnsTab>
+  <!-- EN: Items -->
+  <ItemsTab>Ting</ItemsTab>
+  <!-- EN: You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>Du må tildele minst én oppegående kolonist.</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot>Den valgte utgangen ({0}) er ikke tilgjengelig.</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot>Kan ikke finne en gyldig parkeringsplass. Pass på at den valgte utgangen ({0}) er tilgjengelig.</CaravanCouldNotFindPackingSpot>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>ADVARSEL: Noen av de valgte kolonistene kan ikke nå utgangen ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
+  <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle>Ingen av de valgte kolonistene greier å nå {0}.</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti>Ingen av de valgte kolonistene er greier å nå {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage>Karavanen har ikke mulighet til å bære så mye.</TooBigCaravanMassUsage>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>Nåværene massebruk og massekapasitet.\n\nMassebruk inkluderer karavanens forsyninger og kolonistenes utstyr.\n\nDu kan ikke sende karavanen hvis vekten overskrider kapasiteten.</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>{0} dager med mat, råtner om {1} dager</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>Vil aldri gå tom for mat</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>Omtrentlig antall dager før karavanen går tom for mat.\n\nTatt i betraktning menneskemat og dyremat, og viser "worst case scenario". Det betyr at etter så mange dager vil minst en person eller et dyr gå tom for mat.</DaysWorthOfFoodTooltip>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>Karavanen din har bare {0} dager med mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har gått tom for mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>En stor del av maten vil snart bli dårlig.</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>Du har ingen karavane-medlemmer som er kapabel til utføre diplomati eller handel.</CaravanIncapableOfSocial>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>Vil du virkelig opprette denne karavanen?</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
+  <ItemWeightTip>Denne tingens vekt.</ItemWeightTip>
+  <!-- EN: Market value -->
+  <MarketValueTip>Markedsverdi</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>Antall dager før dette elementet begynner å råtne, basert på gjennomsnittstemperaturen i dette området.</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>TODO</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>TODO</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
+  <MassCapacity>Massekapasitet</MassCapacity>
+  <!-- EN: Mass -->
+  <Mass>Masse</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>TODO</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
+  <EquipmentAndApparelMass>Utstyrets masse</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
+  <InventoryMass>Inventarets masse</InventoryMass>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>Dine kolonister vil ta med seg de valgte elementene og forlate området så fort som mulig.</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>Samle sammen karavanen igjen</ReformCaravan>
+  <!-- EN: Colonists -->
+  <ColonistsSection>Kolonister</ColonistsSection>
+  <!-- EN: Prisoners -->
+  <PrisonersSection>Fanger</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>TODO</CaptureSection>
+  <!-- EN: Animals -->
+  <AnimalsSection>Dyr</AnimalsSection>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>TODO</ChooseRouteButton>
+  <!-- EN: Abandon -->
+  <AbandonButton>Forlat</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>TODO</TilesPerDay>
+  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>TODO</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>TODO</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>TODO</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>TODO</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>TODO</TotalBodySize>
+
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
+  <SplitCaravan>Splitt opp karavanen</SplitCaravan>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>Du må la minst én oppegående kolonist være igjen.</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>Antall av denne tingen som karavanen har tilgjengelig til å overføre til den nye karavanen.</SplitCaravanThingCountTip>
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
+  <LoadTransporters>Last {0}</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>De valgte menneskene og elementene er for tunge for transport-pod'ene.</TooBigTransportersMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>Du kan ikke sende tomme tranport-pod'er.</CantSendEmptyTransportPods>
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{0} kan ikke nå transport-pod'ene.</PawnCantReachTransporters>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>Det finnes ingen sti mellom transport-pod'ene og  {0}.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>Det finnes ingen sti mellom transort-pod'ene og {0}x {1}.</TransporterItemIsUnreachableMulti>
+  
+  <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
+  <SocialSkillIs>Sosiale ferdigheter: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
+  <ResearchFinished>Forskning ferdig: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
+  <ResearchScreen>Forskningsvindu</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage>Vil du laste opp spillstatistikk til RimWorld-serveren for å hjelpe utviklerne med å balansere spillet? Hvis du godtar vil dine data bli lastet opp hver {0} dag(er) (og i noen skjeldne tilfeller når spillet er ferdig). Personvernsinnstillingene kan endres i innstillingene.</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName>Selv om spillstatistikken er sendt anonymt har du mulighet til å legge ved navnet ditt.</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
+  <HistoryUploadYes>Tillatt opplasting av spillstatistikk</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
+  <HistoryUploadNo>Ikke tillatt opplasting av spillstatistikk</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
+  <HistoryUploadYesOnce>Last opp kun denne gangen</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce>Ikke last opp denne gangen, spør meg igjen senere</HistoryUploadNoOnce>
+  
+  <!-- Outfit management -->
+  <!-- EN: Outfit -->
+  <Outfit>Antrekk</Outfit>
+  <!-- EN: Select outfit... -->
+  <SelectOutfit>Velg antrekk...</SelectOutfit>
+  <!-- EN: New outfit -->
+  <NewOutfit>Nytt antrekk</NewOutfit>
+  <!-- EN: Delete outfit... -->
+  <DeleteOutfit>Slett antrekk...</DeleteOutfit>
+  <!-- EN: Outfit is in use by {0}. -->
+  <OutfitInUse>Antrekket er i bruk av  {0}.</OutfitInUse>
+  <!-- EN: No outfit selected -->
+  <NoOutfitSelected>Intet antrekk er valgt</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policy -->
+  <DrugPolicy>Narkotikaregler</DrugPolicy>
+  <!-- EN: Select policy... -->
+  <SelectDrugPolicy>Velg regler...</SelectDrugPolicy>
+  <!-- EN: New policy -->
+  <NewDrugPolicy>Nye regler</NewDrugPolicy>
+  <!-- EN: Delete policy... -->
+  <DeleteDrugPolicy>Slett regler...</DeleteDrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>Narkotikareglene er i bruk av {0}.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
+  <!-- EN: Social drugs -->
+  <SocialDrugs>Sosial narkotika</SocialDrugs>
+  <!-- EN: No drugs -->
+  <NoDrugs>Ingen narkotika</NoDrugs>
+  <!-- EN: One drink per day -->
+  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
+  <!-- EN: Unrestricted -->
+  <Unrestricted>Ubegrenset</Unrestricted>
+  <!-- EN: No drug policy selected -->
+  <NoDrugPolicySelected>Ingen narkotikaregler valgt</NoDrugPolicySelected>
+  <!-- EN: Add drug... -->
+  <AddDrug>Legg til narkotika...</AddDrug>
+  <!-- EN: Drug -->
+  <DrugColumnLabel>Narkotika</DrugColumnLabel>
+  <!-- EN: Usage -->
+  <DrugUsageColumnLabel>Bruk</DrugUsageColumnLabel>
+  <!-- EN: Frequency -->
+  <FrequencyColumnLabel>Frekvens</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
+  <MoodThresholdColumnLabel>Kun hvis humøret er under</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
+  <JoyThresholdColumnLabel>Kun hvis gleden er under</JoyThresholdColumnLabel>
+  <!-- EN: Take to inventory -->
+  <TakeToInventoryColumnLabel>Flytt til inventaret</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
+  <NoDrugsBrackets>(ingen narkotika)</NoDrugsBrackets>
+  <!-- EN: Every day -->
+  <EveryDay>Hver dag</EveryDay>
+  <!-- EN: {0} times per day -->
+  <TimesPerDay>{0} ganger per dag</TimesPerDay>
+  <!-- EN: Every {0} days -->
+  <EveryDays>Hver {0} dag(er)</EveryDays>
+  <!-- EN: Any -->
+  <NoDrugUseRequirement>Hva som helst</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
+  <DeleteDrugTooltip>Slett dette narkotikumet.</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
+  <DrugNameColumnDesc>Navn på narkotikum.</DrugNameColumnDesc>
+  <!-- EN: How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc>Hvordan narkotikumet er tillatt brukt.</DrugUsageColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>Hvor ofte kolinistene bør prøve å ta dette narkotikumet.</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres humørniva er under dette nivået.</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres gledesnivå er under dette nivået.</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>Mengden stoff kolonistene vil ta med seg når de tar stoffet, for å gå frem og tilbake.</TakeToInventoryColumnDesc>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>For avhengighet\n\nBruk dette narkotikumet for å stilne den avhengigheten som allerede finnes.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>For glede\n\nBruk dette narkotikumet for glede og sosial sammenheng.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>Planlagt\n\nBruk dette narkotikumet i et forhåndsbestemt tidsskjema, når spesifikke betingelser er til stede.</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>TODO</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+
+  <!-- Medical settings -->
+  <!-- EN: Defaults -->
+  <MedGroupDefaults>Normalverdi</MedGroupDefaults>
+  <!-- EN: Colonist -->
+  <MedGroupColonist>Kolonister</MedGroupColonist>
+  <!-- EN: Imprisoned colonist -->
+  <MedGroupImprisonedColonist>Fengslede kolonister</MedGroupImprisonedColonist>
+  <!-- EN: Colony animal -->
+  <MedGroupColonyAnimal>Kolonidyr</MedGroupColonyAnimal>
+  <!-- EN: Neutral animal -->
+  <MedGroupNeutralAnimal>Nøytrale dyr</MedGroupNeutralAnimal>
+  <!-- EN: Neutral faction -->
+  <MedGroupNeutralFaction>Nøytrale grupper</MedGroupNeutralFaction>
+  <!-- EN: Hostile faction -->
+  <MedGroupHostileFaction>Fiendtlige grupper</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} krever {1} ferdighet i Groing for å så.\n\nIngen av dine oppegående kolonister har denne ferdigheten, så denne planten vil ikke bli sådd.</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>Noen av dine kolonister eller dyr er i dette området. Vil du virkelig forlate dette området?\n\nFølgende kolonister og dyr vil bli forlatt:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>Forlating av {0} vil føre til at de følgende menneskede vil få de følgende tankene:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Alle:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>Vil du virkelig forlate {0}?</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{0} vil mest sannsynligvis dø.</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>{0} vil ta med seg de følgende elementene:</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Alle kolonistene vil få de følgende tankene:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>Hvis du forlater {0} vil dette resultere i at de følgende menneskene vil få disse tankene:</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>Gruppen med pod'er er ikke ferdig lastet. {0} mangler. Start likevel?</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
+
+  <!-- UNUSED -->
+  <PermadeathMode>Permanent død-modus</PermadeathMode>
+  <SurgeryRequireBed>Krever seng</SurgeryRequireBed>
+  <TradeMassUsageTooltip>Den endelige massebruken og massekapasiteten.</TradeMassUsageTooltip>
+  <CaravanConfigTab>Konfigurasjon</CaravanConfigTab>
+  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+  <DaysWorthOfFoodInfo>{0} dager med mat</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antar vi at planteetere kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antater vi at planteetere IKKE kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <NoExitDirectionForCaravanChosen>Du må velge en utgangsretning for karavanen.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(ingen utgangsretning tilgjengelig)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Utgangsretning</ExitDirection>
+  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <EstimatedTimeToDestinationButton>Antatt tid til destinasjonen</EstimatedTimeToDestinationButton>
+  <CaravanSplitSourceLabel>Nåværende</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
+  <SplitCaravanMassUsageTooltip>Nåværende masseforbruk og massekapasitet.</SplitCaravanMassUsageTooltip>
+  <TransportersMassUsageTooltip>Nåværende masseforbruk og massekapasitet.\n\nDu kan ikke sende transport-pod'ene hvis forbruket er større enn kapasiteten.</TransportersMassUsageTooltip>
+  <ConfirmLeavePrisonersOrAnimalsBehind>Det er fremdeles noen fanger eller dyr igjen i dette området og dette er den eneste karavanen de kan bli med i øyeblikket.\n\nHvis du flytter karavanen vil de ikke være i stand til å forlate området til du er tilbake igjen. Fangene vil prøve å rømme, mens dyrene vil vente på deg.\n\nHvis du velger å vente vil de prøve å bli med karavanen så fort som mulig.\n\nVil du virkelig flytte karavanen?</ConfirmLeavePrisonersOrAnimalsBehind>
+
+</LanguageData>
