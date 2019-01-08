@@ -6,12 +6,13 @@
   <languageWorkerClass>LanguageWorker_Norwegian</languageWorkerClass>
   <credits>
       <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Erik 'mr-raw' Raae</creditee>
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Erik 'mr-raw' Raae</creditee>
+      </li>  
         
       <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Bendik Berg</creditee>
-    </li>
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Bendik Berg</creditee>
+      </li>
   </credits>
 </LanguageInfo>
