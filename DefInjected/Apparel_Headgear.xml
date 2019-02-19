@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>Denne tøffe hatten holder solen fra øynene og regnet fra nakken. Bærerens ord vil bære ekstra tyngde. En ekte cowboy-ohboy-hatt!</Apparel_CowboyHat.description>
+
+  <Apparel_BowlerHat.label>bowlerhatt</Apparel_BowlerHat.label>
+  <Apparel_BowlerHat.description>En hat som forteller verden nøyaktig hvor rik du føler deg. Folk vil høre på den som bærer denne.</Apparel_BowlerHat.description>
+
+  <Apparel_TribalHeaddress.label>stammehatt</Apparel_TribalHeaddress.label>
+  <Apparel_TribalHeaddress.description>En elegant hodepryd, gjerne med religiøs betydning. Folk vil høre på den som bærer denne.</Apparel_TribalHeaddress.description>
+
+  <Apparel_Tuque.label>lue</Apparel_Tuque.label>
+  <Apparel_Tuque.description>En myk, tykk lue. God å ha om vinteren.</Apparel_Tuque.description>
+
+  <Apparel_WarMask.label>krigsmaske</Apparel_WarMask.label>
+  <Apparel_WarMask.description>En fryktinngytende maske. Gir bæreren selvtillit.</Apparel_WarMask.description>
+
+  <Apparel_WarVeil.label>krigsslør</Apparel_WarVeil.label>
+  <Apparel_WarVeil.description>Et krigsslør, laget av stoff som er revet for å se ut som om det har sett mange kamper. Dette plagget gir bæreren selvtillit.</Apparel_WarVeil.description>
+
+
+  <!-- ================================== Helmets ====================================-->
+
+  <Apparel_SimpleHelmet.label>enkel hjelm</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>En enkel hjelm som gir nogenlunde beskyttelse mot skarpe våpen. Hjelper ikke mot stump skade.</Apparel_SimpleHelmet.description>
+
+  <Apparel_AdvancedHelmet.label>avansert hjelm</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.description>En lett hjelm med komplekst design, forsterket av plasteel. Hjelper ikke mot stump skade.</Apparel_AdvancedHelmet.description>
+
+  <Apparel_PowerArmorHelmet.label>marinehjelm</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>En hjelm for rommarinens elitetropper og tunge infanteri. Dette er den beste beskyttelsen kolonistene dine kan ha.</Apparel_PowerArmorHelmet.description>
+
+  <Apparel_PsychicFoilHelmet.label>tinnfoliehjelm</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>En hjelm med tynne lag av metaller som absorberer psykisk skadelige mikrobølger. Reduserer effekten av psykiske påvirkninger.</Apparel_PsychicFoilHelmet.description>
+
+
+</LanguageData>

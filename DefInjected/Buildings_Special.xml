@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>evig drivreaktor</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>lager drivstoff gjennom en lang rekke kjemiske reaksjoner, med materiale den henter ut av lufta.</InfiniteChemreactor.description>
+
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>psykisk radiotårn</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>Et gammelt apparat som sender ut et gledesfelt som bedrer humøret til alle i nærheten. Virker gjennom vegger.</PsychicEmanator.description>
+
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>mikroelektrisk strømreaktor</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>Genererer strøm uten noen synlig input. Teknologien er utviklet av en urkomputer, og er mer avansert enn noe slaraffensamfunn kan forstå. Ingen vet sikkert hvordan den virker, men forskere tror at den trekker energi ut av forstyrrelser i romtiden.</VanometricPowerCell.description>
+
+</LanguageData>

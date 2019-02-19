@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: campfire -->
+  <Campfire.label>bål</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Produserer varme og kan varme måltider. Som alle varmekilder må den plasseres innendørs så varmen ikke bare forsvinner. Må fylles manuelt med noen dagers mellomrom.</Campfire.description>
+
+  <!-- EN: cooler -->
+  <Cooler.label>aircondition</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>En maskin som må plasseres i stedet for en vegg for å kjøle ned et område. Må ha plass bak seg for å slippe ut varmen. Kan brukes til å kjøle ned arbeidsrom når det er varmt, eller til å lage fryserom. </Cooler.description>
+
+  <!-- EN: heater -->
+  <Heater.label>varmeovn</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Gjør strøm til varme. Den skrur seg på når det er kaldere enn måltemperaturen.</Heater.description>
+
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>passiv kjøler</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>En beholder med vann som kokes opp for å ta varme fra omgivelsene. Man må legge på ved med jevne mellomrom. Kan ikke lage kjølerom.</PassiveCooler.description>
+
+  <!-- EN: vent -->
+  <Vent.label>ventil</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Slipper luft mellom rom uten av noen kan gå gjennom.</Vent.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shield belt -->
+  <Apparel_ShieldBelt.label>skjoldbelte</Apparel_ShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>Et enmanns energiskjold. Det vil stoppe alle inngående skudd så lenge det har energi. Men pass på – det stopper også prosjektiler på vei ut, og det har ingen effekt på nærkampsvåpen eller skudd på kloss hold.</Apparel_ShieldBelt.description>
+  
+  <!-- EN: smokepop belt -->
+  <Apparel_SmokepopBelt.label>røykbelte</Apparel_SmokepopBelt.label>
+  <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Apparel_SmokepopBelt.description>En automatisk engangs røykmaskin. Hvis bæreren blir truffet av et prosjektil vil beltet slippe ut ugjennomsiktig gass som hindrer sikt. Kanontårn kan ikke se gjennom røyken.</Apparel_SmokepopBelt.description>
+  
+</LanguageData>
