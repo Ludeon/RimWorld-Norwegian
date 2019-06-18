@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: astragalus -->
   <Plant_Astragalus.label>mjelt</Plant_Astragalus.label>
   <!-- EN: A small perennial wildflower that grows in alpine climates. -->
   <Plant_Astragalus.description>En liten flerårig blomst som liker seg i kaldere strøk.</Plant_Astragalus.description>
-  
+
   <!-- EN: berry bush -->
   <Plant_Berry.label>bringebærbusk</Plant_Berry.label>
   <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
   <Plant_Berry.description>En buskvekst som gir nydelige røde bær.</Plant_Berry.description>
-  
+
   <!-- EN: dandelions -->
   <Plant_Dandelion.label>løvetann</Plant_Dandelion.label>
   <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
   <Plant_Dandelion.description>En vanlig, liten blomst. Selv om den ofte regnes som ugress, er den fin å se på.</Plant_Dandelion.description>
-  
+
   <!-- EN: moss -->
   <Plant_Moss.label>mose</Plant_Moss.label>
   <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
   <Plant_Moss.description>Viltvoksende mose kan man finne i områder med lite sollys og mye fuktighet. Svært motstandsdyktig, også mot frost..</Plant_Moss.description>
-  
+
   <!-- EN: birch tree -->
-  <Plant_TreeBirch.label>Bjørketre</Plant_TreeBirch.label>
+  <Plant_TreeBirch.label>bjørketre</Plant_TreeBirch.label>
   <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
   <Plant_TreeBirch.description>Et tre fra nord, kjent for sin tynne, papiraktige bark.</Plant_TreeBirch.description>
-  
+
   <!-- EN: oak tree -->
   <Plant_TreeOak.label>eiketre</Plant_TreeOak.label>
   <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
   <Plant_TreeOak.description>En solid hardtresort. Vokser sakte, men gir svært solid ved.</Plant_TreeOak.description>
-  
+
   <!-- EN: pine tree -->
   <Plant_TreePine.label>furutre</Plant_TreePine.label>
   <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
   <Plant_TreePine.description>Et stort nåletre.</Plant_TreePine.description>
-  
+
   <!-- EN: poplar tree -->
-  <Plant_TreePoplar.label>poppeltre</Plant_TreePoplar.label>
+  <Plant_TreePoplar.label>poppel</Plant_TreePoplar.label>
   <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
   <Plant_TreePoplar.description>Poppeltreets ved er nokså myk. Vokser raskt, men gir lite anvendbart trevirke.</Plant_TreePoplar.description>
-  
+
 </LanguageData>

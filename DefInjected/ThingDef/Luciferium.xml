@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: luciferium -->
-  <Luciferium.label>TODO</Luciferium.label>
+  <Luciferium.label>Luciferium</Luciferium.label>
   <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
-  <Luciferium.description>TODO</Luciferium.description>
+  <Luciferium.description>Et mekanittbrygg som øker kroppens yteevne på alle måter. Arr, og til og med hjernen, vil helbredes over tid, men ikke hele kroppsdeler. Dessverre vil mekanittene miste strukturen sin uten påfyll hver femte eller sjette dag. Da vil hjernen falle tilbake til en voldelig tilstand, og døden står for tur.\n\nMekanittene kan ikke fjernes fra kroppen når de først er plantet.\n\nPå byverdenene kalles luciferium for "fandebyttet". Etter at de røde pillene har tatt slutt, er nådedrap ofte den mest humane løsningen.</Luciferium.description>
   <!-- EN: Take {0} -->
-  <Luciferium.ingestible.ingestCommandString>TODO</Luciferium.ingestible.ingestCommandString>
+  <Luciferium.ingestible.ingestCommandString>Svelg</Luciferium.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <Luciferium.ingestible.ingestReportString>TODO</Luciferium.ingestible.ingestReportString>
-  
+  <Luciferium.ingestible.ingestReportString>Svelger</Luciferium.ingestible.ingestReportString>
+
 </LanguageData>

@@ -1,54 +1,54 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: hay -->
-  <Hay.label>hay</Hay.label>
+  <Hay.label>halm</Hay.label>
   <!-- EN: Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans. -->
-  <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
-  
+  <Hay.description>Tørket gress og skudd, dyrket for å spises av dyr. Halm er næringsrik mat for drøvtyggere, men mennesker kan ikke fordøye det.</Hay.description>
+
   <!-- EN: psychoid leaves -->
-  <PsychoidLeaves.label>TODO</PsychoidLeaves.label>
+  <PsychoidLeaves.label>psykoløv</PsychoidLeaves.label>
   <!-- EN: Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite. -->
-  <PsychoidLeaves.description>TODO</PsychoidLeaves.description>
-  
+  <PsychoidLeaves.description>Blader fra psykotiaplanten. Inneholder psykotin, som er en viktig ingrediens i mange legemidler.</PsychoidLeaves.description>
+
   <!-- EN: agave fruit -->
-  <RawAgave.label>agave fruit</RawAgave.label>
+  <RawAgave.label>agavefrukt</RawAgave.label>
   <!-- EN: Raw agave fruit. -->
-  <RawAgave.description>Raw agave fruit.</RawAgave.description>
-  
+  <RawAgave.description>Rå agavefrukt.</RawAgave.description>
+
   <!-- EN: berries -->
-  <RawBerries.label>berries</RawBerries.label>
+  <RawBerries.label>bær</RawBerries.label>
   <!-- EN: Assorted berries. Nice to eat, even when raw. -->
-  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
-  
+  <RawBerries.description>Diverse bær. Smaker godt, selv rå.</RawBerries.description>
+
   <!-- EN: corn -->
-  <RawCorn.label>corn</RawCorn.label>
+  <RawCorn.label>mais</RawCorn.label>
   <!-- EN: Raw corn. -->
-  <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>
-  
+  <RawCorn.description>Rå mais. Smaker godt, selv rå.</RawCorn.description>
+
   <!-- EN: raw fungus -->
-  <RawFungus.label>TODO</RawFungus.label>
+  <RawFungus.label>sopp</RawFungus.label>
   <!-- EN: Raw fungus. -->
-  <RawFungus.description>TODO</RawFungus.description>
-  
+  <RawFungus.description>Rå sopp.</RawFungus.description>
+
   <!-- EN: hops -->
-  <RawHops.label>hops</RawHops.label>
+  <RawHops.label>humle</RawHops.label>
   <!-- EN: Raw hops. A flavoring and preserving agent that is necessary for making beer. -->
-  <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
-  
+  <RawHops.description>Rå humle. Et krydder og konserveringsmiddel som brukes i øl.</RawHops.description>
+
   <!-- EN: potatoes -->
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.label>potet</RawPotatoes.label>
   <!-- EN: Raw potatoes. -->
-  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
-  
+  <RawPotatoes.description>Rå potet.</RawPotatoes.description>
+
   <!-- EN: rice -->
-  <RawRice.label>rice</RawRice.label>
+  <RawRice.label>ris</RawRice.label>
   <!-- EN: Raw rice. -->
-  <RawRice.description>Raw rice.</RawRice.description>
-  
+  <RawRice.description>Rå ris.</RawRice.description>
+
   <!-- EN: smokeleaf leaves -->
-  <SmokeleafLeaves.label>TODO</SmokeleafLeaves.label>
+  <SmokeleafLeaves.label>røkeblad</SmokeleafLeaves.label>
   <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
-  <SmokeleafLeaves.description>TODO</SmokeleafLeaves.description>
-  
+  <SmokeleafLeaves.description>Blader fra røkeplanten. Disse kan brukes til å rulle tjaller</SmokeleafLeaves.description>
+
 </LanguageData>

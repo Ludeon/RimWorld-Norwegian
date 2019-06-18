@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: agave -->
   <Plant_Agave.label>agave</Plant_Agave.label>
   <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
   <Plant_Agave.description>En ørkenplante med store blader. Den har spiselige blomster og skudd.</Plant_Agave.description>
-  
+
   <!-- EN: pincushion cactus -->
   <Plant_PincushionCactus.label>nåleputekaktus</Plant_PincushionCactus.label>
   <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
   <Plant_PincushionCactus.description>En kort kaktus i vortekaktusfamilien. Den har fått navnet sitt fordi den ligner en nålepute.</Plant_PincushionCactus.description>
-  
+
   <!-- EN: saguaro cactus -->
   <Plant_SaguaroCactus.label>kjempekaktus</Plant_SaguaroCactus.label>
   <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
   <Plant_SaguaroCactus.description>En stor kaktus som kommer fra tørre områder på Jorda. Den kan bli over 200 år gammel.</Plant_SaguaroCactus.description>
-  
+
   <!-- EN: drago tree -->
-  <Plant_TreeDrago.label>TODO</Plant_TreeDrago.label>
+  <Plant_TreeDrago.label>dragetre</Plant_TreeDrago.label>
   <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
-  <Plant_TreeDrago.description>TODO</Plant_TreeDrago.description>
-  
+  <Plant_TreeDrago.description>Et hardført ørkentre med tykke, spisse blader.</Plant_TreeDrago.description>
+
 </LanguageData>

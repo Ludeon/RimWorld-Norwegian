@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: penoxycyline -->
-  <Penoxycyline.label>TODO</Penoxycyline.label>
+  <Penoxycyline.label>penoxycyline</Penoxycyline.label>
   <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
-  <Penoxycyline.description>TODO</Penoxycyline.description>
+  <Penoxycyline.description>Forebyggende medisin. Virker mot malaria, sovesyke, og pest. Inntas hver femte dag for varig effekt.\n\nDenne medisinen er bare forebyggende. Den forhindrer bare nye infeksjoner, og stopper ikke gamle – selv ikke dem som ikke har utviklet symptomer enda.</Penoxycyline.description>
   <!-- EN: Take {0} -->
-  <Penoxycyline.ingestible.ingestCommandString>TODO</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestCommandString>Svelg</Penoxycyline.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <Penoxycyline.ingestible.ingestReportString>TODO</Penoxycyline.ingestible.ingestReportString>
-  
+  <Penoxycyline.ingestible.ingestReportString>Svelger</Penoxycyline.ingestible.ingestReportString>
+
 </LanguageData>
