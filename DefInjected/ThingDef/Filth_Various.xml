@@ -8,7 +8,7 @@
   <Filth_AnimalFilth.label>dyremøkk</Filth_AnimalFilth.label>
   
   <!-- EN: ash -->
-  <Filth_Ash.label>TODO</Filth_Ash.label>
+  <Filth_Ash.label>ask</Filth_Ash.label>
   
   <!-- EN: blood -->
   <Filth_Blood.label>blod</Filth_Blood.label>
@@ -17,7 +17,7 @@
   <Filth_BloodInsect.label>insektblod</Filth_BloodInsect.label>
   
   <!-- EN: corpse bile -->
-  <Filth_CorpseBile.label>TODO</Filth_CorpseBile.label>
+  <Filth_CorpseBile.label>liksaft</Filth_CorpseBile.label>
   
   <!-- EN: dirt -->
   <Filth_Dirt.label>skitt</Filth_Dirt.label>
@@ -26,9 +26,9 @@
   <Filth_FireFoam.label>brannskum</Filth_FireFoam.label>
   
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>TODO</Filth_Fuel.label>
+  <Filth_Fuel.label>kjemikalieflekk</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>TODO</Filth_Fuel.description>
+  <Filth_Fuel.description>En liten dam med brennbart drivstoff.</Filth_Fuel.description>
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>bygningsstøv</Filth_RubbleBuilding.label>
@@ -43,7 +43,7 @@
   <Filth_Slime.label>slim</Filth_Slime.label>
   
   <!-- EN: trash -->
-  <Filth_Trash.label>TODO</Filth_Trash.label>
+  <Filth_Trash.label>søppel</Filth_Trash.label>
   
   <!-- EN: vomit -->
   <Filth_Vomit.label>oppkast</Filth_Vomit.label>
@@ -52,6 +52,6 @@
   <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
   
   <!-- EN: scattered slag -->
-  <SlagRubble.label>TODO</SlagRubble.label>
+  <SlagRubble.label>smadret slag</SlagRubble.label>
   
 </LanguageData>
