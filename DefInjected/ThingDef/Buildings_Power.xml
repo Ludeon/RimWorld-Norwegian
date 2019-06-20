@@ -1,54 +1,54 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: battery -->
   <Battery.label>batteri</Battery.label>
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Akkumulerer elektrisitet når det produseres overflødig med strøm og avlader når det er for lite. Advarsel - Batterier kan overopphete i varme, eller når de er våte.</Battery.description>
-  
+
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>drivstoffgenerator</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
-  
+  <ChemfuelPoweredGenerator.description>Produserer elektrisitet fra drivstoff. Må fylles manuelt.</ChemfuelPoweredGenerator.description>
+
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
-  <GeothermalGenerator.description>Produserer elektrisitet fra en geotermisk generator. Skal plasseres på en geiser.</GeothermalGenerator.description>
-  
+  <GeothermalGenerator.description>Produserer elektrisitet fra en geotermisk generator. Må plasseres på en geysir.</GeothermalGenerator.description>
+
   <!-- EN: power conduit -->
   <PowerConduit.label>strømledning</PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
-  <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
-  
+  <PowerConduit.description>En isolert metalltråd som leder strøm. Kan legges i vegger og andre bygninger.</PowerConduit.description>
+
   <!-- EN: power switch -->
-  <PowerSwitch.label>power switch</PowerSwitch.label>
+  <PowerSwitch.label>bryter</PowerSwitch.label>
   <!-- EN: Switches power on/off. -->
-  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
-  
+  <PowerSwitch.description>Skrur strøm av og på.</PowerSwitch.description>
+
   <!-- EN: solar generator -->
   <SolarGenerator.label>solcelle generator</SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
   <SolarGenerator.description>Produserer elektrisitet fra sollys. Virker ikke når det er mørkt.</SolarGenerator.description>
-  
+
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>vannturbin</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
-  <WatermillGenerator.description>TODO</WatermillGenerator.description>
-  
+  <WatermillGenerator.description>Produserer elektrisitet fra vannkraft. Plasseres vannturbiner for nært hverandre vil de forstyrre vannstrømmen og minke effektiviteten.</WatermillGenerator.description>
+
   <!-- EN: waterproof conduit -->
-  <WaterproofConduit.label>TODO</WaterproofConduit.label>
+  <WaterproofConduit.label>vanntett ledning</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>TODO</WaterproofConduit.description>
-  
+  <WaterproofConduit.description>En tykk elektrisk kabel som kan lede strøm under grunt vann.</WaterproofConduit.description>
+
   <!-- EN: wind turbine -->
-  <WindTurbine.label>wind turbine</WindTurbine.label>
+  <WindTurbine.label>vindturbin</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</WindTurbine.description>
-  
+  <WindTurbine.description>Produserer elektrisitet fra vindkraft. Krever stor plass foran og bak for maks effektivitet. Pass på for tak og trær på avveie!</WindTurbine.description>
+
   <!-- EN: wood-fired generator -->
-  <WoodFiredGenerator.label>fueled generator</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>vedgenerator</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator.description>
-  
+  <WoodFiredGenerator.description>Produserer elektrisitet fra å brenne treverk. Må fylles manuelt.</WoodFiredGenerator.description>
+
 </LanguageData>

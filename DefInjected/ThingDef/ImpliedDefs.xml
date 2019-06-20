@@ -1,494 +1,494 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Alpakka corpse -->
-  <Corpse_Alpaca.label>alpakka-kadaver</Corpse_Alpaca.label>
+  <Corpse_Alpaca.label>alpakkakadaver</Corpse_Alpaca.label>
   <!-- EN: Dead body of a alpakka. -->
   <Corpse_Alpaca.description>Det døde kadaveret av en alpakka.</Corpse_Alpaca.description>
-  
+
   <!-- EN: Alfabever corpse -->
   <Corpse_Alphabeaver.label>alfabeverkadaver</Corpse_Alphabeaver.label>
   <!-- EN: Dead body of a alfabever. -->
   <Corpse_Alphabeaver.description>Det døde kadaveret av en alfabever.</Corpse_Alphabeaver.description>
-  
+
   <!-- EN: Grizzlybjørn corpse -->
   <Corpse_Bear_Grizzly.label>grizzlybjørnkadaver</Corpse_Bear_Grizzly.label>
   <!-- EN: Dead body of a grizzlybjørn. -->
   <Corpse_Bear_Grizzly.description>Det døde kadaveret av en grizzlybjørn.</Corpse_Bear_Grizzly.description>
-  
+
   <!-- EN: Isbjørn corpse -->
   <Corpse_Bear_Polar.label>isbjørnkadaver.</Corpse_Bear_Polar.label>
   <!-- EN: Dead body of a isbjørn. -->
   <Corpse_Bear_Polar.description>Det døde kadaveret av en isbjørn.</Corpse_Bear_Polar.description>
-  
+
   <!-- EN: Pangtilope corpse -->
   <Corpse_Boomalope.label>pangtilopekropp</Corpse_Boomalope.label>
   <!-- EN: Dead body of a pangtilope. -->
   <Corpse_Boomalope.description>Den døde kroppen av en pangtilope.</Corpse_Boomalope.description>
-  
+
   <!-- EN: Pangrotte corpse -->
   <Corpse_Boomrat.label>pangrottekadaver</Corpse_Boomrat.label>
   <!-- EN: Dead body of a pangrotte. -->
   <Corpse_Boomrat.description>Det døde kadaveret av en pangrotte.</Corpse_Boomrat.description>
-  
+
   <!-- EN: Flodsvin corpse -->
   <Corpse_Capybara.label>flodsvinkropp</Corpse_Capybara.label>
   <!-- EN: Dead body of a flodsvin. -->
   <Corpse_Capybara.description>Det døde kadaveret av et flodsvin.</Corpse_Capybara.description>
-  
+
   <!-- EN: Reinsdyr corpse -->
   <Corpse_Caribou.label>reinsdyrkadaver</Corpse_Caribou.label>
   <!-- EN: Dead body of a reinsdyr. -->
   <Corpse_Caribou.description>Det døde kadaveret av et reinsdyr.</Corpse_Caribou.description>
-  
+
   <!-- EN: Kasuar corpse -->
   <Corpse_Cassowary.label>kasuarkadaver</Corpse_Cassowary.label>
   <!-- EN: Dead body of a kasuar. -->
   <Corpse_Cassowary.description>Kadaveret av en kasuar.</Corpse_Cassowary.description>
-  
+
   <!-- EN: Katt corpse -->
   <Corpse_Cat.label>kattekadaver</Corpse_Cat.label>
   <!-- EN: Dead body of a katt. -->
   <Corpse_Cat.description>Det døde kadaveret av en katt.</Corpse_Cat.description>
-  
+
   <!-- EN: Høne corpse -->
   <Corpse_Chicken.label>kyllingkadaver</Corpse_Chicken.label>
   <!-- EN: Dead body of a høne. -->
   <Corpse_Chicken.description>Det døde kadaveret av en kylling.</Corpse_Chicken.description>
-  
+
   <!-- EN: Chinchilla corpse -->
-  <Corpse_Chinchilla.label>chinchillakropp</Corpse_Chinchilla.label>
+  <Corpse_Chinchilla.label>chinchillakadaver</Corpse_Chinchilla.label>
   <!-- EN: Dead body of a chinchilla. -->
   <Corpse_Chinchilla.description>Det døde kadaveret av en chinchilla.</Corpse_Chinchilla.description>
-  
+
   <!-- EN: Kobra corpse -->
-  <Corpse_Cobra.label>kobrakropp</Corpse_Cobra.label>
+  <Corpse_Cobra.label>kobrakadaver</Corpse_Cobra.label>
   <!-- EN: Dead body of a kobra. -->
   <Corpse_Cobra.description>Den døde kroppen av en kobra.</Corpse_Cobra.description>
-  
+
   <!-- EN: Puma corpse -->
   <Corpse_Cougar.label>pumakadaver</Corpse_Cougar.label>
   <!-- EN: Dead body of a puma. -->
   <Corpse_Cougar.description>Det døde kadaveret av en puma.</Corpse_Cougar.description>
-  
+
   <!-- EN: Ku corpse -->
   <Corpse_Cow.label>kukadaver</Corpse_Cow.label>
   <!-- EN: Dead body of a ku. -->
   <Corpse_Cow.description>Det døde kadaveret av en ku.</Corpse_Cow.description>
-  
+
   <!-- EN: Hjort corpse -->
   <Corpse_Deer.label>hjortekadaver</Corpse_Deer.label>
   <!-- EN: Dead body of a hjort. -->
   <Corpse_Deer.description>Det døde kadaveret av en hjort.</Corpse_Deer.description>
-  
+
   <!-- EN: Dromedar corpse -->
   <Corpse_Dromedary.label>dromedarkadaver</Corpse_Dromedary.label>
   <!-- EN: Dead body of a dromedar. -->
   <Corpse_Dromedary.description>Det døde kadaveret av en dromedar.</Corpse_Dromedary.description>
-  
+
   <!-- EN: Elefant corpse -->
   <Corpse_Elephant.label>elefantkadaver</Corpse_Elephant.label>
   <!-- EN: Dead body of a elefant. -->
   <Corpse_Elephant.description>Det døde kadaveret av en elefant.</Corpse_Elephant.description>
-  
+
   <!-- EN: Elg corpse -->
   <Corpse_Elk.label>elgkadaver</Corpse_Elk.label>
   <!-- EN: Dead body of a elg. -->
   <Corpse_Elk.description>Det døde kadaveret av en elg.</Corpse_Elk.description>
-  
+
   <!-- EN: Emu corpse -->
   <Corpse_Emu.label>emukadaver</Corpse_Emu.label>
   <!-- EN: Dead body of a emu. -->
   <Corpse_Emu.description>Kadaveret av en emu.</Corpse_Emu.description>
-  
+
   <!-- EN: Polarrev corpse -->
   <Corpse_Fox_Arctic.label>polarrevkadaver</Corpse_Fox_Arctic.label>
   <!-- EN: Dead body of a polarrev. -->
   <Corpse_Fox_Arctic.description>Kadaveret av en polarrev.</Corpse_Fox_Arctic.description>
-  
+
   <!-- EN: Ørkenrev corpse -->
   <Corpse_Fox_Fennec.label>ørkenrevkadaver</Corpse_Fox_Fennec.label>
   <!-- EN: Dead body of a ørkenrev. -->
   <Corpse_Fox_Fennec.description>Kadaveret av en ørkenrev.</Corpse_Fox_Fennec.description>
-  
+
   <!-- EN: Rødrev corpse -->
   <Corpse_Fox_Red.label>rødrevkadaver</Corpse_Fox_Red.label>
   <!-- EN: Dead body of a rødrev. -->
   <Corpse_Fox_Red.description>Kadaveret av en rødrev.</Corpse_Fox_Red.description>
-  
+
   <!-- EN: Gasell corpse -->
   <Corpse_Gazelle.label>gasellkadaver</Corpse_Gazelle.label>
   <!-- EN: Dead body of a Gasell. -->
   <Corpse_Gazelle.description>Kadaveret av en gasell.</Corpse_Gazelle.description>
-  
+
   <!-- EN: Hare corpse -->
   <Corpse_Hare.label>harekadaver</Corpse_Hare.label>
   <!-- EN: Dead body of a hare. -->
   <Corpse_Hare.description>Det døde kadaveret av en hare.</Corpse_Hare.description>
-  
+
   <!-- EN: Menneske corpse -->
   <Corpse_Human.label>menneskelik</Corpse_Human.label>
   <!-- EN: Dead body of a menneske. -->
   <Corpse_Human.description>Et menneskes døde kropp.</Corpse_Human.description>
-  
+
   <!-- EN: Husky corpse -->
   <Corpse_Husky.label>huskykadaver</Corpse_Husky.label>
   <!-- EN: Dead body of a husky. -->
   <Corpse_Husky.description>Det døde kadaveret av en husky.</Corpse_Husky.description>
-  
+
   <!-- EN: Steinbukk corpse -->
   <Corpse_Ibex.label>steinbukkadaver</Corpse_Ibex.label>
   <!-- EN: Dead body of a steinbukk. -->
   <Corpse_Ibex.description>Den døde kroppen til en steinbukk.</Corpse_Ibex.description>
-  
+
   <!-- EN: Iguan corpse -->
   <Corpse_Iguana.label>iguankadaver</Corpse_Iguana.label>
   <!-- EN: Dead body of a iguan. -->
   <Corpse_Iguana.description>Det døde kadaveret av en iguan.</Corpse_Iguana.description>
-  
+
   <!-- EN: Labrador corpse -->
   <Corpse_LabradorRetriever.label>labradorkadaver</Corpse_LabradorRetriever.label>
   <!-- EN: Dead body of a labrador. -->
   <Corpse_LabradorRetriever.description>Det døde kadaveret av en labrador retriever.</Corpse_LabradorRetriever.description>
-  
+
   <!-- EN: Gaupe corpse -->
   <Corpse_Lynx.label>gaupekadaver</Corpse_Lynx.label>
   <!-- EN: Dead body of a gaupe. -->
   <Corpse_Lynx.description>Det døde kadaveret av ei gaupe.</Corpse_Lynx.description>
-  
+
   <!-- EN: Tusenbein corpse -->
-  <Corpse_Mech_Centipede.label>tusenbeinkropp</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_Centipede.label>tusenbeinskall</Corpse_Mech_Centipede.label>
   <!-- EN: Dead body of a tusenbein. -->
   <Corpse_Mech_Centipede.description>Den døde kroppen av et mekanoid tusenbein.</Corpse_Mech_Centipede.description>
-  
+
   <!-- EN: Ljåbot corpse -->
-  <Corpse_Mech_Scyther.label>ljåbotkropp</Corpse_Mech_Scyther.label>
+  <Corpse_Mech_Scyther.label>ljåbotskall</Corpse_Mech_Scyther.label>
   <!-- EN: Dead body of a ljåbot. -->
   <Corpse_Mech_Scyther.description>Den døde kroppen av en mekanoid ljåbot.</Corpse_Mech_Scyther.description>
-  
+
   <!-- EN: Megatordivel corpse -->
   <Corpse_Megascarab.label>tordivelkadaver</Corpse_Megascarab.label>
   <!-- EN: Dead body of a megatordivel. -->
   <Corpse_Megascarab.description>Det døde kadaveret av en kjempetordivel.</Corpse_Megascarab.description>
-  
+
   <!-- EN: Kjempedovendyr corpse -->
   <Corpse_Megasloth.label>dovendyrkadaver</Corpse_Megasloth.label>
   <!-- EN: Dead body of a kjempedovendyr. -->
   <Corpse_Megasloth.description>Kadaveret til et kjempedovendyr.</Corpse_Megasloth.description>
-  
+
   <!-- EN: Megaedderkopp corpse -->
   <Corpse_Megaspider.label>edderkoppkadaver</Corpse_Megaspider.label>
   <!-- EN: Dead body of a megaedderkopp. -->
   <Corpse_Megaspider.description>Det døde kadaveret av en  megaedderkopp.</Corpse_Megaspider.description>
-  
+
   <!-- EN: Ape corpse -->
   <Corpse_Monkey.label>apekropp</Corpse_Monkey.label>
   <!-- EN: Dead body of a ape. -->
   <Corpse_Monkey.description>Den døde kroppen av en ape.</Corpse_Monkey.description>
-  
+
   <!-- EN: Muffel corpse -->
   <Corpse_Muffalo.label>muffelkadaver</Corpse_Muffalo.label>
   <!-- EN: Dead body of a muffel. -->
   <Corpse_Muffalo.description>Det døde kadaveret av en muffel.</Corpse_Muffalo.description>
-  
+
   <!-- EN: Struts corpse -->
   <Corpse_Ostrich.label>strutsekadaver</Corpse_Ostrich.label>
   <!-- EN: Dead body of a struts. -->
   <Corpse_Ostrich.description>Kadaveret av en struts.</Corpse_Ostrich.description>
-  
+
   <!-- EN: Panter corpse -->
   <Corpse_Panther.label>panterkadaver</Corpse_Panther.label>
   <!-- EN: Dead body of a panter. -->
   <Corpse_Panther.description>Det døde kadaveret av en panter (pant alt, alltid).</Corpse_Panther.description>
-  
+
   <!-- EN: Gris corpse -->
   <Corpse_Pig.label>grisekadaver</Corpse_Pig.label>
   <!-- EN: Dead body of a gris. -->
   <Corpse_Pig.description>Det døde kadaveret av en gris.</Corpse_Pig.description>
-  
+
   <!-- EN: Vaskebjørn corpse -->
   <Corpse_Raccoon.label>vaskebjørnkadaver</Corpse_Raccoon.label>
   <!-- EN: Dead body of a Vaskebjørn. -->
   <Corpse_Raccoon.description>Det døde kadaveret av en vaskebjørn.</Corpse_Raccoon.description>
-  
+
   <!-- EN: Rotte corpse -->
   <Corpse_Rat.label>Rottekadaver</Corpse_Rat.label>
   <!-- EN: Dead body of a rotte. -->
   <Corpse_Rat.description>Det døde kadaveret av ei rotte.</Corpse_Rat.description>
-  
+
   <!-- EN: Neshorn corpse -->
   <Corpse_Rhinoceros.label>neshornkadaver</Corpse_Rhinoceros.label>
   <!-- EN: Dead body of a neshorn. -->
   <Corpse_Rhinoceros.description>Det døde kadaveret av et neshorn.</Corpse_Rhinoceros.description>
-  
+
   <!-- EN: Snøhare corpse -->
   <Corpse_Snowhare.label>snøharekadaver</Corpse_Snowhare.label>
   <!-- EN: Dead body of a snøhare. -->
   <Corpse_Snowhare.description>Det døde kadaveret av en snøhare.</Corpse_Snowhare.description>
-  
+
   <!-- EN: Speloped corpse -->
   <Corpse_Spelopede.label>spelopedkadaver</Corpse_Spelopede.label>
   <!-- EN: Dead body of a speloped. -->
   <Corpse_Spelopede.description>Det døde kadaveret av en speloped.</Corpse_Spelopede.description>
-  
+
   <!-- EN: Ekorn corpse -->
   <Corpse_Squirrel.label>ekornkadaver</Corpse_Squirrel.label>
   <!-- EN: Dead body of a ekorn. -->
   <Corpse_Squirrel.description>Det døde kadaveret av et ekorn.</Corpse_Squirrel.description>
-  
+
   <!-- EN: Thrumbo corpse -->
   <Corpse_Thrumbo.label>thrumbokadaver</Corpse_Thrumbo.label>
   <!-- EN: Dead body of a thrumbo. -->
   <Corpse_Thrumbo.description>Det døde kadaveret av en thrumbo.</Corpse_Thrumbo.description>
-  
+
   <!-- EN: Skilpadde corpse -->
   <Corpse_Tortoise.label>skilpaddekadaver</Corpse_Tortoise.label>
   <!-- EN: Dead body of a skilpadde. -->
   <Corpse_Tortoise.description>Det døde kadaveret av en skilpadde.</Corpse_Tortoise.description>
-  
+
   <!-- EN: Kalkun corpse -->
   <Corpse_Turkey.label>kalkunkadaver</Corpse_Turkey.label>
   <!-- EN: Dead body of a kalkun. -->
   <Corpse_Turkey.description>Kadaveret av en kalkun.</Corpse_Turkey.description>
-  
+
   <!-- EN: Varg corpse -->
   <Corpse_Warg.label>vargkadaver</Corpse_Warg.label>
   <!-- EN: Dead body of a varg. -->
   <Corpse_Warg.description>Det døde kadaveret av en varg.</Corpse_Warg.description>
-  
+
   <!-- EN: Villsvin corpse -->
   <Corpse_WildBoar.label>villsvinkadaver</Corpse_WildBoar.label>
   <!-- EN: Dead body of a villsvin. -->
   <Corpse_WildBoar.description>Det døde kadaveret av et villsvin.</Corpse_WildBoar.description>
-  
+
   <!-- EN: Polarulv corpse -->
   <Corpse_Wolf_Arctic.label>polarulvkadaver</Corpse_Wolf_Arctic.label>
   <!-- EN: Dead body of a polarulv. -->
   <Corpse_Wolf_Arctic.description>Kadaveret av en polarulv.</Corpse_Wolf_Arctic.description>
-  
+
   <!-- EN: Ulv corpse -->
   <Corpse_Wolf_Timber.label>ulvekadaver</Corpse_Wolf_Timber.label>
   <!-- EN: Dead body of a ulv. -->
   <Corpse_Wolf_Timber.description>Kadaveret av en ulv.</Corpse_Wolf_Timber.description>
-  
+
   <!-- EN: Terrier corpse -->
   <Corpse_YorkshireTerrier.label>terrierkadaver</Corpse_YorkshireTerrier.label>
   <!-- EN: Dead body of a terrier. -->
   <Corpse_YorkshireTerrier.description>Det døde kadaveret av en yorkshire terrier.</Corpse_YorkshireTerrier.description>
-  
+
   <!-- EN: Alpakka meat -->
   <Meat_Alpaca.label>alpakkakjøtt</Meat_Alpaca.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Alpaca.description>Rått kjøtt fra en alpakka.</Meat_Alpaca.description>
-  
+
   <!-- EN: Alfabever meat -->
   <Meat_Alphabeaver.label>alfabeverkjøtt</Meat_Alphabeaver.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Alphabeaver.description>Rått kjøtt fra en alfabever.</Meat_Alphabeaver.description>
-  
+
   <!-- EN: bear meat -->
   <Meat_Bear_Grizzly.label>bjørnekjøtt</Meat_Bear_Grizzly.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Bear_Grizzly.description>Rått kjøtt fra en grizzlybjørn.</Meat_Bear_Grizzly.description>
-  
+
   <!-- EN: Pangtilope meat -->
   <Meat_Boomalope.label>pangtilopekjøtt</Meat_Boomalope.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Boomalope.description>Rått kjøtt fra en pangtilope.</Meat_Boomalope.description>
-  
+
   <!-- EN: Pangrotte meat -->
   <Meat_Boomrat.label>pangrottekjøtt</Meat_Boomrat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Boomrat.description>Rått kjøtt fra et pangrotte.</Meat_Boomrat.description>
-  
+
   <!-- EN: Flodsvin meat -->
   <Meat_Capybara.label>flodsvinkjøtt</Meat_Capybara.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Capybara.description>Rått kjøtt fra et flodsvin.</Meat_Capybara.description>
-  
+
   <!-- EN: Reinsdyr meat -->
   <Meat_Caribou.label>reinkjøtt</Meat_Caribou.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Caribou.description>Rått kjøtt fra et reinsdyr.</Meat_Caribou.description>
-  
+
   <!-- EN: bird meat -->
   <Meat_Cassowary.label>fuglekjøtt</Meat_Cassowary.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Cassowary.description>Rått kjøtt fra en fugl.</Meat_Cassowary.description>
-  
+
   <!-- EN: Katt meat -->
   <Meat_Cat.label>kattekjøtt</Meat_Cat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Cat.description>Det rå kjøttet fra en katt.</Meat_Cat.description>
-  
+
   <!-- EN: Høne meat -->
   <Meat_Chicken.label>kyllingkjøtt</Meat_Chicken.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Chicken.description>Rått kjøtt fra en kylling.</Meat_Chicken.description>
-  
+
   <!-- EN: Chinchilla meat -->
   <Meat_Chinchilla.label>chinchillakjøtt</Meat_Chinchilla.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Chinchilla.description>Rått kjøtt fra en chinchilla.</Meat_Chinchilla.description>
-  
+
   <!-- EN: cobraflesh -->
   <Meat_Cobra.label>kobrakjøtt</Meat_Cobra.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Cobra.description>Rått kjøtt fra en kobra.</Meat_Cobra.description>
-  
+
   <!-- EN: Puma meat -->
   <Meat_Cougar.label>pumakjøtt</Meat_Cougar.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Cougar.description>Rått kjøtt fra en puma.</Meat_Cougar.description>
-  
+
   <!-- EN: beef -->
   <Meat_Cow.label>oksekjøtt</Meat_Cow.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Cow.description>Rått kjøtt fra en ku. Selv kuer produserer oksekjøtt på norsk.</Meat_Cow.description>
-  
+
   <!-- EN: venison -->
   <Meat_Deer.label>hjortekjøtt</Meat_Deer.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Deer.description>Rått kjøtt fra en hjort.</Meat_Deer.description>
-  
+
   <!-- EN: Dromedar meat -->
   <Meat_Dromedary.label>dromedarkjøtt</Meat_Dromedary.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Dromedary.description>Rått kjøt fra en dromedar.</Meat_Dromedary.description>
-  
+
   <!-- EN: Elefant meat -->
   <Meat_Elephant.label>elefantkjøtt</Meat_Elephant.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Elephant.description>Rått kjøtt fra en elefant.</Meat_Elephant.description>
-  
+
   <!-- EN: Elg meat -->
   <Meat_Elk.label>elgkjøtt</Meat_Elk.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Elk.description>Rått kjøtt fra en elg.</Meat_Elk.description>
-  
+
   <!-- EN: foxmeat -->
   <Meat_Fox_Fennec.label>revekjøtt</Meat_Fox_Fennec.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Fox_Fennec.description>Rått kjøtt fra en rev.</Meat_Fox_Fennec.description>
-  
+
   <!-- EN: Gasell meat -->
   <Meat_Gazelle.label>gasellkjøtt</Meat_Gazelle.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Gazelle.description>Kjøtt fra en gasell.</Meat_Gazelle.description>
-  
+
   <!-- EN: Hare meat -->
   <Meat_Hare.label>harekjøtt</Meat_Hare.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Hare.description>Rått kjøtt fra en hare.</Meat_Hare.description>
-  
+
   <!-- EN: Menneske meat -->
   <Meat_Human.label>menneskekjøtt</Meat_Human.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <Meat_Human.description>Rå kjøtt fra et menneske.</Meat_Human.description>
-  
+
   <!-- EN: Husky meat -->
   <Meat_Husky.label>huskykjøtt</Meat_Husky.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Husky.description>Det rå kjøttet fra en husky.</Meat_Husky.description>
-  
+
   <!-- EN: Steinbukk meat -->
   <Meat_Ibex.label>steinbukk-kjøtt</Meat_Ibex.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Ibex.description>Kjøtt fra en steinbukk.</Meat_Ibex.description>
-  
+
   <!-- EN: Iguan meat -->
   <Meat_Iguana.label>iguankjøtt</Meat_Iguana.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Iguana.description>Rått kjøtt fra en iguan.</Meat_Iguana.description>
-  
+
   <!-- EN: Labrador meat -->
   <Meat_LabradorRetriever.label>labradorkjøtt</Meat_LabradorRetriever.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_LabradorRetriever.description>Det rå kjøttet fra en labrador retriever.</Meat_LabradorRetriever.description>
-  
+
   <!-- EN: Gaupe meat -->
   <Meat_Lynx.label>gaupekjøtt</Meat_Lynx.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Lynx.description>Rått kjøtt fra ei gaupe.</Meat_Lynx.description>
-  
+
   <!-- EN: Kjempedovendyr meat -->
   <Meat_Megasloth.label>dovendyrkjøtt</Meat_Megasloth.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Megasloth.description>Kjøttet fra et kjempedovendyr.</Meat_Megasloth.description>
-  
+
   <!-- EN: insect meat -->
   <Meat_Megaspider.label>edderkoppkjøtt</Meat_Megaspider.label>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <Meat_Megaspider.description>Rått kjøtt fra en megaedderkopp.</Meat_Megaspider.description>
-  
+
   <!-- EN: Ape meat -->
   <Meat_Monkey.label>apekjøtt</Meat_Monkey.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Monkey.description>Rått kjøtt fra en ape.</Meat_Monkey.description>
-  
+
   <!-- EN: Muffel meat -->
   <Meat_Muffalo.label>muffelkjøtt</Meat_Muffalo.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Muffalo.description>Rått kjøtt fra en muffel.</Meat_Muffalo.description>
-  
+
   <!-- EN: Panter meat -->
   <Meat_Panther.label>panterkjøtt</Meat_Panther.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Panther.description>Rått kjøtt fra en panter.</Meat_Panther.description>
-  
+
   <!-- EN: pork -->
   <Meat_Pig.label>svinekjøtt</Meat_Pig.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Pig.description>Rått kjøtt fra en gris.</Meat_Pig.description>
-  
+
   <!-- EN: Vaskebjørn meat -->
   <Meat_Raccoon.label>vaskebjørnkjøtt</Meat_Raccoon.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Raccoon.description>Rått kjøtt fra en vaskebjørn.</Meat_Raccoon.description>
-  
+
   <!-- EN: Rotte meat -->
   <Meat_Rat.label>rottekjøtt</Meat_Rat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Rat.description>Rått kjøtt fra ei rotte.</Meat_Rat.description>
-  
+
   <!-- EN: Neshorn meat -->
   <Meat_Rhinoceros.label>neshornkjøtt</Meat_Rhinoceros.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Rhinoceros.description>Rått kjøtt fra et neshorn.</Meat_Rhinoceros.description>
-  
+
   <!-- EN: Ekorn meat -->
   <Meat_Squirrel.label>ekornkjøtt</Meat_Squirrel.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Squirrel.description>Rått kjøtt fra et ekorn.</Meat_Squirrel.description>
-  
+
   <!-- EN: Thrumbo meat -->
   <Meat_Thrumbo.label>thrumbokjøtt</Meat_Thrumbo.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Thrumbo.description>Rått kjøtt fra en thrumbo.</Meat_Thrumbo.description>
-  
+
   <!-- EN: Skilpadde meat -->
   <Meat_Tortoise.label>skilpaddekjøtt</Meat_Tortoise.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Tortoise.description>Rått kjøtt fra en skilpadde.</Meat_Tortoise.description>
-  
+
   <!-- EN: Kalkun meat -->
   <Meat_Turkey.label>kalkunkjøtt</Meat_Turkey.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Turkey.description>Kjøtt fra en kalkun.</Meat_Turkey.description>
-  
+
   <!-- EN: Varg meat -->
   <Meat_Warg.label>vargkjøtt</Meat_Warg.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Warg.description>Rått kjøtt fra en varg.</Meat_Warg.description>
-  
+
   <!-- EN: wolfmeat -->
   <Meat_Wolf_Timber.label>ulvekjøtt</Meat_Wolf_Timber.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_Wolf_Timber.description>Rått kjøtt fra en ulv.</Meat_Wolf_Timber.description>
-  
+
   <!-- EN: Terrier meat -->
   <Meat_YorkshireTerrier.label>terrierkjøtt</Meat_YorkshireTerrier.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <Meat_YorkshireTerrier.description>Det rå kjøttet fra en yorkshire terrier.</Meat_YorkshireTerrier.description>
-  
+
 </LanguageData>

@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: grand sculpture -->
-  <SculptureGrand.label>skulptur som er gigantisk</SculptureGrand.label>
+  <SculptureGrand.label>gigantisk skulptur</SculptureGrand.label>
   <!-- EN: A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>Materiale på størrelse med en bil, skulpturert på artistisk vis.</SculptureGrand.description>
-  
+
   <!-- EN: large sculpture -->
-  <SculptureLarge.label>skulptur som er stor</SculptureLarge.label>
+  <SculptureLarge.label>stor skulptur</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
   <SculptureLarge.description>Materiale på størrelse med en person, skulpturert på artistisk vis.</SculptureLarge.description>
-  
+
   <!-- EN: small sculpture -->
-  <SculptureSmall.label>skulptur som er liten</SculptureSmall.label>
+  <SculptureSmall.label>liten skulptur</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
   <SculptureSmall.description>Materiale på størrelse med en torso, skulpturert på artistisk vis.</SculptureSmall.description>
-  
+
   <!-- EN: snowman -->
   <Snowman.label>snømann</Snowman.label>
   <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
-  <Snowman.description>Store snøballer stablet på hverandre, for å ligne en person.</Snowman.description>
-  
+  <Snowman.description>Store snøballer stablet oppå hverandre, for å ligne en person.</Snowman.description>
+
 </LanguageData>

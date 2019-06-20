@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: amniotic fluid -->
   <Filth_AmnioticFluid.label>fostervann</Filth_AmnioticFluid.label>
-  
+
   <!-- EN: animal filth -->
   <Filth_AnimalFilth.label>dyremøkk</Filth_AnimalFilth.label>
-  
+
   <!-- EN: ash -->
-  <Filth_Ash.label>ask</Filth_Ash.label>
-  
+  <Filth_Ash.label>aske</Filth_Ash.label>
+
   <!-- EN: blood -->
   <Filth_Blood.label>blod</Filth_Blood.label>
-  
+
   <!-- EN: bugblood -->
   <Filth_BloodInsect.label>insektblod</Filth_BloodInsect.label>
-  
+
   <!-- EN: corpse bile -->
   <Filth_CorpseBile.label>liksaft</Filth_CorpseBile.label>
-  
+
   <!-- EN: dirt -->
   <Filth_Dirt.label>skitt</Filth_Dirt.label>
-  
+
   <!-- EN: firefoam -->
   <Filth_FireFoam.label>brannskum</Filth_FireFoam.label>
-  
+
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>kjemikalieflekk</Filth_Fuel.label>
+  <Filth_Fuel.label>drivstoffdam</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>En liten dam med brennbart drivstoff.</Filth_Fuel.description>
-  
+  <Filth_Fuel.description>en brennbar klump med drivstoff</Filth_Fuel.description>
+
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>bygningsstøv</Filth_RubbleBuilding.label>
-  
+
   <!-- EN: rock rubble -->
   <Filth_RubbleRock.label>steinklumper</Filth_RubbleRock.label>
-  
+
   <!-- EN: sand -->
   <Filth_Sand.label>sand</Filth_Sand.label>
-  
+
   <!-- EN: slime -->
   <Filth_Slime.label>slim</Filth_Slime.label>
-  
+
   <!-- EN: trash -->
   <Filth_Trash.label>søppel</Filth_Trash.label>
-  
+
   <!-- EN: vomit -->
   <Filth_Vomit.label>oppkast</Filth_Vomit.label>
-  
+
   <!-- EN: scattered sandbags -->
   <SandbagRubble.label>smadrede sandsekker</SandbagRubble.label>
-  
+
   <!-- EN: scattered slag -->
-  <SlagRubble.label>smadret slag</SlagRubble.label>
-  
+  <SlagRubble.label>metallstøv</SlagRubble.label>
+
 </LanguageData>
