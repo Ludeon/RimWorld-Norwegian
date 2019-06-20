@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: cougar -->
   <Cougar.label>puma</Cougar.label>
   <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
   <Cougar.description>Pumaen er en av de farligste store kattedyrene. De jakter alene, med lange, skarpe tenner og klør. De ligger ofte og lurer på byttet i bakhold før de hopper fram.\n\nSelv om mennesker ikke er en del av den vanlige menyen, så sier de ikke nei-takk til litt lettvint menneskebiff.</Cougar.description>
   <!-- EN: left claw -->
-  <Cougar.tools.left_claw.label>TODO</Cougar.tools.left_claw.label>
+  <Cougar.tools.left_claw.label>venstre klør</Cougar.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Cougar.tools.right_claw.label>TODO</Cougar.tools.right_claw.label>
+  <Cougar.tools.right_claw.label>høyre klør</Cougar.tools.right_claw.label>
   <!-- EN: head -->
-  <Cougar.tools.head.label>TODO</Cougar.tools.head.label>
-  
+  <Cougar.tools.head.label>hode</Cougar.tools.head.label>
+
   <!-- EN: lynx -->
   <Lynx.label>gaupe</Lynx.label>
   <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
-  <Lynx.description>Gaupa er større enn en huskatt og mindre enn en puma. Gauper har en diett som består av små fugler og dyr. Deres svært varme pels holder dem trygge fra de iskalde temperaturene i nordlige strøk.</Lynx.description>
+  <Lynx.description>Gaupa er større enn en huskatt og mindre enn en puma. Gauper har en diett som består av små fugler og dyr. Deres svært varme pels holder dem trygge fra de iskalde temperaturene i nordlige strøk. </Lynx.description>
   <!-- EN: left claw -->
-  <Lynx.tools.left_claw.label>TODO</Lynx.tools.left_claw.label>
+  <Lynx.tools.left_claw.label>venstre klør</Lynx.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Lynx.tools.right_claw.label>TODO</Lynx.tools.right_claw.label>
+  <Lynx.tools.right_claw.label>høyre klør</Lynx.tools.right_claw.label>
   <!-- EN: head -->
-  <Lynx.tools.head.label>TODO</Lynx.tools.head.label>
-  
+  <Lynx.tools.head.label>hode</Lynx.tools.head.label>
+
   <!-- EN: panther -->
   <Panther.label>panter</Panther.label>
   <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
   <Panther.description>Et smidig og kraftfull stort kattedyr, som hører hjemme i jungelen på Den gamle Jorden. Pantere jakter alene ved å legge seg i bakhold og er mestere i å nedlegge både store og små bytter. Observatører legger fort merke til deres grasiøse bevegelser, mens de som kommer nærmere legger fort merke til at dyret har et kraftig bitt.</Panther.description>
   <!-- EN: left claw -->
-  <Panther.tools.left_claw.label>TODO</Panther.tools.left_claw.label>
+  <Panther.tools.left_claw.label>venstre klør</Panther.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Panther.tools.right_claw.label>TODO</Panther.tools.right_claw.label>
+  <Panther.tools.right_claw.label>høyre klør</Panther.tools.right_claw.label>
   <!-- EN: head -->
-  <Panther.tools.head.label>TODO</Panther.tools.head.label>
-  
+  <Panther.tools.head.label>hode</Panther.tools.head.label>
+
 </LanguageData>

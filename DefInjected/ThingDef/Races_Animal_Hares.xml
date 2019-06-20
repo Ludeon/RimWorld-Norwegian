@@ -1,22 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: hare -->
   <Hare.label>hare</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>Denne lille, alenelevende planteeteren kan hoppe raskt vekk fra farer.</Hare.description>
   <!-- EN: head -->
-  <Hare.tools.head.label>TODO</Hare.tools.head.label>
-  
-  <!-- UNUSED -->
-  <Meat_Snowhare.label>snøharekjøtt</Meat_Snowhare.label>
-  <Meat_Snowhare.description>rått kjøtt fra en snøhare</Meat_Snowhare.description>
-  
+  <Hare.tools.head.label>hode</Hare.tools.head.label>
+
   <!-- EN: snowhare -->
   <Snowhare.label>snøhare</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
   <Snowhare.description>Dette tøffe dyret overlever de brutale vinterne i nord ved å grave seg gjennom snøen og finne bytte under den, eller ved å gå i dvale i de verste månedene.</Snowhare.description>
   <!-- EN: head -->
-  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
-  
+  <Snowhare.tools.head.label>hode</Snowhare.tools.head.label>
+
 </LanguageData>

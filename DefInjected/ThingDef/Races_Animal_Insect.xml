@@ -1,41 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- UNUSED -->
-  <Meat_Megascarab.label>tordivelkjøtt</Meat_Megascarab.label>
-  <Meat_Megascarab.description>Rått kjøtt fra en kjempetordivel.</Meat_Megascarab.description>
-  
-  <!-- UNUSED -->
-  <Meat_Spelopede.label>spelopedkjøtt</Meat_Spelopede.label>
-  <Meat_Spelopede.description>Rått kjøtt fra en speloped.</Meat_Spelopede.description>
-  
+
   <!-- EN: megascarab -->
   <Megascarab.label>megatordivel</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
   <Megascarab.description>En svær, genmodifisert bille. En gang i tida var den arbeideren i et kunstig økonsystem av insekter, skreddersydd for å sloss mot robotinvasjoner. Den sees nå vanligvis uten sine mer dødelige fettere. Dens størrelse og harde panser gjør den allikevel farlig når den angriper. Den er eusosial og kan ikke reprodusere seg som individ.</Megascarab.description>
   <!-- EN: mandibles -->
-  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
+  <Megascarab.tools.mandibles.label>munndeler</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
-  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
-  
+  <Megascarab.tools.head.label>hode</Megascarab.tools.head.label>
+
   <!-- EN: megaspider -->
   <Megaspider.label>megaedderkopp</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
   <Megaspider.description>Megaedderkoppen er egentlig ikke en edderkopp, men et genmanipulert kjempeinsekt på størrelse med en bjørn. Designet for tungt arbeid og harde kamper. Det tykke kitinpanseret gjør den vanskelig å drepe, mens dens lange, dødelige kuttblader gjør den dødelig.</Megaspider.description>
   <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
+  <Megaspider.race.meatLabel>insektkjøtt</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>hodeklo</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
-  <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
-  
+  <Megaspider.tools.head.label>hode</Megaspider.tools.head.label>
+
   <!-- EN: spelopede -->
   <Spelopede.label>speloped</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
   <Spelopede.description>Et mellomstort biomodifisert insekt på størrelse med en sau. Spelopeden er i mellomkasten i kuben og tar hånd om de fleste arbeidsoppgaver, slik som å sloss med klørne sine.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>TODO</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>hodeklo</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
-  <Spelopede.tools.head.label>TODO</Spelopede.tools.head.label>
-  
+  <Spelopede.tools.head.label>hode</Spelopede.tools.head.label>
+
 </LanguageData>
