@@ -10,11 +10,7 @@
   <Extreme.label>Ekstremt</Extreme.label>
   <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
   <Extreme.description>Her er det ingen kjære mor. Fiender er sterke, priser er urettferdige, mat er sjeldnere, og kolonistene er sure. For dem som nyter å slite.</Extreme.description>
-  
-  <!-- UNUSED -->
-  <FreePlay.label>Fritt spill</FreePlay.label>
-  <FreePlay.description>En modus for en lekekassekoloni. Farer finnes, men de er veldig underlegne.</FreePlay.description>
-  
+
   <!-- EN: savage -->
   <Hard.label>TODO</Hard.label>
   <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
