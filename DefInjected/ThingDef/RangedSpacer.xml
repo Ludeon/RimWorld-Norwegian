@@ -19,7 +19,7 @@
   <!-- EN: charge rifle -->
   <Gun_ChargeRifle.label>stormgevær</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>Gevær som skyter høyenergiladede kuler med et skinnesystem, noe som gjør at det oppnår høyere hastigheter enn kruttbaserte patroner. Lang rekkevidde, stor skade, høy skuddrate. </Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>Gevær som skyter høyenergiladede kuler med et skinnesystem, noe som gjør at det oppnår høyere hastigheter enn kruttbaserte patroner. Lang rekkevidde, stor skade, høy skuddrate.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
   <Gun_ChargeRifle.tools.stock.label>TODO</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->
