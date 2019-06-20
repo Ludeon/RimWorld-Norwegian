@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <Basebuilder.label>Oppbygging</Basebuilder.label>
-  <Basebuilder.description>Dene modusen fokuserer på å bygge en base. Farene errelativt enkle å hanskes med.</Basebuilder.description>
-  
-  <!-- UNUSED -->
-  <Challenge.label>Utfordring</Challenge.label>
-  <Challenge.description>For dem som ønsker en utfordring. Denne modusen krever strategi, selvsikkerhet og flaks. Den autentiske RimWorld-opplevelsen.</Challenge.description>
-  
   <!-- EN: builder -->
   <Easy.label>TODO</Easy.label>
   <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
