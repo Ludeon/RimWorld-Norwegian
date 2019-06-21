@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: flu -->
-  <Animal_Flu.label>TODO</Animal_Flu.label>
+  <Animal_Flu.label>influensa</Animal_Flu.label>
   <!-- EN: minor -->
-  <Animal_Flu.stages.minor.label>TODO</Animal_Flu.stages.minor.label>
+  <Animal_Flu.stages.minor.label>begynnende</Animal_Flu.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Flu.stages.major.label>TODO</Animal_Flu.stages.major.label>
+  <Animal_Flu.stages.major.label>alvorlig</Animal_Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Flu.stages.extreme.label>TODO</Animal_Flu.stages.extreme.label>
+  <Animal_Flu.stages.extreme.label>livstruende</Animal_Flu.stages.extreme.label>
   
   <!-- EN: plague -->
-  <Animal_Plague.label>TODO</Animal_Plague.label>
+  <Animal_Plague.label>pest</Animal_Plague.label>
   <!-- EN: minor -->
-  <Animal_Plague.stages.minor.label>TODO</Animal_Plague.stages.minor.label>
+  <Animal_Plague.stages.minor.label>begynnende</Animal_Plague.stages.minor.label>
   <!-- EN: major -->
-  <Animal_Plague.stages.major.label>TODO</Animal_Plague.stages.major.label>
+  <Animal_Plague.stages.major.label>moderat</Animal_Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-0.label>TODO</Animal_Plague.stages.extreme-0.label>
+  <Animal_Plague.stages.extreme-0.label>alvorlig</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-1.label>TODO</Animal_Plague.stages.extreme-1.label>
+  <Animal_Plague.stages.extreme-1.label>livstruende</Animal_Plague.stages.extreme-1.label>
   
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>fibermekanitter</FibrousMechanites.label>
@@ -33,9 +33,9 @@
   <!-- EN: minor -->
   <Flu.stages.minor.label>begynnende</Flu.stages.minor.label>
   <!-- EN: major -->
-  <Flu.stages.major.label>ufarlig</Flu.stages.major.label>
+  <Flu.stages.major.label>alvorlig</Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Flu.stages.extreme.label>moderat</Flu.stages.extreme.label>
+  <Flu.stages.extreme.label>livstruende</Flu.stages.extreme.label>
   
   <!-- EN: gut worms -->
   <GutWorms.label>tarmparasitt</GutWorms.label>
@@ -45,9 +45,9 @@
   <!-- EN: minor -->
   <Malaria.stages.minor.label>begynnende</Malaria.stages.minor.label>
   <!-- EN: major -->
-  <Malaria.stages.major.label>ufarlig</Malaria.stages.major.label>
+  <Malaria.stages.major.label>alvorlig</Malaria.stages.major.label>
   <!-- EN: extreme -->
-  <Malaria.stages.extreme.label>moderat</Malaria.stages.extreme.label>
+  <Malaria.stages.extreme.label>livstruende</Malaria.stages.extreme.label>
   
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>muskelparasitt</MuscleParasites.label>
@@ -57,11 +57,11 @@
   <!-- EN: minor -->
   <Plague.stages.minor.label>begynnende</Plague.stages.minor.label>
   <!-- EN: major -->
-  <Plague.stages.major.label>ufarlig</Plague.stages.major.label>
+  <Plague.stages.major.label>moderat</Plague.stages.major.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-0.label>moderat</Plague.stages.extreme-0.label>
+  <Plague.stages.extreme-0.label>alvorlig</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Plague.stages.extreme-1.label>alvorlig</Plague.stages.extreme-1.label>
+  <Plague.stages.extreme-1.label>livstruende</Plague.stages.extreme-1.label>
   
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>sansemekanitter</SensoryMechanites.label>
@@ -86,14 +86,14 @@
   <!-- EN: infection -->
   <WoundInfection.label>infeksjon</WoundInfection.label>
   <!-- EN: an infection -->
-  <WoundInfection.labelNoun>TODO</WoundInfection.labelNoun>
+  <WoundInfection.labelNoun>en infeksjon</WoundInfection.labelNoun>
   <!-- EN: minor -->
   <WoundInfection.stages.minor.label>begynnende</WoundInfection.stages.minor.label>
   <!-- EN: major -->
   <WoundInfection.stages.major.label>moderat</WoundInfection.stages.major.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-0.label>skummel</WoundInfection.stages.extreme-0.label>
+  <WoundInfection.stages.extreme-0.label>alvorlig</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-1.label>alvorlig</WoundInfection.stages.extreme-1.label>
+  <WoundInfection.stages.extreme-1.label>livstruende</WoundInfection.stages.extreme-1.label>
   
 </LanguageData>
