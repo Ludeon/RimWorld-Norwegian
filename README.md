@@ -28,4 +28,4 @@ Translators
 - ApertureAlex - Last update March 2017
 - EirikBirkeland - Last update November 2017
 - Erik Raae (mr-raw) - Last update May 2018
-- Eivind Olsnes (Aiven) - Last update July 2019
+- Eivind Olsnes (Aiven/avienated) - Last update July 2019
