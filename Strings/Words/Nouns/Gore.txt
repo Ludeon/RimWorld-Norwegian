@@ -1,7 +1,3 @@
-﻿blood
-gore
-guts
-viscera
-innards
-entrails
-intestines
+﻿blod
+innvoller
+tarmer

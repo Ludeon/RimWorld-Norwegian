@@ -5,8 +5,10 @@
 rød
 blå
 grønn
-lilla
+indigo
 svart
 hvit
 grå
 oransje
+turkis
+brun
