@@ -1,102 +1,102 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>urarm</ArchotechArm.label>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
-  
+  <ArchotechArm.labelNoun>en urarm</ArchotechArm.labelNoun>
+
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>urøye</ArchotechEye.label>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
-  
+  <ArchotechEye.labelNoun>et urøye</ArchotechEye.labelNoun>
+
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>urbein</ArchotechLeg.label>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
-  
+  <ArchotechLeg.labelNoun>et urbein</ArchotechLeg.labelNoun>
+
   <!-- EN: bionic arm -->
   <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
-  
+  <BionicArm.labelNoun>en bionisk arm</BionicArm.labelNoun>
+
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bionisk øre</BionicEar.label>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
-  
+  <BionicEar.labelNoun>et bionisk øre</BionicEar.labelNoun>
+
   <!-- EN: bionic eye -->
   <BionicEye.label>bionisk øye</BionicEye.label>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
-  
+  <BionicEye.labelNoun>et bionisk øye</BionicEye.labelNoun>
+
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
-  
+  <BionicHeart.labelNoun>et bionisk hjerte</BionicHeart.labelNoun>
+
   <!-- EN: bionic leg -->
-  <BionicLeg.label>bionisk ben</BionicLeg.label>
+  <BionicLeg.label>bionisk bein</BionicLeg.label>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
-  
+  <BionicLeg.labelNoun>et bionisk bein</BionicLeg.labelNoun>
+
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
-  
+  <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
+
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bionisk magesekk</BionicStomach.label>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
-  
+  <BionicStomach.labelNoun>en bionisk magesekk</BionicStomach.labelNoun>
+
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <CochlearImplant.label>kokleapparat</CochlearImplant.label>
   <!-- EN: a cochlear implant -->
-  <CochlearImplant.labelNoun>TODO</CochlearImplant.labelNoun>
-  
+  <CochlearImplant.labelNoun>et kokleapparat</CochlearImplant.labelNoun>
+
   <!-- EN: denture -->
   <Denture.label>gebiss</Denture.label>
   <!-- EN: a denture -->
-  <Denture.labelNoun>TODO</Denture.labelNoun>
-  
+  <Denture.labelNoun>et gebiss</Denture.labelNoun>
+
   <!-- EN: peg leg -->
   <PegLeg.label>trebein</PegLeg.label>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>TODO</PegLeg.labelNoun>
-  
+  <PegLeg.labelNoun>et trebein</PegLeg.labelNoun>
+
   <!-- EN: power claw -->
-  <PowerClaw.label>kraftklo</PowerClaw.label>
+  <PowerClaw.label>leddklo</PowerClaw.label>
   <!-- EN: claw -->
-  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>TODO</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>klo</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
-  <PowerClaw.labelNoun>TODO</PowerClaw.labelNoun>
-  
+  <PowerClaw.labelNoun>en leddklo</PowerClaw.labelNoun>
+
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>enkel armprotese</SimpleProstheticArm.label>
   <!-- EN: fist -->
-  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic arm -->
-  <SimpleProstheticArm.labelNoun>TODO</SimpleProstheticArm.labelNoun>
-  
+  <SimpleProstheticArm.labelNoun>en enkel armprotese</SimpleProstheticArm.labelNoun>
+
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>enkel hjerteprotese</SimpleProstheticHeart.label>
   <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>TODO</SimpleProstheticHeart.labelNoun>
-  
+  <SimpleProstheticHeart.labelNoun>en enkel hjerteprotese</SimpleProstheticHeart.labelNoun>
+
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>enkel benprotese</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>enkel beinprotese</SimpleProstheticLeg.label>
   <!-- EN: a prosthetic leg -->
-  <SimpleProstheticLeg.labelNoun>TODO</SimpleProstheticLeg.labelNoun>
-  
+  <SimpleProstheticLeg.labelNoun>en enkel beinprotese</SimpleProstheticLeg.labelNoun>
+
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <WoodenFoot.label>trefot</WoodenFoot.label>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
-  
+  <WoodenFoot.labelNoun>en trefot</WoodenFoot.labelNoun>
+
 </LanguageData>

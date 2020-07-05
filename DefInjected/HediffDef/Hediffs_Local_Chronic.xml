@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alzheimer's -->
   <Alzheimers.label>alzheimers</Alzheimers.label>
   <!-- EN: minor -->
@@ -11,7 +11,7 @@
   <Alzheimers.stages.major-0.label>skummel</Alzheimers.stages.major-0.label>
   <!-- EN: major -->
   <Alzheimers.stages.major-1.label>alvorlig</Alzheimers.stages.major-1.label>
-  
+
   <!-- EN: asthma -->
   <Asthma.label>astma</Asthma.label>
   <!-- EN: minor -->
@@ -20,19 +20,19 @@
   <Asthma.stages.major-0.label>skummel</Asthma.stages.major-0.label>
   <!-- EN: major -->
   <Asthma.stages.major-1.label>alvorlig</Asthma.stages.major-1.label>
-  
+
   <!-- EN: bad back -->
   <BadBack.label>vond rygg</BadBack.label>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>TODO</BadBack.labelNoun>
-  
+  <BadBack.labelNoun>en vond rygg</BadBack.labelNoun>
+
   <!-- EN: blindness -->
-  <Blindness.label>TODO</Blindness.label>
-  
+  <Blindness.label>blindhet</Blindness.label>
+
   <!-- EN: carcinoma -->
   <Carcinoma.label>karsinom</Carcinoma.label>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>en karsinom</Carcinoma.labelNoun>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-0.label>ufarlig</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
@@ -45,27 +45,27 @@
   <Carcinoma.stages.extreme-0.label>akutt</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Carcinoma.stages.extreme-1.label>akutt</Carcinoma.stages.extreme-1.label>
-  
+
   <!-- EN: cataract -->
   <Cataract.label>grå stær</Cataract.label>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>TODO</Cataract.labelNoun>
-  
+  <Cataract.labelNoun>grå stær</Cataract.labelNoun>
+
   <!-- EN: dementia -->
   <Dementia.label>demens</Dementia.label>
-  
+
   <!-- EN: frail -->
   <Frail.label>skjør</Frail.label>
   <!-- EN: frailty -->
-  <Frail.labelNoun>TODO</Frail.labelNoun>
-  
+  <Frail.labelNoun>skjørhet</Frail.labelNoun>
+
   <!-- EN: hearing loss -->
   <HearingLoss.label>dårlig hørsel</HearingLoss.label>
-  
+
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>blokkert arterie</HeartArteryBlockage.label>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>en blokkert arterie</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-0.label>ufarlig</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->
@@ -76,5 +76,5 @@
   <HeartArteryBlockage.stages.major-1.label>alvorlig</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
   <HeartArteryBlockage.stages.extreme.label>akutt</HeartArteryBlockage.stages.extreme.label>
-  
+
 </LanguageData>

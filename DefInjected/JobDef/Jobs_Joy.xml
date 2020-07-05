@@ -1,55 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: building snowman. -->
   <BuildSnowman.reportString>bygger en snømann.</BuildSnowman.reportString>
-  
+
   <!-- EN: going for a walk. -->
   <GoForWalk.reportString>går seg en tur.</GoForWalk.reportString>
-  
+
   <!-- EN: meditating. -->
   <Meditate.reportString>mediterer.</Meditate.reportString>
-  
+
   <!-- EN: playing billiards. -->
   <Play_Billiards.reportString>spiller biljard.</Play_Billiards.reportString>
-  
+
   <!-- EN: playing chess. -->
   <Play_Chess.reportString>spiller sjakk.</Play_Chess.reportString>
-  
+
   <!-- EN: playing the game of Ur. -->
-  <Play_GameOfUr.reportString>spiller Ur-spillet.</Play_GameOfUr.reportString>
-  
+  <Play_GameOfUr.reportString>spiller kongespillet fra Ur.</Play_GameOfUr.reportString>
+
   <!-- EN: playing hoopstone. -->
   <Play_Hoopstone.reportString>kaster stein.</Play_Hoopstone.reportString>
-  
+
   <!-- EN: playing horseshoes. -->
-  <Play_Horseshoes.reportString>kaster på pinne .</Play_Horseshoes.reportString>
-  
+  <Play_Horseshoes.reportString>kaster på pinne.</Play_Horseshoes.reportString>
+
   <!-- EN: playing poker. -->
   <Play_Poker.reportString>spiller poker.</Play_Poker.reportString>
-  
+
   <!-- EN: praying. -->
   <Pray.reportString>ber.</Pray.reportString>
-  
+
   <!-- EN: skygazing. -->
   <Skygaze.reportString>titter på stjernene.</Skygaze.reportString>
-  
+
   <!-- EN: relaxing socially. -->
   <SocialRelax.reportString>mingler.</SocialRelax.reportString>
-  
+
   <!-- EN: using telescope. -->
   <UseTelescope.reportString>bruker teleskop.</UseTelescope.reportString>
-  
+
   <!-- EN: viewing art. -->
   <ViewArt.reportString>beundrer kunst.</ViewArt.reportString>
-  
+
   <!-- EN: visiting grave. -->
   <VisitGrave.reportString>besøker grav.</VisitGrave.reportString>
-  
+
   <!-- EN: cheering up patient TargetA. -->
   <VisitSickPawn.reportString>holder TargetA med selskap.</VisitSickPawn.reportString>
-  
+
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>ser på TV.</WatchTelevision.reportString>
-  
+
 </LanguageData>

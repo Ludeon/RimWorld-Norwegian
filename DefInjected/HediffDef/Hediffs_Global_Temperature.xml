@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: heatstroke -->
   <Heatstroke.label>heteslag</Heatstroke.label>
   <!-- EN: initial -->
@@ -13,7 +13,7 @@
   <Heatstroke.stages.serious.label>alvorlig</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
   <Heatstroke.stages.extreme.label>livstruende</Heatstroke.stages.extreme.label>
-  
+
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
   <!-- EN: shivering -->
@@ -26,18 +26,18 @@
   <Hypothermia.stages.serious.label>alvorlig</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
   <Hypothermia.stages.extreme.label>livstruende</Hypothermia.stages.extreme.label>
-  
+
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>TODO</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>funksjonsnedsettelse fra frysning</HypothermicSlowdown.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-0.label>TODO</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-0.label>begynnende</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-1.label>TODO</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.minor-1.label>ufarlig</HypothermicSlowdown.stages.minor-1.label>
   <!-- EN: moderate -->
-  <HypothermicSlowdown.stages.moderate.label>TODO</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.moderate.label>moderat</HypothermicSlowdown.stages.moderate.label>
   <!-- EN: serious -->
-  <HypothermicSlowdown.stages.serious.label>TODO</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.serious.label>alvorlig</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
-  <HypothermicSlowdown.stages.extreme.label>TODO</HypothermicSlowdown.stages.extreme.label>
-  
+  <HypothermicSlowdown.stages.extreme.label>livstruende</HypothermicSlowdown.stages.extreme.label>
+
 </LanguageData>

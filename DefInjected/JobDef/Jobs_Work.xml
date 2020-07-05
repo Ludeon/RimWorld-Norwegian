@@ -1,148 +1,145 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: arresting TargetA. -->
   <Arrest.reportString>arresterer TargetA.</Arrest.reportString>
-  
+
   <!-- EN: building roof. -->
   <BuildRoof.reportString>bygger tak.</BuildRoof.reportString>
-  
+
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>fanger TargetA.</Capture.reportString>
-  
+
   <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>bærer TargetA.</CarryDownedPawnToExit.reportString>
-  
+
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>bærer TargetA til dvalekasse.</CarryToCryptosleepCasket.reportString>
-  
+
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>vasker TargetA.</Clean.reportString>
-  
+
   <!-- EN: cutting TargetA. -->
   <CutPlant.reportString>skjærer ned TargetA.</CutPlant.reportString>
-  
+
   <!-- EN: cutting TargetA. -->
   <CutPlantDesignated.reportString>skjærer ned TargetA.</CutPlantDesignated.reportString>
-  
+
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>dekonstruerer TargetA.</Deconstruct.reportString>
-  
+
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>mater TargetB med TargetA.</DeliverFood.reportString>
-  
+
   <!-- EN: doing bill at TargetA. -->
   <DoBill.reportString>gjør arbeid ved TargetA.</DoBill.reportString>
-  
+
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>eskorterer fangen TargetA.</EscortPrisonerToBed.reportString>
-  
+
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>mater TargetA til TargetB.</FeedPatient.reportString>
-  
+  <FeedPatient.reportString>mater TargetB med TargetA.</FeedPatient.reportString>
+
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>bygger TargetA.</FinishFrame.reportString>
-  
+
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>bytter ødelagte deler i TargetA.</FixBrokenDownBuilding.reportString>
-  
+
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>høster TargetA.</Harvest.reportString>
-  
+
   <!-- EN: harvesting TargetA. -->
   <HarvestDesignated.reportString>høster TargetA.</HarvestDesignated.reportString>
-  
+
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>transporterer TargetA.</HaulToCell.reportString>
-  
+
   <!-- EN: hauling TargetA. -->
   <HaulToContainer.reportString>transporterer TargetA.</HaulToContainer.reportString>
-  
+
   <!-- EN: hunting TargetA. -->
   <Hunt.reportString>jakter på TargetA.</Hunt.reportString>
-  
+
   <!-- EN: kidnapping TargetA. -->
   <Kidnap.reportString>kidnapper TargetA.</Kidnap.reportString>
-  
+
   <!-- EN: milking TargetA. -->
   <Milk.reportString>melker TargetA.</Milk.reportString>
-  
+
   <!-- EN: digging at TargetA. -->
   <Mine.reportString>graver i TargetA.</Mine.reportString>
-  
+
   <!-- EN: drilling at TargetA. -->
   <OperateDeepDrill.reportString>driller med TargetA.</OperateDeepDrill.reportString>
-  
+
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>TODO</OperateScanner.reportString>
-  
+  <OperateScanner.reportString>scanner med TargetA</OperateScanner.reportString>
+
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>bygger TargetA.</PlaceNoCostFrame.reportString>
-  
+
   <!-- EN: attempting to recruit TargetA. -->
   <PrisonerAttemptRecruit.reportString>prøver å rekruttere TargetA.</PrisonerAttemptRecruit.reportString>
-  
+
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>henretter TargetA.</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>prater med TargetA.</PrisonerFriendlyChat.reportString>
-  
+
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>frigjør TargetA.</ReleasePrisoner.reportString>
-  
+
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>fjerner gulv.</RemoveFloor.reportString>
-  
+
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>fjerner tak.</RemoveRoof.reportString>
-  
+
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>reparerer TargetA.</Repair.reportString>
-  
+
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>redder TargetA.</Rescue.reportString>
-  
+
   <!-- EN: researching. -->
   <Research.reportString>forsker.</Research.reportString>
-  
+
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>barberer TargetA.</Shear.reportString>
-  
+
   <!-- EN: slaughtering TargetA. -->
   <Slaughter.reportString>slakter TargetA.</Slaughter.reportString>
-  
+
   <!-- EN: smoothing floor. -->
   <SmoothFloor.reportString>jevner ut gulv.</SmoothFloor.reportString>
-  
+
   <!-- EN: smoothing wall. -->
   <SmoothWall.reportString>jevner ut vegg.</SmoothWall.reportString>
-  
+
   <!-- EN: sowing TargetA. -->
   <Sow.reportString>sår TargetA.</Sow.reportString>
-  
+
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>stjeler TargetA.</Steal.reportString>
-  
+
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>prepper TargetA for operasjon.</TakeToBedToOperate.reportString>
-  
+
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>legger TargetA.</TakeWoundedPrisonerToBed.reportString>
-  
+
   <!-- EN: taming TargetA. -->
   <Tame.reportString>temmer TargetA.</Tame.reportString>
-  
+
   <!-- EN: tending to TargetA. -->
   <TendPatient.reportString>steller TargetA.</TendPatient.reportString>
-  
+
   <!-- EN: training TargetA. -->
   <Train.reportString>trener TargetA.</Train.reportString>
-  
+
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>avinstallerer TargetA.</Uninstall.reportString>
-  
+
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>bruker kommunikasjonskonsollen.</UseCommsConsole.reportString>
-  
+
 </LanguageData>

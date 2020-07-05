@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: chemical damage -->
-  <ChemicalDamageModerate.label>TODO</ChemicalDamageModerate.label>
-  
+  <ChemicalDamageModerate.label>syreskade</ChemicalDamageModerate.label>
+
   <!-- EN: chemical damage -->
-  <ChemicalDamageSevere.label>TODO</ChemicalDamageSevere.label>
-  
+  <ChemicalDamageSevere.label>syreskade</ChemicalDamageSevere.label>
+
   <!-- EN: cirrhosis -->
-  <Cirrhosis.label>TODO</Cirrhosis.label>
-  
+  <Cirrhosis.label>skrumplever</Cirrhosis.label>
+
   <!-- EN: resurrection psychosis -->
-  <ResurrectionPsychosis.label>TODO</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.label>opplivingspsykose</ResurrectionPsychosis.label>
   <!-- EN: early -->
-  <ResurrectionPsychosis.stages.early-0.label>TODO</ResurrectionPsychosis.stages.early-0.label>
+  <ResurrectionPsychosis.stages.early-0.label>begynnende</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
-  <ResurrectionPsychosis.stages.early-1.label>TODO</ResurrectionPsychosis.stages.early-1.label>
+  <ResurrectionPsychosis.stages.early-1.label>begynnende</ResurrectionPsychosis.stages.early-1.label>
   <!-- EN: moderate -->
-  <ResurrectionPsychosis.stages.moderate.label>TODO</ResurrectionPsychosis.stages.moderate.label>
+  <ResurrectionPsychosis.stages.moderate.label>moderat</ResurrectionPsychosis.stages.moderate.label>
   <!-- EN: advanced -->
-  <ResurrectionPsychosis.stages.advanced.label>TODO</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.advanced.label>fremtredende</ResurrectionPsychosis.stages.advanced.label>
   <!-- EN: severe -->
-  <ResurrectionPsychosis.stages.severe.label>TODO</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.severe.label>alvorlig</ResurrectionPsychosis.stages.severe.label>
   <!-- EN: total -->
-  <ResurrectionPsychosis.stages.total.label>TODO</ResurrectionPsychosis.stages.total.label>
+  <ResurrectionPsychosis.stages.total.label>altoppslukende</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
-  <ResurrectionPsychosis.stages.catatonic.label>TODO</ResurrectionPsychosis.stages.catatonic.label>
-  
+  <ResurrectionPsychosis.stages.catatonic.label>bedøvende</ResurrectionPsychosis.stages.catatonic.label>
+
   <!-- EN: trauma savant -->
-  <TraumaSavant.label>trauma savant</TraumaSavant.label>
+  <TraumaSavant.label>traumesavant</TraumaSavant.label>
   <!-- EN: trauma -->
-  <TraumaSavant.labelNoun>TODO</TraumaSavant.labelNoun>
-  
+  <TraumaSavant.labelNoun>traume</TraumaSavant.labelNoun>
+
 </LanguageData>

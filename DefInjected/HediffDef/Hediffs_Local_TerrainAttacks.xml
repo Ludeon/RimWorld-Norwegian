@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: dirt -->
-  <DirtInEyes.label>TODO</DirtInEyes.label>
+  <DirtInEyes.label>jord</DirtInEyes.label>
   <!-- EN: dirt -->
-  <DirtInEyes.labelNoun>TODO</DirtInEyes.labelNoun>
-  
+  <DirtInEyes.labelNoun>jord</DirtInEyes.labelNoun>
+
   <!-- EN: gravel -->
-  <GravelInEyes.label>TODO</GravelInEyes.label>
+  <GravelInEyes.label>grus</GravelInEyes.label>
   <!-- EN: gravel -->
-  <GravelInEyes.labelNoun>TODO</GravelInEyes.labelNoun>
-  
+  <GravelInEyes.labelNoun>grus</GravelInEyes.labelNoun>
+
   <!-- EN: mud -->
-  <MudInEyes.label>TODO</MudInEyes.label>
+  <MudInEyes.label>søle</MudInEyes.label>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>TODO</MudInEyes.labelNoun>
-  
+  <MudInEyes.labelNoun>søle</MudInEyes.labelNoun>
+
   <!-- EN: sand -->
-  <SandInEyes.label>TODO</SandInEyes.label>
+  <SandInEyes.label>sand</SandInEyes.label>
   <!-- EN: sand -->
-  <SandInEyes.labelNoun>TODO</SandInEyes.labelNoun>
-  
+  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
+
   <!-- EN: water -->
-  <WaterInEyes.label>TODO</WaterInEyes.label>
+  <WaterInEyes.label>vann</WaterInEyes.label>
   <!-- EN: water -->
-  <WaterInEyes.labelNoun>TODO</WaterInEyes.labelNoun>
-  
+  <WaterInEyes.labelNoun>vann</WaterInEyes.labelNoun>
+
 </LanguageData>
