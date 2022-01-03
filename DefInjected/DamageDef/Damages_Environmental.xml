@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: burn -->
-  <Burn.label>TODO</Burn.label>
+  <Burn.label>brenne</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>TODO</Burn.deathMessage>
+  <Burn.deathMessage>{0} brent i hjel.</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>ild</Flame.label>
+  <Flame.label>flamme</Flame.label>
   <!-- EN: {0} has burned to death. -->
   <Flame.deathMessage>{0} brente i hjel.</Flame.deathMessage>
   
@@ -17,8 +17,8 @@
   <Frostbite.deathMessage>{0} frøs i hjel.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>TODO</TornadoScratch.label>
+  <TornadoScratch.label>tornado</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} ble drept av en tornado.</TornadoScratch.deathMessage>
   
 </LanguageData>

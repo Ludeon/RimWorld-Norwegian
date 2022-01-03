@@ -22,9 +22,9 @@
   <Cut.deathMessage>{0} ble skåret i hjel.</Cut.deathMessage>
   
   <!-- EN: blunt -->
-  <Poke.label>TODO</Poke.label>
+  <Poke.label>sløv</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>TODO</Poke.deathMessage>
+  <Poke.deathMessage>{0} ble slått i hjel</Poke.deathMessage>
   
   <!-- EN: scratch -->
   <Scratch.label>skrubbsår</Scratch.label>

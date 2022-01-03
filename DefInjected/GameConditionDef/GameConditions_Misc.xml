@@ -2,83 +2,83 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>aurora</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>En aurora lyser opp himmelen. Den fantastiske utsikt vil øke stemningen til alle utenfor for å se den.</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>Aurora er sluttet.</Aurora.endMessage>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>TODO</ClimateCycle.label>
+  <ClimateCycle.label>klima syklus</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>TODO</ClimateCycle.description>
+  <ClimateCycle.description>En flerårig klimasyklus på grunn av en elliptisk bane.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>kuldeperiode</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>TODO</ColdSnap.description>
+  <ColdSnap.description>En uvanlig kuldeperiode fryser regionen.</ColdSnap.description>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>TODO</ColdSnap.endMessage>
+  <ColdSnap.endMessage>Kuldeperiode er sluttet.</ColdSnap.endMessage>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>TODO</Eclipse.label>
+  <Eclipse.label>formørkelse</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>TODO</Eclipse.description>
+  <Eclipse.description>En formørkelse dekker området i skygge. Det blir mørkt, også på dagtid.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>TODO</Eclipse.endMessage>
+  <Eclipse.endMessage>Formørkelse er sluttet.</Eclipse.endMessage>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>flashstorm</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>En freak lokalisert storm sprenger et lite område med gjentatte lynnedslag. </Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>TODO</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Flashstorm er sluttet.</Flashstorm.endMessage>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>hetebølge</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>TODO</HeatWave.description>
+  <HeatWave.description>En hetebølge baker opp området. </HeatWave.description>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>TODO</HeatWave.endMessage>
+  <HeatWave.endMessage>Hetebølge er sluttet.</HeatWave.endMessage>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>TODO</Planetkiller.label>
+  <Planetkiller.label>planetdreper</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>TODO</Planetkiller.description>
+  <Planetkiller.description>Et interstellart planetdrepervåpen nærmer seg denne planeten. Den vil rive gjennom planeten som en riflekule treffer et egg, tilintetgjør alt liv.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>synsk drøning</PsychicDrone.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
-  <PsychicDrone.description>TODO</PsychicDrone.description>
+  <PsychicDrone.description>En fjern, kraftig AI sender ut bølger av psykisk kraft som driver folk mot galskap.</PsychicDrone.description>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>TODO</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Synsk drøning er sluttet.</PsychicDrone.endMessage>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>synsk berolige</PsychicSoothe.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>TODO</PsychicSoothe.description>
+  <PsychicSoothe.description>En fjern, kraftig AI sender ut bølger av psykisk kraft som beroliger folk og stabiliserer sinnet deres.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>TODO</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>Synsk berolige er sluttet.</PsychicSoothe.endMessage>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>TODO</SolarFlare.label>
+  <SolarFlare.label>solflamme</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
-  <SolarFlare.description>TODO</SolarFlare.description>
+  <SolarFlare.description>Et solutbrudd sprenger planeten. Den elektromagnetiske interferensen hindrer de fleste elektriske enheter i å fungere.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
-  <SolarFlare.endMessage>TODO</SolarFlare.endMessage>
+  <SolarFlare.endMessage>Solflamme er sluttet.</SolarFlare.endMessage>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>Giftig nedfall</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>TODO</ToxicFallout.description>
+  <ToxicFallout.description>En plym av giftig støv fra en fjern kilde legger seg sakte over hele denne regionen. Enhver levende ting som ikke er under tak vil sakte bli forgiftet, og gjenstander som blir liggende utenfor vil korrodere.</ToxicFallout.description>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>TODO</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>Det verste av det giftige nedfallet har lagt seg.</ToxicFallout.endMessage>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>Vulkansk vinter</VolcanicWinter.label>
   <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>TODO</VolcanicWinter.description>
+  <VolcanicWinter.description>En fjern vulkan har kvalt atmosfæren med vulkanske partikler, noe som har redusert lysmengden som når overflaten betydelig. Temperaturene vil bli kaldere og plantene vil vokse saktere.</VolcanicWinter.description>
   <!-- EN: Most of the volcanic ash has settled. -->
-  <VolcanicWinter.endMessage>TODO</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Vulkansk vinter er sluttet.</VolcanicWinter.endMessage>
   
 </LanguageData>

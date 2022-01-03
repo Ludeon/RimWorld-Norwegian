@@ -4,36 +4,36 @@
   <!-- EN: bomb -->
   <Bomb.label>bombe</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0} døde i en ekslosjon.</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} døde i en eksplosjon.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>TODO</BombSuper.label>
+  <BombSuper.label>bombe</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} døde i en eksplosjon.</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>nedbrytning</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} ble drept.</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
   <Extinguish.label>brannslukking</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} ble drept.</Extinguish.deathMessage>
   
   <!-- EN: mining -->
   <Mining.label>graver</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>TODO</Mining.deathMessage>
+  <Mining.deathMessage>{0} ble drept.</Mining.deathMessage>
   
   <!-- EN: rotting -->
   <Rotting.label>råtner</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>TODO</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} ble drept.</Rotting.deathMessage>
   
   <!-- EN: smoke -->
-  <Smoke.label>TODO</Smoke.label>
+  <Smoke.label>røyk</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} ble drept.</Smoke.deathMessage>
   
 </LanguageData>

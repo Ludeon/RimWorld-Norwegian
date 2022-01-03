@@ -14,5 +14,10 @@
         <roleKey>Credit_Translator</roleKey>
         <creditee>Bendik Berg</creditee>
       </li>
+
+      <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Lauren Mawer</creditee>
+      </li>
   </credits>
 </LanguageInfo>

@@ -17,8 +17,8 @@
   <Bullet.deathMessage>{0} ble skutt.</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>TODO</RangedStab.label>
+  <RangedStab.label>stikke</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>TODO</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0} ble knivstukket i hjel}</RangedStab.deathMessage>
   
 </LanguageData>

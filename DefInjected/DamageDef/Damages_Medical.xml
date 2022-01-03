@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>TODO</ExecutionCut.label>
+  <ExecutionCut.label>henrettelse kutt</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>TODO</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} har blitt henrettet ved å kutte.</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>{0} døde under operasjon.</SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>{0} døde under kirurgi.</SurgicalCut.deathMessage>
   
 </LanguageData>
