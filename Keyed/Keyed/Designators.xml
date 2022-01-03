@@ -49,9 +49,9 @@
   <DesignatorMineDesc>Marker område av stein til å bli gravd ut.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Glatt overflate</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Angi grovt steinterreng og vegger som skal glattes.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Planlegg</DesignatorPlan>
@@ -64,14 +64,14 @@
   <DesignatorPlanRemoveDesc>Fjerner planleggingslinjer.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>TODO</DesignatorForbid>
+  <DesignatorForbid>Forby</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+  <DesignatorForbidDesc>Merk gjenstander som forbudte. Kolonister vil ikke kunne samhandle med de utpekte gjenstandene.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <DesignatorUnforbid>Tillate</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Merk gjenstander som ikke forbudt. Kolonister vil kunne samhandle med de utpekte gjenstandene.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>Utvid hjemmeområdet</DesignatorAreaHomeExpand>
@@ -127,14 +127,14 @@
   <DesignatorZoneCreateStorageDumpingDesc>Angi et nytt lagringsområde hvor kolonistene dine vil lagre søppel.\nDette verktøyet kan også brukes til å utvide eksisterende søppeldynger.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Fjern soner</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Krympe soner</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>Krympe sonen</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>Fjern soner, eksempelvis lagersoner og vekstsoner.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Utvid sonen</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
   <DesignatorClaim>Innlem</DesignatorClaim>
@@ -147,9 +147,9 @@
   <DesignatorRemoveFloorDesc>Fjern gulv for å vise bakken under.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Fjern broen</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Fjern broer for å avsløre terrenget under.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
   <DesignatorStrip>Avkle</DesignatorStrip>
@@ -207,7 +207,7 @@
   <!-- EN: Must target a removable floor. -->
   <TerrainMustBeRemovable>Du må velge gulv som kan fjernes.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Vannmøllen skal stå på vann i bevegelse.</MustBeOnMovingWater>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->

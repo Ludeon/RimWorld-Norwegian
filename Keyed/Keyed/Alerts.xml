@@ -108,18 +108,18 @@
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>Kolonistene dine trenger litt moro i hverdagen, men du har ikke bygget noe som kan muntre dem opp enda.\n\nHjelp dem ved å bygge et hestesko-spill, sjakkbrett eller andre fornøyelige ting.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Tilgjengelige rekreasjonstyper</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Mangler rekreasjonstyper</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>Ved nåværende forventninger ({0}), faller hver toleranse med {1} per dag våken. Det anbefales å ha {2} rekreasjonstyper. </CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>Kjedelig</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Kjedsomhet</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>TODO</BoredomDesc>
+  <BoredomDesc>Disse menneskene har enten behov for rekreasjon eller er tildelt rekreasjon, men er lei av alle tilgjengelige rekreasjonskilder:\n\n{0}\n\nFå dem litt mer rekreasjonsvariasjon.\n\nNåværende tilgjengelige rekreasjonstyper for {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Trenger batterier</NeedBatteries>
