@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>TODO</Tool>
+  <Tool>Verktøy</Tool>
   <!-- EN: damage -->
-  <DamageLower>TODO</DamageLower>
+  <DamageLower>skader</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
+  <SecondsPerAttackLower>sekunder per angrep</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>Grunnverdi</StatsReport_BaseValue>
@@ -45,7 +45,7 @@
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Verdipåvirkende kvalitet</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Maks gevinst</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Alderens verdipåvirkning {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
@@ -93,24 +93,24 @@
   <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>Kroppsdeler lagt til</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>Materialeffektmultiplikator</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>TODO</StatsReport_Resting>
+  <StatsReport_Resting>Hviler</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
+  <StatsReport_JoyKind>rekreasjonstype </StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>Arbeid å avinstallere</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>Vekstmultiplikator</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>skalert fordi vill</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Ikke menneskekjøtt</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
+  <StatsReport_NotFresh>Ikke fersk</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>TODO</StatsReport_WildMan>
+  <StatsReport_WildMan>Villmann</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>Angrep</StatsReport_NonToolAttack>
 
 </LanguageData>
