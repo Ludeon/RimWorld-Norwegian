@@ -423,29 +423,29 @@
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Nuzzle intervall</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>Hvor ofte et dyr i gjennomsnitt vil nuzzle vennlige kolonister.\n\nNusing er en adferd som deles av mange dyrearter, der dyret presser nesen eller snuten mot en venn som et tegn på hengivenhet. De fleste mennesker synes dette er søtt, og det vil etterlate dem i godt humør for en periode.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <HarmedRevengeChance>Revansjesjanse når skadet</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Sjansen for at denne skapningen søker hevn etter å ha blitt skadet av en angriper på riflebane.\n\nDenne sjansen øker hvis angriperen er nærmere. Ved angrep på veldig nært hold er sjansen tre ganger større.\n\nDenne sjansen brukes hver gang skade blir tatt, så våpen med langsommere avfyring og høyere skade er mindre sannsynlig å utløse den.\n\nFor å minimere sjansen for at en skapning søker hevn, angrip den fra riflebane med et saktefyring våpen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Revansjesjanse når tamt forsøk mislykkes</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>TODO</TerrainRequirement>
+  <TerrainRequirement>Terrengkrav</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>TODO</Supports>
+  <Supports>Støtter</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <TrapArmorPenetration>Felle rustningpetetrasjon</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>TODO</RearmCost>
+  <RearmCost>Kostnad for å bevæpne på nytt.</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <RearmCostExplanation>Ressurskostnad for å bevæpne dette tårnet på nytt.</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Skudd før rearmering</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Hvor mange skudd kan dette tårnet avfyre før det må opprustes.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>TODO</PowerConsumption>
+  <PowerConsumption>Strømforbruk</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -511,15 +511,15 @@
   <!-- EN: Final price -->
   <FinalPrice>Endelig pris</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>TODO</GiftModeTip>
+  <GiftModeTip>Gavemodus – tilby gaver til {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>TODO</TradeModeTip>
+  <TradeModeTip>Tilbake til handelsmodus</TradeModeTip>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <SellableItemsTitle>Denne selgeren vil kjøpe:</SellableItemsTitle>
   <!-- EN: Creatures -->
-  <PawnsTabShort>TODO</PawnsTabShort>
+  <PawnsTabShort>Skapninger</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -549,9 +549,9 @@
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
   <CaravanMassUsageTooltip>Nåværene massebruk og massekapasitet.\n\nMassebruk inkluderer karavanens forsyninger og kolonistenes utstyr.\n\nDu kan ikke sende karavanen hvis vekten overskrider kapasiteten.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <CaravanVisibilityTip>Sikt er hvor lett campingvognen din er å legge merke til.\n\nDet multipliserer sjansen for at karavanen din blir ført på vei av fiender.\n\nSynlighet påvirker ikke din evne til å finne ting du vil ha.\n\nSikten er basert på den totale kroppsstørrelsen til alle mennesker og dyr i campingvognen.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <DaysWorthOfFood>Dager med mat</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
   <DaysWorthOfFoodInfoRot>{0} dager med mat, råtner om {1} dager</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
@@ -565,9 +565,9 @@
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har gått tom for mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>Den gjennomsnittlige mengden mat per dag folket ditt vil søke etter. Denne verdien vil endres etter hvert som du reiser på tvers av biomer med forskjellige fôravlinger.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <ForagedFoodPerDay>Fôrmengde per dag</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
   <CaravanFoodWillRotSoonWarningDialog>En stor del av maten vil snart bli dårlig.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
@@ -575,9 +575,9 @@
   <!-- EN: Are you sure you want to form this caravan? -->
   <CaravanAreYouSure>Vil du virkelig opprette denne karavanen?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>Du må velge en rute for campingvognen først.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <MessageNoValidExitTile>Campingvognen din kan ikke forlate området. Sørg for at minst én side av regionen er tilgjengelig.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>Denne tingens vekt.</ItemWeightTip>
   <!-- EN: Market value -->
@@ -585,21 +585,21 @@
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
   <DaysUntilRotTip>Antall dager før dette elementet begynner å råtne, basert på gjennomsnittstemperaturen i dette området.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>TODO</ItemNutritionTip>
+  <ItemNutritionTip>Hvor mye næring denne maten gir.\n\nTil referanse: en voksen person trenger {0} ernæring per dag.</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>Dette dyret kan beite mat fra miljøet i stedet for å spise båret mat. Beite er bare mulig i enkelte biomer og temperaturområder.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>Næring fôr per dag. Den faktiske mengden som fôres er også påvirket av biome fôrbarhet.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
-  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Ernæring spist per dag. Som referanse har enkle måltider {0} ernæring.\n\nKan spise: {2}\n\nLegende:\n{1}</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>TODO</MassCarriedSimple>
+  <MassCarriedSimple>Masse båret</MassCarriedSimple>
   <!-- EN: Mass capacity -->
   <MassCapacity>Massekapasitet</MassCapacity>
   <!-- EN: Mass -->
   <Mass>Masse</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>TODO</CaravanMass>
+  <CaravanMass>Caravan masse</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
   <EquipmentAndApparelMass>Utstyrets masse</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
@@ -613,41 +613,41 @@
   <!-- EN: Prisoners -->
   <PrisonersSection>Fanger</PrisonersSection>
   <!-- EN: Capture -->
-  <CaptureSection>TODO</CaptureSection>
+  <CaptureSection>Anhold</CaptureSection>
   <!-- EN: Animals -->
   <AnimalsSection>Dyr</AnimalsSection>
   <!-- EN: Choose route -->
-  <ChooseRouteButton>TODO</ChooseRouteButton>
+  <ChooseRouteButton>Velg rute</ChooseRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Forlat</AbandonButton>
   <!-- EN: Movement speed -->
-  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
+  <CaravanMovementSpeed>Bevegelsesfart</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>TODO</TilesPerDay>
+  <TilesPerDay>Fliser/dag</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>Bevegelseshastighet avhenger av gjennomsnittshastigheten til alle mennesker og dyr, båret masse og terrengbevegelsesvansker.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>Dyr vil kunne beite</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>TODO</AnimalsCanGraze>
+  <AnimalsCanGraze>Dyr kan beite</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
-  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
+  <PossibleToGrazeFor>(i {0} dager til)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
+  <PossibleToGrazeForever>(for alltid)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
-  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
-  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
+  <CantGrazeBecauseOfTemp>(for kaldt i {0} dager til)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>TODO</TotalNutrition>
+  <TotalNutrition>Total ernæring</TotalNutrition>
   <!-- EN: Not moving -->
-  <CaravanNotMoving>TODO</CaravanNotMoving>
+  <CaravanNotMoving>Beveger seg ikke</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>Fôret næring per dag</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
-  <FactionType>TODO</FactionType>
+  <FactionType>Gruppestype</FactionType>
   <!-- EN: Total body size -->
-  <TotalBodySize>TODO</TotalBodySize>
+  <TotalBodySize>Total kroppsstørrelse</TotalBodySize>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -721,7 +721,7 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Narkotikareglene er i bruk av {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Matrestriksjoner er i bruk av {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Sosial narkotika</SocialDrugs>
   <!-- EN: No drugs -->
@@ -779,27 +779,27 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>TODO</FoodRestriction>
+  <FoodRestriction>Matrestriksjon</FoodRestriction>
   <!-- EN: Lavish -->
-  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <FoodRestrictionLavish>Overdådig</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <FoodRestrictionFine>Fint</FoodRestrictionFine>
   <!-- EN: Simple -->
-  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <FoodRestrictionSimple>Enekel</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Næringspasta</FoodRestrictionPaste>
   <!-- EN: Raw -->
-  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <FoodRestrictionRaw>Rå</FoodRestrictionRaw>
   <!-- EN: Nothing -->
-  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <FoodRestrictionNothing>Ingenting</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <SelectFoodRestriction>Velg matrestriksjon</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <NewFoodRestriction>Ny matrestriksjon</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Slett matrestriksjon</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Ingen matrestriksjon valgt</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
@@ -831,7 +831,7 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Noen dyr eller fanger prøver å bli med i denne karavanen. Hvis du flytter den, kan de ikke lenger.\n\nDyr, fanger og nedlagte kolonister som er etterlatt på et kart uten noen ikke-nedlagte kolonister, anses som forlatte og kan bli tatt til fange av fiendene.\n\nEr du sikker på at du vil flytte karavanen din?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
@@ -851,13 +851,13 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Siden denne plasseringen er innenfor {0} fliser fra en annen fraksjonsbase, vil de føle at du gjør inngrep i deres land, og forholdet til disse fraksjonene vil forverres hver {1} dager.\n\nBosette seg her uansett?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Er du sikker på at du vil rydde opp i alle oversettelsesfiler for språket {0}?\n\nDette vil:\n - Legg til plassholdere for manglende nøkkeloversettelser, def-injiserte oversettelser og bakgrunnshistorier\n - Legg til eller oppdater kommentarer som inneholder den originale, uoversatte teksten\n - Flytt alle tastede og def-injiserte oversettelser til de riktige XML-filene\n - Bruk automatisk formatering på alle XML-filer\n - Oppdater tilbake-kompatible def-navn\n - Fjern alle eksisterende XML-kommentarer (unntatt i fullliste-injeksjoner)\n\nIkke-XML-filer vil ikke bli fjernet eller endret.\n\nHusk å starte spillet på nytt etter å ha modifisert språkfilene før du kjører dette verktøyet for å laste inn alle data på nytt.\n\nSørg for å sikkerhetskopiere alle oversettelsesfiler før du bruker dette verktøyet.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Ja, jeg har en backup</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
