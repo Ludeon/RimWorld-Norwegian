@@ -221,9 +221,9 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Konstruksjon behøves</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>Ingen av dine {0} har denne ferdigheten.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle dine {0} som har denne ferdigheten er ikke tildelt {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
   <!-- UNUSED -->
   <DesignatorSmoothFloor>Utjevn gulv</DesignatorSmoothFloor>

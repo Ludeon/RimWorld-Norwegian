@@ -2,82 +2,82 @@
 <LanguageData>
 
   <!-- EN: Call {0} -->
-  <CallOnRadio>Call {0}</CallOnRadio>
+  <CallOnRadio>Samtale {0}</CallOnRadio>
   <!-- EN: Cannot use ({0}) -->
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
+  <CannotUseReason>Kan ikke bruke ({0})</CannotUseReason>
   <!-- EN: Cannot use (solar flare) -->
-  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Kan ikke bruke (solar flare)</CannotUseSolarFlare>
   <!-- EN: Cannot use (no power) -->
-  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+  <CannotUseNoPower>Kan ikke bruke (no power)</CannotUseNoPower>
   <!-- EN: Cannot use (no path) -->
-  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+  <CannotUseNoPath>Kan ikke bruke (no path)</CannotUseNoPath>
   <!-- EN: Cannot use (reserved) -->
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
+  <CannotUseReserved>Kan ikke bruke (reserved)</CannotUseReserved>
   <!-- EN: Cannot use (full) -->
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
+  <CannotUseFull>Kan ikke bruke (full)</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
-  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+  <LeaderUnavailable>leder {1_labelShort} er utilgjengelig</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
-  <LeaderUnavailableNoLeader>TODO</LeaderUnavailableNoLeader>
+  <LeaderUnavailableNoLeader>leder er utilgjengelig</LeaderUnavailableNoLeader>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Fire at {0}</FireAt>
 
   <!-- EN: out of range -->
-  <OutOfRange>out of range</OutOfRange>
+  <OutOfRange>ute av rekkevidde</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>TODO</TooClose>
+  <TooClose>for nærme</TooClose>
   <!-- EN: cannot hit target -->
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
+  <CannotHitTarget>kan ikke treffe målet</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{1_labelShort} er ute av stand til vold</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
-  <IncapableOfViolenceLower>TODO</IncapableOfViolenceLower>
+  <IncapableOfViolenceLower>ute av stand til vold</IncapableOfViolenceLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelshort} er ikke draftetd</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>kan ikke gi ordre til enheter du ikke kontrollerer</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
-  <CannotAttackSelf>TODO</CannotAttackSelf>
+  <CannotAttackSelf>kan ikke angripe selv</CannotAttackSelf>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Man {0}</OrderManThing>
+  <OrderManThing>Mann {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
+  <MeleeAttack>Nærkampangrep {0}</MeleeAttack>
   <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Nærkampangrep {0} til døden</MeleeAttackToDeath>
   <!-- EN: no path -->
-  <NoPath>no path</NoPath>
+  <NoPath>Ingen sti</NoPath>
 
   <!-- EN: forbidden -->
-  <ForbiddenLower>forbidden</ForbiddenLower>
+  <ForbiddenLower>forbudt</ForbiddenLower>
   <!-- EN: outside allowed area -->
-  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+  <ForbiddenOutsideAllowedAreaLower>utenfor tillatt område</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>not in home area</NotInHomeArea>
+  <NotInHomeArea>ikke i hjemmeområdet</NotInHomeArea>
   <!-- EN: burning -->
-  <BurningLower>burning</BurningLower>
+  <BurningLower>brennende</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>ikke noe tomt sted konfigurert til å lagre det</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>TODO</NoMergeTarget>
+  <NoMergeTarget>ingen stabel tilgjengelig å flette inn i</NoMergeTarget>
   <!-- EN: already filled enough -->
-  <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+  <AlreadyFilledLower>allerede fylt nok</AlreadyFilledLower>
   <!-- EN: need material -->
-  <MissingMaterials>need materials</MissingMaterials>
+  <MissingMaterials>trenger materialer</MissingMaterials>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>TODO</UnderRequiredSkill>
+  <UnderRequiredSkill>under nødvendig ferdighet {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>TODO</UnderAllowedSkill>
+  <UnderAllowedSkill>under tillatt ferdighet {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>TODO</AboveAllowedSkill>
+  <AboveAllowedSkill>over tillatt ferdighet {0}</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>TODO</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>mangler nødvendig ferdighetsnivå</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <AnimalInteractedTooRecently>dyr samhandlet for nylig</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
-  <NoUsableFood>no usable food</NoUsableFood>
+  <NoUsableFood>ingen brukbar mat</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>no food</NoFood>
   <!-- EN: animals skill too low - need {0} -->
