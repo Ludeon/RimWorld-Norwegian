@@ -3,389 +3,388 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>Tutorial</Tutorial>
+  <Tutorial>Opplæringen</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>New colony</NewColony>
+  <NewColony>Ny koloni</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>Back to game</BackToGame>
+  <BackToGame>Tilbake til spillet</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>Review scenario</ReviewScenario>
+  <ReviewScenario>Gjennomgå scenario</ReviewScenario>
   <!-- EN: Save -->
-  <Save>Save</Save>
+  <Save>Lagre</Save>
   <!-- EN: Load game -->
-  <LoadGame>Load game</LoadGame>
+  <LoadGame>Last spill</LoadGame>
   <!-- EN: Options -->
-  <Options>Options</Options>
+  <Options>Instillinger</Options>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <SaveTranslationReport>Lagre oversettelsesrapport</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <GeneratingTranslationReport>Genererer oversettelsesrapport</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <CleanupTranslationFiles>Ryddopp oversettelsesfiler</CleanupTranslationFiles>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <CleaningTranslationFiles>Rengjøring av oversettelsesfiler</CleaningTranslationFiles>
   <!-- EN: Credits -->
-  <Credits>Credits</Credits>
+  <Credits>Kreditter</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
+  <QuitToMainMenu>Avslutt til hovedmenyen</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Lagre og avslutt til hovedmenyen</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Quit to OS</QuitToOS>
+  <QuitToOS>Avslutt til OS</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Lagre og avslutt til OS</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
   <FictionPrimer>Fiction primer</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <LudeonBlog>Ludeon blogg</LudeonBlog>
   <!-- EN: Forums -->
-  <Forums>Forums</Forums>
+  <Forums>Fora</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>Official wiki</OfficialWiki>
+  <OfficialWiki>Offisielt wiki</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansTwitter>Tynans twitter</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <TynansDesignBook>Tynans designbok</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <HelpTranslate>Hjelp til å oversette Rimworld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <BuySoundtrack>Kjøp lydspor</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>Create world</CreateWorld>
+  <CreateWorld>Skap verden</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>TODO</TranslationThanks>
+  <TranslationThanks>Alle oversettelser av RimWorld er fan-laget. Denne fan-laget oversettelsen ble laget av følgende utmerkede frivillige:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <TranslationHowToContribute>Du kan også bidra. Klikk nedenfor for å lære mer (åpner nettleseren).</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>TODO</LearnMore>
+  <LearnMore>Lære mer</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>TODO</DevBuildWarning>
+  <DevBuildWarning>Advarsel: Dette er en ustabil utvikling. Dette betyr at vi kjører designeksperimenter og driver med teknisk utvikling.\n\nNoen ting vil være midlertidig ubalansert med vilje. Dette er en klassisk spilldesignmetode hvor vi bevisst går for langt med en balanseendring for bedre å forstå balansegrenser. Vi kan deretter bruke den informasjonen til å bestemme de endelige balansepoengene.\n\nDet vil også være feil, inkludert spillbrytende. Lagre kompatibilitet kan bryte når som helst.\n\nHvis du er ok med alt dette, takk for testingen! Hvis du ikke vil være underlagt eksperimentene våre, vennligst spill den siste stabile versjonen.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>Review world</ReviewWorld>
+  <ReviewWorld>Gjennomgå verden</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>Generate</WorldGenerate>
+  <WorldGenerate>Generer</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
+  <WorldSaveAndFinish>Lagre og ferdig</WorldSaveAndFinish>
   <!-- EN: Reset -->
-  <Reset>Reset</Reset>
+  <Reset>Nullstille</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
+  <PlanetCoverage>Klodedekning</PlanetCoverage>
   <!-- EN: Overall rainfall -->
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
+  <PlanetRainfall>Generelt nedbør</PlanetRainfall>
   <!-- EN: Overall temperature -->
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
+  <PlanetTemperature>Generelt temperatur</PlanetTemperature>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Lav</PlanetRainfall_Low>
   <!-- EN: Normal -->
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>High</PlanetRainfall_High>
+  <PlanetRainfall_High>Høy</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+  <PlanetTemperature_Low>Lav</PlanetTemperature_Low>
   <!-- EN: Normal -->
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>High</PlanetTemperature_High>
+  <PlanetTemperature_High>Høy</PlanetTemperature_High>
   <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <RandomizeSeed>Tilfeldig seed</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeten har alltid samme diameter, men siden den er langt større enn nødvendig for lek, genererer vi ikke hele overflaten fordi det kan ta veldig lang tid. Dette er prosentandelen av overflaten du vil ha generert.</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>TODO</WorldFactionsTab>
+  <WorldFactionsTab>Fraksjoner</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>Select world</SelectWorld>
+  <SelectWorld>Velg verden</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>Select</WorldChooseButton>
+  <WorldChooseButton>Velg</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ingen verdensfiler funnet. Skap en verden først.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
+  <BuildNowAvailable>Versjon {0} er nå tilgjengelig. Sjekk ludeon.com for mer info.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>This is the latest version.</BuildUpToDate>
+  <BuildUpToDate>Dette er den nyeste versjonen.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>Feil ved henting av versjonsinformasjon: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <LoadingVersionInfo>Laster versjonsinformasjon ...</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Generer verden</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Åpne Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <GetModsFromForum>Få mods fra forumet</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
+  <OpenModsDataFolder>Åpne mods-datamappen</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Er du sikker på at du vil deaktivere kjernemoden? Spillet vil ikke fungere i det hele tatt med mindre du har en annen mod som erstatter all kjernefunksjonaliteten.\n\nHusk at andre modder kan overstyre defs i kjernemoden ved å bruke samme defName.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Er du sikker på at du vil slette alt innholdet for {0}?</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <Unsubscribe>Avslutte abonnementet</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Er du sikker på at du vil avslutte abonnementet på {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
-  <Author>Author</Author>
+  <Author>Forfatter</Author>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Workshop page</WorkshopPage>
+  <WorkshopPage>Workshop nettside</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Laste opp på Steam Workshop</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Oppdatere på Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Opplasting pågår allerede.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Verkstedinnlevering mislyktes.\n\nÅrsak: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Lastet opp {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Downloading</Downloading>
+  <Downloading>Laster ned</Downloading>
   <!-- EN: Source -->
-  <Source>Source</Source>
+  <Source>Kilde</Source>
   <!-- EN: For version: {0} -->
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <ModTargetVersion>For versjon: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Denne moden ble ikke laget for denne versjonen av RimWorld, og vil sannsynligvis ikke fungere riktig.</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>Denne modden ble laget for en nyere versjon av RimWorld enn dette, og vil sannsynligvis ikke fungere riktig.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod trenger en godt formatert målversjon i about.xml. Som dette: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>Drag to reorder</DragToReorder>
+  <DragToReorder>Dra for å omorganisere</DragToReorder>
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>Choose scenario</ChooseScenario>
+  <ChooseScenario>Velg scenario</ChooseScenario>
   <!-- EN: Custom -->
   <ScenariosCustom>Custom</ScenariosCustom>
   <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <ScenarioEditor>Scenario redigering</ScenarioEditor>
   <!-- EN: Delete -->
-  <Delete>Delete</Delete>
+  <Delete>Slett</Delete>
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
   <Seed>seed</Seed>
   <!-- EN: Load -->
-  <Load>Load</Load>
+  <Load>Laste</Load>
   <!-- EN: edit mode -->
-  <EditMode>edit mode</EditMode>
+  <EditMode>redigeringsmodus</EditMode>
   <!-- EN: Summary -->
-  <Summary>Summary</Summary>
+  <Summary>Sammendrag</Summary>
   <!-- EN: Add part -->
-  <AddPart>Add part</AddPart>
+  <AddPart>Legg til del</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>Alle tekstfelt må fylles ut.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Er du sikker på at du vil laste opp dette til Steam Workshop?\n\nDu må godta Steam Workshops vilkår for bruk. Finn de fullstendige vilkårene her:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Selvfølgelig skal du bare laste opp innhold du har laget selv.\n\nHar du laget dette innholdet selv?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>Incompatible</Incompatible>
+  <Incompatible>Uforenlig</Incompatible>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>Too many (max {0}): </TooMany>
+  <TooMany>For mange (maks. {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Kan oppdateres på Workshop, fordi du er forfatteren.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Velg AI forteller</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <HowStorytellersWork>AI Storyteller lager hendelser som piratangrep, ressursnedgang eller dyreangrep. Deres valg vil påvirke historien om kolonien din. Du kan endre disse innstillingene når som helst.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <MustChooseDifficulty>Velg en vanskelighetsinnstilling.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
   <Difficulty>Difficulty</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>TODO</CommitmentMode>
+  <CommitmentMode>Ironman</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Vanlig</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <MustChoosePermadeath>Velg ironman-modus eller vanlig-modus.</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Du kan lagre og laste spillet når som helst.\n\nDette er et godt valg hvis du fortsatt lærer spillet, hvis det passer til din personlige spillestil, hvis du bruker mods som kan ødelegge spillet ditt, eller hvis du har til hensikt å håndheve ironman-modus selv.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
   <PermadeathModeInfo>I permanent død-modus får du kun en lagringsfil og du kan kun lagre når du avslutter spillet. du kan ikke laste inn igjen lagret spill for å rette opp i feil, og når kolonien dør, så er det ingen vei tilbake.\n\nDet var på denne måten RimWorld var ment å bli spilt, med hver dramatisk vendig - enten tragisk eller håpefull - harde fakta!</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Forteller og vanskelighetsgrad kan endres når som helst.</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
-  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <UnlockExtremeDifficulty>Nådeløs modus</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Nådeløs modus er en spesiell spillmodus der hver utfordring skrus opp til ekstreme nivåer.\n\nNådeløs modus låses opp automatisk når du når bestemte milepæler. Du kan imidlertid låse den opp nå.\n\nDette alternativet anbefales bare når du har spilt et eller to vanskelige spill og ønsker å ha en god sjanse til å dø til tross for din beste innsats.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>TODO</SelectStartingSite>
+  <SelectStartingSite>Velg startområdet</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Select random site</SelectRandomSite>
+  <SelectRandomSite>Velg tilfeldig område</SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>Select site</SelectSite>
+  <SelectSite>Velg område</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <MustSelectStartingSite>Du må velg et område.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <CannotLandBiome>Du kan ikke lande på dette biomet: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <BiomeNotImplemented>Biome ikke implementert</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Du kan ikke lande på ufremkommelige fjell.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} har allerede en base der.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Du har allerede en base der.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>TODO</TileOccupied>
+  <TileOccupied>Denne flisen er opptatt.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Bosetninger kan ikke ligge direkte inntil hverandre.</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>Biome</Biome>
   <!-- EN: Terrain -->
-  <Terrain>Terrain</Terrain>
+  <Terrain>Terreng</Terrain>
   <!-- EN: Road -->
-  <Road>TODO</Road>
+  <Road>Vei</Road>
   <!-- EN: River -->
-  <River>TODO</River>
+  <River>Elv</River>
   <!-- EN: Elevation -->
   <Elevation>Elevation</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>Fertility</Fertility>
+  <Fertility>Fruktbarhet</Fertility>
   <!-- EN: Average temperature -->
-  <AvgTemp>Average temperature</AvgTemp>
+  <AvgTemp>Gjennomsnittstemperatur</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>Rainfall</Rainfall>
+  <Rainfall>Nedbør</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>TODO</SpecialFeatures>
+  <SpecialFeatures>Spesielle landegenskaper:</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>Northern coast</HasCoast0>
+  <HasCoast0>Nordkysten</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>Eastern coast</HasCoast1>
+  <HasCoast1>Østkysten</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>Southern coast</HasCoast2>
+  <HasCoast2>Sørkysten</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>Western coast</HasCoast3>
+  <HasCoast3>Vestkysten</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>TODO</HasCaves>
+  <HasCaves>Grotter</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>Faction base</FactionBase>
+  <FactionBase>Fraksjonsbase</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Stone types</StoneTypesHere>
+  <StoneTypesHere>Steintyper</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>Time zone</TimeZone>
+  <TimeZone>Tidssone</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>TODO</MovementDifficulty>
+  <MovementDifficulty>Bevegelsesvansker</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>TODO</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Dyr kan beite nå</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Gjennomsnittlig sykdomsfrekvens</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>TODO</PerYear>
+  <PerYear>per år</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>TODO</Forageability>
+  <Forageability>Fôrbarhet</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valgte personene kan utføre følgende jobber:\n\n{0}\n\nDette kan gjøre spillet vanskeligere enn vanlig. Er du sikker på at du vil fortsette?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>Create characters</CreateCharacters>
+  <CreateCharacters>Lag karakterer</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <FirstNameDesc>Karakterens fornavn.\n\nDette vises bare i enkelte menyer.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Tegnets korte identifikator.\n\nDette vises til enhver tid. Det kan være for- eller etternavn, eller et helt eget kallenavn.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <LastNameDesc>Karakterens etternavn.\n\nDette vises bare i enkelte menyer.</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>Randomize</Randomize>
+  <Randomize>Tilfeldig</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>age {0}</AgeIndicator>
+  <AgeIndicator>alder {0}</AgeIndicator>
   <!-- EN: Backstory -->
-  <Backstory>Backstory</Backstory>
+  <Backstory>Bakgrunn</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Incapable of</IncapableOf>
+  <IncapableOf>Ute av stand til</IncapableOf>
   <!-- EN: Traits -->
-  <Traits>Traits</Traits>
+  <Traits>Egenskaper</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <PermanentMoodEffect>Permanent stemningseffekt</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Skills</Skills>
+  <Skills>Ferdigheter</Skills>
   <!-- EN: none -->
-  <NoneLower>none</NoneLower>
+  <NoneLower>ingen</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Adulthood</Adulthood>
+  <Adulthood>Voksenlivet</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Childhood</Childhood>
+  <Childhood>Barndom</Childhood>
   <!-- EN: Current -->
-  <Current>TODO</Current>
+  <Current>Nå</Current>
   <!-- EN: male -->
-  <Male>male</Male>
+  <Male>mann</Male>
   <!-- EN: female -->
-  <Female>female</Female>
+  <Female>kvinne</Female>
   <!-- EN: male -->
-  <MaleAnimal>TODO</MaleAnimal>
+  <MaleAnimal>hann</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>TODO</FemaleAnimal>
+  <FemaleAnimal>hunn</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>Pain</Pain>
+  <Pain>Smerte</Pain>
   <!-- EN: Health -->
-  <Health>Health</Health>
+  <Health>Helse</Health>
   <!-- EN: Relations -->
-  <Relations>Relations</Relations>
+  <Relations>Relasjoner</Relations>
   <!-- EN: Team skills -->
-  <TeamSkills>TODO</TeamSkills>
+  <TeamSkills>Teamferdigheter</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>TODO</StartingPawnsSelected>
-  <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
+  <StartingPawnsSelected>Valgt</StartingPawnsSelected>
+  <!-- EN: Left behind -->Etterlatt</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Start</Start>
   <!-- EN: Advanced -->
-  <Advanced>Advanced</Advanced>
+  <Advanced>Advansert</Advanced>
   <!-- EN: Next -->
-  <Next>Next</Next>
+  <Next>Neste</Next>
   <!-- EN: Back -->
-  <Back>Back</Back>
+  <Back>Forrige</Back>
   <!-- EN: Gameplay -->
   <Gameplay>Gameplay</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Virkelig slutte? Du mister ulagret fremdrift.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Hver person trenger et gyldig navn.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Ingen av de valgte personene kan utføre følgende jobber</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>Quit</Quit>
+  <Quit>Avslutt</Quit>
   <!-- EN: Ignore -->
-  <Ignore>Ignore</Ignore>
+  <Ignore>Overse</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>Generating world</GeneratingWorld>
+  <GeneratingWorld>Generer verden</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>TODO</GeneratingPlanet>
+  <GeneratingPlanet>Generer planeten</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>Generating map</GeneratingMap>
+  <GeneratingMap>Generer kart</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>Generer kart for nytt møte</GeneratingMapForNewEncounter>
 
   <!-- UNUSED -->
   <SelectLandingSite>Select landing site</SelectLandingSite>

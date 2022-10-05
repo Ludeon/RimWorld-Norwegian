@@ -25,47 +25,47 @@
 
   <!-- General-use words -->
   <!-- EN: Yes -->
-  <Yes>Yes</Yes>
+  <Yes>Ja</Yes>
   <!-- EN: No -->
-  <No>No</No>
+  <No>Nei</No>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
-  <max>max</max>
+  <max>maks</max>
   <!-- EN: chance -->
-  <chance>chance</chance>
+  <chance>sjanse</chance>
   <!-- EN: context -->
-  <context>context</context>
+  <context>kontekst</context>
   <!-- EN: multiplier -->
-  <multiplier>multiplier</multiplier>
+  <multiplier>multiplikator</multiplier>
   <!-- EN: damage -->
-  <damage>damage</damage>
+  <damage>skader</damage>
   <!-- EN: radius -->
   <radius>radius</radius>
   <!-- EN: duration (days) -->
-  <durationDays>duration (days)</durationDays>
+  <durationDays>varighet (dager)</durationDays>
   <!-- EN: interval (days) -->
-  <intervalDays>interval (days)</intervalDays>
+  <intervalDays>intervall (dager)</intervalDays>
   <!-- EN: repeat -->
-  <repeat>repeat</repeat>
+  <repeat>gjenta</repeat>
   <!-- EN: default -->
-  <default>TODO</default>
+  <default>standard</default>
   <!-- EN: distance -->
-  <distance>TODO</distance>
+  <distance>avstand</distance>
   <!-- EN: YES -->
-  <YesUppercase>TODO</YesUppercase>
+  <YesUppercase>JA</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>TODO</NoUppercase>
+  <NoUppercase>NEI</NoUppercase>
   <!-- EN: kg -->
-  <kg>TODO</kg>
+  <kg>kg</kg>
   <!-- EN: Day -->
-  <Day>Day</Day>
+  <Day>Dag</Day>
   <!-- EN: day -->
-  <day>TODO</day>
+  <day>dag</day>
   <!-- EN: Default -->
-  <Default>TODO</Default>
+  <Default>Standard</Default>
   <!-- EN: Average -->
-  <Average>TODO</Average>
+  <Average>Gjennomsnitt</Average>
 
   <!-- Content generation-->
   
@@ -74,37 +74,37 @@
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <MeatInsectDesc>Rått slaktet kjøtt. Om nødvendig, kan tilberedes i måltider, eller til og med spises rå. Ekstremt uappetittlig.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>TODO</MeatHumanDesc>
+  <MeatHumanDesc>Rått slaktet kjøtt. Kan tilberedes i måltider eller spises rå, selv om de fleste mennesker misliker ideen.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} corpse</CorpseLabel>
+  <CorpseLabel>{0} lik</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
+  <CorpseDesc>Død kropp av en {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (dead)</DeadLabel>
+  <DeadLabel>{0} (død)</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>grov {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>Grov, naturlig {0} bakke.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>grovhugget {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>Grovkuttet naturlig {0} gulv.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>glatt {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>Utjevnet naturlig {0} gulv.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <FrameLabelExtra> (bygning)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>TODO</FactionUnaffiliated>
+  <FactionUnaffiliated>Utilknyttet</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -114,24 +114,24 @@
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <CouplesRoom>{0} og {1}s {2}</CouplesRoom>
   
   <!-- EN: (various) -->
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(diverse)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Kolonist døde</ColonistDied>
   
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>North</North>
+  <North>Nord</North>
   <!-- EN: South -->
-  <South>South</South>
+  <South>Sør</South>
   <!-- EN: West -->
-  <West>West</West>
+  <West>Vest</West>
   <!-- EN: East -->
-  <East>East</East>
+  <East>Øst</East>
   
   <!-- UNUSED -->
   <LeatherLabel>{0} leather</LeatherLabel>
