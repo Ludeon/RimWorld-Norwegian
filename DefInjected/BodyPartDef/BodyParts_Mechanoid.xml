@@ -71,7 +71,7 @@
   <MechanicalThorax.label>overkropp</MechanicalThorax.label>
   
   <!-- EN: reactor -->
-  <Reactor.label>TODO</Reactor.label>
+  <Reactor.label>reaktor</Reactor.label>
   
   <!-- EN: visual sensor -->
   <SightSensor.label>synsapparat</SightSensor.label>

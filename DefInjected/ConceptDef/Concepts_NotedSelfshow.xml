@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: Alerts -->
-  <Alerts.label>TODO</Alerts.label>
+  <Alerts.label>Varlser</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
-  <Alerts.helpText>TODO</Alerts.helpText>
+  <Alerts.helpText>Varselet på høyresiden av skjermen vil informere deg om hendelser som trenger din oppmerksomhet.\n\nHold et øye med varslene.</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
-  <AllowedAreas.label>TODO</AllowedAreas.label>
+  <AllowedAreas.label>Tillatte områder</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>TODO</AllowedAreas.helpText>
+  <AllowedAreas.helpText>Kolinister og koloni-dyr kan tildeles TILLATTE OMRÅDER. Dette hindrer dem i å bevege seg utenfor det tillatte området.\n\nDette kan f.eks brukes for å hindre kolonister i å gå ut av bygninger.\n\nDu kan opprette flere tillatte områder og tildele forskjellige kolonister og dyr.\n\nOpprett, slett og tildel områder i BEGRENS-fliken.\n\nMal tillatte områder på kartet med UTVID TILLATTE OMRÅDER og FJERN TILLATE OMRÅDER verktøyene i ARKITEKT-fliken.</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
-  <AnimalTaming.label>TODO</AnimalTaming.label>
+  <AnimalTaming.label>Temming av dyr</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>TODO</AnimalTaming.helpText>
+  <AnimalTaming.helpText>Du kan tildele kolonister oppdrag med og temme ville dyr med TEMME-valget i menyen.\n\nKolonister vil lokke dyret med mat i et forsøk på å temme det.\n\nLegg merke til at noen dyr kan bli skremt og angripe ved mislykkede temningsforsøk.</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
-  <AnimalTraining.label>TODO</AnimalTraining.label>
+  <AnimalTraining.label>Trening av dyr</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
   <AnimalTraining.helpText>Du kan angi spesifikk trening for et tamt dyr under TRENING.\n\nNår noen har hatt en treningsøkt med dyret, trenger det en pause før det kan trenes igjen.</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
-  <CameraDolly.label>TODO</CameraDolly.label>
+  <CameraDolly.label>Flytting av kameraet</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>FLytt kameraet ved å trykke og dra med MUSEHJULKNAPPEN eller med WASD.</CameraDolly.helpText>
+  <CameraDolly.helpText>Flytt kameraet ved å trykke og dra med MUSEHJULKNAPPEN eller med WASD.</CameraDolly.helpText>
   
   <!-- EN: Camera zoom -->
   <CameraZoom.label>Lær kamerazooming</CameraZoom.label>
@@ -32,19 +32,19 @@
   <CameraZoom.helpText>Zoom inn og ut med MUSEHJULET eller tastene T og G.</CameraZoom.helpText>
   
   <!-- EN: Clicking messages -->
-  <ClickingMessages.label>TODO</ClickingMessages.label>
+  <ClickingMessages.label>Meldinger</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
   <ClickingMessages.helpText>Klikk på merknadene øverst til venstre på skjermen for å føre til det de handler om.</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
-  <CoverAndShooting.label>TODO</CoverAndShooting.label>
+  <CoverAndShooting.label>Kampteknikk ved avstandskamp</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>TODO</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>Det viktigste ved avstandskamp er å bruke dekning.\n\nDekningen fungerer kun hvis kolonisten din berører den, og gjenstanden du bruker som dekningen er i mellom kolonisten og fienden.\n\nDu kan også plassere kolinister rundt hjørnet på bygninger. De vil lene seg ut og skyte.\n\nDe fleste gjenstander kan brukes som dekning, men noen gjenstander fungerer bedre enn andre. Å ta dekning bak et tre er bedre enn ingenting, men å ta dekning bak sandsekker fungerer bedre.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
-  <Deterioration.label>TODO</Deterioration.label>
+  <Deterioration.label>Nedbryting av gjenstander</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>Ting som ligger ute vil sakte men sikkert brytes ned.\n\nBygg et tak over ting du vil beholde.</Deterioration.helpText>
+  <Deterioration.helpText>Gjenstander som ligger ute vil sakte men sikkert brytes ned.\n\nBygg et tak over gjenstander du vil beholde over tid.</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
   <EquippingWeapons.label>Utrust våpen</EquippingWeapons.label>
@@ -52,34 +52,42 @@
   <EquippingWeapons.helpText>Kolonistene dine tok med seg våpen hit. Utrust dem!\n\nVelg enkelte kolonister og høyreklikk på våpnene du vil de skal bruke.</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
-  <FirePreparation.label>TODO</FirePreparation.label>
-  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>TODO</FirePreparation.helpText>
+  <FirePreparation.label>Forebygging av branner</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.
+\n\nThese design elements can help reduce the damage from fires:
+\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
+\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
+\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>Branner kan lett ødelegge en hel koloni. For å bekjempe branner må du forebygge dem.
+  \n\nDisse punktene kan redusere konsekvensene av en brann:
+  \n\n1. I stedet for å bygge en massiv bygning, bør du heller bygge separate bygninger med god plass i mellom.
+  \n\n2. Unngå brennbare materialer. Trevirke er billig og raskt å jobbe med, men er veldig brennbart.
+  \n\n3. Lag branngater for å hindre at branner når din koloni. En rekke med betonggulv som er tre eller fire celler brede vil stoppe en framrykkende brann.</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
   <Forbidding.label>Tillat ressurser</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>Kolonister vil ikke arbeide med ting som er FORBUDTE.\n\nForbudte ting har en liten rød X ved seg. Velg en forbudt ting og bruk kontrollene på bunnen for å TILLATE den.</Forbidding.helpText>
+  <Forbidding.helpText>Kolonister vil ikke arbeide med gjenstander som er FORBUDTE.\n\nForbudte ting har en liten rød X ved seg. Velg en forbudt gjenstad og bruk kontrollene på bunnen for å TILLATE den.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
-  <ForbiddingDoors.label>TODO</ForbiddingDoors.label>
+  <ForbiddingDoors.label>Forby dører</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>TODO</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>Du kan FORBY bruk av spesifikke dører så kolonister og tamme dyr ikke går igjennom dem.\n\nLegg merke til at dette ikke er en dørlås. Dører er alltid låste, så fiender kan ikke passere fritt. Å forby bruk av en dør henstiller kolinistene til ikke å bruke døren. Kolinister som har et psykedelisk anfall kan likevel velge å benytte døren.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
-  <FormCaravan.label>TODO</FormCaravan.label>
+  <FormCaravan.label>Dann karavane</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>TODO</FormCaravan.helpText>
+  <FormCaravan.helpText>Du kan danne en karavane for å sende en gruppe mennesker på en reise på tvers av planeten!\n\nI VERDEN-menyen velger du først hjemmebasen din og trykk så på "dann karavane"-knappen.</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
-  <FriendlyFireSafety.label>TODO</FriendlyFireSafety.label>
+  <FriendlyFireSafety.label>Sikkerhet og vådeskudd</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>TODO</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Vådeskudd skjer aldri hvis skytteren er i nærheten av sin allierte.\n\Du kan f.eks sette en kolonist med sverd rett foran en med skytevåpen. Skytteren vil skyte over skulderen til kolonisten med kniv.\n\nDette er en god måte å kombinere kolonister med skytevåpen og nærkampkolonister.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
-  <GettingMoreTraders.label>TODO</GettingMoreTraders.label>
+  <GettingMoreTraders.label>Få flere å handle med</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>TODO</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>Flere handelskaravaner kommer på besøk hvis du er alliert med flere grupper og klaner.\n\nHvis du ikke har noen allierte så vil det aldri komme karavaner på besøk!\n\nDu kan også betale allierte til å sende handelskaravaner ved å kontakte dem på kommunikasjonskonsollen.</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
   <GrowingFood.label>Velg et jordbruksområde</GrowingFood.label>
@@ -107,12 +115,12 @@
   <InfoCard.helpText>Infokortet gir deg detaljert statistikk om en ting, person, eller konstruksjon.\n\nVelg en person eller ting og åpne infokortet deres med "i"-knappen på oversikten deres.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
-  <InspectRoomStats.label>TODO</InspectRoomStats.label>
+  <InspectRoomStats.label>Rominspisering</InspectRoomStats.label>
   <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
   <InspectRoomStats.helpText>Du kan se hvert enkelt roms estetikk og verdi med INSPISER ROMS TREKK nede til høyre.</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
-  <ManualWorkPriorities.label>TODO</ManualWorkPriorities.label>
+  <ManualWorkPriorities.label>Manuell arbeidsprioritering</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
   <ManualWorkPriorities.helpText>TODO</ManualWorkPriorities.helpText>
   
@@ -122,7 +130,7 @@
   <MedicalOperations.helpText>Når du vil gjøre en medisinsk operasjon, som å høste et organ eller å installere en protese, kan du åpne en kolonists HELSE-oversikt, og bytte fra Oversikt til OPERASJONER.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>Gruvedrift</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
   <Mining.helpText>Du velger hvilke felter som skal graves i ved å åpne ARKITEKT-menyen og velge knappen ORDRE.\n\nNoen mineraler gir STÅL, GULL, PLASTÅL, og andre materialer.</Mining.helpText>
   
