@@ -86,13 +86,13 @@
   <DeadLabel>{0} (død)</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>grov {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>ujevn {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Grov, naturlig {0} bakke.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>Ujevn, naturlig {0} bakke.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>grovhugget {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>ujevn-hugget {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Grovkuttet naturlig {0} gulv.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>Ujevnt kuttet naturlig {0} gulv.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>glatt {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->

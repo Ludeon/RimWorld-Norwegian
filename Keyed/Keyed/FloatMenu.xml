@@ -6,13 +6,13 @@
   <!-- EN: Cannot use ({0}) -->
   <CannotUseReason>Kan ikke bruke ({0})</CannotUseReason>
   <!-- EN: Cannot use (solar flare) -->
-  <CannotUseSolarFlare>Kan ikke bruke (solar flare)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Kan ikke bruke (solflamme)</CannotUseSolarFlare>
   <!-- EN: Cannot use (no power) -->
-  <CannotUseNoPower>Kan ikke bruke (no power)</CannotUseNoPower>
+  <CannotUseNoPower>Kan ikke bruke (ingen strøm)</CannotUseNoPower>
   <!-- EN: Cannot use (no path) -->
-  <CannotUseNoPath>Kan ikke bruke (no path)</CannotUseNoPath>
+  <CannotUseNoPath>Kan ikke bruke (ingen vei)</CannotUseNoPath>
   <!-- EN: Cannot use (reserved) -->
-  <CannotUseReserved>Kan ikke bruke (reserved)</CannotUseReserved>
+  <CannotUseReserved>Kan ikke bruke (reservert)</CannotUseReserved>
   <!-- EN: Cannot use (full) -->
   <CannotUseFull>Kan ikke bruke (full)</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
@@ -83,114 +83,114 @@
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>TODO</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>Dyret felt</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>TODO</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>Dyret sover</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>TODO</CantInteractAnimalBusy>
+  <CantInteractAnimalBusy>Dyret opptatt</CantInteractAnimalBusy>
   <!-- EN: construction skill too low -->
-  <ConstructionSkillTooLow>TODO</ConstructionSkillTooLow>
+  <ConstructionSkillTooLow>byggeferdigheten for lav</ConstructionSkillTooLow>
   <!-- EN: need components -->
-  <NoComponentsToRepair>need components</NoComponentsToRepair>
+  <NoComponentsToRepair>trenger komponent</NoComponentsToRepair>
   <!-- EN: need {0} -->
-  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
+  <NoFuelToRefuel>trenger {0}</NoFuelToRefuel>
   <!-- EN: need wort -->
-  <NoWort>need wort</NoWort>
+  <NoWort>trenger vørter</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>TODO</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>tilgjengelig mat er lagret med høyere prioritet</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
-  <NoFoodToFillHopper>TODO</NoFoodToFillHopper>
+  <NoFoodToFillHopper>ingen passende mat</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
-  <SelfTendDisabled>TODO</SelfTendDisabled>
+  <SelfTendDisabled>selv-pleier deaktivert</SelfTendDisabled>
   <!-- EN: reserved for prisoners -->
-  <ReservedForPrisoners>TODO</ReservedForPrisoners>
+  <ReservedForPrisoners>reservert fanger</ReservedForPrisoners>
   <!-- EN: cannot reach -->
-  <CannotReach>TODO</CannotReach>
+  <CannotReach>rekker ikke</CannotReach>
   <!-- EN: not ready for surgery -->
-  <NotSurgeryReady>TODO</NotSurgeryReady>
+  <NotSurgeryReady>ikke klar for operasjon</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>TODO</SkillDisabled>
+  <SkillDisabled>ikke i stand til</SkillDisabled>
   <!-- EN: too bright -->
-  <CantSowCavePlantBecauseOfLight>TODO</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseOfLight>for mye lys</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>ikke under tak</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
-  <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <IncapableOfDeconstruction>ute av stand til dekonstruksjon</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>TODO</IncapableOfMining>
+  <IncapableOfMining>ute av stand til gruvedrift</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>TODO</AngersFaction>
+  <AngersFaction>irriterer fraksjonen</AngersFaction>
   
   <!-- EN: Consume {1_labelShort} -->
-  <ConsumeThing>Consume {0}</ConsumeThing>
+  <ConsumeThing>Forbruke {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here (no path) -->
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
+  <CannotGoNoPath>Kan ikke gå her (ingen sti)</CannotGoNoPath>
   <!-- EN: Go here -->
-  <GoHere>Go here</GoHere>
+  <GoHere>Gå her</GoHere>
   
   <!-- EN: Arrest {0} -->
-  <Arrest>Arrest {0}</Arrest>
+  <Arrest>Arrestere {0}</Arrest>
   <!-- EN: Try to arrest {1_label} -->
-  <TryToArrest>Try to arrest {0}</TryToArrest>
+  <TryToArrest>Prøve å arrestere {1_label}</TryToArrest>
   <!-- EN: Cannot arrest -->
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <CannotArrest>Kan ikke arrestere</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>Capture {0}</Capture>
+  <Capture>Fange {1_label}</Capture>
   <!-- EN: Cannot capture -->
-  <CannotCapture>Cannot capture</CannotCapture>
+  <CannotCapture>Ikke kan fange</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
-  <Rescue>Rescue {0}</Rescue>
+  <Rescue>Redde {1_label}</Rescue>
   <!-- EN: Cannot rescue -->
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <CannotRescue>Kan ikke redde</CannotRescue>
 
   <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Bær {1_label} til kryptosøvnskrinet</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kan ikke bære til kryptosøvnskrinet</CannotCarryToCryptosleepCasket>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>Ingen tilgjengelig kryptosøvnskrin.</NoCryptosleepCasket>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed.</NoPrisonerBed>
+  <NoPrisonerBed>Ingen tilgjengelig, ikke-reservert, lukket fangemerket seng.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed.</NoNonPrisonerBed>
+  <NoNonPrisonerBed>Ingen tilgjengelig, ikke-reservert ikke-fangeseng.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <NoAnimalBed>Ingen tilgjengelig, ikke-reservert dyreseng.</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>Reserved by someone else.</Reserved>
+  <Reserved>Reservert av noen andre.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>Reserved by {0}</ReservedBy>
+  <ReservedBy>Reservert av {1_labelShort}</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
+  <IsReservedBy>{0} er reservert av {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
-  <TooHeavy>Too heavy</TooHeavy>
+  <TooHeavy>For tung</TooHeavy>
 
   <!-- EN: incapable -->
-  <Incapable>incapable</Incapable>
+  <Incapable>ikke i stand til</Incapable>
   <!-- EN: incapable of {0} -->
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <IncapableOfCapacity>ikke i stand til {0}</IncapableOfCapacity>
 
   <!-- EN: min skill -->
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>min ferdighet</MinSkill>
   
   <!-- EN: Equip {0} -->
-  <Equip>Equip {0}</Equip>
+  <Equip>Utruste {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
+  <EquipWarningBrawler>(brawler vil være misfornøyd)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <CannotEquip>Ikke kan utruste {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
-  <CannotManThing>TODO</CannotManThing>
+  <CannotManThing>Kan ikke bemanne {1_labelShort}</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>Force wear {0}</ForceWear>
+  <ForceWear>Tving bruke {0}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>Cannot wear {0}</CannotWear>
+  <CannotWear>Kan ikke bruke {0}</CannotWear>
   <!-- EN: missing body parts -->
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>manglende kroppsdeler</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Cannot pick up {0}</CannotPickUp>
