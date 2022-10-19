@@ -7,8 +7,8 @@
   <TemperateForest.description>Et vennlig økosystem dominert av skog og trær, med områder av fruktbar jord. Mange forskjellige dyr lever mellom trærne og i gresset.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
-  <TemperateSwamp.label>TODO</TemperateSwamp.label>
+  <TemperateSwamp.label>Temperert sump</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>TODO</TemperateSwamp.description>
+  <TemperateSwamp.description>Et våtmark pakket med trær og vinranker. Mye av myrlandet her kan ikke bære tunge strukturer, bevegelsen er begrenset på grunn av den tykke vegetasjonen. Sykdom er endemisk i dette tette, våte økosystemet.</TemperateSwamp.description>
   
 </LanguageData>
