@@ -352,7 +352,8 @@
   <TeamSkills>Teamferdigheter</TeamSkills>
   <!-- EN: Selected -->
   <StartingPawnsSelected>Valgt</StartingPawnsSelected>
-  <!-- EN: Left behind -->Etterlatt</StartingPawnsLeftBehind>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Etterlatt</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
