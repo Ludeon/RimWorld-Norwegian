@@ -1,85 +1,134 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-
-
-<NamerArchipelago.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.2)->[subject]s [Archipelago_indef]</li>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->islands</li>
+    <li>terrain_word(p=3)->isles</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rocks</li>
+    <li>terrain_word->islets</li>
+    <li>terrain_word->points</li>
+    <li>terrain_word->chain</li>
+  -->
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.2)->[subject]s [Archipelago_indef]</li>
     <li>terrain_word(p=5)->øyene</li>
     <li>terrain_word->arkipelet</li>
     <li>terrain_word->atollen</li>
     <li>terrain_word->øykjeden</li>
-	<li>Archipelago_indef->øyer</li>
-	<li>Archipelago_indef->arkipel</li>
-	<li>Archipelago_indef->atoll</li>
-</NamerArchipelago.rulePack.rulesStrings>
+    <li>Archipelago_indef->øyer</li>
+    <li>Archipelago_indef->arkipel</li>
+    <li>Archipelago_indef->atoll</li>
+  </NamerArchipelago.rulePack.rulesStrings>
   
-  
-    
- 
-<NamerAridShrubland.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name->[WordTribal][terrain_word]</li>
-	<li>r_name->[WordTribal]s [terrain_indef]</li>
-	<li>terrain_word->platået</li>
+  <!-- EN:
+    <li>terrain_word(p=4)->shrubland</li>
+    <li>terrain_word(p=4)->scrubland</li>
+    <li>terrain_word(p=2)->plateau</li>
+    <li>terrain_word(p=2)->scrub</li>
+    <li>terrain_word->desert</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name->[WordTribal][terrain_word]</li>
+    <li>r_name->[WordTribal]s [terrain_indef]</li>
+    <li>terrain_word->platået</li>
     <li>terrain_word->ørkenen</li>
     <li>terrain_word->gokk</li>
-	<li>terrain_word(p=6)->vidda</li>
-	<li>terrain_word->taigaen</li>
-	<li>terrain_word->tundraen</li>
-	<li>terrain_word->marka</li>
-	<li>terrain_indef->platå</li>
+    <li>terrain_word(p=6)->vidda</li>
+    <li>terrain_word->taigaen</li>
+    <li>terrain_word->tundraen</li>
+    <li>terrain_word->marka</li>
+    <li>terrain_indef->platå</li>
     <li>terrain_indef->ørken</li>
     <li>terrain_indef->gokk</li>
-	<li>terrain_indef(p=6)->vidde</li>
-	<li>terrain_indef->taiga</li>
-	<li>terrain_indef->tundra</li>
-	<li>terrain_indef->mark</li>
-</NamerAridShrubland.rulePack.rulesStrings>
+    <li>terrain_indef(p=6)->vidde</li>
+    <li>terrain_indef->taiga</li>
+    <li>terrain_indef->tundra</li>
+    <li>terrain_indef->mark</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
   
-  
-    
- 
-<NamerBay.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
+  <!-- EN:
+    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->bight</li>
+    <li>terrain_word->gulf</li>
+    <li>terrain_word->anchorage</li>
+    <li>terrain_word->cove</li>
+  -->
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
     <li>terrain_word->bukta</li>
     <li>terrain_word->fjorden</li>
     <li>terrain_word->gulfen</li>
     <li>terrain_word->vika</li>
-	<li>terrain_indef->bukt</li>
+    <li>terrain_indef->bukt</li>
     <li>terrain_indef->fjord</li>
     <li>terrain_indef->gulf</li>
     <li>terrain_indef->vik</li>
-</NamerBay.rulePack.rulesStrings>
+  </NamerBay.rulePack.rulesStrings>
   
-  
-   
- 
-<NamerBorealForest.rulePack.rulesStrings> 
-	<li>r_name->[standardname]</li>
-	<li>r_name->[WordTribal][terrain_word]</li>
-	<li>r_name(p=0.1)->[WordTribal]s [domain]</li>
-	<li>terrain_word(p=4)->skogen</li>
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word(p=3)->taiga</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->tangle</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name->[WordTribal][terrain_word]</li>
+    <li>r_name(p=0.1)->[WordTribal]s [domain]</li>
+    <li>terrain_word(p=4)->skogen</li>
     <li>terrain_word(p=2)->taigaen</li>
     <li>terrain_word->skog</li>
     <li>terrain_word->skogene</li>
-	<li>terrain_word->marka</li>
-	<li>terrain_indef(p=4)->skog</li>
+    <li>terrain_word->marka</li>
+    <li>terrain_indef(p=4)->skog</li>
     <li>terrain_indef(p=2)->taiga</li>
     <li>terrain_indef->skoger</li>
-	<li>terrain_indef->mark</li>
-</NamerBorealForest.rulePack.rulesStrings>
+    <li>terrain_indef->mark</li>
+  </NamerBorealForest.rulePack.rulesStrings>
   
-  
-
- 
-  <NamerDesert.rulePack.rulesStrings>  
-	<li>r_name->[standardname]</li>
-	<li>r_name->[WordTribal][terrain_word]</li>
-	<li>r_name(p=0.1)->[WordTribal]s [domain]</li>
-	<li>r_name(p=0.4)->[Desert_dyreadj][animal_bestemt]s [domain]</li>  
-	<li>r_name(p=0.4)->[Desert_adjective] [story_result]</li>
+  <!-- EN:
+    <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
+    <li>desert_adjective->flat</li>
+    <li>desert_adjective->white</li>
+    <li>desert_adjective->endless</li>
+    <li>desert_adjective->heartless</li>
+    <li>desert_adjective->parched</li>
+    <li>desert_adjective->dry</li>
+    <li>desert_adjective->long</li>
+    <li>desert_adjective->sunburned</li>
+    <li>desert_adjective->sunny</li>
+    <li>desert_adjective->dazzling</li>
+    <li>desert_adjective->hot</li>
+    <li>desert_adjective->sweaty</li>
+    <li>desert_adjective->sandy</li>
+    <li>desert_adjective->rocky</li>
+    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->flats</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wastes</li>
+    <li>terrain_word->wasteland</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name->[WordTribal][terrain_word]</li>
+    <li>r_name(p=0.1)->[WordTribal]s [domain]</li>
+    <li>r_name(p=0.4)->[Desert_dyreadj][animal_bestemt]s [domain]</li>
+    <li>r_name(p=0.4)->[Desert_adjective] [story_result]</li>
     <li>Desert_adjective->flat</li>
     <li>Desert_adjective->hvit</li>
     <li>Desert_adjective->endeløs</li>
@@ -94,223 +143,277 @@
     <li>Desert_adjective->svett</li>
     <li>Desert_adjective->sandete</li>
     <li>Desert_adjective->steinete</li>
-	<li>Desert_adjective->karrig</li>
+    <li>Desert_adjective->karrig</li>
     <li>terrain_word(p=6)->ørkenen</li>
     <li>terrain_word->platået</li>
-	<li>terrain_word->flatene</li>
+    <li>terrain_word->flatene</li>
     <li>terrain_word->bassenget</li>
-	<li>terrain_indef(p=6)->ørken</li>
+    <li>terrain_indef(p=6)->ørken</li>
     <li>terrain_indef->platå</li>
-	<li>terrain_indef->flater</li>
+    <li>terrain_indef->flater</li>
     <li>terrain_indef->basseng</li>
-	<li>Desert_dyreadj->ørken</li>
-	<li>Desert_dyreadj->prærie</li>
-	<li>Desert_dyreadj->sand</li>
-	<li>Desert_dyreadj->brun</li>	
-</NamerDesert.rulePack.rulesStrings>
+    <li>Desert_dyreadj->ørken</li>
+    <li>Desert_dyreadj->prærie</li>
+    <li>Desert_dyreadj->sand</li>
+    <li>Desert_dyreadj->brun</li>
+  </NamerDesert.rulePack.rulesStrings>
   
-  
-   
- 
-<NamerForest.rulePack.rulesStrings> 
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.2)->[subject]s skog</li>
-	<li>terrain_word(p=4)->skogen</li>
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerForest.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.2)->[subject]s skog</li>
+    <li>terrain_word(p=4)->skogen</li>
     <li>terrain_word->skog</li>
     <li>terrain_word->skogene</li>
-	<li>terrain_word->marka</li>
-	<li>terrain_indef->skog</li>
+    <li>terrain_word->marka</li>
+    <li>terrain_indef->skog</li>
     <li>terrain_indef->skoger</li>
-	<li>terrain_indef->mark</li>
-</NamerForest.rulePack.rulesStrings>
+    <li>terrain_indef->mark</li>
+  </NamerForest.rulePack.rulesStrings>
   
-  
-    
- 
-<NamerIceSheet.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.1)->[IceSheet_adjective][terrain_word]</li>
-	<li>IceSheet_adjective->[Color]</li>
+  <!-- EN:
+    <li>terrain_word->sheet</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word(p=0.5)->reach</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->span</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->tract</li>
+  -->
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.1)->[IceSheet_adjective][terrain_word]</li>
+    <li>IceSheet_adjective->[Color]</li>
     <li>IceSheet_adjective->[AdjectiveNatural]</li>
     <li>terrain_word->fonn</li>
     <li>terrain_word->fonna</li>
     <li>terrain_word->breen</li>
-	<li>terrain_indef->fonn</li>
+    <li>terrain_indef->fonn</li>
     <li>terrain_indef->bre</li>
-</NamerIceSheet.rulePack.rulesStrings>
+  </NamerIceSheet.rulePack.rulesStrings>
   
-  
-    
- 
-<NamerIsland.rulePack.rulesStrings>
-	<li>r_name(p=15)->[standardname]</li>
-	<li>r_name->[gen_pos] [BodyPart]</li>	
-	<li>r_name(p=3)->[subject]s [terrain_indef]</li>
-	<li>terrain_word(p=3)->øy</li>
-	<li>terrain_word(p=6)->øya</li>
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->island</li>
+    <li>terrain_word(p=2)->isle</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rock</li>
+    <li>terrain_word->islet</li>
+    <li>terrain_word->point</li>
+  -->
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=15)->[standardname]</li>
+    <li>r_name->[gen_pos] [BodyPart]</li>
+    <li>r_name(p=3)->[subject]s [terrain_indef]</li>
+    <li>terrain_word(p=3)->øy</li>
+    <li>terrain_word(p=6)->øya</li>
     <li>terrain_word->revet</li>
     <li>terrain_word->atollen</li>
-	<li>terrain_word->land</li>
-	<li>terrain_indef(p=3)->øy</li>
-	<li>terrain_indef->atoll</li>
-	<li>terrain_indef(p=3)->land</li>
-</NamerIsland.rulePack.rulesStrings>
+    <li>terrain_word->land</li>
+    <li>terrain_indef(p=3)->øy</li>
+    <li>terrain_indef->atoll</li>
+    <li>terrain_indef(p=3)->land</li>
+  </NamerIsland.rulePack.rulesStrings>
   
-  
-    
- 
- <NamerLake.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.2)->[story_result_pre][terrain_word]</li>
-	<li>r_name(p=0.2)->[story_result_pos] sjø</li>
-	<li>r_name(p=0.4)->[subject]s [lake_adjective][lake_indef]</li>
-	<li>lake_adjective->[Color]</li>
+  <!-- EN:
+    <li>r_name->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->lake</li>
+    <li>terrain_word->sea</li>
+    <li>terrain_word->pond</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word(p=0.3)->puddle</li>
+    <li>terrain_word(p=0.3)->lagoon</li>
+    <li>terrain_word(p=0.3)->loch</li>
+  -->
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.2)->[story_result_pre][terrain_word]</li>
+    <li>r_name(p=0.2)->[story_result_pos] sjø</li>
+    <li>r_name(p=0.4)->[subject]s [lake_adjective][lake_indef]</li>
+    <li>lake_adjective->[Color]</li>
     <li>lake_adjective->[AdjectiveNatural]</li>
     <li>lake_adjective->klar</li>
     <li>lake_adjective->puste</li>
     <li>lake_adjective->fiske</li>
     <li>lake_adjective->bred</li>
     <li>lake_adjective->karpe</li>
-	<li>lake_adjective->fred</li>
+    <li>lake_adjective->fred</li>
     <li>lake_adjective->lakse</li>
     <li>lake_adjective->ørret</li>
     <li>lake_adjective->blåse</li>
     <li>lake_adjective->rolig</li>
-	<li>lake_adjective->stille</li>
+    <li>lake_adjective->stille</li>
     <li>terrain_word(p=5)->sjøen</li>
     <li>terrain_word->tjernet</li>
-	<li>terrain_word->dammen</li>
-	<li>terrain_word(p=2)->vannet</li>
-	<li>terrain_word(p=5)->[lake_indef]</li>
-	<li>lake_indef(p=3)->sjø</li>
+    <li>terrain_word->dammen</li>
+    <li>terrain_word(p=2)->vannet</li>
+    <li>terrain_word(p=5)->[lake_indef]</li>
+    <li>lake_indef(p=3)->sjø</li>
     <li>lake_indef->tjern</li>
     <li>lake_indef(p=2)->vann</li>
-	<li>lake_indef->dam</li>
+    <li>lake_indef->dam</li>
     <li>lake_indef->sund</li>
-	
-</NamerLake.rulePack.rulesStrings>
+  </NamerLake.rulePack.rulesStrings>
   
-  
-   
- 
- <NamerMountainRange.rulePack.rulesStrings> 
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.1)->De [mountain_adj] [mountain_big]</li>
-	<li>r_name(p=0.1)->[gen_pos] [mountain_adj] [terrain_indef]</li>
-	<li>mountain_adj->sju</li>
-	<li>mountain_adj->åtte</li>
-	<li>mountain_adj->ni</li>
-	<li>mountain_adj->tolv</li>
-	<li>mountain_adj->tretten</li>
-	<li>mountain_adj->digre</li>
-	<li>mountain_adj->forsteinede</li>
-	<li>mountain_adj->elendige</li>
-	<li>mountain_adj->iskalde</li>
-	<li>mountain_adj->livsfarlige</li>
-	<li>mountain_adj->brutale</li>
-	<li>mountain_adj->glødende</li>
-	<li>mountain_adj->skinnende</li>
-	<li>mountain_adj->enorme</li>
-	<li>mountain_adj->digre</li>
-	<li>mountain_adj->runde</li>
-	<li>mountain_adj->spisse</li>
-	<li>mountain_adj->gamle</li>
-	<li>mountain_adj->øde</li>
-	<li>mountain_adj->ville</li>
-	<li>mountain_adj->tåkete</li>
-	<li>mountain_adj->snødekte</li>
-	<li>mountain_adj->himmelstrekkende</li>
-	<li>mountain_adj->himmelhøye</li>
-	<li>mountain_adj->røde</li>
-	<li>mountain_adj->blå</li>
-	<li>mountain_adj->grønne</li>
-	<li>mountain_adj->indigo</li>
-	<li>mountain_adj->svarte</li>
-	<li>mountain_adj->hvite</li>
-	<li>mountain_adj->grå</li>
-	<li>mountain_adj->oransje</li>
-	<li>mountain_adj->turkise</li>
-	<li>mountain_adj->brune</li>
+  <!-- EN:
+    <li>r_name(p=0.2)->mount [narrative_name]</li>
+    <li>terrain_word(p=5)->mountains</li>
+    <li>terrain_word(p=2)->range</li>
+    <li>terrain_word->peaks</li>
+    <li>terrain_word->hills</li>
+    <li>terrain_word->cliffs</li>
+  -->
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.1)->De [mountain_adj] [mountain_big]</li>
+    <li>r_name(p=0.1)->[gen_pos] [mountain_adj] [terrain_indef]</li>
+    <li>mountain_adj->sju</li>
+    <li>mountain_adj->åtte</li>
+    <li>mountain_adj->ni</li>
+    <li>mountain_adj->tolv</li>
+    <li>mountain_adj->tretten</li>
+    <li>mountain_adj->digre</li>
+    <li>mountain_adj->forsteinede</li>
+    <li>mountain_adj->elendige</li>
+    <li>mountain_adj->iskalde</li>
+    <li>mountain_adj->livsfarlige</li>
+    <li>mountain_adj->brutale</li>
+    <li>mountain_adj->glødende</li>
+    <li>mountain_adj->skinnende</li>
+    <li>mountain_adj->enorme</li>
+    <li>mountain_adj->digre</li>
+    <li>mountain_adj->runde</li>
+    <li>mountain_adj->spisse</li>
+    <li>mountain_adj->gamle</li>
+    <li>mountain_adj->øde</li>
+    <li>mountain_adj->ville</li>
+    <li>mountain_adj->tåkete</li>
+    <li>mountain_adj->snødekte</li>
+    <li>mountain_adj->himmelstrekkende</li>
+    <li>mountain_adj->himmelhøye</li>
+    <li>mountain_adj->røde</li>
+    <li>mountain_adj->blå</li>
+    <li>mountain_adj->grønne</li>
+    <li>mountain_adj->indigo</li>
+    <li>mountain_adj->svarte</li>
+    <li>mountain_adj->hvite</li>
+    <li>mountain_adj->grå</li>
+    <li>mountain_adj->oransje</li>
+    <li>mountain_adj->turkise</li>
+    <li>mountain_adj->brune</li>
     <li>terrain_word->åsene</li>
     <li>terrain_word->klippene</li>
-	<li>terrain_word->høydene</li>
-	<li>terrain_word->haugene</li>
-	<li>terrain_word->bergene</li>
-	<li>terrain_word(p=5)->[mountain_big]</li>
-	<li>mountain_big(p=5)->fjell</li>
-	<li>mountain_big->fjellene</li>
-	<li>mountain_big->toppene</li>
-	<li>mountain_big->søstrene</li>
-	<li>mountain_big->nutene</li>
-	<li>terrain_indef->åser</li>
+    <li>terrain_word->høydene</li>
+    <li>terrain_word->haugene</li>
+    <li>terrain_word->bergene</li>
+    <li>terrain_word(p=5)->[mountain_big]</li>
+    <li>mountain_big(p=5)->fjell</li>
+    <li>mountain_big->fjellene</li>
+    <li>mountain_big->toppene</li>
+    <li>mountain_big->søstrene</li>
+    <li>mountain_big->nutene</li>
+    <li>terrain_indef->åser</li>
     <li>terrain_indef->klipper</li>
-	<li>terrain_indef->høyder</li>
-	<li>terrain_indef->hauger</li>
-	<li>terrain_indef->berg</li>
-	<li>terrain_indef(p=5)->fjell</li>
-	<li>terrain_indef->topper</li>
-	<li>terrain_indef->søstre</li>
-	<li>terrain_indef->nuter</li>
-</NamerMountainRange.rulePack.rulesStrings>
+    <li>terrain_indef->høyder</li>
+    <li>terrain_indef->hauger</li>
+    <li>terrain_indef->berg</li>
+    <li>terrain_indef(p=5)->fjell</li>
+    <li>terrain_indef->topper</li>
+    <li>terrain_indef->søstre</li>
+    <li>terrain_indef->nuter</li>
+  </NamerMountainRange.rulePack.rulesStrings>
   
-  
-    
- 
+  <!-- EN:
+    <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->blue</li>
+    <li>ocean_adjective->white</li>
+    <li>ocean_adjective->gray</li>
+    <li>ocean_adjective->clear</li>
+    <li>ocean_adjective->windy</li>
+    <li>ocean_adjective->stormy</li>
+    <li>ocean_adjective->calm</li>
+    <li>ocean_adjective->broad</li>
+    <li>ocean_adjective->endless</li>
+    <li>ocean_adjective->flat</li>
+    <li>ocean_adjective->still</li>
+    <li>ocean_adjective->wavy</li>
+    <li>ocean_adjective->gentle</li>
+    <li>terrain_word(p=6)->ocean</li>
+    <li>terrain_word(p=3)->sea</li>
+    <li>terrain_word->expanse</li>
+  -->
   <NamerOcean.rulePack.rulesStrings>
     <li>r_name->[standardname]</li>
     <li>r_name(p=0.2)->[ocean_adjective][terrain_word]</li>
-	<li>ocean_adjective->[color]</li>
-	<li>ocean_adjective->fiske</li>
-	<li>ocean_adjective->seiler</li>
-	<li>ocean_adjective->torske</li>
-	<li>ocean_adjective->makrell</li>
+    <li>ocean_adjective->[color]</li>
+    <li>ocean_adjective->fiske</li>
+    <li>ocean_adjective->seiler</li>
+    <li>ocean_adjective->torske</li>
+    <li>ocean_adjective->makrell</li>
     <li>ocean_adjective->stille</li>
-	<li>ocean_adjective->hvile</li>
-	<li>ocean_adjective->storm</li>
+    <li>ocean_adjective->hvile</li>
+    <li>ocean_adjective->storm</li>
     <li>ocean_adjective->evig</li>
     <li>ocean_adjective->bølge</li>
-	<li>ocean_adjective->stor</li>
-	<li>ocean_adjective->kjempe</li>
+    <li>ocean_adjective->stor</li>
+    <li>ocean_adjective->kjempe</li>
     <li>ocean_adjective->snill</li>
-	<li>ocean_adjective->hval</li>
+    <li>ocean_adjective->hval</li>
     <li>terrain_word(p=6)->havet</li>
     <li>terrain_word(p=3)->sjøen</li>
-	<li>terrain_indef(p=6)->hav</li>
+    <li>terrain_indef(p=6)->hav</li>
     <li>terrain_indef(p=3)->sjø</li>
-</NamerOcean.rulePack.rulesStrings>
+  </NamerOcean.rulePack.rulesStrings>
   
-  
-   
- 
- <NamerPeninsula.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.2)->kapp [gen_end]</li>
-	<li>r_name(p=0.2)->kapp [story_result]</li>
-	<li>r_name(p=0.1)->[peninsula_adjective][terrain_word]</li>	
-	<li>peninsula_adjective->[Color]</li>
+  <!-- EN:
+    <li>r_name(p=0.2)->point [narrative_name]</li>
+    <li>r_name(p=0.2)->cape [narrative_name]</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->point</li>
+    <li>terrain_word->cape</li>
+    <li>terrain_word->headland</li>
+    <li>terrain_word->horn</li>
+  -->
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.2)->kapp [gen_end]</li>
+    <li>r_name(p=0.2)->kapp [story_result]</li>
+    <li>r_name(p=0.1)->[peninsula_adjective][terrain_word]</li>
+    <li>peninsula_adjective->[Color]</li>
     <li>peninsula_adjective->[AdjectiveNatural]</li>
     <li>terrain_word->hornet</li>
-	<li>terrain_word->spissen</li>
-	<li>terrain_word->odden</li>
-	<li>terrain_word(p=4)->halvøya</li>
-	<li>terrain_word->tangen</li>
-	<li>terrain_indef->horn</li>
-	<li>terrain_indef->spiss</li>
-	<li>terrain_indef->odde</li>
-	<li>terrain_indef(p=4)->halvøy</li>
-	<li>terrain_indef->tange</li>
-</NamerPeninsula.rulePack.rulesStrings>
+    <li>terrain_word->spissen</li>
+    <li>terrain_word->odden</li>
+    <li>terrain_word(p=4)->halvøya</li>
+    <li>terrain_word->tangen</li>
+    <li>terrain_indef->horn</li>
+    <li>terrain_indef->spiss</li>
+    <li>terrain_indef->odde</li>
+    <li>terrain_indef(p=4)->halvøy</li>
+    <li>terrain_indef->tange</li>
+  </NamerPeninsula.rulePack.rulesStrings>
   
-  
-  
- 
- <NamerSea.rulePack.rulesStrings>  
- 	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.4)->[story_result_pre][terrain_word]</li>
+  <!-- EN:
+    <li>r_name(p=0.1)->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->ocean</li>
+    <li>terrain_word->lake</li>
+  -->
+  <NamerSea.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.4)->[story_result_pre][terrain_word]</li>
     <li>r_name(p=0.4)->[sea_adjective][terrain_word]</li>
-	<li>r_name(p=0.4)->[story_result_pos] innsjø</li>
-	<li>r_name(p=0.4)->[subject]s [sea_adjective]sjø</li>
-	<li>sea_adjective->[Color]</li>
+    <li>r_name(p=0.4)->[story_result_pos] innsjø</li>
+    <li>r_name(p=0.4)->[subject]s [sea_adjective]sjø</li>
+    <li>sea_adjective->[Color]</li>
     <li>sea_adjective->[AdjectiveNatural]</li>
     <li>sea_adjective->klar</li>
     <li>sea_adjective->puste</li>
@@ -322,23 +425,40 @@
     <li>sea_adjective->ørret</li>
     <li>sea_adjective->blåse</li>
     <li>sea_adjective->rolig</li>
-	<li>sea_adjective->stille</li>
-	<li>sea_adjective->storm</li>
-	<li>sea_adjective->stor</li>
+    <li>sea_adjective->stille</li>
+    <li>sea_adjective->storm</li>
+    <li>sea_adjective->stor</li>
     <li>terrain_word(p=6)->sjøen</li>
     <li>terrain_word->sjø</li>
-	<li>terrain_word->havet</li>
-	<li>terrain_indef(p=6)->sjø</li>
-	<li>terrain_indef->hav</li>
-</NamerSea.rulePack.rulesStrings>
+    <li>terrain_word->havet</li>
+    <li>terrain_indef(p=6)->sjø</li>
+    <li>terrain_indef->hav</li>
+  </NamerSea.rulePack.rulesStrings>
   
-  
-    
- 
+  <!-- EN:
+    <li>r_name(p=0.1)->fen [narrative_name]</li>
+    <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective->wet</li>
+    <li>swamp_adjective->steamy</li>
+    <li>swamp_adjective->choking</li>
+    <li>swamp_adjective->rotten</li>
+    <li>swamp_adjective->rotting</li>
+    <li>swamp_adjective->overgrown</li>
+    <li>swamp_adjective->tangled</li>
+    <li>swamp_adjective->viny</li>
+    <li>swamp_adjective->thorny</li>
+    <li>terrain_word(p=6)->swamp</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wetlands</li>
+    <li>terrain_word->bayou</li>
+    <li>terrain_word->bog</li>
+    <li>terrain_word->marsh</li>
+    <li>terrain_word->fen</li>
+  -->
   <NamerSwamp.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.1)->[NaturalObject][terrain_word]</li>
-	<li>r_name(p=0.2)->[subject]s [swamp_adjective] [story_result]</li>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.1)->[NaturalObject][terrain_word]</li>
+    <li>r_name(p=0.2)->[subject]s [swamp_adjective] [story_result]</li>
     <li>swamp_adjective->våte</li>
     <li>swamp_adjective->dampende</li>
     <li>swamp_adjective->kvelende</li>
@@ -352,45 +472,69 @@
     <li>terrain_word->våtmarka</li>
     <li>terrain_word->myrlandet</li>
     <li>terrain_word->sumpen</li>
-	<li>terrain_indef->myr</li>
+    <li>terrain_indef->myr</li>
     <li>terrain_indef->våtmark</li>
     <li>terrain_indef->myrland</li>
     <li>terrain_indef->sump</li>
-</NamerSwamp.rulePack.rulesStrings>
+  </NamerSwamp.rulePack.rulesStrings>
   
-  
-    
- 
-<NamerTropicalRainforest.rulePack.rulesStrings>
-	<li>r_name->[standardname]</li>
-	<li>r_name(p=0.1)->[subject]s [rainforest_adjective] [story_result]</li>
+  <!-- EN:
+    <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
+    <li>rainforest_adjective->wet</li>
+    <li>rainforest_adjective->steamy</li>
+    <li>rainforest_adjective->choking</li>
+    <li>rainforest_adjective->overgrown</li>
+    <li>rainforest_adjective->tangled</li>
+    <li>rainforest_adjective->viny</li>
+    <li>rainforest_adjective->thorny</li>
+    <li>terrain_word(p=6)->rainforest</li>
+    <li>terrain_word(p=3)->jungle</li>
+    <li>terrain_word->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->tangle</li>
+  -->
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>r_name->[standardname]</li>
+    <li>r_name(p=0.1)->[subject]s [rainforest_adjective] [story_result]</li>
     <li>rainforest_adjective->våte</li>
     <li>rainforest_adjective->dampende</li>
     <li>rainforest_adjective->kvelende</li>
     <li>rainforest_adjective->overgrodde</li>
     <li>rainforest_adjective->klissete</li>
     <li>rainforest_adjective->levende</li>
-	<li>rainforest_adjective->bugnende</li>
-	<li>rainforest_adjective->mangfoldige</li>
+    <li>rainforest_adjective->bugnende</li>
+    <li>rainforest_adjective->mangfoldige</li>
     <li>rainforest_adjective->tornete</li>
-	<li>rainforest_adjective->rike</li>
+    <li>rainforest_adjective->rike</li>
     <li>terrain_word->skogen</li>
     <li>terrain_word(p=3)->jungelen</li>
     <li>terrain_word->skog</li>
-	<li>terrain_indef->skog</li>
+    <li>terrain_indef->skog</li>
     <li>terrain_indef(p=3)->jungel</li>
-</NamerTropicalRainforest.rulePack.rulesStrings>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
   
-  
-	
-	
-<NamerTundra.rulePack.rulesStrings>
-	<li>r_name(p=0.2)->[standardname]</li>
-	<li>r_name(p=0.2)->[tundra_dyreadj][animal_bestemt]s [terrain_indef]</li>
-	<li>r_name(p=0.2)->[tundra_dyreadj][animal_pre][terrain_word]</li>
+  <!-- EN:
+    <li>terrain_word(p=4)->plateau</li>
+    <li>terrain_word(p=4)->barrens</li>
+    <li>terrain_word(p=2)->taiga</li>
+    <li>terrain_word->scrub</li>
+    <li>terrain_word->shrubland</li>
+    <li>terrain_word->scrubland</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word->prairie</li>
+    <li>terrain_word->flats</li>
+  -->
+  <NamerTundra.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[standardname]</li>
+    <li>r_name(p=0.2)->[tundra_dyreadj][animal_bestemt]s [terrain_indef]</li>
+    <li>r_name(p=0.2)->[tundra_dyreadj][animal_pre][terrain_word]</li>
     <li>r_name(p=0.1)->[tundra_adjective][terrain_word]</li>
     <li>r_name->[WordTribal][terrain_word]</li>
-	<li>r_name(p=0.1)->[WordTribal]s [terrain_indef]</li>
+    <li>r_name(p=0.1)->[WordTribal]s [terrain_indef]</li>
     <li>tundra_adjective->[Color]</li>
     <li>tundra_adjective->[AdjectiveNatural]</li>
     <li>terrain_word(p=6)->vidda</li>
@@ -398,113 +542,158 @@
     <li>terrain_word(p=3)->tundraen</li>
     <li>terrain_word->platået</li>
     <li>terrain_word->landet</li>
-	<li>terrain_word->marka</li>
-	<li>terrain_indef(p=6)->vidde</li>
+    <li>terrain_word->marka</li>
+    <li>terrain_indef(p=6)->vidde</li>
     <li>terrain_indef->prærie</li>
     <li>terrain_indef(p=3)->tundra</li>
     <li>terrain_indef->platå</li>
-	<li>terrain_indef->mark</li>
-	<li>terrain_indef(p=6)->[domain]</li>
-	<li>tundra_dyreadj->polar</li>
-	<li>tundra_dyreadj->snø</li>
-	<li>tundra_dyreadj->hvit</li>
-	<li>tundra_dyreadj->arktis</li>
-</NamerTundra.rulePack.rulesStrings>
-	
-	
-	
-	
+    <li>terrain_indef->mark</li>
+    <li>terrain_indef(p=6)->[domain]</li>
+    <li>tundra_dyreadj->polar</li>
+    <li>tundra_dyreadj->snø</li>
+    <li>tundra_dyreadj->hvit</li>
+    <li>tundra_dyreadj->arktis</li>
+  </NamerTundra.rulePack.rulesStrings>
   
-  
- 
-<WorldFeatureNamerCommon.rulePack.rulesStrings>
-	
-	<li>standardname->[gen_pre][terrain_word]</li>
-	<li>standardname(p=0.05)->[standardstory]</li>
-	<li>standardname(p=0.05)->[gen_pos] [terrain_indef]]</li>
-	<li>standardstory->[subject]s [story_result_pre][terrain_indef]</li>
-	
-	<li>gen_end(p=0.2)->[norsk_outlander]</li>
-	<li>gen_end->[NamePerson]</li>
-	<li>gen_end(p=0.2)->[WordTribal]</li>
-	
-	<li>gen_pre->[norsk_outlander]</li>
-	<li>gen_pre->[NamePerson]</li>
-	<li>gen_pre(p=0.2)->[story_result_pre]</li>
-	<li>gen_pre(p=0.3)->[WordTribal]</li>
-	<li>gen_pre->[maybe_natur_adj][animal_pre]</li>
-	<li>gen_pre(p=0.1)->[maybe_natur_adj][NaturalObject]</li>
-	
-	<li>gen_pos(p=0.1)->[story_result_pos]</li>
-	<li>gen_pos(p=0.1)->[maybe_natur_adj][animal_bestemt]s </li>
-	<li>gen_pos->[subject]s </li>
-	
-	<li>domain->rike</li>
-	<li>domain->territorie</li>
-	<li>domain->habitat</li>
-	<li>domain->revir</li>
-	<li>domain->land</li>
-	<li>domain->landskap</li>
-	
-	<li>maybe_natur_adj(p=27)-></li>
-	<li>maybe_natur_adj->[NaturalObject]</li>
-	<li>maybe_natur_adj->[Color]</li>
-	<li>maybe_natur_adj->[AdjectiveNatural]</li>
-	
+  <!-- EN:
+    <li>r_name->[narrative_name] [terrain_word]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[Color]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[Color] [Animal]</li>
+    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[subject]'s [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->folly</li>
+    <li>story_result->vice</li>
+    <li>story_result->lunacy</li>
+    <li>story_result->mistake</li>
+    <li>story_result->fault</li>
+    <li>story_result->misstep</li>
+    <li>story_result->delusion</li>
+    <li>story_result->joy</li>
+    <li>story_result->delight</li>
+    <li>story_result->wonder</li>
+    <li>story_result->pride</li>
+    <li>story_result->jewel</li>
+    <li>story_result->prize</li>
+    <li>story_result->bounty</li>
+    <li>story_result->honor</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->trophy</li>
+    <li>story_result->conceit</li>
+    <li>story_result->arrogance</li>
+    <li>story_result->stand</li>
+    <li>story_result->loss</li>
+    <li>story_result->debt</li>
+    <li>story_result->collapse</li>
+    <li>story_result->destruction</li>
+    <li>story_result->cataclysm</li>
+    <li>story_result->ruin</li>
+    <li>story_result->ruination</li>
+    <li>story_result->undoing</li>
+    <li>story_result->downfall</li>
+    <li>story_result->end</li>
+    <li>story_result->retirement</li>
+    <li>story_result->achievement</li>
+    <li>story_result->finale</li>
+    <li>story_result->bluff</li>
+    <li>story_result->ruse</li>
+    <li>story_result->deception</li>
+    <li>story_result->facade</li>
+    <li>story_result->fraud</li>
+  -->
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>standardname->[gen_pre][terrain_word]</li>
+    <li>standardname(p=0.05)->[standardstory]</li>
+    <li>standardname(p=0.05)->[gen_pos] [terrain_indef]]</li>
+    <li>standardstory->[subject]s [story_result_pre][terrain_indef]</li>
+    <li>gen_end(p=0.2)->[norsk_outlander]</li>
+    <li>gen_end->[NamePerson]</li>
+    <li>gen_end(p=0.2)->[WordTribal]</li>
+    <li>gen_pre->[norsk_outlander]</li>
+    <li>gen_pre->[NamePerson]</li>
+    <li>gen_pre(p=0.2)->[story_result_pre]</li>
+    <li>gen_pre(p=0.3)->[WordTribal]</li>
+    <li>gen_pre->[maybe_natur_adj][animal_pre]</li>
+    <li>gen_pre(p=0.1)->[maybe_natur_adj][NaturalObject]</li>
+    <li>gen_pos(p=0.1)->[story_result_pos]</li>
+    <li>gen_pos(p=0.1)->[maybe_natur_adj][animal_bestemt]s </li>
+    <li>gen_pos->[subject]s </li>
+    <li>domain->rike</li>
+    <li>domain->territorie</li>
+    <li>domain->habitat</li>
+    <li>domain->revir</li>
+    <li>domain->land</li>
+    <li>domain->landskap</li>
+    <li>maybe_natur_adj(p=27)-></li>
+    <li>maybe_natur_adj->[NaturalObject]</li>
+    <li>maybe_natur_adj->[Color]</li>
+    <li>maybe_natur_adj->[AdjectiveNatural]</li>
     <li>subject(p=5)->[maybe_title][NamePerson]</li>
     <li>subject->[maybe_title][WordTribal]</li>
     <li>subject->[maybe_title][norsk_outlander]</li>
-	
-	<li>maybe_title(p=20)-></li>
-	<li>maybe_title(p=0.1)->kong </li>
-	<li>maybe_title(p=0.2)->grev </li>
-	<li>maybe_title(p=0.4)->høvding </li>
-	<li>maybe_title(p=0.4)->baron </li>
-	<li>maybe_title->mr. </li>
-	<li>maybe_title(p=0.4)->dr. </li>
-	<li>maybe_title->sankt </li>
-	
-	<li>norsk_outlander->[SylE][place_end]</li>
-	<li>norsk_outlander(p=0.2)->[SylE][SylE][place_end]</li>
-	
-	<li>story_result_pos(p=12)->[story_result_en_s]ens</li>
-	<li>story_result_pos(p=13)->[story_result_en]ens</li>
-	<li>story_result_pos(p=4)->[story_result_n_s]ns</li>
-	<li>story_result_pos(p=6)->[story_result_n]ns</li>
-	<li>story_result_pos(p=5)->[story_result_et_s]ets</li>
-	<li>story_result_pos(p=7)->[story_result_et]ets</li>
-	<li>story_result_pos(p=2)->[story_result_t]ts</li>
-	<li>story_result_pos->[story_result_en_e]ens</li>
-	<li>story_result_pre(p=12)->[story_result_en_s]s</li>
-	<li>story_result_pre(p=13)->[story_result_en]</li>
-	<li>story_result_pre(p=4)->[story_result_n_s]s</li>
-	<li>story_result_pre(p=6)->[story_result_n]</li>
-	<li>story_result_pre(p=5)->[story_result_et_s]s</li>
-	<li>story_result_pre(p=7)->[story_result_et]</li>
-	<li>story_result_pre(p=2)->[story_result_t]</li>
-	<li>story_result->[story_result_en_e]e</li>
-	<li>story_result(p=12)->[story_result_en_s]</li>
-	<li>story_result(p=13)->[story_result_en]</li>
-	<li>story_result(p=4)->[story_result_n_s]</li>
-	<li>story_result(p=6)->[story_result_n]</li>
-	<li>story_result(p=5)->[story_result_et_s]</li>
-	<li>story_result(p=7)->[story_result_et]</li>
-	<li>story_result(p=2)->[story_result_t]</li>
-	<li>story_result->[story_result_en_e]</li>
-	<li>story_result_adj(p=12)->[story_result_en_s]</li>
-	<li>story_result_adj(p=13)->[story_result_en]</li>
-	<li>story_result_adj(p=4)->[story_result_n_s]</li>
-	<li>story_result_adj(p=6)->[story_result_n]</li>
-	<li>story_result_adj(p=5)->t [story_result_et_s]</li>
-	<li>story_result_adj(p=7)->[story_result_et]</li>
-	<li>story_result_adj(p=2)->t [story_result_t]</li>
-	<li>story_result->[story_result_en_e]</li>
-	<li>story_result_en->bragd</li>
-	<li>story_result_en->diamant</li>
-	<li>story_result_en->fryd</li>
-	<li>story_result_en->hvile</li>
-	<li>story_result_en->kamp</li>
-	<li>story_result_en->lykke</li>
+    <li>maybe_title(p=20)-></li>
+    <li>maybe_title(p=0.1)->kong </li>
+    <li>maybe_title(p=0.2)->grev </li>
+    <li>maybe_title(p=0.4)->høvding </li>
+    <li>maybe_title(p=0.4)->baron </li>
+    <li>maybe_title->mr. </li>
+    <li>maybe_title(p=0.4)->dr. </li>
+    <li>maybe_title->sankt </li>
+    <li>norsk_outlander->[SylE][place_end]</li>
+    <li>norsk_outlander(p=0.2)->[SylE][SylE][place_end]</li>
+    <li>story_result_pos(p=12)->[story_result_en_s]ens</li>
+    <li>story_result_pos(p=13)->[story_result_en]ens</li>
+    <li>story_result_pos(p=4)->[story_result_n_s]ns</li>
+    <li>story_result_pos(p=6)->[story_result_n]ns</li>
+    <li>story_result_pos(p=5)->[story_result_et_s]ets</li>
+    <li>story_result_pos(p=7)->[story_result_et]ets</li>
+    <li>story_result_pos(p=2)->[story_result_t]ts</li>
+    <li>story_result_pos->[story_result_en_e]ens</li>
+    <li>story_result_pre(p=12)->[story_result_en_s]s</li>
+    <li>story_result_pre(p=13)->[story_result_en]</li>
+    <li>story_result_pre(p=4)->[story_result_n_s]s</li>
+    <li>story_result_pre(p=6)->[story_result_n]</li>
+    <li>story_result_pre(p=5)->[story_result_et_s]s</li>
+    <li>story_result_pre(p=7)->[story_result_et]</li>
+    <li>story_result_pre(p=2)->[story_result_t]</li>
+    <li>story_result->[story_result_en_e]e</li>
+    <li>story_result(p=12)->[story_result_en_s]</li>
+    <li>story_result(p=13)->[story_result_en]</li>
+    <li>story_result(p=4)->[story_result_n_s]</li>
+    <li>story_result(p=6)->[story_result_n]</li>
+    <li>story_result(p=5)->[story_result_et_s]</li>
+    <li>story_result(p=7)->[story_result_et]</li>
+    <li>story_result(p=2)->[story_result_t]</li>
+    <li>story_result->[story_result_en_e]</li>
+    <li>story_result_adj(p=12)->[story_result_en_s]</li>
+    <li>story_result_adj(p=13)->[story_result_en]</li>
+    <li>story_result_adj(p=4)->[story_result_n_s]</li>
+    <li>story_result_adj(p=6)->[story_result_n]</li>
+    <li>story_result_adj(p=5)->t [story_result_et_s]</li>
+    <li>story_result_adj(p=7)->[story_result_et]</li>
+    <li>story_result_adj(p=2)->t [story_result_t]</li>
+    <li>story_result->[story_result_en_e]</li>
+    <li>story_result_en->bragd</li>
+    <li>story_result_en->diamant</li>
+    <li>story_result_en->fryd</li>
+    <li>story_result_en->hvile</li>
+    <li>story_result_en->kamp</li>
+    <li>story_result_en->lykke</li>
     <li>story_result_en->bløff</li>
     <li>story_result_en->juvel</li>
     <li>story_result_en->kollaps</li>
@@ -512,12 +701,12 @@
     <li>story_result_en->ruin</li>
     <li>story_result_en->slutt</li>
     <li>story_result_en->svindel</li>
-	<li>story_result_t->møte</li>
-	<li>story_result_en_s->belønning</li>
-	<li>story_result_en_s->død</li>
-	<li>story_result_en_s->ensomhet</li>
-	<li>story_result_en_s->fred</li>
-	<li>story_result_en_s->velstand</li>
+    <li>story_result_t->møte</li>
+    <li>story_result_en_s->belønning</li>
+    <li>story_result_en_s->død</li>
+    <li>story_result_en_s->ensomhet</li>
+    <li>story_result_en_s->fred</li>
+    <li>story_result_en_s->velstand</li>
     <li>story_result_en_s->galskap</li>
     <li>story_result_en_s->gjeld</li>
     <li>story_result_en_s->godhet</li>
@@ -525,24 +714,24 @@
     <li>story_result_en_s->illusjon</li>
     <li>story_result_en_s->stolthet</li>
     <li>story_result_en_s->toskeskap</li>
-	<li>story_result_en_s->rikdom</li>
-	<li>story_result_en_s->jade</li>
-	<li>story_result_et->gull</li>
-	<li>story_result_et->sølv</li>
-	<li>story_result_et->stål</li>
-	<li>story_result_et->slag</li>
+    <li>story_result_en_s->rikdom</li>
+    <li>story_result_en_s->jade</li>
+    <li>story_result_et->gull</li>
+    <li>story_result_et->sølv</li>
+    <li>story_result_et->stål</li>
+    <li>story_result_et->slag</li>
     <li>story_result_et->fall</li>
     <li>story_result_et->trofé</li>
     <li>story_result_et->under</li>
-	<li>story_result_et_s->endelikt</li>
-	<li>story_result_et_s->håp</li>
+    <li>story_result_et_s->endelikt</li>
+    <li>story_result_et_s->håp</li>
     <li>story_result_et_s->bakhold</li>
     <li>story_result_et_s->feiltrinn</li>
     <li>story_result_et_s->tap</li>
     <li>story_result_n->arroganse</li>
     <li>story_result_n->bane</li>
     <li>story_result_n->ende</li>
-	<li>story_result_n->møye</li>
+    <li>story_result_n->møye</li>
     <li>story_result_n->fasade</li>
     <li>story_result_n->fortjeneste</li>
     <li>story_result_n->premie</li>
@@ -550,395 +739,391 @@
     <li>story_result_n_s->overgivelse</li>
     <li>story_result_n_s->ære</li>
     <li>story_result_n_s->ødeleggelse</li>
-	<li>story_result_en_e->skatt</li>
-
-     <li>animal_bestemt->albatrossen</li>
-     <li>animal_bestemt->alligatoren</li>
-     <li>animal_bestemt->alpakkaen</li>
-     <li>animal_bestemt->anda</li>
-     <li>animal_bestemt->antilopa</li>
-     <li>animal_bestemt->apen</li>
-     <li>animal_bestemt->apen</li>
-     <li>animal_bestemt->armadilloen</li>
-     <li>animal_bestemt->barrakudaen</li>
-     <li>animal_bestemt->bavianen</li>
-     <li>animal_bestemt->beveren</li>
-     <li>animal_bestemt->bia</li>
-     <li>animal_bestemt->bisonen</li>
-     <li>animal_bestemt->bjørnen</li>
-     <li>animal_bestemt->blekkspruten</li>
-     <li>animal_bestemt->blåskrika</li>
-     <li>animal_bestemt->bærfisen</li>
-     <li>animal_bestemt->bøffelen</li>
-     <li>animal_bestemt->chinchillaen</li>
-     <li>animal_bestemt->cobraen</li>
-     <li>animal_bestemt->delfinen</li>
-     <li>animal_bestemt->dinosauren</li>
-     <li>animal_bestemt->dua</li>
-     <li>animal_bestemt->dua</li>
-     <li>animal_bestemt->edderkoppen</li>
-     <li>animal_bestemt->ekornet</li>
-     <li>animal_bestemt->elefanten</li>
-     <li>animal_bestemt->elefantselen</li>
-     <li>animal_bestemt->elgen</li>
-     <li>animal_bestemt->emuen</li>
-     <li>animal_bestemt->eselet</li>
-     <li>animal_bestemt->falken</li>
-     <li>animal_bestemt->fasanen</li>
-     <li>animal_bestemt->finken</li>
-     <li>animal_bestemt->fisken</li>
-     <li>animal_bestemt->flaggermusen</li>
-     <li>animal_bestemt->flamingoen</li>
-     <li>animal_bestemt->flodhesten</li>
-     <li>animal_bestemt->flua</li>
-     <li>animal_bestemt->frosken</li>
-     <li>animal_bestemt->gasellen</li>
-	 <li>animal_bestemt->gaupa</li> 
-     <li>animal_bestemt->geita</li>
-     <li>animal_bestemt->geparden</li>
-     <li>animal_bestemt->giraffen</li>
-     <li>animal_bestemt->gnuen</li>
-     <li>animal_bestemt->gorillaen</li>
-     <li>animal_bestemt->gresshoppa</li>
-     <li>animal_bestemt->grevlingen</li>
-     <li>animal_bestemt->gribben</li>
-     <li>animal_bestemt->grisen</li>
-     <li>animal_bestemt->guanakoen</li>
-     <li>animal_bestemt->gullfisken</li>
-     <li>animal_bestemt->gåsa</li>
-     <li>animal_bestemt->haien</li>
-     <li>animal_bestemt->hakkespetten</li>
-     <li>animal_bestemt->hamsteren</li>
-     <li>animal_bestemt->haren</li>
-     <li>animal_bestemt->hauken</li>
-     <li>animal_bestemt->hegra</li>
-     <li>animal_bestemt->hesten</li>
-     <li>animal_bestemt->hjorten</li>
-     <li>animal_bestemt->hoggormen</li>
-     <li>animal_bestemt->hummeren</li>
-     <li>animal_bestemt->hunden</li>
-     <li>animal_bestemt->hvalen</li>
-     <li>animal_bestemt->hvalrossen</li>
-     <li>animal_bestemt->hyena</li>
-     <li>animal_bestemt->hønsehauken</li>
-     <li>animal_bestemt->ibisen</li>
-     <li>animal_bestemt->iguanen</li>
-     <li>animal_bestemt->isbjørnen</li>
-     <li>animal_bestemt->jaguaren</li>
-     <li>animal_bestemt->jerven</li>
-     <li>animal_bestemt->jordsvinet</li>
-     <li>animal_bestemt->kakkerlakken</li>
-     <li>animal_bestemt->kalkunen</li>
-     <li>animal_bestemt->kamelen</li>
-     <li>animal_bestemt->kaninen</li>
-     <li>animal_bestemt->karibuen</li>
-     <li>animal_bestemt->katta</li>
-     <li>animal_bestemt->kenguruen</li>
-     <li>animal_bestemt->kenguruen</li>
-     <li>animal_bestemt->kneleren</li>
-     <li>animal_bestemt->knotten</li>
-     <li>animal_bestemt->koalaen</li>
-     <li>animal_bestemt->kolibrien</li>
-     <li>animal_bestemt->komodoen</li>
-     <li>animal_bestemt->kondoren</li>
-     <li>animal_bestemt->krabben</li>
-     <li>animal_bestemt->krokodilla</li>
-     <li>animal_bestemt->kråka</li>
-     <li>animal_bestemt->kråkebolla</li>
-     <li>animal_bestemt->kveget</li>
-     <li>animal_bestemt->kyllingen</li>
-     <li>animal_bestemt->laksen</li>
-     <li>animal_bestemt->lemuren</li>
-     <li>animal_bestemt->leoparden</li>
-     <li>animal_bestemt->lerka</li>
-     <li>animal_bestemt->llamaen</li>
-     <li>animal_bestemt->lusa</li>
-     <li>animal_bestemt->lyrehalen</li>
-     <li>animal_bestemt->løva</li>
-     <li>animal_bestemt->manatéen</li>
-     <li>animal_bestemt->mandrillen</li>
-     <li>animal_bestemt->maneten</li>
-     <li>animal_bestemt->marekatten</li>
-     <li>animal_bestemt->marsvinet</li>
-     <li>animal_bestemt->mauren</li>
-     <li>animal_bestemt->maurpiggsvinet</li>
-     <li>animal_bestemt->maurslukeren</li>
-     <li>animal_bestemt->mennesket</li>
-     <li>animal_bestemt->minken</li>
-     <li>animal_bestemt->muldvarpen</li>
-     <li>animal_bestemt->muldyret</li>
-     <li>animal_bestemt->mungoen</li>
-     <li>animal_bestemt->musa</li>
-     <li>animal_bestemt->muslingen</li>
-     <li>animal_bestemt->myggen</li>
-     <li>animal_bestemt->måka</li>
-     <li>animal_bestemt->narhvalen</li>
-     <li>animal_bestemt->nattergalen</li>
-     <li>animal_bestemt->neshornet</li>
-     <li>animal_bestemt->nisa</li>
-     <li>animal_bestemt->okapien</li>
-     <li>animal_bestemt->oksen</li>
-     <li>animal_bestemt->ormen</li>
-     <li>animal_bestemt->oteren</li>
-     <li>animal_bestemt->padda</li>
-     <li>animal_bestemt->pandaen</li>
-     <li>animal_bestemt->pangrotta</li>
-     <li>animal_bestemt->panteren</li>
-     <li>animal_bestemt->papegøya</li>
-     <li>animal_bestemt->pelikanen</li>
-     <li>animal_bestemt->piggrokka</li>
-     <li>animal_bestemt->pingvinen</li>
-     <li>animal_bestemt->pinnsvinet</li>
-     <li>animal_bestemt->ponnyen</li>
-     <li>animal_bestemt->præriehunden</li>
-     <li>animal_bestemt->pungrotta</li>
-     <li>animal_bestemt->ravnen</li>
-     <li>animal_bestemt->reinsdyret</li>
-     <li>animal_bestemt->reven</li>
-     <li>animal_bestemt->rotta</li>
-     <li>animal_bestemt->røyskatten</li>
-     <li>animal_bestemt->salamanderen</li>
-     <li>animal_bestemt->sauen</li>
-     <li>animal_bestemt->scarabéen</li>
-     <li>animal_bestemt->selen</li>
-     <li>animal_bestemt->silda</li>
-     <li>animal_bestemt->sjakalen</li>
-     <li>animal_bestemt->sjimpansen</li>
-     <li>animal_bestemt->sjøhesten</li>
-     <li>animal_bestemt->sjøløva</li>
-     <li>animal_bestemt->skarven</li>
-     <li>animal_bestemt->skilpadda</li>
-     <li>animal_bestemt->skjæra</li>
-     <li>animal_bestemt->skorpionen</li>
-     <li>animal_bestemt->skrika</li>
-     <li>animal_bestemt->skunken</li>
-     <li>animal_bestemt->slangen</li>
-     <li>animal_bestemt->snegla</li>
-     <li>animal_bestemt->sommerfuglen</li>
-     <li>animal_bestemt->spissmusa</li>
-     <li>animal_bestemt->spurven</li>
-     <li>animal_bestemt->stokkanda</li>
-     <li>animal_bestemt->storken</li>
-     <li>animal_bestemt->strutsen</li>
-     <li>animal_bestemt->stæren</li>
-     <li>animal_bestemt->svala</li>
-     <li>animal_bestemt->svana</li>
-     <li>animal_bestemt->tapiren</li>
-     <li>animal_bestemt->termitten</li>
-     <li>animal_bestemt->tigeren</li>
-     <li>animal_bestemt->torsken</li>
-     <li>animal_bestemt->tranen</li>
-     <li>animal_bestemt->tusenbeinet</li>
-     <li>animal_bestemt->ugla</li>
-     <li>animal_bestemt->ulven</li>
-     <li>animal_bestemt->vaktelen</li>
-     <li>animal_bestemt->vaskebjørnen</li>
-     <li>animal_bestemt->vepsen</li>
-     <li>animal_bestemt->villsvinet</li>
-     <li>animal_bestemt->vombaten</li>
-     <li>animal_bestemt->væren</li>
-     <li>animal_bestemt->yakoksen</li>
-     <li>animal_bestemt->ålen</li>
-     <li>animal_bestemt->ørnen</li>
-     <li>animal_bestemt->ørreten</li>
-     <li>animal_bestemt->østersen</li>
-     <li>animal_bestemt->øyenstikkeren</li>
-	 
-	 <li>animal_pre->albatross</li>
-<li>animal_pre->alligator</li>
-<li>animal_pre->alpakka</li>
-<li>animal_pre->and</li>
-<li>animal_pre->antilope</li>
-<li>animal_pre->ape</li>
-<li>animal_pre->ape</li>
-<li>animal_pre->armadillo</li>
-<li>animal_pre->barrakuda</li>
-<li>animal_pre->bavian</li>
-<li>animal_pre->bever</li>
-<li>animal_pre->bie</li>
-<li>animal_pre->bison</li>
-<li>animal_pre->bjørne</li>
-<li>animal_pre->blekksprut</li>
-<li>animal_pre->blåskrike</li>
-<li>animal_pre->bærfis</li>
-<li>animal_pre->bøffel</li>
-<li>animal_pre->chinchilla</li>
-<li>animal_pre->cobra</li>
-<li>animal_pre->delfin</li>
-<li>animal_pre->dinosaur</li>
-<li>animal_pre->due</li>
-<li>animal_pre->due</li>
-<li>animal_pre->edderkopp</li>
-<li>animal_pre->ekorn</li>
-<li>animal_pre->elefant</li>
-<li>animal_pre->elefantsel</li>
-<li>animal_pre->elg</li>
-<li>animal_pre->emu</li>
-<li>animal_pre->esel</li>
-<li>animal_pre->falke</li>
-<li>animal_pre->fasan</li>
-<li>animal_pre->fink</li>
-<li>animal_pre->fisk</li>
-<li>animal_pre->flaggermus</li>
-<li>animal_pre->flamingo</li>
-<li>animal_pre->flodhest</li>
-<li>animal_pre->flue</li>
-<li>animal_pre->frosk</li>
-<li>animal_pre->gaselle</li>
-<li>animal_pre->gaupe</li>
-<li>animal_pre->geit</li>
-<li>animal_pre->gepard</li>
-<li>animal_pre->giraff</li>
-<li>animal_pre->gnu</li>
-<li>animal_pre->gorilla</li>
-<li>animal_pre->gresshoppe</li>
-<li>animal_pre->grevling</li>
-<li>animal_pre->gribb</li>
-<li>animal_pre->gris</li>
-<li>animal_pre->guanako</li>
-<li>animal_pre->gullfisk</li>
-<li>animal_pre->gås</li>
-<li>animal_pre->hai</li>
-<li>animal_pre->hakkespett</li>
-<li>animal_pre->halvape</li>
-<li>animal_pre->hamster</li>
-<li>animal_pre->hare</li>
-<li>animal_pre->hauk</li>
-<li>animal_pre->hegre</li>
-<li>animal_pre->heste</li>
-<li>animal_pre->hjorte</li>
-<li>animal_pre->hoggorm</li>
-<li>animal_pre->hummer</li>
-<li>animal_pre->hunde</li>
-<li>animal_pre->hval</li>
-<li>animal_pre->hvalross</li>
-<li>animal_pre->hyene</li>
-<li>animal_pre->hønsehauk</li>
-<li>animal_pre->ibis</li>
-<li>animal_pre->iguan</li>
-<li>animal_pre->isbjørn</li>
-<li>animal_pre->jaguar</li>
-<li>animal_pre->jerv</li>
-<li>animal_pre->jordsvin</li>
-<li>animal_pre->kakkerlakk</li>
-<li>animal_pre->kalkun</li>
-<li>animal_pre->kamel</li>
-<li>animal_pre->kanin</li>
-<li>animal_pre->karibu</li>
-<li>animal_pre->katte</li>
-<li>animal_pre->kenguru</li>
-<li>animal_pre->kenguru</li>
-<li>animal_pre->kneler</li>
-<li>animal_pre->knott</li>
-<li>animal_pre->koala</li>
-<li>animal_pre->kolibri</li>
-<li>animal_pre->komodo</li>
-<li>animal_pre->kondor</li>
-<li>animal_pre->krabbe</li>
-<li>animal_pre->krokodille</li>
-<li>animal_pre->kråke</li>
-<li>animal_pre->kråkebolle</li>
-<li>animal_pre->kveg</li>
-<li>animal_pre->kylling</li>
-<li>animal_pre->lakse</li>
-<li>animal_pre->lemur</li>
-<li>animal_pre->leopard</li>
-<li>animal_pre->lerke</li>
-<li>animal_pre->llama</li>
-<li>animal_pre->lus</li>
-<li>animal_pre->lyrehale</li>
-<li>animal_pre->løve</li>
-<li>animal_pre->manate</li>
-<li>animal_pre->mandrill</li>
-<li>animal_pre->manet</li>
-<li>animal_pre->marekatt</li>
-<li>animal_pre->marsvin</li>
-<li>animal_pre->maur</li>
-<li>animal_pre->maurpiggsvin</li>
-<li>animal_pre->maursluker</li>
-<li>animal_pre->menneske</li>
-<li>animal_pre->mink</li>
-<li>animal_pre->muffel</li>
-<li>animal_pre->muldvarp</li>
-<li>animal_pre->muldyr</li>
-<li>animal_pre->mungo</li>
-<li>animal_pre->mus</li>
-<li>animal_pre->musling</li>
-<li>animal_pre->mygg</li>
-<li>animal_pre->måke</li>
-<li>animal_pre->narhval</li>
-<li>animal_pre->nattergal</li>
-<li>animal_pre->neshorn</li>
-<li>animal_pre->nise</li>
-<li>animal_pre->okapi</li>
-<li>animal_pre->okse</li>
-<li>animal_pre->orm</li>
-<li>animal_pre->oter</li>
-<li>animal_pre->padde</li>
-<li>animal_pre->panda</li>
-<li>animal_pre->pangrotte</li>
-<li>animal_pre->panter</li>
-<li>animal_pre->papegøye</li>
-<li>animal_pre->pelikan</li>
-<li>animal_pre->piggrokke</li>
-<li>animal_pre->pingvin</li>
-<li>animal_pre->pinnsvin</li>
-<li>animal_pre->ponny</li>
-<li>animal_pre->pungrotte</li>
-<li>animal_pre->ravne</li>
-<li>animal_pre->reinsdyr</li>
-<li>animal_pre->reve</li>
-<li>animal_pre->rotte</li>
-<li>animal_pre->røyskatt</li>
-<li>animal_pre->salamander</li>
-<li>animal_pre->sardin</li>
-<li>animal_pre->sau</li>
-<li>animal_pre->scarabé</li>
-<li>animal_pre->sele</li>
-<li>animal_pre->silde</li>
-<li>animal_pre->sjakal</li>
-<li>animal_pre->sjimpanse</li>
-<li>animal_pre->sjøhest</li>
-<li>animal_pre->sjøløve</li>
-<li>animal_pre->skarve</li>
-<li>animal_pre->skilpadde</li>
-<li>animal_pre->skjære</li>
-<li>animal_pre->skorpion</li>
-<li>animal_pre->skrike</li>
-<li>animal_pre->skunke</li>
-<li>animal_pre->slange</li>
-<li>animal_pre->snegle</li>
-<li>animal_pre->sommerfugl</li>
-<li>animal_pre->spissmus</li>
-<li>animal_pre->spurve</li>
-<li>animal_pre->stokkand</li>
-<li>animal_pre->stork</li>
-<li>animal_pre->struts</li>
-<li>animal_pre->svale</li>
-<li>animal_pre->svane</li>
-<li>animal_pre->tapir</li>
-<li>animal_pre->termitt</li>
-<li>animal_pre->tiger</li>
-<li>animal_pre->torske</li>
-<li>animal_pre->trane</li>
-<li>animal_pre->tusenbein</li>
-<li>animal_pre->ugle</li>
-<li>animal_pre->ulv</li>
-<li>animal_pre->vaktel</li>
-<li>animal_pre->vaskebjørn</li>
-<li>animal_pre->vepse</li>
-<li>animal_pre->villsvin</li>
-<li>animal_pre->vombat</li>
-<li>animal_pre->vær</li>
-<li>animal_pre->yakokse</li>
-<li>animal_pre->zebra</li>
-<li>animal_pre->åle</li>
-<li>animal_pre->ørne</li>
-<li>animal_pre->ørret</li>
-<li>animal_pre->østers</li>
-<li>animal_pre->øyenstikker</li>
-</WorldFeatureNamerCommon.rulePack.rulesStrings>
- 
-  
+    <li>story_result_en_e->skatt</li>
+    <li>animal_bestemt->albatrossen</li>
+    <li>animal_bestemt->alligatoren</li>
+    <li>animal_bestemt->alpakkaen</li>
+    <li>animal_bestemt->anda</li>
+    <li>animal_bestemt->antilopa</li>
+    <li>animal_bestemt->apen</li>
+    <li>animal_bestemt->apen</li>
+    <li>animal_bestemt->armadilloen</li>
+    <li>animal_bestemt->barrakudaen</li>
+    <li>animal_bestemt->bavianen</li>
+    <li>animal_bestemt->beveren</li>
+    <li>animal_bestemt->bia</li>
+    <li>animal_bestemt->bisonen</li>
+    <li>animal_bestemt->bjørnen</li>
+    <li>animal_bestemt->blekkspruten</li>
+    <li>animal_bestemt->blåskrika</li>
+    <li>animal_bestemt->bærfisen</li>
+    <li>animal_bestemt->bøffelen</li>
+    <li>animal_bestemt->chinchillaen</li>
+    <li>animal_bestemt->cobraen</li>
+    <li>animal_bestemt->delfinen</li>
+    <li>animal_bestemt->dinosauren</li>
+    <li>animal_bestemt->dua</li>
+    <li>animal_bestemt->dua</li>
+    <li>animal_bestemt->edderkoppen</li>
+    <li>animal_bestemt->ekornet</li>
+    <li>animal_bestemt->elefanten</li>
+    <li>animal_bestemt->elefantselen</li>
+    <li>animal_bestemt->elgen</li>
+    <li>animal_bestemt->emuen</li>
+    <li>animal_bestemt->eselet</li>
+    <li>animal_bestemt->falken</li>
+    <li>animal_bestemt->fasanen</li>
+    <li>animal_bestemt->finken</li>
+    <li>animal_bestemt->fisken</li>
+    <li>animal_bestemt->flaggermusen</li>
+    <li>animal_bestemt->flamingoen</li>
+    <li>animal_bestemt->flodhesten</li>
+    <li>animal_bestemt->flua</li>
+    <li>animal_bestemt->frosken</li>
+    <li>animal_bestemt->gasellen</li>
+    <li>animal_bestemt->gaupa</li>
+    <li>animal_bestemt->geita</li>
+    <li>animal_bestemt->geparden</li>
+    <li>animal_bestemt->giraffen</li>
+    <li>animal_bestemt->gnuen</li>
+    <li>animal_bestemt->gorillaen</li>
+    <li>animal_bestemt->gresshoppa</li>
+    <li>animal_bestemt->grevlingen</li>
+    <li>animal_bestemt->gribben</li>
+    <li>animal_bestemt->grisen</li>
+    <li>animal_bestemt->guanakoen</li>
+    <li>animal_bestemt->gullfisken</li>
+    <li>animal_bestemt->gåsa</li>
+    <li>animal_bestemt->haien</li>
+    <li>animal_bestemt->hakkespetten</li>
+    <li>animal_bestemt->hamsteren</li>
+    <li>animal_bestemt->haren</li>
+    <li>animal_bestemt->hauken</li>
+    <li>animal_bestemt->hegra</li>
+    <li>animal_bestemt->hesten</li>
+    <li>animal_bestemt->hjorten</li>
+    <li>animal_bestemt->hoggormen</li>
+    <li>animal_bestemt->hummeren</li>
+    <li>animal_bestemt->hunden</li>
+    <li>animal_bestemt->hvalen</li>
+    <li>animal_bestemt->hvalrossen</li>
+    <li>animal_bestemt->hyena</li>
+    <li>animal_bestemt->hønsehauken</li>
+    <li>animal_bestemt->ibisen</li>
+    <li>animal_bestemt->iguanen</li>
+    <li>animal_bestemt->isbjørnen</li>
+    <li>animal_bestemt->jaguaren</li>
+    <li>animal_bestemt->jerven</li>
+    <li>animal_bestemt->jordsvinet</li>
+    <li>animal_bestemt->kakkerlakken</li>
+    <li>animal_bestemt->kalkunen</li>
+    <li>animal_bestemt->kamelen</li>
+    <li>animal_bestemt->kaninen</li>
+    <li>animal_bestemt->karibuen</li>
+    <li>animal_bestemt->katta</li>
+    <li>animal_bestemt->kenguruen</li>
+    <li>animal_bestemt->kenguruen</li>
+    <li>animal_bestemt->kneleren</li>
+    <li>animal_bestemt->knotten</li>
+    <li>animal_bestemt->koalaen</li>
+    <li>animal_bestemt->kolibrien</li>
+    <li>animal_bestemt->komodoen</li>
+    <li>animal_bestemt->kondoren</li>
+    <li>animal_bestemt->krabben</li>
+    <li>animal_bestemt->krokodilla</li>
+    <li>animal_bestemt->kråka</li>
+    <li>animal_bestemt->kråkebolla</li>
+    <li>animal_bestemt->kveget</li>
+    <li>animal_bestemt->kyllingen</li>
+    <li>animal_bestemt->laksen</li>
+    <li>animal_bestemt->lemuren</li>
+    <li>animal_bestemt->leoparden</li>
+    <li>animal_bestemt->lerka</li>
+    <li>animal_bestemt->llamaen</li>
+    <li>animal_bestemt->lusa</li>
+    <li>animal_bestemt->lyrehalen</li>
+    <li>animal_bestemt->løva</li>
+    <li>animal_bestemt->manatéen</li>
+    <li>animal_bestemt->mandrillen</li>
+    <li>animal_bestemt->maneten</li>
+    <li>animal_bestemt->marekatten</li>
+    <li>animal_bestemt->marsvinet</li>
+    <li>animal_bestemt->mauren</li>
+    <li>animal_bestemt->maurpiggsvinet</li>
+    <li>animal_bestemt->maurslukeren</li>
+    <li>animal_bestemt->mennesket</li>
+    <li>animal_bestemt->minken</li>
+    <li>animal_bestemt->muldvarpen</li>
+    <li>animal_bestemt->muldyret</li>
+    <li>animal_bestemt->mungoen</li>
+    <li>animal_bestemt->musa</li>
+    <li>animal_bestemt->muslingen</li>
+    <li>animal_bestemt->myggen</li>
+    <li>animal_bestemt->måka</li>
+    <li>animal_bestemt->narhvalen</li>
+    <li>animal_bestemt->nattergalen</li>
+    <li>animal_bestemt->neshornet</li>
+    <li>animal_bestemt->nisa</li>
+    <li>animal_bestemt->okapien</li>
+    <li>animal_bestemt->oksen</li>
+    <li>animal_bestemt->ormen</li>
+    <li>animal_bestemt->oteren</li>
+    <li>animal_bestemt->padda</li>
+    <li>animal_bestemt->pandaen</li>
+    <li>animal_bestemt->pangrotta</li>
+    <li>animal_bestemt->panteren</li>
+    <li>animal_bestemt->papegøya</li>
+    <li>animal_bestemt->pelikanen</li>
+    <li>animal_bestemt->piggrokka</li>
+    <li>animal_bestemt->pingvinen</li>
+    <li>animal_bestemt->pinnsvinet</li>
+    <li>animal_bestemt->ponnyen</li>
+    <li>animal_bestemt->præriehunden</li>
+    <li>animal_bestemt->pungrotta</li>
+    <li>animal_bestemt->ravnen</li>
+    <li>animal_bestemt->reinsdyret</li>
+    <li>animal_bestemt->reven</li>
+    <li>animal_bestemt->rotta</li>
+    <li>animal_bestemt->røyskatten</li>
+    <li>animal_bestemt->salamanderen</li>
+    <li>animal_bestemt->sauen</li>
+    <li>animal_bestemt->scarabéen</li>
+    <li>animal_bestemt->selen</li>
+    <li>animal_bestemt->silda</li>
+    <li>animal_bestemt->sjakalen</li>
+    <li>animal_bestemt->sjimpansen</li>
+    <li>animal_bestemt->sjøhesten</li>
+    <li>animal_bestemt->sjøløva</li>
+    <li>animal_bestemt->skarven</li>
+    <li>animal_bestemt->skilpadda</li>
+    <li>animal_bestemt->skjæra</li>
+    <li>animal_bestemt->skorpionen</li>
+    <li>animal_bestemt->skrika</li>
+    <li>animal_bestemt->skunken</li>
+    <li>animal_bestemt->slangen</li>
+    <li>animal_bestemt->snegla</li>
+    <li>animal_bestemt->sommerfuglen</li>
+    <li>animal_bestemt->spissmusa</li>
+    <li>animal_bestemt->spurven</li>
+    <li>animal_bestemt->stokkanda</li>
+    <li>animal_bestemt->storken</li>
+    <li>animal_bestemt->strutsen</li>
+    <li>animal_bestemt->stæren</li>
+    <li>animal_bestemt->svala</li>
+    <li>animal_bestemt->svana</li>
+    <li>animal_bestemt->tapiren</li>
+    <li>animal_bestemt->termitten</li>
+    <li>animal_bestemt->tigeren</li>
+    <li>animal_bestemt->torsken</li>
+    <li>animal_bestemt->tranen</li>
+    <li>animal_bestemt->tusenbeinet</li>
+    <li>animal_bestemt->ugla</li>
+    <li>animal_bestemt->ulven</li>
+    <li>animal_bestemt->vaktelen</li>
+    <li>animal_bestemt->vaskebjørnen</li>
+    <li>animal_bestemt->vepsen</li>
+    <li>animal_bestemt->villsvinet</li>
+    <li>animal_bestemt->vombaten</li>
+    <li>animal_bestemt->væren</li>
+    <li>animal_bestemt->yakoksen</li>
+    <li>animal_bestemt->ålen</li>
+    <li>animal_bestemt->ørnen</li>
+    <li>animal_bestemt->ørreten</li>
+    <li>animal_bestemt->østersen</li>
+    <li>animal_bestemt->øyenstikkeren</li>
+    <li>animal_pre->albatross</li>
+    <li>animal_pre->alligator</li>
+    <li>animal_pre->alpakka</li>
+    <li>animal_pre->and</li>
+    <li>animal_pre->antilope</li>
+    <li>animal_pre->ape</li>
+    <li>animal_pre->ape</li>
+    <li>animal_pre->armadillo</li>
+    <li>animal_pre->barrakuda</li>
+    <li>animal_pre->bavian</li>
+    <li>animal_pre->bever</li>
+    <li>animal_pre->bie</li>
+    <li>animal_pre->bison</li>
+    <li>animal_pre->bjørne</li>
+    <li>animal_pre->blekksprut</li>
+    <li>animal_pre->blåskrike</li>
+    <li>animal_pre->bærfis</li>
+    <li>animal_pre->bøffel</li>
+    <li>animal_pre->chinchilla</li>
+    <li>animal_pre->cobra</li>
+    <li>animal_pre->delfin</li>
+    <li>animal_pre->dinosaur</li>
+    <li>animal_pre->due</li>
+    <li>animal_pre->due</li>
+    <li>animal_pre->edderkopp</li>
+    <li>animal_pre->ekorn</li>
+    <li>animal_pre->elefant</li>
+    <li>animal_pre->elefantsel</li>
+    <li>animal_pre->elg</li>
+    <li>animal_pre->emu</li>
+    <li>animal_pre->esel</li>
+    <li>animal_pre->falke</li>
+    <li>animal_pre->fasan</li>
+    <li>animal_pre->fink</li>
+    <li>animal_pre->fisk</li>
+    <li>animal_pre->flaggermus</li>
+    <li>animal_pre->flamingo</li>
+    <li>animal_pre->flodhest</li>
+    <li>animal_pre->flue</li>
+    <li>animal_pre->frosk</li>
+    <li>animal_pre->gaselle</li>
+    <li>animal_pre->gaupe</li>
+    <li>animal_pre->geit</li>
+    <li>animal_pre->gepard</li>
+    <li>animal_pre->giraff</li>
+    <li>animal_pre->gnu</li>
+    <li>animal_pre->gorilla</li>
+    <li>animal_pre->gresshoppe</li>
+    <li>animal_pre->grevling</li>
+    <li>animal_pre->gribb</li>
+    <li>animal_pre->gris</li>
+    <li>animal_pre->guanako</li>
+    <li>animal_pre->gullfisk</li>
+    <li>animal_pre->gås</li>
+    <li>animal_pre->hai</li>
+    <li>animal_pre->hakkespett</li>
+    <li>animal_pre->halvape</li>
+    <li>animal_pre->hamster</li>
+    <li>animal_pre->hare</li>
+    <li>animal_pre->hauk</li>
+    <li>animal_pre->hegre</li>
+    <li>animal_pre->heste</li>
+    <li>animal_pre->hjorte</li>
+    <li>animal_pre->hoggorm</li>
+    <li>animal_pre->hummer</li>
+    <li>animal_pre->hunde</li>
+    <li>animal_pre->hval</li>
+    <li>animal_pre->hvalross</li>
+    <li>animal_pre->hyene</li>
+    <li>animal_pre->hønsehauk</li>
+    <li>animal_pre->ibis</li>
+    <li>animal_pre->iguan</li>
+    <li>animal_pre->isbjørn</li>
+    <li>animal_pre->jaguar</li>
+    <li>animal_pre->jerv</li>
+    <li>animal_pre->jordsvin</li>
+    <li>animal_pre->kakkerlakk</li>
+    <li>animal_pre->kalkun</li>
+    <li>animal_pre->kamel</li>
+    <li>animal_pre->kanin</li>
+    <li>animal_pre->karibu</li>
+    <li>animal_pre->katte</li>
+    <li>animal_pre->kenguru</li>
+    <li>animal_pre->kenguru</li>
+    <li>animal_pre->kneler</li>
+    <li>animal_pre->knott</li>
+    <li>animal_pre->koala</li>
+    <li>animal_pre->kolibri</li>
+    <li>animal_pre->komodo</li>
+    <li>animal_pre->kondor</li>
+    <li>animal_pre->krabbe</li>
+    <li>animal_pre->krokodille</li>
+    <li>animal_pre->kråke</li>
+    <li>animal_pre->kråkebolle</li>
+    <li>animal_pre->kveg</li>
+    <li>animal_pre->kylling</li>
+    <li>animal_pre->lakse</li>
+    <li>animal_pre->lemur</li>
+    <li>animal_pre->leopard</li>
+    <li>animal_pre->lerke</li>
+    <li>animal_pre->llama</li>
+    <li>animal_pre->lus</li>
+    <li>animal_pre->lyrehale</li>
+    <li>animal_pre->løve</li>
+    <li>animal_pre->manate</li>
+    <li>animal_pre->mandrill</li>
+    <li>animal_pre->manet</li>
+    <li>animal_pre->marekatt</li>
+    <li>animal_pre->marsvin</li>
+    <li>animal_pre->maur</li>
+    <li>animal_pre->maurpiggsvin</li>
+    <li>animal_pre->maursluker</li>
+    <li>animal_pre->menneske</li>
+    <li>animal_pre->mink</li>
+    <li>animal_pre->muffel</li>
+    <li>animal_pre->muldvarp</li>
+    <li>animal_pre->muldyr</li>
+    <li>animal_pre->mungo</li>
+    <li>animal_pre->mus</li>
+    <li>animal_pre->musling</li>
+    <li>animal_pre->mygg</li>
+    <li>animal_pre->måke</li>
+    <li>animal_pre->narhval</li>
+    <li>animal_pre->nattergal</li>
+    <li>animal_pre->neshorn</li>
+    <li>animal_pre->nise</li>
+    <li>animal_pre->okapi</li>
+    <li>animal_pre->okse</li>
+    <li>animal_pre->orm</li>
+    <li>animal_pre->oter</li>
+    <li>animal_pre->padde</li>
+    <li>animal_pre->panda</li>
+    <li>animal_pre->pangrotte</li>
+    <li>animal_pre->panter</li>
+    <li>animal_pre->papegøye</li>
+    <li>animal_pre->pelikan</li>
+    <li>animal_pre->piggrokke</li>
+    <li>animal_pre->pingvin</li>
+    <li>animal_pre->pinnsvin</li>
+    <li>animal_pre->ponny</li>
+    <li>animal_pre->pungrotte</li>
+    <li>animal_pre->ravne</li>
+    <li>animal_pre->reinsdyr</li>
+    <li>animal_pre->reve</li>
+    <li>animal_pre->rotte</li>
+    <li>animal_pre->røyskatt</li>
+    <li>animal_pre->salamander</li>
+    <li>animal_pre->sardin</li>
+    <li>animal_pre->sau</li>
+    <li>animal_pre->scarabé</li>
+    <li>animal_pre->sele</li>
+    <li>animal_pre->silde</li>
+    <li>animal_pre->sjakal</li>
+    <li>animal_pre->sjimpanse</li>
+    <li>animal_pre->sjøhest</li>
+    <li>animal_pre->sjøløve</li>
+    <li>animal_pre->skarve</li>
+    <li>animal_pre->skilpadde</li>
+    <li>animal_pre->skjære</li>
+    <li>animal_pre->skorpion</li>
+    <li>animal_pre->skrike</li>
+    <li>animal_pre->skunke</li>
+    <li>animal_pre->slange</li>
+    <li>animal_pre->snegle</li>
+    <li>animal_pre->sommerfugl</li>
+    <li>animal_pre->spissmus</li>
+    <li>animal_pre->spurve</li>
+    <li>animal_pre->stokkand</li>
+    <li>animal_pre->stork</li>
+    <li>animal_pre->struts</li>
+    <li>animal_pre->svale</li>
+    <li>animal_pre->svane</li>
+    <li>animal_pre->tapir</li>
+    <li>animal_pre->termitt</li>
+    <li>animal_pre->tiger</li>
+    <li>animal_pre->torske</li>
+    <li>animal_pre->trane</li>
+    <li>animal_pre->tusenbein</li>
+    <li>animal_pre->ugle</li>
+    <li>animal_pre->ulv</li>
+    <li>animal_pre->vaktel</li>
+    <li>animal_pre->vaskebjørn</li>
+    <li>animal_pre->vepse</li>
+    <li>animal_pre->villsvin</li>
+    <li>animal_pre->vombat</li>
+    <li>animal_pre->vær</li>
+    <li>animal_pre->yakokse</li>
+    <li>animal_pre->zebra</li>
+    <li>animal_pre->åle</li>
+    <li>animal_pre->ørne</li>
+    <li>animal_pre->ørret</li>
+    <li>animal_pre->østers</li>
+    <li>animal_pre->øyenstikker</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>
