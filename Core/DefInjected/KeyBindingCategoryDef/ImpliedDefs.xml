@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors tab -->
+  <Architect_Floors.label>floors tab</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Floors" section of the Architect menu -->
+  <Architect_Floors.description>Key bindings for the "Floors" section of the Architect menu</Architect_Floors.description>
+  
+  <!-- EN: furniture tab -->
+  <Architect_Furniture.label>furniture tab</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Furniture" section of the Architect menu -->
+  <Architect_Furniture.description>Key bindings for the "Furniture" section of the Architect menu</Architect_Furniture.description>
+  
+  <!-- EN: recreation tab -->
+  <Architect_Joy.label>recreation tab</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Recreation" section of the Architect menu -->
+  <Architect_Joy.description>Key bindings for the "Recreation" section of the Architect menu</Architect_Joy.description>
+  
+  <!-- EN: misc tab -->
+  <Architect_Misc.label>misc tab</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Misc" section of the Architect menu -->
+  <Architect_Misc.description>Key bindings for the "Misc" section of the Architect menu</Architect_Misc.description>
+  
+  <!-- EN: orders tab -->
+  <Architect_Orders.label>orders tab</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Orders" section of the Architect menu -->
+  <Architect_Orders.description>Key bindings for the "Orders" section of the Architect menu</Architect_Orders.description>
+  
+  <!-- EN: power tab -->
+  <Architect_Power.label>power tab</Architect_Power.label>
+  <!-- EN: Key bindings for the "Power" section of the Architect menu -->
+  <Architect_Power.description>Key bindings for the "Power" section of the Architect menu</Architect_Power.description>
+  
+  <!-- EN: production tab -->
+  <Architect_Production.label>production tab</Architect_Production.label>
+  <!-- EN: Key bindings for the "Production" section of the Architect menu -->
+  <Architect_Production.description>Key bindings for the "Production" section of the Architect menu</Architect_Production.description>
+  
+  <!-- EN: security tab -->
+  <Architect_Security.label>security tab</Architect_Security.label>
+  <!-- EN: Key bindings for the "Security" section of the Architect menu -->
+  <Architect_Security.description>Key bindings for the "Security" section of the Architect menu</Architect_Security.description>
+  
+  <!-- EN: ship tab -->
+  <Architect_Ship.label>ship tab</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Ship" section of the Architect menu -->
+  <Architect_Ship.description>Key bindings for the "Ship" section of the Architect menu</Architect_Ship.description>
+  
+  <!-- EN: structure tab -->
+  <Architect_Structure.label>structure tab</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Structure" section of the Architect menu -->
+  <Architect_Structure.description>Key bindings for the "Structure" section of the Architect menu</Architect_Structure.description>
+  
+  <!-- EN: temperature tab -->
+  <Architect_Temperature.label>temperature tab</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperature" section of the Architect menu -->
+  <Architect_Temperature.description>Key bindings for the "Temperature" section of the Architect menu</Architect_Temperature.description>
+  
+  <!-- EN: zone tab -->
+  <Architect_Zone.label>zone tab</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Zone" section of the Architect menu -->
+  <Architect_Zone.description>Key bindings for the "Zone" section of the Architect menu</Architect_Zone.description>
+  
+</LanguageData>

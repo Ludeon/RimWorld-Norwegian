@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>Install a bionic eye.</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic heart -->
+  <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <!-- EN: Install a bionic spine. -->
+  <InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
+  <!-- EN: Installing bionic spine. -->
+  <InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>install bionic tongue</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>Install a bionic tongue.</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>Installing bionic tongue.</InstallBionicTongue.jobString>
+  
+  <!-- EN: install death acidifier -->
+  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
+  <!-- EN: Install a death acidifier. -->
+  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
+  <!-- EN: Installing death acidifier. -->
+  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
+  
+</LanguageData>

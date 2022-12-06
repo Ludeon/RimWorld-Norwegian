@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>administered drug</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>administered hard drug</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>administered recreational drug</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>ate human meat</AteHumanMeat.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>joiner refused</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>cut tree</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>destroyed natural wall</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>used drug</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>used hard drug</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>used recreational drug</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>installed prosthetic</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>mined</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>tree died</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>researching</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>sowed food plant</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>sowed plant</SowedPlant.label>
+  
+</LanguageData>

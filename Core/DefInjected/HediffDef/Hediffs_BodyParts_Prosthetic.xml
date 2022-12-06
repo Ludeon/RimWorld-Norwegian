@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant. -->
+  <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>joywire</Joywire.label>
+  <!-- EN: An installed joywire implant. -->
+  <Joywire.description>An installed joywire implant.</Joywire.description>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>painstopper</Painstopper.label>
+  <!-- EN: An installed painstopper implant. -->
+  <Painstopper.description>An installed painstopper implant.</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <!-- EN: An installed power claw. -->
+  <PowerClaw.description>An installed power claw.</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>claw</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. -->
+  <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart. -->
+  <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. -->
+  <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>

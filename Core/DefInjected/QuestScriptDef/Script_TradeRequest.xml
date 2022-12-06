@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items. The estimated travel time is [estimatedTravelTime_duration]. -->
+  <TradeRequest.questDescriptionRules.rulesStrings.0>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items. The estimated travel time is [estimatedTravelTime_duration].</TradeRequest.questDescriptionRules.rulesStrings.0>
+  <!-- EN: qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality  -->
+  <TradeRequest.questDescriptionRules.rulesStrings.1>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </TradeRequest.questDescriptionRules.rulesStrings.1>
+  <!-- EN: qualityInfo-> -->
+  <TradeRequest.questDescriptionRules.rulesStrings.2>qualityInfo-></TradeRequest.questDescriptionRules.rulesStrings.2>
+  <!-- EN: questName->Caravan to [settlement_label] -->
+  <TradeRequest.questNameRules.rulesStrings.0>questName->Caravan to [settlement_label]</TradeRequest.questNameRules.rulesStrings.0>
+  <!-- EN: questName->Trade with [settlement_label] -->
+  <TradeRequest.questNameRules.rulesStrings.1>questName->Trade with [settlement_label]</TradeRequest.questNameRules.rulesStrings.1>
+  <!-- EN: questName->Selling to [settlement_label] -->
+  <TradeRequest.questNameRules.rulesStrings.2>questName->Selling to [settlement_label]</TradeRequest.questNameRules.rulesStrings.2>
+  <!-- EN: questName->Supplies for [settlement_label] -->
+  <TradeRequest.questNameRules.rulesStrings.3>questName->Supplies for [settlement_label]</TradeRequest.questNameRules.rulesStrings.3>
+  <!-- EN: questName->A [special] [trade] -->
+  <TradeRequest.questNameRules.rulesStrings.4>questName->A [special] [trade]</TradeRequest.questNameRules.rulesStrings.4>
+  <!-- EN: special->Special -->
+  <TradeRequest.questNameRules.rulesStrings.5>special->Special</TradeRequest.questNameRules.rulesStrings.5>
+  <!-- EN: special->Unique -->
+  <TradeRequest.questNameRules.rulesStrings.6>special->Unique</TradeRequest.questNameRules.rulesStrings.6>
+  <!-- EN: special->Non-traditional -->
+  <TradeRequest.questNameRules.rulesStrings.7>special->Non-traditional</TradeRequest.questNameRules.rulesStrings.7>
+  <!-- EN: trade->Trade -->
+  <TradeRequest.questNameRules.rulesStrings.8>trade->Trade</TradeRequest.questNameRules.rulesStrings.8>
+  <!-- EN: trade->Exchange -->
+  <TradeRequest.questNameRules.rulesStrings.9>trade->Exchange</TradeRequest.questNameRules.rulesStrings.9>
+  <!-- EN: trade->Deal -->
+  <TradeRequest.questNameRules.rulesStrings.10>trade->Deal</TradeRequest.questNameRules.rulesStrings.10>
+  <!-- EN: trade->Offer -->
+  <TradeRequest.questNameRules.rulesStrings.11>trade->Offer</TradeRequest.questNameRules.rulesStrings.11>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <!-- EN: [faction_name] became hostile to you. -->
+  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
+  
+  <!-- UNUSED -->
+  <TradeRequest.root.nodes.3.label>Quest failed: [resolvedQuestName]</TradeRequest.root.nodes.3.label>
+  <TradeRequest.root.nodes.3.text>[faction_name] became hostile to you.</TradeRequest.root.nodes.3.text>
+  <TradeRequest.root.nodes.10.name>rewardValue</TradeRequest.root.nodes.10.name>
+  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>
+  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request?</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>
+  
+</LanguageData>

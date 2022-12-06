@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedCaravan.label>attacked caravan</AttackedCaravan.label>
+  
+  <!-- EN: attacked settlement -->
+  <AttackedSettlement.label>attacked settlement</AttackedSettlement.label>
+  
+  <!-- EN: destroyed enemy base -->
+  <DestroyedEnemyBase.label>destroyed enemy base</DestroyedEnemyBase.label>
+  
+  <!-- EN: settlement proximity -->
+  <SettlementProximity.label>settlement proximity</SettlementProximity.label>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information. -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.0>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.0>
+  <!-- EN: introduction(childCount==1,priority=1)->A [joiner_age]-year-old child -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.1>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.1>
+  <!-- EN: introduction->A [joiner_age]-year-old [joiner_title] -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.2>introduction->A [joiner_age]-year-old [joiner_title]</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.2>
+  <!-- EN: questName->Saving [runnerIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.0>questName->Saving [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.0>
+  <!-- EN: questName->The Salvation of [runnerIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.1>questName->The Salvation of [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.1>
+  <!-- EN: questName->Helping [runnerIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.2>questName->Helping [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.2>
+  <!-- EN: questName->Accepting [runnerIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.3>questName->Accepting [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.3>
+  <!-- EN: questName->[enemyFaction_pawnsPlural] hunting [runnerIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.4>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.4>
+  <!-- EN: questName->[runnerIndef] on the Run -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.5>questName->[runnerIndef] on the Run</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.5>
+  <!-- EN: questName->[runnerIndef] Seeks a Home -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.6>questName->[runnerIndef] Seeks a Home</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.6>
+  <!-- EN: questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.7>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.7>
+  <!-- EN: questName->[runnerIndef] and [enemyFaction_pawnsPlural] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.8>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.8>
+  <!-- EN: runnerIndef->[joiner_titleIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.9>runnerIndef->[joiner_titleIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.9>
+  <!-- EN: runnerIndef->[joiner_nameIndef] -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.10>runnerIndef->[joiner_nameIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.10>
+  <!-- EN: runnerIndef->a Refugee -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.11>runnerIndef->a Refugee</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.11>
+  <!-- EN: runnerIndef(childCount==1,priority=1)->a child -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.12>runnerIndef(childCount==1,priority=1)->a child</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.12>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>TODO</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>TODO</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+  <!-- UNUSED -->
+  <ThreatReward_Raid_Joiner.root.nodes.6.name>raidDelayTicks</ThreatReward_Raid_Joiner.root.nodes.6.name>
+  
+</LanguageData>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <Chinchilla.labelFemale>female chinchilla</Chinchilla.labelFemale>
+  <Chinchilla.labelFemalePlural>female chinchillas</Chinchilla.labelFemalePlural>
+  <Chinchilla.labelMale>male chinchilla</Chinchilla.labelMale>
+  <Chinchilla.labelMalePlural>male chinchillas</Chinchilla.labelMalePlural>
+  <Chinchilla.labelPlural>chinchillas</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>chinchilla</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.0.labelFemale>female chinchilla</Chinchilla.lifeStages.0.labelFemale>
+  <Chinchilla.lifeStages.0.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.0.labelFemalePlural>
+  <Chinchilla.lifeStages.0.labelMale>male chinchilla</Chinchilla.lifeStages.0.labelMale>
+  <Chinchilla.lifeStages.0.labelMalePlural>male chinchillas</Chinchilla.lifeStages.0.labelMalePlural>
+  <Chinchilla.lifeStages.0.labelPlural>chinchilla</Chinchilla.lifeStages.0.labelPlural>
+  <Chinchilla.lifeStages.1.label>chinchilla</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.1.labelFemale>female chinchilla</Chinchilla.lifeStages.1.labelFemale>
+  <Chinchilla.lifeStages.1.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.1.labelFemalePlural>
+  <Chinchilla.lifeStages.1.labelMale>male chinchilla</Chinchilla.lifeStages.1.labelMale>
+  <Chinchilla.lifeStages.1.labelMalePlural>male chinchillas</Chinchilla.lifeStages.1.labelMalePlural>
+  <Chinchilla.lifeStages.1.labelPlural>chinchilla</Chinchilla.lifeStages.1.labelPlural>
+  <Chinchilla.lifeStages.2.label>chinchilla</Chinchilla.lifeStages.2.label>
+  <Chinchilla.lifeStages.2.labelFemale>female chinchilla</Chinchilla.lifeStages.2.labelFemale>
+  <Chinchilla.lifeStages.2.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.2.labelFemalePlural>
+  <Chinchilla.lifeStages.2.labelMale>male chinchilla</Chinchilla.lifeStages.2.labelMale>
+  <Chinchilla.lifeStages.2.labelMalePlural>male chinchillas</Chinchilla.lifeStages.2.labelMalePlural>
+  <Chinchilla.lifeStages.2.labelPlural>chinchilla</Chinchilla.lifeStages.2.labelPlural>
+  
+  <!-- EN: deer -->
+  <Deer.label>deer</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>doe</Deer.labelFemale>
+  <Deer.labelFemalePlural>female deer</Deer.labelFemalePlural>
+  <!-- EN: buck -->
+  <Deer.labelMale>buck</Deer.labelMale>
+  <Deer.labelMalePlural>male deer</Deer.labelMalePlural>
+  <!-- EN: deer -->
+  <Deer.labelPlural>deer</Deer.labelPlural>
+  <Deer.lifeStages.0.label>deer</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelFemale>doe</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.0.labelFemalePlural>female deers</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.0.labelMale>buck</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelMalePlural>male deers</Deer.lifeStages.0.labelMalePlural>
+  <Deer.lifeStages.0.labelPlural>deer</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.1.label>deer</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelFemale>doe</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>female deers</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.1.labelMale>buck</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>male deers</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelPlural>deer</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.2.label>deer</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelFemale>doe</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>female deers</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.lifeStages.2.labelMale>buck</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>male deers</Deer.lifeStages.2.labelMalePlural>
+  <Deer.lifeStages.2.labelPlural>deer</Deer.lifeStages.2.labelPlural>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazelle</Gazelle.label>
+  <Gazelle.labelFemale>female gazelle</Gazelle.labelFemale>
+  <Gazelle.labelFemalePlural>female gazelles</Gazelle.labelFemalePlural>
+  <Gazelle.labelMale>male gazelle</Gazelle.labelMale>
+  <Gazelle.labelMalePlural>male gazelles</Gazelle.labelMalePlural>
+  <Gazelle.labelPlural>gazelles</Gazelle.labelPlural>
+  <Gazelle.lifeStages.0.label>gazelle</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.0.labelFemale>female gazelle</Gazelle.lifeStages.0.labelFemale>
+  <Gazelle.lifeStages.0.labelFemalePlural>female gazelles</Gazelle.lifeStages.0.labelFemalePlural>
+  <Gazelle.lifeStages.0.labelMale>male gazelle</Gazelle.lifeStages.0.labelMale>
+  <Gazelle.lifeStages.0.labelMalePlural>male gazelles</Gazelle.lifeStages.0.labelMalePlural>
+  <Gazelle.lifeStages.0.labelPlural>gazelle</Gazelle.lifeStages.0.labelPlural>
+  <Gazelle.lifeStages.1.label>gazelle</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.1.labelFemale>female gazelle</Gazelle.lifeStages.1.labelFemale>
+  <Gazelle.lifeStages.1.labelFemalePlural>female gazelles</Gazelle.lifeStages.1.labelFemalePlural>
+  <Gazelle.lifeStages.1.labelMale>male gazelle</Gazelle.lifeStages.1.labelMale>
+  <Gazelle.lifeStages.1.labelMalePlural>male gazelles</Gazelle.lifeStages.1.labelMalePlural>
+  <Gazelle.lifeStages.1.labelPlural>gazelle</Gazelle.lifeStages.1.labelPlural>
+  <Gazelle.lifeStages.2.label>gazelle</Gazelle.lifeStages.2.label>
+  <Gazelle.lifeStages.2.labelFemale>female gazelle</Gazelle.lifeStages.2.labelFemale>
+  <Gazelle.lifeStages.2.labelFemalePlural>female gazelles</Gazelle.lifeStages.2.labelFemalePlural>
+  <Gazelle.lifeStages.2.labelMale>male gazelle</Gazelle.lifeStages.2.labelMale>
+  <Gazelle.lifeStages.2.labelMalePlural>male gazelles</Gazelle.lifeStages.2.labelMalePlural>
+  <Gazelle.lifeStages.2.labelPlural>gazelle</Gazelle.lifeStages.2.labelPlural>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>ibex</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>ibex doe</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>female ibexes</Ibex.labelFemalePlural>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>ibex ram</Ibex.labelMale>
+  <Ibex.labelMalePlural>male ibexes</Ibex.labelMalePlural>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>ibexes</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>ibex</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelFemale>ibex doe</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>female ibexs</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.0.labelMale>ibex ram</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelMalePlural>male ibexs</Ibex.lifeStages.0.labelMalePlural>
+  <Ibex.lifeStages.0.labelPlural>ibexes</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.1.label>ibex</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>ibex doe</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>female ibexs</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>ibex ram</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>male ibexs</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelPlural>ibexes</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.2.label>ibex</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelFemale>ibex doe</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>female ibexs</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.lifeStages.2.labelMale>ibex ram</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>male ibexs</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelPlural>ibexes</Ibex.lifeStages.2.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>pig</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>sow</Pig.labelFemale>
+  <Pig.labelFemalePlural>sows</Pig.labelFemalePlural>
+  <Pig.labelMale>male pig</Pig.labelMale>
+  <Pig.labelMalePlural>male pigs</Pig.labelMalePlural>
+  <Pig.labelPlural>pigs</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>piglet</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelFemale>female piglet</Pig.lifeStages.piglet.labelFemale>
+  <Pig.lifeStages.piglet.labelFemalePlural>female piglets</Pig.lifeStages.piglet.labelFemalePlural>
+  <Pig.lifeStages.piglet.labelMale>male piglet</Pig.lifeStages.piglet.labelMale>
+  <Pig.lifeStages.piglet.labelMalePlural>male piglets</Pig.lifeStages.piglet.labelMalePlural>
+  <Pig.lifeStages.piglet.labelPlural>piglets</Pig.lifeStages.piglet.labelPlural>
+  <Pig.lifeStages.1.label>pig</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>sow</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelFemalePlural>female pigs</Pig.lifeStages.1.labelFemalePlural>
+  <Pig.lifeStages.1.labelMale>male pig</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelMalePlural>male pigs</Pig.lifeStages.1.labelMalePlural>
+  <Pig.lifeStages.1.labelPlural>pig</Pig.lifeStages.1.labelPlural>
+  <Pig.lifeStages.2.label>pig</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>sow</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelFemalePlural>female pigs</Pig.lifeStages.2.labelFemalePlural>
+  <Pig.lifeStages.2.labelMale>male pig</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelMalePlural>male pigs</Pig.lifeStages.2.labelMalePlural>
+  <Pig.lifeStages.2.labelPlural>pig</Pig.lifeStages.2.labelPlural>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>wild boar</WildBoar.label>
+  <WildBoar.labelFemale>female wild boar</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>female wild boars</WildBoar.labelFemalePlural>
+  <WildBoar.labelMale>male wild boar</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>male wild boars</WildBoar.labelMalePlural>
+  <WildBoar.labelPlural>wild boars</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>wild boar</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelFemale>female wild boar</WildBoar.lifeStages.0.labelFemale>
+  <WildBoar.lifeStages.0.labelFemalePlural>female wild boars</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.0.labelMale>male wild boar</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>male wild boars</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelPlural>wild boar</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.1.label>wild boar</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelFemale>female wild boar</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelFemalePlural>female wild boars</WildBoar.lifeStages.1.labelFemalePlural>
+  <WildBoar.lifeStages.1.labelMale>male wild boar</WildBoar.lifeStages.1.labelMale>
+  <WildBoar.lifeStages.1.labelMalePlural>male wild boars</WildBoar.lifeStages.1.labelMalePlural>
+  <WildBoar.lifeStages.1.labelPlural>wild boar</WildBoar.lifeStages.1.labelPlural>
+  <WildBoar.lifeStages.2.label>wild boar</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelFemale>female wild boar</WildBoar.lifeStages.2.labelFemale>
+  <WildBoar.lifeStages.2.labelFemalePlural>female wild boars</WildBoar.lifeStages.2.labelFemalePlural>
+  <WildBoar.lifeStages.2.labelMale>male wild boar</WildBoar.lifeStages.2.labelMale>
+  <WildBoar.lifeStages.2.labelMalePlural>male wild boars</WildBoar.lifeStages.2.labelMalePlural>
+  <WildBoar.lifeStages.2.labelPlural>wild boar</WildBoar.lifeStages.2.labelPlural>
+  
+</LanguageData>

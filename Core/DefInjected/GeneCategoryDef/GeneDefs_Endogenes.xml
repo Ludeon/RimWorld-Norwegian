@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cosmetic -->
+  <Cosmetic.label>cosmetic</Cosmetic.label>
+  
+  <!-- EN: cosmetic - hair -->
+  <Cosmetic_Hair.label>cosmetic - hair</Cosmetic_Hair.label>
+  
+  <!-- EN: cosmetic - skin -->
+  <Cosmetic_Skin.label>cosmetic - skin</Cosmetic_Skin.label>
+  
+  <!-- EN: miscellaneous -->
+  <Miscellaneous.label>miscellaneous</Miscellaneous.label>
+  
+</LanguageData>

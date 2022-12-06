@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>gave gift</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>peace talks backfired</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>peace talks disaster</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>peace talks success</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>peace talks triumph</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>requested military aid</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>requested trader</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>traded</Traded.label>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carpet -->
+  <Floor_Carpet.label>carpet</Floor_Carpet.label>
+  
+  <!-- EN: fine carpet -->
+  <Floor_Carpet_Fine.label>fine carpet</Floor_Carpet_Fine.label>
+  
+  <!-- EN: flagstone -->
+  <Floor_Flagstone.label>flagstone</Floor_Flagstone.label>
+  
+  <!-- EN: tile -->
+  <Floor_Tile.label>tile</Floor_Tile.label>
+  
+  <!-- EN: fine tile -->
+  <Floor_Tile_Fine.label>fine tile</Floor_Tile_Fine.label>
+  
+  <!-- EN: metal tile -->
+  <Floor_Tile_Metal.label>metal tile</Floor_Tile_Metal.label>
+  
+  <!-- EN: standing lamp -->
+  <StandingLampColored.label>standing lamp</StandingLampColored.label>
+  
+</LanguageData>

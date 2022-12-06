@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: remove painstopper -->
+  <RemovePainstopper.label>remove painstopper</RemovePainstopper.label>
+  <!-- EN: Remove the painstopper. -->
+  <RemovePainstopper.description>Remove the painstopper.</RemovePainstopper.description>
+  <!-- EN: Removing painstopper. -->
+  <RemovePainstopper.jobString>Removing painstopper.</RemovePainstopper.jobString>
+  
+</LanguageData>

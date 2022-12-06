@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>accepted deserter</AcceptedDeserter.label>
+  
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>failed to keep guests happy</FailedToKeepLodgersHappy.label>
+  
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>member missed shuttle</MemberMissedShuttle.label>
+  
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>monument construction expired</MonumentConstructionExpired.label>
+  
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>monument construction abandoned</MonumentConstructionMapRemoved.label>
+  
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>destroyed monument</MonumentDestroyed.label>
+  
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>quest completed</QuestGoodwillReward.label>
+  
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>member arrested</QuestPawnArrested.label>
+  
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>member lost at colony</QuestPawnLost.label>
+  
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>enslaved lent prisoner</QuestPrisonerEnslaved.label>
+  
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>recruited lent prisoner</QuestPrisonerRecruited.label>
+  
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>shuttle commander missed shuttle</ShuttleCommanderMissedShuttle.label>
+  
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>shuttle guards missed shuttle</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

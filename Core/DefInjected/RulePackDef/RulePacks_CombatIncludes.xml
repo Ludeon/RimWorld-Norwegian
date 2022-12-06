@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scraped_present->glancing -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.0>scraped_present->glancing</Combat_DeflectIncludes.rulePack.rulesStrings.0>
+  <!-- EN: scraped_present->bouncing -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.1>scraped_present->bouncing</Combat_DeflectIncludes.rulePack.rulesStrings.1>
+  <!-- EN: scraped_present->grazing -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.2>scraped_present->grazing</Combat_DeflectIncludes.rulePack.rulesStrings.2>
+  <!-- EN: scraped_present->caroming -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.3>scraped_present->caroming</Combat_DeflectIncludes.rulePack.rulesStrings.3>
+  <!-- EN: scraped_present->skipping -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.4>scraped_present->skipping</Combat_DeflectIncludes.rulePack.rulesStrings.4>
+  <!-- EN: scraped_present->skating -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.5>scraped_present->skating</Combat_DeflectIncludes.rulePack.rulesStrings.5>
+  <!-- EN: scraped_past->glanced -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.6>scraped_past->glanced</Combat_DeflectIncludes.rulePack.rulesStrings.6>
+  <!-- EN: scraped_past->bounced -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.7>scraped_past->bounced</Combat_DeflectIncludes.rulePack.rulesStrings.7>
+  <!-- EN: scraped_past->grazed -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.8>scraped_past->grazed</Combat_DeflectIncludes.rulePack.rulesStrings.8>
+  <!-- EN: scraped_past->caromed -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.9>scraped_past->caromed</Combat_DeflectIncludes.rulePack.rulesStrings.9>
+  <!-- EN: scraped_past->skipped -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.10>scraped_past->skipped</Combat_DeflectIncludes.rulePack.rulesStrings.10>
+  <!-- EN: scraped_past->skated -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings.11>scraped_past->skated</Combat_DeflectIncludes.rulePack.rulesStrings.11>
+  
+  <!-- EN: action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
+  <!-- EN: action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
+  <!-- EN: action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
+  <!-- EN: action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.3>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.3>
+  <!-- EN: action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.4>
+  <!-- EN: action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.5>
+  <!-- EN: action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement] -->
+  <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.6>
+  <!-- EN: towardsat->towards -->
+  <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->towards</Combat_FailIncludes.rulePack.rulesStrings.7>
+  <!-- EN: towardsat->at -->
+  <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->at</Combat_FailIncludes.rulePack.rulesStrings.8>
+  <!-- EN: verb_genericattack->swung -->
+  <Combat_FailIncludes.rulePack.rulesStrings.9>verb_genericattack->swung</Combat_FailIncludes.rulePack.rulesStrings.9>
+  <!-- EN: verb_genericattack->flailed -->
+  <Combat_FailIncludes.rulePack.rulesStrings.10>verb_genericattack->flailed</Combat_FailIncludes.rulePack.rulesStrings.10>
+  <!-- EN: verb_genericattack->thrashed -->
+  <Combat_FailIncludes.rulePack.rulesStrings.11>verb_genericattack->thrashed</Combat_FailIncludes.rulePack.rulesStrings.11>
+  <!-- EN: tried->tried -->
+  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->tried</Combat_FailIncludes.rulePack.rulesStrings.12>
+  <!-- EN: tried->attempted -->
+  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->attempted</Combat_FailIncludes.rulePack.rulesStrings.13>
+  
+  <!-- EN: result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist] -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
+  <!-- EN: result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence] -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>
+  <!-- EN: result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv] -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>
+  <!-- EN: strikeAdv->painfully -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>strikeAdv->painfully</Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>
+  <!-- EN: strikeAdv->horribly -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>strikeAdv->horribly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>
+  <!-- EN: strikeAdv->savagely -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>strikeAdv->savagely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>
+  <!-- EN: strikeAdv->viciously -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>strikeAdv->viciously</Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>
+  <!-- EN: flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>
+  <!-- EN: flavortext_consequence->leaving a horrific wound -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>flavortext_consequence->leaving a horrific wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>
+  <!-- EN: flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent] -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>
+  <!-- EN: flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>
+  
+  <!-- EN: r_logentry->[action], [result]. -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.0>r_logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry(priority=-10)->[action]. -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.1>r_logentry(priority=-10)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
+  <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+  <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
+  <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
+  <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
+  <!-- EN: implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
+  <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
+  <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+  <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
+  <!-- EN: targetlist(recipient_part_count==1)->[recipient_part0_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.10>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+  <!-- EN: targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.11>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.11>
+  <!-- EN: targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.12>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.12>
+  <!-- EN: targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label] -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.13>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.13>
+  <!-- EN: damaged_present(deflected!=True)->wounding -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.14>damaged_present(deflected!=True)->wounding</Combat_MeleeIncludes.rulePack.rulesStrings.14>
+  <!-- EN: damaged_present(deflected!=True)->injuring -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.15>damaged_present(deflected!=True)->injuring</Combat_MeleeIncludes.rulePack.rulesStrings.15>
+  <!-- EN: destroyed(p=0.5)->destroyed -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.16>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.16>
+  <!-- EN: destroyed(p=0.5)->demolished -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.17>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.17>
+  <!-- EN: destroyed(p=0.5)->ruined -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.18>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+  <!-- EN: destroyed(p=0.5)->wrecked -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.19>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.19>
+  <!-- EN: wince(recipient_flesh==Normal)->wince -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.20>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.20>
+  <!-- EN: wince(recipient_flesh==Normal)->grimace -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.21>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.21>
+  <!-- EN: wince(recipient_flesh==Normal)->cringe -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.22>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+  <!-- EN: wince(recipient_flesh==Normal)->groan -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.23>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.23>
+  <!-- EN: wince(recipient_flesh!=Mechanoid)->scream -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.24>wince(recipient_flesh!=Mechanoid)->scream</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+  <!-- EN: wince(recipient_flesh!=Mechanoid)->shout -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.25>wince(recipient_flesh!=Mechanoid)->shout</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+  <!-- EN: wince->recoil -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.26>wince->recoil</Combat_MeleeIncludes.rulePack.rulesStrings.26>
+  <!-- EN: wince->stumble -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.27>wince->stumble</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+  <!-- EN: painstate->in -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.28>painstate->in</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+  <!-- EN: painstate->with -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.29>painstate->with</Combat_MeleeIncludes.rulePack.rulesStrings.29>
+  <!-- EN: painstate->from the -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.30>painstate->from the</Combat_MeleeIncludes.rulePack.rulesStrings.30>
+  <!-- EN: painevent(recipient_flesh!=Mechanoid)->[painstate] pain -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.31>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</Combat_MeleeIncludes.rulePack.rulesStrings.31>
+  <!-- EN: painevent(recipient_flesh!=Mechanoid)->[painstate] agony -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.32>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</Combat_MeleeIncludes.rulePack.rulesStrings.32>
+  <!-- EN: painevent(recipient_flesh==Normal)->with misery -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.33>painevent(recipient_flesh==Normal)->with misery</Combat_MeleeIncludes.rulePack.rulesStrings.33>
+  <!-- EN: painevent->from the injury -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.34>painevent->from the injury</Combat_MeleeIncludes.rulePack.rulesStrings.34>
+  <!-- EN: painevent->from the wound -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.35>painevent->from the wound</Combat_MeleeIncludes.rulePack.rulesStrings.35>
+  <!-- EN: to->to -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.36>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.36>
+  <!-- EN: to->into -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings.37>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.37>
+  
+  <!-- EN: skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv] -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.0>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</Combat_SkillIncludes.rulePack.rulesStrings.0>
+  <!-- EN: skillDescMelee->[using] [implement] [skillAdv] -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.1>skillDescMelee->[using] [implement] [skillAdv]</Combat_SkillIncludes.rulePack.rulesStrings.1>
+  <!-- EN: wielding(p=4)->wielding -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.2>wielding(p=4)->wielding</Combat_SkillIncludes.rulePack.rulesStrings.2>
+  <!-- EN: wielding(p=3)->using -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.3>wielding(p=3)->using</Combat_SkillIncludes.rulePack.rulesStrings.3>
+  <!-- EN: wielding(p=2)->handling -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.4>wielding(p=2)->handling</Combat_SkillIncludes.rulePack.rulesStrings.4>
+  <!-- EN: wielding->brandishing -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.5>wielding->brandishing</Combat_SkillIncludes.rulePack.rulesStrings.5>
+  <!-- EN: wielding->manipulating -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.6>wielding->manipulating</Combat_SkillIncludes.rulePack.rulesStrings.6>
+  <!-- EN: using(p=4)->using -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.7>using(p=4)->using</Combat_SkillIncludes.rulePack.rulesStrings.7>
+  <!-- EN: using->driving -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.8>using->driving</Combat_SkillIncludes.rulePack.rulesStrings.8>
+  <!-- EN: using->thrusting -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.9>using->thrusting</Combat_SkillIncludes.rulePack.rulesStrings.9>
+  <!-- EN: using->utilizing -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.10>using->utilizing</Combat_SkillIncludes.rulePack.rulesStrings.10>
+  <!-- EN: using->moving -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.11>using->moving</Combat_SkillIncludes.rulePack.rulesStrings.11>
+  <!-- EN: skillAdv(INITIATOR_skill<=3)->incompetently -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.12>skillAdv(INITIATOR_skill&lt;=3)->incompetently</Combat_SkillIncludes.rulePack.rulesStrings.12>
+  <!-- EN: skillAdv(INITIATOR_skill<=3)->ineptly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.13>skillAdv(INITIATOR_skill&lt;=3)->ineptly</Combat_SkillIncludes.rulePack.rulesStrings.13>
+  <!-- EN: skillAdv(INITIATOR_skill<=3)->wildly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.14>skillAdv(INITIATOR_skill&lt;=3)->wildly</Combat_SkillIncludes.rulePack.rulesStrings.14>
+  <!-- EN: skillAdv(INITIATOR_skill<=3)->randomly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.15>skillAdv(INITIATOR_skill&lt;=3)->randomly</Combat_SkillIncludes.rulePack.rulesStrings.15>
+  <!-- EN: skillAdv(INITIATOR_skill<=3)->flailingly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.16>skillAdv(INITIATOR_skill&lt;=3)->flailingly</Combat_SkillIncludes.rulePack.rulesStrings.16>
+  <!-- EN: skillAdv(INITIATOR_skill<=4)->awkwardly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.17>skillAdv(INITIATOR_skill&lt;=4)->awkwardly</Combat_SkillIncludes.rulePack.rulesStrings.17>
+  <!-- EN: skillAdv(INITIATOR_skill<=4)->clumsily -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.18>skillAdv(INITIATOR_skill&lt;=4)->clumsily</Combat_SkillIncludes.rulePack.rulesStrings.18>
+  <!-- EN: skillAdv(INITIATOR_skill<=5)->fearfully -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.19>skillAdv(INITIATOR_skill&lt;=5)->fearfully</Combat_SkillIncludes.rulePack.rulesStrings.19>
+  <!-- EN: skillAdv(INITIATOR_skill<=5)->falteringly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.20>skillAdv(INITIATOR_skill&lt;=5)->falteringly</Combat_SkillIncludes.rulePack.rulesStrings.20>
+  <!-- EN: skillAdv(INITIATOR_skill<=5)->foolishly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.21>skillAdv(INITIATOR_skill&lt;=5)->foolishly</Combat_SkillIncludes.rulePack.rulesStrings.21>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->hesitantly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.22>skillAdv(INITIATOR_skill&lt;=6)->hesitantly</Combat_SkillIncludes.rulePack.rulesStrings.22>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->reluctantly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.23>skillAdv(INITIATOR_skill&lt;=6)->reluctantly</Combat_SkillIncludes.rulePack.rulesStrings.23>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->slowly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.24>skillAdv(INITIATOR_skill&lt;=6)->slowly</Combat_SkillIncludes.rulePack.rulesStrings.24>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->tentatively -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.25>skillAdv(INITIATOR_skill&lt;=6)->tentatively</Combat_SkillIncludes.rulePack.rulesStrings.25>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->inexpertly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.26>skillAdv(INITIATOR_skill&lt;=6)->inexpertly</Combat_SkillIncludes.rulePack.rulesStrings.26>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->amateurishly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.27>skillAdv(INITIATOR_skill&lt;=6)->amateurishly</Combat_SkillIncludes.rulePack.rulesStrings.27>
+  <!-- EN: skillAdv(INITIATOR_skill<=6)->timidly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.28>skillAdv(INITIATOR_skill&lt;=6)->timidly</Combat_SkillIncludes.rulePack.rulesStrings.28>
+  <!-- EN: skillAdv(INITIATOR_skill<=8)->enthusiastically -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.29>skillAdv(INITIATOR_skill&lt;=8)->enthusiastically</Combat_SkillIncludes.rulePack.rulesStrings.29>
+  <!-- EN: skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->proficiently -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.30>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->proficiently</Combat_SkillIncludes.rulePack.rulesStrings.30>
+  <!-- EN: skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->competently -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.31>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->competently</Combat_SkillIncludes.rulePack.rulesStrings.31>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->professionally -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.32>skillAdv(INITIATOR_skill>=8)->professionally</Combat_SkillIncludes.rulePack.rulesStrings.32>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->deftly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.33>skillAdv(INITIATOR_skill>=8)->deftly</Combat_SkillIncludes.rulePack.rulesStrings.33>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->aptly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.34>skillAdv(INITIATOR_skill>=8)->aptly</Combat_SkillIncludes.rulePack.rulesStrings.34>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->cleverly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.35>skillAdv(INITIATOR_skill>=8)->cleverly</Combat_SkillIncludes.rulePack.rulesStrings.35>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->dexterously -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.36>skillAdv(INITIATOR_skill>=8)->dexterously</Combat_SkillIncludes.rulePack.rulesStrings.36>
+  <!-- EN: skillAdv(INITIATOR_skill>=8)->skillfully -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.37>skillAdv(INITIATOR_skill>=8)->skillfully</Combat_SkillIncludes.rulePack.rulesStrings.37>
+  <!-- EN: skillAdv(INITIATOR_skill>=10)->adeptly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.38>skillAdv(INITIATOR_skill>=10)->adeptly</Combat_SkillIncludes.rulePack.rulesStrings.38>
+  <!-- EN: skillAdv(INITIATOR_skill>=10)->slickly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.39>skillAdv(INITIATOR_skill>=10)->slickly</Combat_SkillIncludes.rulePack.rulesStrings.39>
+  <!-- EN: skillAdv(INITIATOR_skill>=12)->expertly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.40>skillAdv(INITIATOR_skill>=12)->expertly</Combat_SkillIncludes.rulePack.rulesStrings.40>
+  <!-- EN: skillAdv(INITIATOR_skill>=12)->precisely -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.41>skillAdv(INITIATOR_skill>=12)->precisely</Combat_SkillIncludes.rulePack.rulesStrings.41>
+  <!-- EN: skillAdv(INITIATOR_skill>=14)->masterfully -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.42>skillAdv(INITIATOR_skill>=14)->masterfully</Combat_SkillIncludes.rulePack.rulesStrings.42>
+  <!-- EN: skillAdv(INITIATOR_skill>=16)->artistically -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.43>skillAdv(INITIATOR_skill>=16)->artistically</Combat_SkillIncludes.rulePack.rulesStrings.43>
+  <!-- EN: skillAdv(INITIATOR_skill>=16)->gracefully -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.44>skillAdv(INITIATOR_skill>=16)->gracefully</Combat_SkillIncludes.rulePack.rulesStrings.44>
+  <!-- EN: skillAdv(initiator_flesh==Mechanoid)->mechanically -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.45>skillAdv(initiator_flesh==Mechanoid)->mechanically</Combat_SkillIncludes.rulePack.rulesStrings.45>
+  <!-- EN: skillAdv(initiator_flesh==Mechanoid)->robotically -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.46>skillAdv(initiator_flesh==Mechanoid)->robotically</Combat_SkillIncludes.rulePack.rulesStrings.46>
+  <!-- EN: skillAdv(initiator_flesh==Mechanoid)->directly -->
+  <Combat_SkillIncludes.rulePack.rulesStrings.47>skillAdv(initiator_flesh==Mechanoid)->directly</Combat_SkillIncludes.rulePack.rulesStrings.47>
+  
+  <!-- EN: destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
+  <!-- EN: destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
+  <!-- EN: destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
+  <!-- EN: destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
+  <!-- EN: damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
+  <!-- EN: damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
+  <!-- EN: damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
+  <!-- EN: damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label] -->
+  <Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: termite -->
+  <Mech_Termite_Breach.label>termite</Mech_Termite_Breach.label>
+  <Mech_Termite_Breach.labelPlural>termites</Mech_Termite_Breach.labelPlural>
+  
+  <!-- EN: breacher -->
+  <Tribal_Breacher.label>breacher</Tribal_Breacher.label>
+  <Tribal_Breacher.labelPlural>breachers</Tribal_Breacher.labelPlural>
+  
+</LanguageData>

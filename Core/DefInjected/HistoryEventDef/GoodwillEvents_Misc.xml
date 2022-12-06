@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked building -->
+  <AttackedBuilding.label>attacked building</AttackedBuilding.label>
+  
+  <!-- EN: debug event -->
+  <DebugGoodwill.label>debug event</DebugGoodwill.label>
+  
+  <!-- EN: laborers missed shuttle -->
+  <LaborersMissedShuttle.label>laborers missed shuttle</LaborersMissedShuttle.label>
+  
+  <!-- EN: tendency to move toward natural goodwill -->
+  <ReachNaturalGoodwill.label>tendency to move toward natural goodwill</ReachNaturalGoodwill.label>
+  
+  <!-- EN: ritual done -->
+  <RitualDone.label>ritual done</RitualDone.label>
+  
+  <!-- EN: shuttle destroyed -->
+  <ShuttleDestroyed.label>shuttle destroyed</ShuttleDestroyed.label>
+  
+  <!-- EN: used forbidden thing -->
+  <UsedForbiddenThing.label>used forbidden thing</UsedForbiddenThing.label>
+  
+  <!-- EN: used harmful ability -->
+  <UsedHarmfulAbility.label>used harmful ability</UsedHarmfulAbility.label>
+  
+</LanguageData>

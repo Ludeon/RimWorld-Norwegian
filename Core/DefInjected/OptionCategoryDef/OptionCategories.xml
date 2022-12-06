@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: audio -->
+  <Audio.label>audio</Audio.label>
+  
+  <!-- EN: controls -->
+  <Controls.label>controls</Controls.label>
+  
+  <!-- EN: dev -->
+  <Dev.label>dev</Dev.label>
+  
+  <!-- EN: gameplay -->
+  <Gameplay.label>gameplay</Gameplay.label>
+  
+  <!-- EN: general -->
+  <General.label>general</General.label>
+  
+  <!-- EN: graphics -->
+  <Graphics.label>graphics</Graphics.label>
+  
+  <!-- EN: interface -->
+  <Interface.label>interface</Interface.label>
+  
+  <!-- EN: mod options -->
+  <Mods.label>mod options</Mods.label>
+  
+</LanguageData>

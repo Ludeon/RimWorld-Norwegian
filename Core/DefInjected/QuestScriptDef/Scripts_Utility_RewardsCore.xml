@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive in a transport pod.[joinerFactionInfo][joiner_relationInfo] -->
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.0>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive in a transport pod.[joinerFactionInfo][joiner_relationInfo]</Util_JoinerDropIn.questDescriptionRules.rulesStrings.0>
+  <!-- EN: joinerFactionInfo(priority=1)-> [joiner_pronoun] is a member of [joiner_factionName]. -->
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.1>joinerFactionInfo(priority=1)-> [joiner_pronoun] is a member of [joiner_factionName].</Util_JoinerDropIn.questDescriptionRules.rulesStrings.1>
+  <!-- EN: joinerFactionInfo-> -->
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.2>joinerFactionInfo-></Util_JoinerDropIn.questDescriptionRules.rulesStrings.2>
+  
+  <!-- EN: rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo] -->
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings.0>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</Util_JoinerWalkIn.questDescriptionRules.rulesStrings.0>
+  
+  <!-- EN: rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents] -->
+  <Util_SendItemPods.questDescriptionRules.rulesStrings.0>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</Util_SendItemPods.questDescriptionRules.rulesStrings.0>
+  
+</LanguageData>
