@@ -1,19 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: ship part (poison) -->
-  <CrashedPoisonShipPart.label>havarert giftskip</CrashedPoisonShipPart.label>
-  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
-  <CrashedPoisonShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne virker å forgifte bakken rundt skipet.</CrashedPoisonShipPart.description>
-
-  <!-- EN: ship part (psychic) -->
-  <CrashedPsychicEmanatorShipPart.label>havarert mentalskip</CrashedPsychicEmanatorShipPart.label>
-  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
-  <CrashedPsychicEmanatorShipPart.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne teknologien kan være farlig.</CrashedPsychicEmanatorShipPart.description>
-
+  
+  <!-- EN: ship part (defoliator) -->
+  <DefoliatorShipPart.label>TODO</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
+  
+  <!-- UNUSED -->
+  <MechCapsule.label>havarert mentalskip</MechCapsule.label>
+  <MechCapsule.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne teknologien kan være farlig.</MechCapsule.description>
+  
+  <!-- EN: ship part (psychic droner) -->
+  <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
+  <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
+  
   <!-- EN: ship chunk -->
   <ShipChunk.label>skipsbit</ShipChunk.label>
-  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
   <ShipChunk.description>En bit fra et romskip. Kan tas fra hverandre og gi anvendbart stål og komponenter.</ShipChunk.description>
-
+  
+  <!-- EN: shuttle -->
+  <Shuttle.label>TODO</Shuttle.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <Shuttle.description>TODO</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>TODO</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed.description>TODO</ShuttleCrashed.description>
+  
 </LanguageData>

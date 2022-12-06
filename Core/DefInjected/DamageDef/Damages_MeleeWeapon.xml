@@ -22,6 +22,11 @@
   <Cut.deathMessage>{0} ble skåret i hjel.</Cut.deathMessage>
   
   <!-- EN: blunt -->
+  <Demolish.label>TODO</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>TODO</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
   <Poke.label>sløv</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
   <Poke.deathMessage>{0} ble slått i hjel</Poke.deathMessage>
@@ -30,6 +35,11 @@
   <Scratch.label>skrubbsår</Scratch.label>
   <!-- EN: {0} has been torn to death. -->
   <Scratch.deathMessage>{0} ble revet i biter.</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>stikksår</Stab.label>

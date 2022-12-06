@@ -3,20 +3,30 @@
   
   <!-- EN: recruit -->
   <AttemptRecruit.label>chat and recruit</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>TODO</AttemptRecruit.description>
   
   <!-- UNUSED -->
   <Chat.label>friendly chat</Chat.label>
   
   <!-- EN: execute -->
   <Execution.label>execution</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>TODO</Execution.description>
   
   <!-- EN: no interaction -->
   <NoInteraction.label>no interaction</NoInteraction.label>
+  <!-- EN: Wardens will not interact with the prisoner. -->
+  <NoInteraction.description>TODO</NoInteraction.description>
   
   <!-- EN: reduce resistance -->
   <ReduceResistance.label>TODO</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>TODO</ReduceResistance.description>
   
   <!-- EN: release -->
   <Release.label>release</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>TODO</Release.description>
   
 </LanguageData>

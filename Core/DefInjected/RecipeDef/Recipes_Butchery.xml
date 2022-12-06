@@ -8,11 +8,18 @@
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Slakter.</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
+  <!-- EN: shred mechanoid -->
   <ButcherCorpseMechanoid.label>demonter mekanoide</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
   <ButcherCorpseMechanoid.description>Demonterer en 'død' mekanoide til brukbart metall.</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
+  <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Demonterer mekanoid.</ButcherCorpseMechanoid.jobString>
+  
+  <!-- EN: smash mechanoid -->
+  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

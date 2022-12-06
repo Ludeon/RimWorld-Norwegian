@@ -1,19 +1,91 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <AllowCorpsesColonist.label>kolonistlik</AllowCorpsesColonist.label>
-    <AllowCorpsesColonist.description>Tillat døde kolonister.</AllowCorpsesColonist.description>
-    
-    <AllowCorpsesStranger.label>fremmedlik</AllowCorpsesStranger.label>
-    <AllowCorpsesStranger.description>Tillat døde fremmede og fiender.</AllowCorpsesStranger.description>
-    
-    <AllowRotten.label>tillat råttent</AllowRotten.label>
-    <AllowRotten.description>Tillat organiske ting, som allerede har begynt å bli fordervet.</AllowRotten.description>
-    
-    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
-    
-    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
-    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
-    
+  
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>kolonistlik</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>Tillat døde kolonister.</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>fremmedlik</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>Tillat døde fremmede og fiender.</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>TODO</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>TODO</AllowFresh.description>
+  
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>TODO</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>TODO</AllowLargeCorpses.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>TODO</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>TODO</AllowMaleGender.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>TODO</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>tillat råttent</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Tillat organiske ting, som allerede har begynt å bli fordervet.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>TODO</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  
 </LanguageData>

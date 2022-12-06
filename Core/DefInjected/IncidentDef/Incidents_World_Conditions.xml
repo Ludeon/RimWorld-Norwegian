@@ -5,21 +5,18 @@
   <Aurora.label>nordlys</Aurora.label>
   <!-- EN: Aurora -->
   <Aurora.letterLabel>Nordlys</Aurora.letterLabel>
-  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
   <Aurora.letterText>Nordlys lyser opp himmelen i de vakreste farger.\n\nDen flotte utsikten vil styrke humøret til alle som er ute, og natten kan bli litt lysere.</Aurora.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>formørkelse</Eclipse.label>
   <!-- EN: Eclipse -->
   <Eclipse.letterLabel>Formørkelse</Eclipse.letterLabel>
-  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
   <Eclipse.letterText>En av planetens måner har beveget seg foran sola. Dagen ble veldig kort i kveld.</Eclipse.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>solstorm</SolarFlare.label>
   <!-- EN: Solar flare -->
   <SolarFlare.letterLabel>Solstorm</SolarFlare.letterLabel>
-  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
   <SolarFlare.letterText>En solstorm har begynt.\n\nDen sterke strålingen vil sette alle elektriske apparater midlertidig ut av drift.\n\nDet vil vare i omtrent en dag.</SolarFlare.letterText>
   
 </LanguageData>

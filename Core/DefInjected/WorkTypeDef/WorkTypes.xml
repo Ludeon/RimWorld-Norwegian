@@ -5,7 +5,7 @@
   <Art.description>Skap vakre kunstverk fra råmaterialer.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>Kunstskaping</Art.gerundLabel>
-  <!-- EN: Art -->
+  <!-- EN: art -->
   <Art.labelShort>Kunst</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>Kunstner</Art.pawnLabel>
@@ -16,7 +16,7 @@
   <BasicWorker.description>TODO</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
-  <!-- EN: Basic -->
+  <!-- EN: basic -->
   <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>TODO</BasicWorker.pawnLabel>
@@ -27,7 +27,7 @@
   <Cleaning.description>Fjern snø og rengjør gulvene i hjemmeområdet.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>Rengjøring</Cleaning.gerundLabel>
-  <!-- EN: Clean -->
+  <!-- EN: clean -->
   <Cleaning.labelShort>Rengjøring</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>Rengjører</Cleaning.pawnLabel>
@@ -38,7 +38,7 @@
   <Construction.description>Bygg ting som du har utpekt.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>Bygging</Construction.gerundLabel>
-  <!-- EN: Construct -->
+  <!-- EN: construct -->
   <Construction.labelShort>Bygging</Construction.labelShort>
   <!-- EN: Constructor -->
   <Construction.pawnLabel>Bygger</Construction.pawnLabel>
@@ -49,7 +49,7 @@
   <Cooking.description>Tilbered måltider og stykk opp kjøtt.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>Laging av mat</Cooking.gerundLabel>
-  <!-- EN: Cook -->
+  <!-- EN: cook -->
   <Cooking.labelShort>Matlaging</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>Kokk</Cooking.pawnLabel>
@@ -60,7 +60,7 @@
   <Crafting.description>Utfør forefallende oppgaver ved arbeidsbenker. Dette inkluderer steinkutting, smelting og mer.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>Håndverking</Crafting.gerundLabel>
-  <!-- EN: Craft -->
+  <!-- EN: craft -->
   <Crafting.labelShort>Håndverking</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>Håndverker</Crafting.pawnLabel>
@@ -71,7 +71,7 @@
   <Doctor.description>Behandle de syke, skaff dem mat, oppmuntre dem og utfør tildelte operasjoner. Leger vil ta seg av både kolonister og fanger.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>Behandling</Doctor.gerundLabel>
-  <!-- EN: Doctor -->
+  <!-- EN: doctor -->
   <Doctor.labelShort>Lege</Doctor.labelShort>
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>Lege</Doctor.pawnLabel>
@@ -82,7 +82,7 @@
   <Firefighter.description>Slukk branner i kolonien</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>Slukking av brann</Firefighter.gerundLabel>
-  <!-- EN: Firefight -->
+  <!-- EN: firefight -->
   <Firefighter.labelShort>Brannslukking</Firefighter.labelShort>
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>Brannmann</Firefighter.pawnLabel>
@@ -100,7 +100,7 @@
   <Growing.description>Så frø og høst dyrkede avlinger.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>Dyrking</Growing.gerundLabel>
-  <!-- EN: Grow -->
+  <!-- EN: grow -->
   <Growing.labelShort>Dyrking</Growing.labelShort>
   <!-- EN: Grower -->
   <Growing.pawnLabel>Bonde</Growing.pawnLabel>
@@ -111,7 +111,7 @@
   <Handling.description>Tam, tren, høst ressurser fra og slakt dyr.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>Passe på</Handling.gerundLabel>
-  <!-- EN: Handle -->
+  <!-- EN: handle -->
   <Handling.labelShort>Dyrepassing</Handling.labelShort>
   <!-- EN: Handler -->
   <Handling.pawnLabel>Dyrepasser</Handling.pawnLabel>
@@ -122,7 +122,7 @@
   <Hauling.description>Transporter ting dit de skal være.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>Transportering</Hauling.gerundLabel>
-  <!-- EN: Haul -->
+  <!-- EN: haul -->
   <Hauling.labelShort>Transportering</Hauling.labelShort>
   <!-- EN: Hauler -->
   <Hauling.pawnLabel>Transporterer</Hauling.pawnLabel>
@@ -133,7 +133,7 @@
   <Hunting.description>Jakt på dyr som du har utpekt til å bli jaktet på.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>Jakting</Hunting.gerundLabel>
-  <!-- EN: Hunt -->
+  <!-- EN: hunt -->
   <Hunting.labelShort>Jakting</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Jeger</Hunting.pawnLabel>
@@ -144,7 +144,7 @@
   <Mining.description>Grav ut områder som du har utpekt for gruvearbeid.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>Graving</Mining.gerundLabel>
-  <!-- EN: Mine -->
+  <!-- EN: mine -->
   <Mining.labelShort>Graving</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Gruvearbeider</Mining.pawnLabel>
@@ -155,7 +155,7 @@
   <Patient.description>Gå til en medisinsk seng for å få behandling hvis du har en livstruende helsetilstand.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>Få behandling</Patient.gerundLabel>
-  <!-- EN: Patient -->
+  <!-- EN: patient -->
   <Patient.labelShort>Pasient</Patient.labelShort>
   <!-- EN: Patient -->
   <Patient.pawnLabel>Pasient</Patient.pawnLabel>
@@ -166,7 +166,7 @@
   <PatientBedRest.description>Hvil i sengen for å komme til krefter fra en ikke-livstruende helsetilstand.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>Hviling i seng</PatientBedRest.gerundLabel>
-  <!-- EN: Bed rest -->
+  <!-- EN: bed rest -->
   <PatientBedRest.labelShort>Sengeliggende</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>Sengeliggende</PatientBedRest.pawnLabel>
@@ -177,7 +177,7 @@
   <PlantCutting.description>Klipp ned eller høst planter som du har utpekt.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>Klipping</PlantCutting.gerundLabel>
-  <!-- EN: Plant cut -->
+  <!-- EN: plant cut -->
   <PlantCutting.labelShort>Planteklipping</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>Planteklipper</PlantCutting.pawnLabel>
@@ -195,7 +195,7 @@
   <Research.description>Forsk på de oppgavene du har utpekt.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>Forskning</Research.gerundLabel>
-  <!-- EN: Research -->
+  <!-- EN: research -->
   <Research.labelShort>Forsker</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>Forsker</Research.pawnLabel>
@@ -206,7 +206,7 @@
   <Smithing.description>Lag våpen og verktøy fra råmaterialer, enten som smed eller ved maskinering.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>Smiing</Smithing.gerundLabel>
-  <!-- EN: Smith -->
+  <!-- EN: smith -->
   <Smithing.labelShort>Smiing</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Smed</Smithing.pawnLabel>
@@ -217,7 +217,7 @@
   <Tailoring.description>Lag nytt tøy av stoff, lær eller andre materialer.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>Sying</Tailoring.gerundLabel>
-  <!-- EN: Tailor -->
+  <!-- EN: tailor -->
   <Tailoring.labelShort>Sying</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>Skredder</Tailoring.pawnLabel>
@@ -228,7 +228,7 @@
   <Warden.description>Pass på, mat, snakk med og rekrutter fanger.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>Vokting</Warden.gerundLabel>
-  <!-- EN: Warden -->
+  <!-- EN: warden -->
   <Warden.labelShort>Vokting</Warden.labelShort>
   <!-- EN: Warden -->
   <Warden.pawnLabel>Vakt</Warden.pawnLabel>

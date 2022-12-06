@@ -1,59 +1,79 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: cassowary egg (fert.) -->
   <EggCassowaryFertilized.label>kasuaregg (befr.)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryFertilized.description>Et befuktet kasuaregg. Dette egget kan klekke en ung kasuar. Egget kan både spises rått og stekes.</EggCassowaryFertilized.description>
-
+  
   <!-- EN: chicken egg (fert.) -->
   <EggChickenFertilized.label>hønseegg (befr.)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
   <EggChickenFertilized.description>Et befuktet hønseegg. Dette egget kan klekke en kylling. Egget kan både spises rått og stekes.</EggChickenFertilized.description>
-
+  
   <!-- EN: chicken egg (unfert.) -->
   <EggChickenUnfertilized.label>hønseegg (ubefr.)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggChickenUnfertilized.description>Et uberfruktet hønseegg. Egget kan både spises rått og stekes.</EggChickenUnfertilized.description>
-
+  
   <!-- EN: cobra egg (fert.) -->
   <EggCobraFertilized.label>kobraegg (befr.)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
   <EggCobraFertilized.description>Et befuktet kobraegg. Dette egget kan klekke en kobraunge. Egget kan både spises rått og stekes.</EggCobraFertilized.description>
-
+  
+  <!-- EN: duck egg (fert.) -->
+  <EggDuckFertilized.label>TODO</EggDuckFertilized.label>
+  <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
+  <EggDuckFertilized.description>TODO</EggDuckFertilized.description>
+  
+  <!-- EN: duck egg (unfert.) -->
+  <EggDuckUnfertilized.label>TODO</EggDuckUnfertilized.label>
+  <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggDuckUnfertilized.description>TODO</EggDuckUnfertilized.description>
+  
   <!-- EN: emu egg (fert.) -->
   <EggEmuFertilized.label>emuegg (befr.)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
   <EggEmuFertilized.description>Et befuktet emuegg. Dette egget kan klekke en emu. Egget kan både spises rått og stekes.</EggEmuFertilized.description>
-
+  
+  <!-- EN: goose egg (fert.) -->
+  <EggGooseFertilized.label>TODO</EggGooseFertilized.label>
+  <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
+  <EggGooseFertilized.description>TODO</EggGooseFertilized.description>
+  
+  <!-- EN: goose egg (unfert.) -->
+  <EggGooseUnfertilized.label>TODO</EggGooseUnfertilized.label>
+  <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggGooseUnfertilized.description>TODO</EggGooseUnfertilized.description>
+  
   <!-- EN: iguana egg (fert.) -->
   <EggIguanaFertilized.label>iguanegg (befr.)</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
   <EggIguanaFertilized.description>Et befuktet iguanegg. Dette egget kan klekke en ung iguan. Egget kan både spises rått og stekes.</EggIguanaFertilized.description>
-
+  
   <!-- EN: ostrich egg (fert.) -->
   <EggOstrichFertilized.label>strutseegg (ubefr.)</EggOstrichFertilized.label>
   <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
   <EggOstrichFertilized.description>Et befuktet strutseegg. Dette egget kan klekke en ung struts. Egget kan både spises rått og stekes.</EggOstrichFertilized.description>
-
+  
   <!-- EN: tortoise egg (fert.) -->
   <EggTortoiseFertilized.label>skilpaddeegg (befr.)</EggTortoiseFertilized.label>
   <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
   <EggTortoiseFertilized.description>Et befuktet skilpaddeegg. Dette egget kan klekke en ung skilpadde. Egget kan både spises rått og stekes.</EggTortoiseFertilized.description>
-
+  
   <!-- EN: turkey egg (fert.) -->
   <EggTurkeyFertilized.label>kalkunegg (befr.)</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
   <EggTurkeyFertilized.description>Et befuktet kalkunegg. Dette egget kan klekke en kalkunkylling. Egget kan både spises rått og stekes.</EggTurkeyFertilized.description>
-
+  
   <!-- EN: insect jelly -->
   <InsectJelly.label>edderkoppgelé</InsectJelly.label>
   <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
   <InsectJelly.description>Kjempeedderkopper bruker denne gelén som mat. Den er næringsrik og velsmakende. Kan spises av alle typer vesner.</InsectJelly.description>
-
+  
   <!-- EN: milk -->
   <Milk.label>melk</Milk.label>
   <!-- EN: Milk from an animal. -->
   <Milk.description>Melk fra et pattedyr.</Milk.description>
-
+  
 </LanguageData>

@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: turrets -->
   <Turrets.label>turrets</Turrets.label>
+  <!-- EN: A group of turrets. -->
   <Turrets.description>A group of turrets.</Turrets.description>
+  <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>There are enemy turrets in this area.</Turrets.arrivedLetter>
+  
+  <!-- UNUSED -->
   <Turrets.arrivedLetterLabel>Enemy turrets</Turrets.arrivedLetterLabel>
   <Turrets.descriptionDialogue>a ring of {0} enemy turrets defends the site</Turrets.descriptionDialogue>
-
-
+  
 </LanguageData>

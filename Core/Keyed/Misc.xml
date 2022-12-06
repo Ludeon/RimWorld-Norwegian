@@ -16,18 +16,34 @@
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>development build</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Compiled {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
-
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>TODO</ToCommaListOr>
+  
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Ja</Yes>
   <!-- EN: No -->
   <No>Nei</No>
+  <!-- EN: No {0} -->
+  <NoSubject>TODO</NoSubject>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
+  <!-- EN: Sex -->
+  <Sex>TODO</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -42,6 +58,8 @@
   <damage>skader</damage>
   <!-- EN: radius -->
   <radius>radius</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
   <!-- EN: duration (days) -->
   <durationDays>varighet (dager)</durationDays>
   <!-- EN: interval (days) -->
@@ -66,6 +84,18 @@
   <Default>Standard</Default>
   <!-- EN: Average -->
   <Average>Gjennomsnitt</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>TODO</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>TODO</Factors>
+  <!-- EN: Uses -->
+  <Uses>TODO</Uses>
+  <!-- EN: Translation -->
+  <Translation>TODO</Translation>
 
   <!-- Content generation-->
   
@@ -77,6 +107,16 @@
   <MeatInsectDesc>Rått slaktet kjøtt. Om nødvendig, kan tilberedes i måltider, eller til og med spises rå. Ekstremt uappetittlig.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Rått slaktet kjøtt. Kan tilberedes i måltider eller spises rå, selv om de fleste mennesker misliker ideen.</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} lik</CorpseLabel>
@@ -106,6 +146,12 @@
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Utilknyttet</FactionUnaffiliated>
 
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>TODO</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>TODO</BabyTalk>
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
@@ -115,6 +161,12 @@
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{0} og {1}s {2}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
@@ -132,6 +184,24 @@
   <West>Vest</West>
   <!-- EN: East -->
   <East>Øst</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>TODO</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>TODO</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>TODO</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>TODO</Colonist>
+  
   
   <!-- UNUSED -->
   <LeatherLabel>{0} leather</LeatherLabel>

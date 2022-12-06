@@ -34,15 +34,24 @@
   <!-- EN: Change options, save, load, or quit the game. -->
   <Menu.description>Andre alternativer, lagre, laste inn, eller avslutt spillet.</Menu.description>
   
+  <!-- EN: quests -->
+  <Quests.label>TODO</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>TODO</Quests.description>
+  
   <!-- EN: research -->
   <Research.label>Forskning</Research.label>
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>Studer og bestem deg for forskningerprosjekter.</Research.description>
   
-  <!-- EN: restrict -->
+  <!-- UNUSED -->
   <Restrict.label>Begrens</Restrict.label>
-  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
   <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen. Du kan også angi tillatt oppholdsområde.</Restrict.description>
+  
+  <!-- EN: schedule -->
+  <Schedule.label>TODO</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>TODO</Schedule.description>
   
   <!-- UNUSED -->
   <Statistics.label>Statistikk</Statistics.label>

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: chicken -->
-  <Chicken.label>chicken</Chicken.label>
+  <Chicken.label>høne</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
-  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
+  <Chicken.description>Høna er den mest tradisjonelle gårdsfuglen og gir både kjøtt og egg.</Chicken.description>
   <!-- EN: claws -->
-  <Chicken.tools.claws.label>claws</Chicken.tools.claws.label>
+  <Chicken.tools.claws.label>klør</Chicken.tools.claws.label>
   <!-- EN: beak -->
-  <Chicken.tools.beak.label>beak</Chicken.tools.beak.label>
+  <Chicken.tools.beak.label>nebb</Chicken.tools.beak.label>
   <!-- EN: head -->
-  <Chicken.tools.head.label>head</Chicken.tools.head.label>
+  <Chicken.tools.head.label>hode</Chicken.tools.head.label>
   
   <!-- EN: duck -->
   <Duck.label>duck</Duck.label>

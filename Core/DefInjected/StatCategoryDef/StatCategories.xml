@@ -1,32 +1,94 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Basics.label>Basics</Basics.label>
-    
-    <BasicsPawn.label>Basics</BasicsPawn.label>
-    
-    <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
-    
-    <Apparel.label>klesplagg</Apparel.label>
-    
-    <Weapon.label>Weapon</Weapon.label>
-    
-    <Building.label>Building</Building.label>
-    
-    <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
-    
-    <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
-    
-    <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
-    
-    <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
-    
-    <PawnCombat.label>Combat</PawnCombat.label>
-    
-    <PawnSocial.label>Social</PawnSocial.label>
-    
-    <PawnMisc.label>Misc</PawnMisc.label>
-    
-    <PawnWork.label>Work</PawnWork.label>
-    
+  
+  <!-- EN: Ability -->
+  <Ability.label>TODO</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>TODO</AnimalProductivity.label>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>klesplagg</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Basics</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>TODO</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Basics</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Building</Building.label>
+  
+  <!-- EN: effects -->
+  <CapacityEffects.label>TODO</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>TODO</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>TODO</DrugAddiction.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>TODO</Genetics.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>TODO</Implant.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>TODO</Meditation.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>Combat</PawnCombat.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Misc</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Social</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>Work</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>TODO</Source.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>TODO</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>TODO</Terrain.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Weapon</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>TODO</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>TODO</Weapon_Ranged.label>
+  
 </LanguageData>

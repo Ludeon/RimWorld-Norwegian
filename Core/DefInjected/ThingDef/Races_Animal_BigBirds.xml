@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>cassowary</Cassowary.label>
+  <Cassowary.label>kasuar</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers.</Cassowary.description>
+  <Cassowary.description>Kasuarer er strutselignende, flygeløse fugler. På innertåen har fuglene utviklet ei dolkelignende klo, som de bruker til å forsvare seg mot jegere og temmere.</Cassowary.description>
   <!-- EN: bird meat -->
-  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <Cassowary.race.meatLabel>fuglekjøtt</Cassowary.race.meatLabel>
   <!-- EN: claws -->
-  <Cassowary.tools.claws.label>claws</Cassowary.tools.claws.label>
+  <Cassowary.tools.claws.label>klør</Cassowary.tools.claws.label>
   <!-- EN: beak -->
-  <Cassowary.tools.beak.label>beak</Cassowary.tools.beak.label>
+  <Cassowary.tools.beak.label>nebb</Cassowary.tools.beak.label>
   <!-- EN: head -->
-  <Cassowary.tools.head.label>head</Cassowary.tools.head.label>
+  <Cassowary.tools.head.label>hode</Cassowary.tools.head.label>
   
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
-  <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge.</Emu.description>
+  <Emu.description>Emuen er en kjempestor flygeudyktig strutsefugl (Struthioniformes), opprinnelig funnet på Jordkontinentet Australia og eneste nålevende art i slekten Dromaius.</Emu.description>
   <!-- EN: claws -->
-  <Emu.tools.claws.label>claws</Emu.tools.claws.label>
+  <Emu.tools.claws.label>klør</Emu.tools.claws.label>
   <!-- EN: beak -->
-  <Emu.tools.beak.label>beak</Emu.tools.beak.label>
+  <Emu.tools.beak.label>nebb</Emu.tools.beak.label>
   <!-- EN: head -->
-  <Emu.tools.head.label>head</Emu.tools.head.label>
+  <Emu.tools.head.label>hode</Emu.tools.head.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>ostrich</Ostrich.label>
+  <Ostrich.label>struts</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered.</Ostrich.description>
+  <Ostrich.description>Strutsen er verdens største ikke-genmanipulerte fugl. Den har lite hode, lang hals og en stor kropp med lange kraftige ekstremiteter tilpasset løping. Toppfarten er omkring 74 km/t.</Ostrich.description>
   <!-- EN: claws -->
-  <Ostrich.tools.claws.label>claws</Ostrich.tools.claws.label>
+  <Ostrich.tools.claws.label>klør</Ostrich.tools.claws.label>
   <!-- EN: beak -->
-  <Ostrich.tools.beak.label>beak</Ostrich.tools.beak.label>
+  <Ostrich.tools.beak.label>nebb</Ostrich.tools.beak.label>
   <!-- EN: head -->
-  <Ostrich.tools.head.label>head</Ostrich.tools.head.label>
+  <Ostrich.tools.head.label>hode</Ostrich.tools.head.label>
   
 </LanguageData>

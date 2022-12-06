@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>Fagkyndig arbeid</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>Vold</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>TODO</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>Omsorg</WorkTagCaring>
   <!-- EN: social -->
@@ -33,6 +35,14 @@
   <WorkTagPlantWork>Grøntarbeid</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>Graving</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
 
   <!-- UNUSED -->
   <WorkTagScary>Skummelt</WorkTagScary>

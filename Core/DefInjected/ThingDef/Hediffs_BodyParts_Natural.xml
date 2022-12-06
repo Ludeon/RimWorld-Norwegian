@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>heart</Heart.label>
+  <Heart.label>hjerte</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>A biological human heart. Pumps blood around the body.</Heart.description>
+  <Heart.description>Pumper blod og oksygen rundt i alle kroppsdeler. Klar til å finne en ny eier.</Heart.description>
   
   <!-- EN: kidney -->
-  <Kidney.label>kidney</Kidney.label>
+  <Kidney.label>nyre</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>A biological human kidney. Filters and removes waste products from the blood.</Kidney.description>
+  <Kidney.description>Filtrerer og fjerner avfallsprodukter fr blodet.</Kidney.description>
   
   <!-- EN: liver -->
-  <Liver.label>liver</Liver.label>
+  <Liver.label>lever</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>A biological human liver. Plays an important role in metabolism.</Liver.description>
+  <Liver.description>Spiller en viktig rolle i stoffskiftet.</Liver.description>
   
   <!-- EN: lung -->
-  <Lung.label>lung</Lung.label>
+  <Lung.label>lunge</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>A biological human lung. A pair of these form the core of the human respiratory system.</Lung.description>
+  <Lung.description>Essentiel del av luftveissystemet.</Lung.description>
   
 </LanguageData>

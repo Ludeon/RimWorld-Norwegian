@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: manhunter pack -->
   <Manhunters.label>manhunter pack</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
   <Manhunters.description>A pack of manhunting animals.</Manhunters.description>
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
   <Manhunters.arrivedLetter>There are manhunting animals in this area.</Manhunters.arrivedLetter>
+  
+  <!-- UNUSED -->
   <Manhunters.arrivedLetterLabel>Manhunters</Manhunters.arrivedLetterLabel>
   <Manhunters.descriptionDialogue>there is a group of {0} manhunting {1} wandering nearby</Manhunters.descriptionDialogue>
-
-
+  
 </LanguageData>

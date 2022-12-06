@@ -5,7 +5,7 @@
   <Frenzy_Go.label>vandreglad</Frenzy_Go.label>
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Inspirert: Vandreglad</Frenzy_Go.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
   <Frenzy_Go.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil gå 1.5 ganger raskere de neste to (2) dagene.</Frenzy_Go.beginLetter>
   <Frenzy_Go.beginLetterLabel>Inspirasjon: Vandreglad</Frenzy_Go.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
@@ -15,7 +15,7 @@
   <Frenzy_Shoot.label>skytegalskap</Frenzy_Shoot.label>
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>Inspirert: Skytegalskap</Frenzy_Shoot.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
   <Frenzy_Shoot.beginLetter>{0} har blitt inspirert. [PAWN_possessive] treffsikkerhet vil være økt de neste tre (3) dagene.</Frenzy_Shoot.beginLetter>
   <Frenzy_Shoot.beginLetterLabel>Inspirasjon: Skytegalskap</Frenzy_Shoot.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
@@ -25,7 +25,7 @@
   <Frenzy_Work.label>arbeidsom</Frenzy_Work.label>
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>Inspirert: Arbeidsom</Frenzy_Work.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
   <Frenzy_Work.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil arbeide 2.5 ganger raskere de neste 24 timene.</Frenzy_Work.beginLetter>
   <Frenzy_Work.beginLetterLabel>Inspirasjon: Arbeidsom</Frenzy_Work.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
@@ -35,7 +35,7 @@
   <Inspired_Creativity.label>blaff av kreativitet</Inspired_Creativity.label>
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>Inspirert: Blaff av kreativitet</Inspired_Creativity.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
   <Inspired_Creativity.beginLetter>{0} har blitt inspirert. Den neste tingen, møbelet eller kunstverket [PAWN_nameDef] lager vil være to (2) kvalitetsnivåer høyere enn det ellers skulle.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når tingen, møbelet eller kunstverket er ferdig.</Inspired_Creativity.beginLetter>
   <Inspired_Creativity.beginLetterLabel>Inspirasjon: Kreativitet</Inspired_Creativity.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
@@ -45,7 +45,7 @@
   <Inspired_Recruitment.label>inspirert til å rekruttere</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Inspirert: Rekruttering</Inspired_Recruitment.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
   <Inspired_Recruitment.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil rekruttere en fange på neste forsøk uansett vanskelighetsgrad.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når en fange er rekruttert.</Inspired_Recruitment.beginLetter>
   <Inspired_Recruitment.beginLetterLabel>Inspirasjon: Rekruttering</Inspired_Recruitment.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
@@ -55,17 +55,26 @@
   <Inspired_Surgery.label>inspirert til å operere</Inspired_Surgery.label>
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Inspirert: Operasjon</Inspired_Surgery.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
   <Inspired_Surgery.beginLetter>{0} har blitt inspirert. Sjansen for å mislykkes på neste operasjon [PAWN_pronoun] gjennomfører har sunket til en tidel (1/10).\n\nInspirasjonen vil avslutte om åtte (8) dager eller når en operasjon er utført.</Inspired_Surgery.beginLetter>
   <Inspired_Surgery.beginLetterLabel>Inspirasjon: Operasjon</Inspired_Surgery.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} er ikke lenger inspirert (til å operere).</Inspired_Surgery.endMessage>
   
+  <!-- EN: inspired taming -->
+  <Inspired_Taming.label>TODO</Inspired_Taming.label>
+  <!-- EN: Inspired: Inspired taming -->
+  <Inspired_Taming.baseInspectLine>TODO</Inspired_Taming.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
+  <Inspired_Taming.beginLetter>TODO</Inspired_Taming.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired taming). -->
+  <Inspired_Taming.endMessage>TODO</Inspired_Taming.endMessage>
+  
   <!-- EN: inspired trade -->
   <Inspired_Trade.label>inspirert til å handle</Inspired_Trade.label>
   <!-- EN: Inspired: Inspired trade -->
   <Inspired_Trade.baseInspectLine>Inspirert: Handel</Inspired_Trade.baseInspectLine>
-  <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
   <Inspired_Trade.beginLetter>{0} har blitt inspirert. [PAWN_pronoun] vil sikre bedre priser i [PAWN_possessive] neste handel.\n\nInspirasjonen vil avslutte om åtte (8) dager eller når neste handel er ferdig.</Inspired_Trade.beginLetter>
   <Inspired_Trade.beginLetterLabel>Inspirasjon: Handel</Inspired_Trade.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired trade). -->

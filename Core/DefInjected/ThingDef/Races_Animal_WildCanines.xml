@@ -16,7 +16,7 @@
   <Fox_Fennec.label>ørkenrev</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
   <Fox_Fennec.description>En liten rev, opprinnelig fra norddelen av Jordas Afrikakontinent. Den lever av småvilt og har svært store ører.</Fox_Fennec.description>
-  <!-- EN: foxmeat -->
+  <!-- EN: fox meat -->
   <Fox_Fennec.race.meatLabel>TODO</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
   <Fox_Fennec.tools.left_claw.label>TODO</Fox_Fennec.tools.left_claw.label>
@@ -36,19 +36,6 @@
   <!-- EN: head -->
   <Fox_Red.tools.head.label>TODO</Fox_Red.tools.head.label>
   
-  <!-- EN: warg -->
-  <Warg.label>varg</Warg.label>
-  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>Muskuløse, ulvelignende skapninger. Vitenskapsmenn sier varger er etterkommere av militære forsøksdyr lagd for å kontrollere folkeopprør. De overtroiske ser på dem som verktøy for en sint gud. De spiser kun kadavere og kjøtt.</Warg.description>
-  <!-- EN: left claw -->
-  <Warg.tools.left_claw.label>TODO</Warg.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Warg.tools.right_claw.label>TODO</Warg.tools.right_claw.label>
-  <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>TODO</Warg.tools.razorfangs.label>
-  <!-- EN: head -->
-  <Warg.tools.head.label>TODO</Warg.tools.head.label>
-  
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>polarulv</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
@@ -64,7 +51,7 @@
   <Wolf_Timber.label>ulv</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
   <Wolf_Timber.description>En tøff kjøtteter, lenge fryktet av mange av de gamle Jordkulturene. Siden de jakter i flokk, har ulver et komplekst sosialt liv og er svært intelligente.</Wolf_Timber.description>
-  <!-- EN: wolfmeat -->
+  <!-- EN: wolf meat -->
   <Wolf_Timber.race.meatLabel>TODO</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
   <Wolf_Timber.tools.left_claw.label>TODO</Wolf_Timber.tools.left_claw.label>

@@ -4,7 +4,7 @@
   <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>handler har gått inn i bane</OrbitalTraderArrival.label>
   
-  <!-- EN: enemy raid (special locations) -->
+  <!-- UNUSED -->
   <RaidEnemyBeacon.label>fiendtlig angrep (special locations)</RaidEnemyBeacon.label>
   
   <!-- EN: friendly raid -->

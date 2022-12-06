@@ -21,6 +21,11 @@
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Avinstaller dette så det  kan flyttes, selges, eller installeres et annet sted.</DesignatorUninstallDesc>
 
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
+
   <!-- EN: Harvest -->
   <DesignatorHarvest>Høst inn</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
@@ -97,13 +102,13 @@
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Kolonistene vil ikke bygge nye tak i dette området.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <!-- EN: Expand snow clear area -->
+  <!-- EN: Snow removal area -->
   <DesignatorAreaSnowClearExpand>Utvid måkeområde</DesignatorAreaSnowClearExpand>
-  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>Marker et område som vil måkes når det trengs.</DesignatorAreaSnowClearExpandDesc>
-  <!-- EN: Clear snow clear Area -->
+  <!-- EN: Clear snow removal area -->
   <DesignatorAreaSnowClearClear>Fjern måkeområde</DesignatorAreaSnowClearClear>
-  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Fjerner steder fra måkeområde. Kolonister vil ikke lenger måke i det valgte området.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
@@ -116,6 +121,8 @@
   <DesignatorClearAreaAllowedDesc>Fjern steder fra tilgangsområdet.\n\nTilgangsområder er steder du tildeler kolonister. De vil ikke gå utenfor sitt tilgangsområde.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Områdemeny...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Angir et lagringsområde hvor kolonistene vil prøve å gro en bestemt type plante.</DesignatorGrowingZoneDesc>
@@ -171,6 +178,55 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Tem et vilt dyr.</DesignatorTameDesc>
 
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>TODO</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>TODO</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>TODO</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>TODO</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>TODO</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>TODO</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>TODO</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>TODO</Paint>
+  <!-- EN: Color -->
+  <Color>TODO</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>TODO</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>TODO</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>TODO</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>TODO</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>TODO</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>TODO</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>TODO</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>TODO</GrabbedColor>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Mangler materiale</UnchosenStuff>
@@ -196,10 +252,12 @@
   <IdenticalThingExists>Identisk objekt eksisterer allerede her.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>Identisk plan eksisterer allerede her.</IdenticalBlueprintExists>
-  <!-- EN: The terrain here cannot support this. -->
+  <!-- EN: {0_label} cannot be built on this terrain. -->
   <TerrainCannotSupport>Terrenget her kan ikke støtte dette.</TerrainCannotSupport>
-  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Plass allerede i bruk.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -208,6 +266,20 @@
   <TerrainMustBeRemovable>Du må velge gulv som kan fjernes.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Vannmøllen skal stå på vann i bevegelse.</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>TODO</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -221,11 +293,17 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Konstruksjon behøves</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>Ingen av dine {0} har denne ferdigheten.</NoColonistWithConstructionSkillTip>
+  <NoColonistWithSkillTip>TODO</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle dine {0} som har denne ferdigheten er ikke tildelt {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
 
   <!-- UNUSED -->
+  <NoColonistWithConstructionSkillTip>Ingen av dine {0} har denne ferdigheten.</NoColonistWithConstructionSkillTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle dine {0} som har denne ferdigheten er ikke tildelt {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
   <DesignatorSmoothFloor>Utjevn gulv</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Uthev grovt steinterreng som skal jevnes ut.</DesignatorSmoothFloorDesc>
   <DesignatorRearmTrap>Sett opp felle</DesignatorRearmTrap>

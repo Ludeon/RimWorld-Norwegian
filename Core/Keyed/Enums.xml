@@ -140,21 +140,23 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Lagrer endringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <!-- EN: local folder -->
-  <ContentSource_LocalFolder>lokal katalog</ContentSource_LocalFolder>
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>TODO</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
-  <!-- EN: No medical care -->
+  <!-- EN: no medical care -->
   <MedicalCareCategory_NoCare>Intet medisinsk tilsyn</MedicalCareCategory_NoCare>
-  <!-- EN: Doctor care, but no medicine -->
+  <!-- EN: doctor care, but no medicine -->
   <MedicalCareCategory_NoMeds>Legetilsyn, men ingen medisin</MedicalCareCategory_NoMeds>
-  <!-- EN: Herbal medicine or worse -->
+  <!-- EN: herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>Urtemedisin eller verre</MedicalCareCategory_HerbalOrWorse>
-  <!-- EN: Industrial-tech medicine or worse -->
+  <!-- EN: industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>Normal medisin eller verre</MedicalCareCategory_NormalOrWorse>
-  <!-- EN: Best quality medicine -->
+  <!-- EN: best quality medicine -->
   <MedicalCareCategory_Best>Beste mulige medisinske tilsyn</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
@@ -202,6 +204,10 @@
   <PawnGenerationContext_PlayerStarter>spiller-startende karakterer</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>ikke-spiller-startende karakterer</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>TODO</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -211,6 +217,24 @@
   <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>Tamme (alle)</AnimalNameDisplayMode_TameAll>
   
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>TODO</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>TODO</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>TODO</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>TODO</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>TODO</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>TODO</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>TODO</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
   <Celsius>Celsius</Celsius>
@@ -286,11 +310,51 @@
   <PsychicDroneLevel_BadHigh>høy</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>ekstrem</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
 
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>TODO</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>TODO</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>TODO</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>TODO</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>TODO</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>TODO</DrugCategory_Any>
+  
   <!-- UNUSED -->
+  <ContentSource_LocalFolder>lokal katalog</ContentSource_LocalFolder>
   <Unspecified>Ubestemt</Unspecified>
   <Always>Tillatt</Always>
-  <Never>Ikke tillat</Never>
   <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
   <QualityCategory_Superior>overlegen</QualityCategory_Superior>
   <QualityCategoryShort_Shoddy>rufs</QualityCategoryShort_Shoddy>

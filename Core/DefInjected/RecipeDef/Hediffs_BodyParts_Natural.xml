@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install heart -->
-  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
+  <InstallNaturalHeart.label>installer hjerte</InstallNaturalHeart.label>
   <!-- EN: Install a biological heart. -->
-  <InstallNaturalHeart.description>Install a biological heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.description>Installerer hjerte.</InstallNaturalHeart.description>
   <!-- EN: Installing heart. -->
-  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.jobString>Installerer hjerte.</InstallNaturalHeart.jobString>
   
   <!-- EN: install kidney -->
-  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
+  <InstallNaturalKidney.label>installer nyre</InstallNaturalKidney.label>
   <!-- EN: Install a biological kidney. -->
-  <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.description>Installerer nyre.</InstallNaturalKidney.description>
   <!-- EN: Installing kidney. -->
-  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.jobString>Installerer nyre.</InstallNaturalKidney.jobString>
   
   <!-- EN: install liver -->
-  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
+  <InstallNaturalLiver.label>installer lever</InstallNaturalLiver.label>
   <!-- EN: Install a biological liver. -->
-  <InstallNaturalLiver.description>Install a biological liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.description>Installerer lever.</InstallNaturalLiver.description>
   <!-- EN: Installing liver. -->
-  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.jobString>Installerer lever.</InstallNaturalLiver.jobString>
   
   <!-- EN: install lung -->
-  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
+  <InstallNaturalLung.label>installer lunge</InstallNaturalLung.label>
   <!-- EN: Install a lung. -->
-  <InstallNaturalLung.description>Install a lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.description>Installerer lunge.</InstallNaturalLung.description>
   <!-- EN: Installing lung. -->
-  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <InstallNaturalLung.jobString>Installerer lunge.</InstallNaturalLung.jobString>
   
 </LanguageData>

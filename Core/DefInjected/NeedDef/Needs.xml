@@ -11,10 +11,20 @@
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
   <Comfort.description>Komfort øker når man sitter på eller ligger i komfortable møbler. Man kan få det ved å sove i en seng, sitter i en stol mens man jobber, eller ved andre anledninger. God kvalitet øker et møbels komfort.</Comfort.description>
   
+  <!-- EN: chemical -->
+  <DrugDesire.label>TODO</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>TODO</DrugDesire.description>
+  
   <!-- EN: food -->
   <Food.label>mat</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
   <Food.description>Mat er mengden næring en skapning har inntatt i det siste. Hvis denne måleren er på null, vil skapningen utvikle underernæring, som er dødelig.</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>TODO</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>TODO</Indoors.description>
   
   <!-- EN: recreation -->
   <Joy.label>moro</Joy.label>
@@ -23,7 +33,7 @@
   
   <!-- EN: mood -->
   <Mood.label>humør</Mood.label>
-  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
   <Mood.description>Humør viser hvor glad eller stresset en person er. Blir humøret for lavt, kan personen få et sammenbrudd. Avhengig av hvor lavt humøret er når sammenbruddet inntreffer, kan personen gjemme seg på rommet sitt eller prøve å myrde noen.</Mood.description>
   
   <!-- EN: outdoors -->
@@ -31,9 +41,9 @@
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>Frisk luft er hvor mye en karakter har fått være ute i det siste. Den minker når man er inne, spesielt under bakken. Den øker når man er under åpen himmel, spesielt utendørs. Dette handler ikke om størrelsen på rommet man er i, men behovet for å være ute. Mangel på utetid er et stort problem for dem som tilbringer mye tid inne i trange grotter.</Outdoors.description>
   
-  <!-- EN: rest -->
+  <!-- EN: sleep -->
   <Rest.label>hvile</Rest.label>
-  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
   <Rest.description>Hvile er hvor mye søvn en skapning har fått i det siste. Hvis den er null, kan skapningen falle i søvn når som helst.</Rest.description>
   
   <!-- EN: room size -->

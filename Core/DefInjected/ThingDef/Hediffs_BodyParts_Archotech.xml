@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.label>urarm</ArchotechArm.label>
   <!-- EN: An artificial arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechArm.description>An artificial arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechArm.description>
+  <ArchotechArm.description>En arm laget av en urkomputer. Sterk nok til å knuse en eikeplanke i grepet, nøyaktig nok til å skrive en ballade på et riskorn. Den ser ut som den er av skinn og bein, men den tåler mer enn plastål, og kan helbrede sine egne skader. Menneskehjerner kan ikke fatte kompleksiteten dens.</ArchotechArm.description>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.label>urøye</ArchotechEye.label>
   <!-- EN: An artificial eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
-  <ArchotechEye.description>An artificial eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds.</ArchotechEye.description>
+  <ArchotechEye.description>Et øye laget av en urkomputer. Det kan oppfatte alle former for elektromagnetisk stråling: radiobølger, infrarødt, røntgen, gammastråler, etc. Skarpheten lar eieren lese håndskrift på 20 meters avstand. Det kan sende ut lys som en lommelykt, og har dataprogrammer som uthever viktige ting i synsfeltet. Utenom at det kan endre øyefarge på kommando, ser det ut som et vanlig øye. Menneskehjerner kan ikke fatte kompleksiteten dens.</ArchotechEye.description>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.label>urben</ArchotechLeg.label>
   <!-- EN: An artificial leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechLeg.description>An artificial leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechLeg.description>
+  <ArchotechLeg.description>Et ben laget av en urkomputer. Det er tilsynelatende likt et menneskeben, men med to slike kan eieren holde følge med en bil. Stoffet det er laget av er sterkere enn plastål, og kan helbrede sine egne skader. Menneskehjerner kan ikke fatte kompleksiteten dens.</ArchotechLeg.description>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: excise carcinoma -->
   <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>Excise a carcinoma.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
   <!-- EN: Excising carcinoma. -->
   <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
   <!-- EN: {0} has successfully excised {1}'s carcinoma. -->

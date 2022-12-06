@@ -5,10 +5,30 @@
   <Confirm>Bekreft</Confirm>
   <!-- EN: Go back -->
   <GoBack>Gå tilbake</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>TODO</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Lukk</Close>
+  <!-- EN: Accept -->
+  <Accept>TODO</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>TODO</Cancel>
+  <!-- EN: Reset -->
+  <Reset>Nullstille</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>TODO</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Modify -->
+  <Modify>TODO</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>TODO</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>TODO</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>TODO</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -19,8 +39,10 @@
   <GameUpdatedToNewVersionSavesCompatible>Lagrede spill fra den gamle versjonen bør være kompatibel, men noen modifikasjoner kan slutte å virke.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Siden dette er en frittstående kopi av spillet, kan du installere spillet i flere separate kataloger, for å ha muligheten til å spille både gammel og ny versjon.</GameUpdatedToNewVersionNonSteam>
-  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>Hvis du vil fortsette å spille den gamle versjonen må du melde deg på Steam sin beta-funksjon.\n\n  1. I Steam-biblioteket høyreklikker du på RimWorld.\n  2. Gå inn på Egenskaper.\n  3. Gå inn på "Betaer"-fliken.\n  4. Velg den versjonen du vil bruke fra nedtrekksmenyen.\n\nGamle versjoner vil etter hvert bli fjernet, men vi vil ikke at du skal gå glipp av å fullføre spillet.\n\nMerk at hvis eieren av en modifikasjon skifter fokus til en ny versjon av spillet, vil de slutte å støtte gamle versjoner. For å forhindre dette kan du skru av automatiske opppdateringer.</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>TODO</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -117,6 +139,14 @@
   <ChangeLoadedMods>Last inn liste over modifikasjoner fra lagret spill</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Noen modifikasjoner er utilgjengelige og må installeres</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>TODO</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>TODO</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>TODO</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -149,10 +179,28 @@
   <ZoneGainsName>Området er nå kalt {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>TODO</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Kolonistens kallenavn er nå {0}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Dyret heter nå {0}</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>TODO</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>TODO</Mother>
+  <!-- EN: father -->
+  <Father>TODO</Father>
+  <!-- EN: unknown -->
+  <Unknown>TODO</Unknown>
+  <!-- EN: first name -->
+  <FirstName>TODO</FirstName>
+  <!-- EN: nickname -->
+  <NickName>TODO</NickName>
+  <!-- EN: last name -->
+  <LastName>TODO</LastName>
+  <!-- EN: suggested -->
+  <Suggested>TODO</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -165,8 +213,12 @@
   <FileIncompatibleWarning>Denne filen ble lagret med versjon {0} av spillet\nDu kjører versjon {1}\n\nHvis du laster inn denne filen vil det forekomme feil.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Modifikasjoner samsvarer ikke</ModsMismatchWarningTitle>
-  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>Denne filen ble lagret med et annet sett av aktive modifikasjoner enn det du kjører nå. Det er mulig at dette kan forårsake problemer, avhengig av akkurat hva disse modifikasjonene gjør.\n\nFilen ble lagret (i denne rekkefølgen):\n\n{0}\n\nDu kjører med (i denne rekkefølgen):\n\n{1}</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -180,28 +232,18 @@
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Vil du virkelig deaktivere utviklingsmodus på denne datamaskinen permanent?\n\nDette alternativet er for folk som ønsker en ren lekeopplevelse uten fristelsen til å bruke utviklingsverktøy for å få fordeler i normal spilling.\n\nUtviklingsmodus kan re-aktivert, men å gjøre det krever manuell redigering av konfigurasjonsfiler. Du må søke på Internett for å finne ut hvordan.</ConfirmPermanentlyDisableDevMode>
 
-  <!-- Research -->
-  <!-- EN: Research -->
-  <Research>Forskning</Research>
-  <!-- EN: Researched -->
-  <Researched>Ferdig utforsket</Researched>
-  <!-- EN: Unresearched -->
-  <Unresearched>Ikke utforsket</Unresearched>
-  <!-- EN: Finished -->
-  <Finished>Ferdig</Finished>
-  <!-- EN: In Progress -->
-  <InProgress>Pågår</InProgress>
-  <!-- EN: Locked -->
-  <Locked>Låst</Locked>
-  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>Fram til du bygger en FORSKNINGSBENK, så vil kolonistene dine ikke gjøre noen faktisk forskning.\n\nLikevel kan du fortsatt se på og velge forsknings prosjekter nå.</ResearchMenuWithoutBench>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Forutsetninger for forskning</ResearchPrerequisites>
-  <!-- EN: Required research bench -->
-  <RequiredResearchBench>Krever en forskningsbenk</RequiredResearchBench>
-  <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>Krever forskningsbenk-anlegg</RequiredResearchBenchFacilities>
-  
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>ADVARSEL: Du vil lande i et frossent miljø. Det kan være vanskelig eller nesten umulig å overlever her. Hvis du ikke er ute etter en ekstrem utfordring så bør du kanskje velge et annet landingssted eller tid på året.</MapTemperatureDangerWarning>
@@ -262,10 +304,10 @@
   <WorkAmount>Mengde arbeid</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Absolutt minimum ferdigheter:</MinimumSkills>
-  <!-- EN: Requires {0} {1} -->
+  <!-- EN: Requires -->
   <BillRequires>Krever {0} {1}</BillRequires>
-  <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Krever {0} næring</BillRequiresNutrition>
+  <!-- EN: nutrition -->
+  <BillNutrition>TODO</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Merk: små-volum-ingredienser som gull krever {0}x så mye.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -302,6 +344,18 @@
   <ArmorPenetration>Rustningpetetrasjon</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>Rustningpetetrasjon er mengden rustningpoeng dette våpenet vil ignorere hver gang det treffer målet.\n\nHvis Rustningpenetrasjonen er større enn målets rustning, er det som om målet ikke har noen rustning.</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>TODO</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>TODO</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Nøyaktighet</Accuracy>
   <!-- EN: Burst shot count -->
@@ -310,15 +364,25 @@
   <WarmupTime>Oppvarmingstid</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Oppvarmingstid for slag</MeleeWarmupTime>
+  <!-- EN: Aiming time -->
+  <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Ventetid</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>TODO</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>TODO</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>TODO</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>TODO</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Skuddfrekvens</BurstShotFireRate>
   <!-- EN: Range -->
   <Range>Avstand</Range>
   <!-- EN: Stopping power -->
   <StoppingPower>Stoppekraft</StoppingPower>
-  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>Treff fra dette våpenet vil bremse målets bevegelse i noen sekunder. Mål med en kroppsstørrelse større enn stoppkraften vil være upåvirket.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Direkte treff sjanse</DirectHitChance>
@@ -338,7 +402,7 @@
   <MinGrowthTemperature>Min veksttemperatur</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Maks veksttemperatur</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
   <GrowingTimeDesc>Planter vokser bare deler av dagen, og når det er lyst ute. Denne verdien måler hvor mye tid planten trenger for å bli fullvokst. Den faktiske dyrketiden vil som oftest være dobbelt så lang. Lav temperatur øker også dyrketiden.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>dager</Days>
@@ -366,21 +430,27 @@
   <MinFoodQuality>Minimum matkvalitet</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>Kosthold</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Lær type</LeatherType>
   <!-- EN: Body size -->
   <BodySize>Kroppsstørrelse</BodySize>
+  <!-- EN: Growth -->
+  <Growth>TODO</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Vanskelighetsnivå rekruttering</RecruitDifficulty>
   <!-- EN: Base price -->
   <MarketValue>Markedsverdi</MarketValue>
   <!-- EN: Covers -->
   <Covers>Dekker</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Lag</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Effektivitet ved dekning</CoverEffectiveness>
-  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
   <CoverEffectivenessExplanation>Hvor effektivt dette er når det er brukt som dekning i en skuddveksling. Høyere verdi blokkerer flere skudd.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Erfaringsgevinst-faktor</MedicineXpGainFactor>
@@ -392,18 +462,60 @@
   <WildnessExplanation>Villere skapninger er naturligvis vanskeligere å temme, trene og håndtere.</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>Treningsforfallsintervall</TrainingDecayInterval>
-  <!-- EN: Tameness will never decay. -->
+  <!-- EN: Tameness will never decay for animals of very low wildness. -->
   <TamenessWillNotDecay>Tamhet vil aldri forfalle.</TamenessWillNotDecay>
-  <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Dyrets skittenhet</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
+  <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
+  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Tid</TimeRecordsCategory>
   <!-- EN: Misc -->
   <MiscRecordsCategory>Diverse</MiscRecordsCategory>
-  <!-- EN: Addictiveness -->
+  <!-- EN: Chemical -->
+  <Chemical>TODO</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>TODO</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>TODO</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>TODO</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>TODO</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>TODO</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval for adults -->
+  <SafeDoseInterval>TODO</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>TODO</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>TODO</AgePlus>
+  <!-- EN: New addiction chance -->
   <Addictiveness>Avhengighet</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>TODO</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>TODO</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>TODO</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>TODO</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>TODO</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>TODO</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>TODO</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>TODO</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>TODO</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>TODO</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>TODO</PerDay>
+  <!-- EN: {0} / hour -->
+  <PerHour>TODO</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Pakkdyr</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -412,21 +524,23 @@
   <Skill>Ferdighet</Skill>
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Verdiendrinsnivå som justerer sjansen for at operasjonen er vellykket</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Arbeidshastighet er styrt av</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Produsert mengde er styrt av</EfficiencyStat>
-  <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>Påkrevd ferdighetsnivå for konstruksjon</ConstructionSkillRequired>
-  <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>Krever dette ferdighetsnivået for Konstruksjon for å bygge.</ConstructionSkillRequiredExplanation>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>TODO</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>TODO</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Nuzzle intervall</NuzzleInterval>
-  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>Hvor ofte et dyr i gjennomsnitt vil nuzzle vennlige kolonister.\n\nNusing er en adferd som deles av mange dyrearter, der dyret presser nesen eller snuten mot en venn som et tegn på hengivenhet. De fleste mennesker synes dette er søtt, og det vil etterlate dem i godt humør for en periode.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Revansjesjanse når skadet</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
   <HarmedRevengeChanceExplanation>Sjansen for at denne skapningen søker hevn etter å ha blitt skadet av en angriper på riflebane.\n\nDenne sjansen øker hvis angriperen er nærmere. Ved angrep på veldig nært hold er sjansen tre ganger større.\n\nDenne sjansen brukes hver gang skade blir tatt, så våpen med langsommere avfyring og høyere skade er mindre sannsynlig å utløse den.\n\nFor å minimere sjansen for at en skapning søker hevn, angrip den fra riflebane med et saktefyring våpen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Revansjesjanse når tamt forsøk mislykkes</TameFailedRevengeChance>
@@ -438,15 +552,57 @@
   <TrapArmorPenetration>Felle rustningpetetrasjon</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>Kostnad for å bevæpne på nytt.</RearmCost>
-  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>Ressurskostnad for å bevæpne dette tårnet på nytt.</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Skudd før rearmering</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
   <ShotsBeforeRearmExplanation>Hvor mange skudd kan dette tårnet avfyre før det må opprustes.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>Strømforbruk</PowerConsumption>
-
+  <!-- EN: Target -->
+  <Target>TODO</Target>
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <!-- EN: human -->
+  <TargetHuman>TODO</TargetHuman>
+  <!-- EN: animal -->
+  <TargetAnimal>TODO</TargetAnimal>
+  <!-- EN: self -->
+  <TargetSelf>TODO</TargetSelf>
+  <!-- EN: ground -->
+  <TargetGround>TODO</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <!-- EN: meditation focus types -->
+  <MeditationFocuses>TODO</MeditationFocuses>
+  <!-- EN: Unlocks meditation focus types -->
+  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
+  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <!-- EN: Can use {0} focus type because -->
+  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>TODO</MeditationFocusObjects>
+  <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
+  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <!-- EN: has childhood -->
+  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <!-- EN: has adulthood -->
+  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <!-- EN: has trait -->
+  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <!-- EN: does not have trait -->
+  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <!-- EN: Enables meditation focus types -->
+  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Positive tall betyr at du kjøper.\nNegative tall betyr at du selger.</PositiveBuysNegativeSells>
@@ -462,6 +618,8 @@
   <TraderCount>Antall av denne tingen som handelsmannen er villig til å kjøpslå med.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Aksepter</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>TODO</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Nullstill</ResetButton>
   <!-- EN: Cancel -->
@@ -480,6 +638,8 @@
   <TraderWillNotTrade>Handelsmannen vil ikke bytte dette med deg.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Forhandler</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Din forhandler, {0}, kan ikke snakke ordentlig på grunn av dårlig helse.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -506,6 +666,16 @@
   <YourNegotiatorBonus>Din forhandlers bonus</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Bonus ved handel med gruppe-base</TradeWithFactionBaseBonus>
+  <!-- EN: Joins as slave -->
+  <JoinsAsSlave>TODO</JoinsAsSlave>
+  <!-- EN: Joins as colonist -->
+  <JoinsAsColonist>TODO</JoinsAsColonist>
+  <!-- EN: If purchased, this person will join your colony as a slave. -->
+  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <!-- EN: If purchased, this person will join your colony as a colonist. -->
+  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <!-- EN: Trading drugs bonus -->
+  <TradingDrugsBonus>TODO</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>minimum</minimum>
   <!-- EN: Final price -->
@@ -514,22 +684,34 @@
   <GiftModeTip>Gavemodus – tilby gaver til {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Tilbake til handelsmodus</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Denne selgeren vil kjøpe:</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Skapninger</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Opprett karavane</FormCaravan>
+  <!-- EN: Send -->
+  <Send>TODO</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Antall av denne tingen som kolonien har klar til å gi til karavanen.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>Mennesker og dyr</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>Ting</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <TravelSupplies>TODO</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Du må tildele minst én oppegående kolonist.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -538,8 +720,8 @@
   <CaravanCouldNotFindPackingSpot>Kan ikke finne en gyldig parkeringsplass. Pass på at den valgte utgangen ({0}) er tilgjengelig.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>ADVARSEL: Noen av de valgte kolonistene kan ikke nå utgangen ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
+  <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
+  <CaravanRoamerCannotReachSpots>TODO</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Ingen av de valgte kolonistene greier å nå {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -556,12 +738,14 @@
   <DaysWorthOfFoodInfoRot>{0} dager med mat, råtner om {1} dager</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Vil aldri gå tom for mat</InfiniteDaysWorthOfFoodInfo>
-  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Omtrentlig antall dager før karavanen går tom for mat.\n\nTatt i betraktning menneskemat og dyremat, og viser "worst case scenario". Det betyr at etter så mange dager vil minst en person eller et dyr gå tom for mat.</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Karavanen din har bare {0} dager med mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har gått tom for mat og de reisende vil bli sultne veldig fort.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -590,8 +774,12 @@
   <AnimalCanGrazeTip>Dette dyret kan beite mat fra miljøet i stedet for å spise båret mat. Beite er bare mulig i enkelte biomer og temperaturområder.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>Næring fôr per dag. Den faktiske mengden som fôres er også påvirket av biome fôrbarhet.\n\n{0}</NutritionForagedPerDayTip>
-  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>Ernæring spist per dag. Som referanse har enkle måltider {0} ernæring.\n\nKan spise: {2}\n\nLegende:\n{1}</NutritionEatenPerDayTip>
+  <!-- EN: Can eat -->
+  <CanEat>TODO</CanEat>
+  <!-- EN: Legend -->
+  <Legend>TODO</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Masse båret</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -618,13 +806,19 @@
   <AnimalsSection>Dyr</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>Velg rute</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>TODO</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Forlat</AbandonButton>
   <!-- EN: Movement speed -->
   <CaravanMovementSpeed>Bevegelsesfart</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
   <TilesPerDay>Fliser/dag</TilesPerDay>
-  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <!-- EN: None - too heavy -->
+  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
+  <!-- EN: None -->
+  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
+  <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>Bevegelseshastighet avhenger av gjennomsnittshastigheten til alle mennesker og dyr, båret masse og terrengbevegelsesvansker.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>Dyr vil kunne beite</AnimalsWillBeAbleToGraze>
@@ -648,6 +842,10 @@
   <FactionType>Gruppestype</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>Total kroppsstørrelse</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>TODO</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -657,19 +855,35 @@
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Antall av denne tingen som karavanen har tilgjengelig til å overføre til den nye karavanen.</SplitCaravanThingCountTip>
   
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Last {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>De valgte menneskene og elementene er for tunge for transport-pod'ene.</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Du kan ikke sende tomme tranport-pod'er.</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{0} kan ikke nå transport-pod'ene.</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Det finnes ingen sti mellom transport-pod'ene og  {0}.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Det finnes ingen sti mellom transort-pod'ene og {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -722,14 +936,6 @@
   <DrugPolicyInUse>Narkotikareglene er i bruk av {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Matrestriksjoner er i bruk av {0}.</FoodRestrictionInUse>
-  <!-- EN: Social drugs -->
-  <SocialDrugs>Sosial narkotika</SocialDrugs>
-  <!-- EN: No drugs -->
-  <NoDrugs>Ingen narkotika</NoDrugs>
-  <!-- EN: One drink per day -->
-  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
-  <!-- EN: Unrestricted -->
-  <Unrestricted>Ubegrenset</Unrestricted>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>Ingen narkotikaregler valgt</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
@@ -744,7 +950,7 @@
   <MoodThresholdColumnLabel>Kun hvis humøret er under</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Kun hvis gleden er under</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
+  <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>Flytt til inventaret</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(ingen narkotika)</NoDrugsBrackets>
@@ -780,6 +986,8 @@
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
   <FoodRestriction>Matrestriksjon</FoodRestriction>
+  <!-- EN: Food -->
+  <FoodRestrictionShort>TODO</FoodRestrictionShort>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Overdådig</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -802,6 +1010,8 @@
   <NoFoodRestrictionSelected>Ingen matrestriksjon valgt</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>Normalverdi</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -850,7 +1060,7 @@
   <ConfirmSendNotCompletelyLoadedPods>Gruppen med pod'er er ikke ferdig lastet. {0} mangler. Start likevel?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
   <ConfirmSettleNearFactionBase>Siden denne plasseringen er innenfor {0} fliser fra en annen fraksjonsbase, vil de føle at du gjør inngrep i deres land, og forholdet til disse fraksjonene vil forverres hver {1} dager.\n\nBosette seg her uansett?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
@@ -860,10 +1070,271 @@
   <ConfirmCleanupTranslationFiles_Confirm>Ja, jeg har en backup</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
 
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>TODO</CannotUseAbility>
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>TODO</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>TODO</AbilityOutOfRange>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
+  <!-- EN: Must target an empty area. -->
+  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <!-- EN: Must target a walkable area. -->
+  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <!-- EN: Must target an unroofed area. -->
+  <AbilityRoofed>TODO</AbilityRoofed>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not maddened. -->
+  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
+  <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
+  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <!-- EN: {0_labelShort} is downed. -->
+  <AbilityCantApplyDowned>TODO</AbilityCantApplyDowned>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
+  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
+  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <!-- EN: {0_labelShort} must be sick or injured. -->
+  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
+  <!-- EN: {0} can only counsel {1}s. -->
+  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <!-- EN: {0_labelShort} is already considered guilty. -->
+  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <!-- EN: Must target a human. -->
+  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <!-- EN: Must target a non-wild human. -->
+  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <!-- EN: Must target an animal. -->
+  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>TODO</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
+
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
+  <!-- EN: Current -->
+  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
+  <!-- EN: Max -->
+  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
+  <!-- EN: Total -->
+  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
+  <!-- EN: Other -->
+  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
+  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>TODO</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>TODO</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>TODO</AllowSlaughter>
+
+  <!-- EN: The animal to be automatically slaughtered. -->
+  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
+  <!-- EN: The current number of animals in the colony, both male and female. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>TODO</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>TODO</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of females of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>TODO</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>TODO</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+  <!-- EN: Click to set an animal count limit. -->
+  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>TODO</RoomRequirementNoBeds>
+  <!-- EN: room area: {0} tiles -->
+  <RoomRequirementArea>TODO</RoomRequirementArea>
+  <!-- EN: room impressiveness -->
+  <RoomRequirementImpressiveness>TODO</RoomRequirementImpressiveness>
+  <!-- EN: all floored -->
+  <RoomRequirementAllFloored>TODO</RoomRequirementAllFloored>
+  <!-- EN: all braziers must be lit -->
+  <RoomRequirementAllBraziersMustBeLit>TODO</RoomRequirementAllBraziersMustBeLit>
+  <!-- EN: all fine floored -->
+  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
+  <!-- EN: no altars allowed -->
+  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>TODO</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>TODO</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>TODO</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>TODO</ChooseAColor>
+  <!-- EN: red -->
+  <Red>TODO</Red>
+  <!-- EN: green -->
+  <Green>TODO</Green>
+  <!-- EN: blue -->
+  <Blue>TODO</Blue>
+  <!-- EN: hue -->
+  <Hue>TODO</Hue>
+  <!-- EN: sat -->
+  <Saturation>TODO</Saturation>
+  <!-- EN: value -->
+  <Value>Value</Value>
+  <!-- EN: darklight -->
+  <Darklight>TODO</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>TODO</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>TODO</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>TODO</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
+
   <!-- UNUSED -->
+  <Researched>Ferdig utforsket</Researched>
+  <ResearchMenuWithoutBench>Fram til du bygger en FORSKNINGSBENK, så vil kolonistene dine ikke gjøre noen faktisk forskning.\n\nLikevel kan du fortsatt se på og velge forsknings prosjekter nå.</ResearchMenuWithoutBench>
+  <BillRequiresNutrition>Krever {0} næring</BillRequiresNutrition>
+  <AnimalFilthRate>Dyrets skittenhet</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
+  <ConstructionSkillRequired>Påkrevd ferdighetsnivå for konstruksjon</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Krever dette ferdighetsnivået for Konstruksjon for å bygge.</ConstructionSkillRequiredExplanation>
+  <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
+  <SocialDrugs>Sosial narkotika</SocialDrugs>
+  <NoDrugs>Ingen narkotika</NoDrugs>
+  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
+  <Unrestricted>Ubegrenset</Unrestricted>
   <PermadeathMode>Permanent død-modus</PermadeathMode>
   <SurgeryRequireBed>Krever seng</SurgeryRequireBed>
   <TradeMassUsageTooltip>Den endelige massebruken og massekapasiteten.</TradeMassUsageTooltip>

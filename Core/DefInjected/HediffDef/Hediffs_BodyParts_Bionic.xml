@@ -2,55 +2,55 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
   <BionicArm.description>An installed bionic arm.</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.labelNoun>en bionisk arm</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.label>bionisk øre</BionicEar.label>
   <!-- EN: An installed bionic ear. -->
   <BionicEar.description>An installed bionic ear.</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEar.labelNoun>et bionisk øre</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.label>bionisk øye</BionicEye.label>
   <!-- EN: An installed bionic eye. -->
   <BionicEye.description>An installed bionic eye.</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicEye.labelNoun>et bionisk øye</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
   <!-- EN: An installed bionic heart. -->
   <BionicHeart.description>An installed bionic heart.</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>et bionisk hjerte</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.label>bionisk bein</BionicLeg.label>
   <!-- EN: An installed bionic leg. -->
   <BionicLeg.description>An installed bionic leg.</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>et bionisk bein</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   <!-- EN: An installed bionic spine. -->
   <BionicSpine.description>An installed bionic spine.</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.label>bionisk magesekk</BionicStomach.label>
   <!-- EN: An installed bionic stomach. -->
   <BionicStomach.description>An installed bionic stomach.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>en bionisk magesekk</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>bionic tongue</BionicTongue.label>

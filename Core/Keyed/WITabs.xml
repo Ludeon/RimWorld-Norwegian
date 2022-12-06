@@ -6,6 +6,8 @@
   <TabTerrain>Terreng</TabTerrain>
   <!-- EN: Planet -->
   <TabPlanet>Planet</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>TODO</TabCaravanFeeding>
   <!-- EN: Social -->
   <TabCaravanSocial>Sosial</TabCaravanSocial>
   <!-- EN: Health -->
@@ -18,9 +20,9 @@
   <TabCaravanItems>Elementer</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Forlat {{0}}x {0}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Vil du virkelig forlate {0}?\n\nForlatte elementer kan aldri bli gjenvunnet.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>Forlat</AbandonTip>
@@ -46,7 +48,7 @@
   <OpenSpecificTabButtonTip>Trykk her for å åpne et vindu med mer informasjon.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Fanger</CaravanPrisoners>
-  <!-- EN: Inventory -->
+  <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>Inventar</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Ingen i stand til å utføre</NoneCapable>

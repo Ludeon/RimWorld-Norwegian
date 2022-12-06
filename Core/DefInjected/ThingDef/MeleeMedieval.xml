@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: gladius -->
   <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
   <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
@@ -11,7 +11,7 @@
   <MeleeWeapon_Gladius.tools.point.label>spiss</MeleeWeapon_Gladius.tools.point.label>
   <!-- EN: edge -->
   <MeleeWeapon_Gladius.tools.edge.label>egge</MeleeWeapon_Gladius.tools.edge.label>
-
+  
   <!-- EN: longsword -->
   <MeleeWeapon_LongSword.label>langsverd</MeleeWeapon_LongSword.label>
   <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
@@ -22,7 +22,7 @@
   <MeleeWeapon_LongSword.tools.point.label>spiss</MeleeWeapon_LongSword.tools.point.label>
   <!-- EN: edge -->
   <MeleeWeapon_LongSword.tools.edge.label>egge</MeleeWeapon_LongSword.tools.edge.label>
-
+  
   <!-- EN: mace -->
   <MeleeWeapon_Mace.label>stridsklubbe</MeleeWeapon_Mace.label>
   <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
@@ -31,5 +31,5 @@
   <MeleeWeapon_Mace.tools.handle.label>skjefte</MeleeWeapon_Mace.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_Mace.tools.head.label>hode</MeleeWeapon_Mace.tools.head.label>
-
+  
 </LanguageData>

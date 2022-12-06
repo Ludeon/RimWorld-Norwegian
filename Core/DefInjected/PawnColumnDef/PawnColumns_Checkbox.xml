@@ -10,8 +10,14 @@
   <!-- EN: Mark animals to be hunted by your hunters. -->
   <Hunt.headerTip>Mark animals to be hunted by your hunters.</Hunt.headerTip>
   
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>TODO</ReleaseAnimalToWild.headerTip>
+  
   <!-- EN: Slaughter -->
   <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
+  
+  <!-- EN: Sterilize -->
+  <Sterile.headerTip>TODO</Sterile.headerTip>
   
   <!-- EN: Tame a wild animal. -->
   <Tame.headerTip>Tame a wild animal.</Tame.headerTip>

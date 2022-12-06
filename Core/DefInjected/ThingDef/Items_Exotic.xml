@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: AI persona core -->
+  
+  <!-- EN: persona core -->
   <AIPersonaCore.label>AI-kjerne</AIPersonaCore.label>
-  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
   <AIPersonaCore.description>En avansert datamaskin med intelligens på menneskenivå.</AIPersonaCore.description>
-
+  
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>støttann</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
@@ -14,35 +14,33 @@
   <ElephantTusk.tools.point.label>spiss</ElephantTusk.tools.point.label>
   <!-- EN: base -->
   <ElephantTusk.tools.base.label>ende</ElephantTusk.tools.base.label>
-
+  
   <!-- EN: healer mech serum -->
   <MechSerumHealer.label>helende mekaserum</MechSerumHealer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
   <MechSerumHealer.description>En suppe av mekanitter som helbreder den største skaden kroppen har. Dette kan gjelde alt fra blødninger til manglende organer og lemmer, og uhelbredelige tilstander.</MechSerumHealer.description>
-  <!-- EN: Use healer mech serum -->
+  <!-- EN: Use {0_label} -->
   <MechSerumHealer.comps.CompUsable.useLabel>Bruk helende mekasreum</MechSerumHealer.comps.CompUsable.useLabel>
-
-  <!-- EN: neurotrainer mech serum -->
+  
+  <!-- UNUSED -->
   <MechSerumNeurotrainer.label>lærende mekaserum</MechSerumNeurotrainer.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <MechSerumNeurotrainer.description>En suppe av mekanitter som bedrer brukerens ferdigheter i en spesifikk egenskap. Mekanittene vil lage nye nevroner og forbindelser, alt etter hva som kreves for å forstå oppgaven det gjelder.</MechSerumNeurotrainer.description>
-  <!-- EN: Use neurotrainer mech serum to learn {0} -->
   <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Bruk læreserum for å lære {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
-
+  
   <!-- EN: resurrector mech serum -->
   <MechSerumResurrector.label>lasarusserum</MechSerumResurrector.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
   <MechSerumResurrector.description>En suppe av mekanitter som kan vekke en død person. Ødelagt vev repareres og hjertet startes igjen. Dessverre kan den oppvekkede lide av hjereskade, blindhet, eller utviklende psykose. Jo ferskere kroppen er, jo bedre blir resultatet. Hvis en kropp bevares kan den vekkes opp lenge etter at den døde.</MechSerumResurrector.description>
-  <!-- EN: Use resurrector mech serum -->
+  <!-- EN: Use {0_label} -->
   <MechSerumResurrector.comps.CompUsable.useLabel>Bruk lasarusserum</MechSerumResurrector.comps.CompUsable.useLabel>
-
+  
   <!-- EN: techprof subpersona core -->
   <TechprofSubpersonaCore.label>personsvak AI-kjerne</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
   <TechprofSubpersonaCore.description>En AI, for svak til å ha en personlighet, men sterk nok til å lære en person et spesifikt emne. Kan brukes til å låse opp én enkelt teknologi.</TechprofSubpersonaCore.description>
-  <!-- EN: Use techprof subpersona core -->
+  <!-- EN: Use {0_label} -->
   <TechprofSubpersonaCore.comps.CompUsable.useLabel>Lær av personsvak AI</TechprofSubpersonaCore.comps.CompUsable.useLabel>
-
+  
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
@@ -51,5 +49,5 @@
   <ThrumboHorn.tools.point.label>spiss</ThrumboHorn.tools.point.label>
   <!-- EN: base -->
   <ThrumboHorn.tools.base.label>ende</ThrumboHorn.tools.base.label>
-
+  
 </LanguageData>

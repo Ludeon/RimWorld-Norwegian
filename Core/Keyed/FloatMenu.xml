@@ -3,22 +3,24 @@
 
   <!-- EN: Call {0} -->
   <CallOnRadio>Samtale {0}</CallOnRadio>
-  <!-- EN: Cannot use ({0}) -->
+  <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Kan ikke bruke ({0})</CannotUseReason>
-  <!-- EN: Cannot use (solar flare) -->
+  <!-- EN: Cannot use: EMP -->
   <CannotUseSolarFlare>Kan ikke bruke (solflamme)</CannotUseSolarFlare>
-  <!-- EN: Cannot use (no power) -->
+  <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>Kan ikke bruke (ingen strøm)</CannotUseNoPower>
-  <!-- EN: Cannot use (no path) -->
+  <!-- EN: Cannot use: No path -->
   <CannotUseNoPath>Kan ikke bruke (ingen vei)</CannotUseNoPath>
-  <!-- EN: Cannot use (reserved) -->
+  <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>Kan ikke bruke (reservert)</CannotUseReserved>
-  <!-- EN: Cannot use (full) -->
+  <!-- EN: Cannot use: Full -->
   <CannotUseFull>Kan ikke bruke (full)</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>leder {1_labelShort} er utilgjengelig</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>leder er utilgjengelig</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>TODO</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Fire at {0}</FireAt>
@@ -27,18 +29,24 @@
   <OutOfRange>ute av rekkevidde</OutOfRange>
   <!-- EN: too close -->
   <TooClose>for nærme</TooClose>
-  <!-- EN: cannot hit target -->
+  <!-- EN: Cannot hit target -->
   <CannotHitTarget>kan ikke treffe målet</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>{1_labelShort} er ute av stand til vold</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>ute av stand til vold</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelshort} er ikke draftetd</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>kan ikke gi ordre til enheter du ikke kontrollerer</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>kan ikke angripe selv</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Mann {1_labelShort}</OrderManThing>
@@ -49,6 +57,10 @@
   <MeleeAttackToDeath>Nærkampangrep {0} til døden</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>Ingen sti</NoPath>
+  <!-- EN: burying -->
+  <Burying>TODO</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>TODO</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>forbudt</ForbiddenLower>
@@ -64,22 +76,34 @@
   <NoMergeTarget>ingen stabel tilgjengelig å flette inn i</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>allerede fylt nok</AlreadyFilledLower>
-  <!-- EN: need material -->
+  <!-- EN: missing {0} -->
   <MissingMaterials>trenger materialer</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>under nødvendig ferdighet {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
   <UnderAllowedSkill>under tillatt ferdighet {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>over tillatt ferdighet {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>TODO</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>mangler nødvendig ferdighetsnivå</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>dyr samhandlet for nylig</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>ingen brukbar mat</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>no food</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>TODO</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
@@ -88,8 +112,24 @@
   <CantInteractAnimalAsleep>Dyret sover</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>Dyret opptatt</CantInteractAnimalBusy>
-  <!-- EN: construction skill too low -->
-  <ConstructionSkillTooLow>byggeferdigheten for lav</ConstructionSkillTooLow>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>TODO</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>TODO</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>TODO</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>TODO</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>TODO</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>TODO</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>trenger komponent</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -120,29 +160,61 @@
   <IncapableOfMining>ute av stand til gruvedrift</IncapableOfMining>
   <!-- EN: angers faction -->
   <AngersFaction>irriterer fraksjonen</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel><!-- text_todo -->
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>TODO</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>TODO</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>TODO</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Forbruke {1_labelShort}</ConsumeThing>
   
-  <!-- EN: Cannot go here (no path) -->
+  <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>Kan ikke gå her (ingen sti)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Gå her</GoHere>
   
   <!-- EN: Arrest {0} -->
   <Arrest>Arrestere {0}</Arrest>
-  <!-- EN: Try to arrest {1_label} -->
+  <!-- EN: Try to arrest {1_label} ({2} chance) -->
   <TryToArrest>Prøve å arrestere {1_label}</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Kan ikke arrestere</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>TODO</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>Fange {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Ikke kan fange</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>TODO</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>Redde {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>TODO</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Kan ikke redde</CannotRescue>
 
@@ -151,8 +223,17 @@
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Kan ikke bære til kryptosøvnskrinet</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: Carry {0_label} to shuttle -->
+  <CarryToShuttle>TODO</CarryToShuttle>
+
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Ingen tilgjengelig kryptosøvnskrin.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Ingen tilgjengelig, ikke-reservert, lukket fangemerket seng.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -167,11 +248,15 @@
   <IsReservedBy>{0} er reservert av {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>For tung</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>ikke i stand til</Incapable>
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>ikke i stand til {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>TODO</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>min ferdighet</MinSkill>
@@ -189,33 +274,50 @@
   <ForceWear>Tving bruke {0}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Kan ikke bruke {0}</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>TODO</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>manglende kroppsdeler</CannotWearBecauseOfMissingBodyParts>
   
-  <!-- EN: Cannot pick up {1_label} -->
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>Cannot pick up {0}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-  <!-- EN: Pick up {1_label} -->
-  <PickUp>Pick up {0}</PickUp>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>TODO</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Pick up {0} (all)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Pick up {0}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
   
-  <!-- EN: Cannot give {1_label} to pack animal -->
+  <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-  <!-- EN: Cannot give {1_label} (all) to pack animal -->
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
   <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <!-- EN: Give {1_label} to pack animal -->
+  <!-- EN: Load {1_label} onto pack animal -->
   <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-  <!-- EN: Give {1_label} (all) to pack animal -->
+  <!-- EN: Load {1_label} (all) onto pack animal -->
   <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-  <!-- EN: Give {1_labelShort} to pack animal... -->
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
   <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
   <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
@@ -244,6 +346,23 @@
   <Strip>Strip {0}</Strip>
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Cannot strip {0}</CannotStrip>
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>TODO</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>TODO</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>TODO</CannotCarry>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>TODO</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>TODO</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Self-destruct here</SelfDestructHere>
@@ -255,6 +374,8 @@
   <UseMedicalBed>Rest until healed</UseMedicalBed>
   <!-- EN: not injured -->
   <NotInjured>Not injured</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>TODO</NoDoctor><!-- text_todo -->
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
   
@@ -284,48 +405,60 @@
   <ApproachingSite>TODO</ApproachingSite>
   <!-- EN: Offer gifts -->
   <OfferGifts>TODO</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>TODO</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>TODO</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
+  <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize (incapable of {0}) -->
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
   <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize (will never do {0}) -->
+  <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>TODO</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize (will never {0}) -->
+  <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>TODO</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>TODO</WillNever>
 
-  <!-- EN: Cannot prioritize (not assigned to {0}) -->
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>TODO</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize (research is a long-term task) -->
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
 
-  <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
+  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
-  <!-- EN: Cannot prioritize (forbidden) -->
+  <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -335,6 +468,8 @@
   <DropAtEdge>Drop at edge</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>Drop in center</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -372,14 +507,60 @@
   <GiveToCaravan>TODO</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>TODO</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
   <FreePrisoner>TODO</FreePrisoner>
   <!-- EN: Offer help -->
   <OfferHelp>TODO</OfferHelp>
-  
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>TODO</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>TODO</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>TODO</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>TODO</CannotInvoke>
+  <!-- EN: power -->
+  <Power>TODO</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>TODO</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>TODO</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>TODO</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>TODO</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>TODO</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>TODO</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>TODO</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>TODO</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>TODO</CanRomance>
+
   <!-- UNUSED -->
+  <ConstructionSkillTooLow>byggeferdigheten for lav</ConstructionSkillTooLow>
+  <PickUp>Pick up {0}</PickUp>
   <SociallyImproperLower>socially improper</SociallyImproperLower>
   <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
   <MissingSkill>skill too low</MissingSkill>

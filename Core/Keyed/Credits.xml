@@ -4,31 +4,22 @@
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>En kolonisimulator av Tynan Sylvester</MainPageCredit>
 
-  <!-- EN: Developers -->
+  <!-- EN: Engineering -->
   <Credits_Developers>Utviklere</Credits_Developers>
-  <!-- EN: Direction, design, code, art -->
-  <Credit_DirectionVarious>Planlegging, design, koding og kunst</Credit_DirectionVarious>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Musikk og lyd</Credit_MusicAndSound>
-  <!-- EN: Code -->
-  <Credit_Code>Kode</Credit_Code>
   <!-- EN: Art -->
   <Credit_GameArt>Spillgrafikk</Credit_GameArt>
   <!-- EN: Menu art -->
   <Credit_MenuArt>Menygrafikk</Credit_MenuArt>
-  <!-- EN: Additional code -->
-  <Credit_AdditionalCode>Ytterligere kode</Credit_AdditionalCode>
-  
-  <!-- EN: Additional development -->
+  <!-- EN: Additional engineering -->
   <Credits_AdditionalDevelopment>Ytterligere utvikling</Credits_AdditionalDevelopment>
-
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>En spesiell takk</Credit_SpecialThanks>
-
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Frivillige</Credits_TitleCommunity>
-  <!-- EN: Tester -->
-  <Credit_Tester>Tester</Credit_Tester>
+  <!-- EN: Community testers -->
+  <Credits_TitleTester>TODO</Credits_TitleTester>
+  <!-- EN: Mods -->
+  <Credits_TitleMods>TODO</Credits_TitleMods>
   <!-- EN: Mod donor -->
   <Credit_ModDonation>Donering - modifikasjoner</Credit_ModDonation>
   <!-- EN: Writing donor -->
@@ -37,19 +28,25 @@
   <Credit_Moderator>Moderator</Credit_Moderator>
   <!-- EN: Wiki master -->
   <Credit_WikiMaster>Wikimester</Credit_WikiMaster>
-
+  <!-- EN: Test lead -->
+  <Credit_TestLead>TODO</Credit_TestLead>
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} språk</Credits_TitleLanguage>
-  <!-- EN: Writer -->
-  <Credit_Writer>Forfatter</Credit_Writer>
-  <!-- EN: Translator -->
-  <Credit_Translator>Oversetter</Credit_Translator>
-  <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>Åpen kildekode-bibliotek</Credit_OpenSourceLibraries>
-  <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>Støygenerering</Credit_NoiseGeneration>
-
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Takk for at du spiller!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>En spesiell takk</Credit_SpecialThanks>
+
+  <!-- UNUSED -->
+  <Credit_DirectionVarious>Planlegging, design, koding og kunst</Credit_DirectionVarious>
+  <Credit_Code>Kode</Credit_Code>
+  <Credit_AdditionalCode>Ytterligere kode</Credit_AdditionalCode>
+  <Credit_Tester>Tester</Credit_Tester>
+  <Credit_Writer>Forfatter</Credit_Writer>
+  <Credit_Translator>Oversetter</Credit_Translator>
+  <Credit_OpenSourceLibraries>Åpen kildekode-bibliotek</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Støygenerering</Credit_NoiseGeneration>
 
 </LanguageData>

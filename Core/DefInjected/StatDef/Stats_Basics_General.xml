@@ -1,31 +1,90 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <MaxHitPoints.label>max hit points</MaxHitPoints.label>
-    <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
-    
-    <MarketValue.label>market value</MarketValue.label>
-    <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
-    
-    <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
-    <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
-    
-    <Flammability.label>flammability</Flammability.label>
-    <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
-    
-    <WorkToMake.label>work to make</WorkToMake.label>
-    <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
-    
-    <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
-    <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
-    
-    <Beauty.label>beauty</Beauty.label>
-    <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
-    
-    <Cleanliness.label>cleanliness</Cleanliness.label>
-    <Cleanliness.description>How clean an object is.</Cleanliness.description>
-    
-    <Comfort.label>comfort</Comfort.label>
-    <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
-    
+  
+  <!-- EN: beauty -->
+  <Beauty.label>beauty</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>cleanliness</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>How clean an object is.</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>comfort</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>TODO</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>flammability</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>TODO</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>market value</MarketValue.label>
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>TODO</Mass.label>
+  <!-- EN: The physical mass of an object. -->
+  <Mass.description>TODO</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>TODO</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>TODO</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>TODO</Nutrition.description>
+  
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>TODO</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>work to make</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
+  
 </LanguageData>

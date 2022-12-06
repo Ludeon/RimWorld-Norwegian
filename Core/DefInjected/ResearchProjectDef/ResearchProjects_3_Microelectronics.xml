@@ -1,19 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: colored lights -->
-  <ColoredLights.label>farget lys</ColoredLights.label>
-  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>Tillater kolonister å bygge farget lys som dekorasjon.</ColoredLights.description>
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>TODO</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>TODO</DeepDrilling.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>TODO</HeavyTurrets.label>
-  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <!-- EN: Produce the heavy autocannon turret. -->
   <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
@@ -51,9 +56,9 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>TODO</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
+  <!-- EN: shields -->
   <ShieldBelt.label>TODO</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
   <ShieldBelt.description>TODO</ShieldBelt.description>
   
   <!-- EN: transport pod -->

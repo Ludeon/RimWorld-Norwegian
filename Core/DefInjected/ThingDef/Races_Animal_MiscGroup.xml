@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>alphabeaver</Alphabeaver.label>
+  <Alphabeaver.label>alfabever</Alphabeaver.label>
   <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
-  <Alphabeaver.description>A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed.</Alphabeaver.description>
+  <Alphabeaver.description>Et stort bevervesen, genmanipulert for å behandle trær med effektiviteten til en maskin. Dersom disse dyra ikke får en spesiell type for, så går de inn i en manisk tilstand som får dem til å spise hele trær.</Alphabeaver.description>
   <!-- EN: left claw -->
-  <Alphabeaver.tools.left_claw.label>left claw</Alphabeaver.tools.left_claw.label>
+  <Alphabeaver.tools.left_claw.label>venstre klør</Alphabeaver.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Alphabeaver.tools.right_claw.label>right claw</Alphabeaver.tools.right_claw.label>
+  <Alphabeaver.tools.right_claw.label>høyre klør</Alphabeaver.tools.right_claw.label>
   <!-- EN: head -->
-  <Alphabeaver.tools.head.label>head</Alphabeaver.tools.head.label>
+  <Alphabeaver.tools.head.label>hode</Alphabeaver.tools.head.label>
   
   <!-- EN: cobra -->
-  <Cobra.label>cobra</Cobra.label>
+  <Cobra.label>kobra</Cobra.label>
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
-  <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
+  <Cobra.description>En stor slange. Kobraer kan bli svært aggressive om de blir provosert - Det er best å ligge unna disse skapningene.</Cobra.description>
   <!-- EN: cobra meat -->
   <Cobra.race.meatLabel>TODO</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
-  <Cobra.tools.venomfangs.label>venom-fangs</Cobra.tools.venomfangs.label>
+  <Cobra.tools.venomfangs.label>TODO</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
-  <Cobra.tools.head.label>head</Cobra.tools.head.label>
+  <Cobra.tools.head.label>TODO</Cobra.tools.head.label>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>thrumbo</Thrumbo.label>
@@ -37,12 +37,12 @@
   <Thrumbo.tools.head.label>head</Thrumbo.tools.head.label>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>tortoise</Tortoise.label>
+  <Tortoise.label>skilpadde</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.description>Dette tungt armerte landbaserte reptilet er kjent for sin sakte bevegelseshastighet og sitt overraskende kraftige bitt.</Tortoise.description>
   <!-- EN: beak -->
-  <Tortoise.tools.beak.label>beak</Tortoise.tools.beak.label>
+  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
   <!-- EN: head -->
-  <Tortoise.tools.head.label>head</Tortoise.tools.head.label>
+  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
   
 </LanguageData>

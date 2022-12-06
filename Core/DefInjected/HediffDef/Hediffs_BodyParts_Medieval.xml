@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: denture -->
-  <Denture.label>denture</Denture.label>
+  <Denture.label>gebiss</Denture.label>
   <!-- EN: An installed denture. -->
   <Denture.description>An installed denture.</Denture.description>
   <!-- EN: a denture -->
-  <Denture.labelNoun>a denture</Denture.labelNoun>
+  <Denture.labelNoun>et gebiss</Denture.labelNoun>
   
   <!-- EN: peg leg -->
-  <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.label>trebein</PegLeg.label>
   <!-- EN: An installed peg leg. -->
   <PegLeg.description>An installed peg leg.</PegLeg.description>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+  <PegLeg.labelNoun>et trebein</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.label>trefot</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
   <WoodenFoot.description>An installed wooden foot.</WoodenFoot.description>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>en trefot</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
   <WoodenHand.label>wooden hand</WoodenHand.label>

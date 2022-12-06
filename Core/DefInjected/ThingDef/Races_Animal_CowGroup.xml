@@ -18,39 +18,39 @@
   <Bison_Leather.stuffProps.stuffAdjective>bison leather</Bison_Leather.stuffProps.stuffAdjective>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.label>pangtilope</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
+  <Boomalope.description>pangtilopen er blitt genetisk manipulert for kjemikalieproduksjon – det vokser en stor sekk med flyktige kjemikalier på ryggen dens. Selv om den er liten og svak for størrelsen sin, har andre dyr lært seg å unngå den på grunn av den store eksplosjonen den frembringer når den dør.</Boomalope.description>
   <!-- EN: head -->
-  <Boomalope.tools.head.label>head</Boomalope.tools.head.label>
+  <Boomalope.tools.head.label>TODO</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
-  <Boomalope.tools.left_hoof.label>left hoof</Boomalope.tools.left_hoof.label>
+  <Boomalope.tools.left_hoof.label>TODO</Boomalope.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Boomalope.tools.right_hoof.label>right hoof</Boomalope.tools.right_hoof.label>
+  <Boomalope.tools.right_hoof.label>TODO</Boomalope.tools.right_hoof.label>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
+  <Caribou.label>reinsdyr</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.description>Et stort medlem av hjortefamilien, som har tilpasset seg vel til livet i kaldere strøk.</Caribou.description>
   <!-- EN: left hoof -->
-  <Caribou.tools.left_hoof.label>left hoof</Caribou.tools.left_hoof.label>
+  <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Caribou.tools.right_hoof.label>right hoof</Caribou.tools.right_hoof.label>
+  <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
   <!-- EN: head -->
-  <Caribou.tools.head.label>head</Caribou.tools.head.label>
+  <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
   
   <!-- EN: cow -->
-  <Cow.label>cow</Cow.label>
+  <Cow.label>ku</Cow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
-  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+  <Cow.description>Et svært vanlig tamdyr. Den kan produsere store mengder melk, eller slaktes for deilig kjøttmat.</Cow.description>
   <!-- EN: beef -->
-  <Cow.race.meatLabel>TODO</Cow.race.meatLabel>
+  <Cow.race.meatLabel>biff</Cow.race.meatLabel>
   <!-- EN: head -->
-  <Cow.tools.head.label>head</Cow.tools.head.label>
+  <Cow.tools.head.label>hode</Cow.tools.head.label>
   <!-- EN: left hoof -->
-  <Cow.tools.left_hoof.label>left hoof</Cow.tools.left_hoof.label>
+  <Cow.tools.left_hoof.label>venstre hov</Cow.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Cow.tools.right_hoof.label>right hoof</Cow.tools.right_hoof.label>
+  <Cow.tools.right_hoof.label>høyre hov</Cow.tools.right_hoof.label>
   
   <!-- EN: donkey -->
   <Donkey.label>donkey</Donkey.label>
@@ -80,28 +80,28 @@
   <Dromedary.tools.head.label>head</Dromedary.tools.head.label>
   
   <!-- EN: elephant -->
-  <Elephant.label>elephant</Elephant.label>
+  <Elephant.label>elefant</Elephant.label>
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
-  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.description>Det største ikke-modifiserte landdyret. Den kan bruke sin støttenner som redskaper for å flytte ting - eller som dødelige våpen.</Elephant.description>
   <!-- EN: tusk -->
-  <Elephant.tools.tusk.label>tusk</Elephant.tools.tusk.label>
+  <Elephant.tools.tusk.label>støttann</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
-  <Elephant.tools.left_foot.label>left foot</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.label>venstre fot</Elephant.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Elephant.tools.right_foot.label>right foot</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.label>høyre fot</Elephant.tools.right_foot.label>
   <!-- EN: head -->
-  <Elephant.tools.head.label>head</Elephant.tools.head.label>
+  <Elephant.tools.head.label>hode</Elephant.tools.head.label>
   
   <!-- EN: elk -->
-  <Elk.label>elk</Elk.label>
+  <Elk.label>elg</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <Elk.description>Et av de større medlemmene i hjortefamilien, veltilpasset til livet i kaldere klima.</Elk.description>
   <!-- EN: left hoof -->
-  <Elk.tools.left_hoof.label>left hoof</Elk.tools.left_hoof.label>
+  <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Elk.tools.right_hoof.label>right hoof</Elk.tools.right_hoof.label>
+  <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
   <!-- EN: head -->
-  <Elk.tools.head.label>head</Elk.tools.head.label>
+  <Elk.tools.head.label>TODO</Elk.tools.head.label>
   
   <!-- EN: goat -->
   <Goat.label>goat</Goat.label>
@@ -145,15 +145,15 @@
   <Muffalo.tools.right_hoof.label>right hoof</Muffalo.tools.right_hoof.label>
   
   <!-- EN: rhinoceros -->
-  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.label>neshorn</Rhinoceros.label>
   <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
-  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
+  <Rhinoceros.description>Dette store landpattedyret er normalt sett nokså fredelig, men vil ikke nøle med å storme fram med hornet først, for å  jage vekk inntrengere.</Rhinoceros.description>
   <!-- EN: horn -->
   <Rhinoceros.tools.horn-0.label>horn</Rhinoceros.tools.horn-0.label>
   <!-- EN: horn -->
   <Rhinoceros.tools.horn-1.label>horn</Rhinoceros.tools.horn-1.label>
   <!-- EN: head -->
-  <Rhinoceros.tools.head.label>head</Rhinoceros.tools.head.label>
+  <Rhinoceros.tools.head.label>hode</Rhinoceros.tools.head.label>
   
   <!-- EN: yak -->
   <Yak.label>yak</Yak.label>

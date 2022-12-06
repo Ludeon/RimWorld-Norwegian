@@ -1,54 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-
-  <!-- Medicine -->
-
-  <!-- EN: herbal medicine -->
-  <MedicineHerbal.label>urtemedisin</MedicineHerbal.label>
-  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>Et legemiddel fra en helbredsrot. Den er ikke like sterk som skikkelige medisiner, men mye bedre enn ingenting.</MedicineHerbal.description>
-
-  <!-- EN: medicine -->
-  <MedicineIndustrial.label>medisin</MedicineIndustrial.label>
-  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
-  <MedicineIndustrial.description>Et typisk førstehjelpsskrin. Inneholder piller, tenger, plaster, bomull og sprit</MedicineIndustrial.description>
-
-
-  <!-- EN: glitterworld medicine -->
-  <MedicineUltratech.label>slaraffenmedisin</MedicineUltratech.label>
-  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
-  <MedicineUltratech.description>Hyperavanserte medisiner fra en slaraffenplanet. Inneholder polypotente legemidler, nanitter, og flere elektriske sveitserkniver.</MedicineUltratech.description>
-
-
-  <!-- ComponentIndustrial -->
-
-  <!-- EN: component -->
-  <ComponentIndustrial.label>komponent</ComponentIndustrial.label>
-  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
-  <ComponentIndustrial.description>tannhjul, ledninger, prossessorer, og kretskort. Alt av kompleks elektronikk trenger et par av disse.</ComponentIndustrial.description>
-
-  <!-- EN: advanced component -->
-  <ComponentSpacer.label>avansert komponent</ComponentSpacer.label>
-  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
-  <ComponentSpacer.description>Regnemaskiner og energifordelere. Miniatyrdatamaskiner som brukes til mer spesialiserte oppgaver.</ComponentSpacer.description>
-
-
-  <!-- Neutroamine -->
-
-
-  <!-- EN: neutroamine -->
-  <Neutroamine.label>neutroamin</Neutroamine.label>
-  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
-  <Neutroamine.description>Ingrediens i mange legemidler.</Neutroamine.description>
-
-
-  <!-- Chemfuel -->
-
+  
   <!-- EN: chemfuel -->
   <Chemfuel.label>drivstoff</Chemfuel.label>
   <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
   <Chemfuel.description>Veldig brennbart kjemkalie. Brukes til generaorer og raketter, eller i prosjektilammunisjon.</Chemfuel.description>
-
-
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>komponent</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>tannhjul, ledninger, prossessorer, og kretskort. Alt av kompleks elektronikk trenger et par av disse.</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>avansert komponent</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>Regnemaskiner og energifordelere. Miniatyrdatamaskiner som brukes til mer spesialiserte oppgaver.</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>urtemedisin</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>Et legemiddel fra en helbredsrot. Den er ikke like sterk som skikkelige medisiner, men mye bedre enn ingenting.</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>medisin</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>Et typisk førstehjelpsskrin. Inneholder piller, tenger, plaster, bomull og sprit</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>slaraffenmedisin</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>Hyperavanserte medisiner fra en slaraffenplanet. Inneholder polypotente legemidler, nanitter, og flere elektriske sveitserkniver.</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>neutroamin</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>Ingrediens i mange legemidler.</Neutroamine.description>
+  
+  <!-- EN: reinforced barrel -->
+  <ReinforcedBarrel.label>TODO</ReinforcedBarrel.label>
+  <!-- EN: A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale. -->
+  <ReinforcedBarrel.description>TODO</ReinforcedBarrel.description>
+  
 </LanguageData>

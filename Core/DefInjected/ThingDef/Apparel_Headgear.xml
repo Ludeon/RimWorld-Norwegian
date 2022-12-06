@@ -1,38 +1,64 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
-  <Apparel_CowboyHat.description>Denne tøffe hatten holder solen fra øynene og regnet fra nakken. Bærerens ord vil bære ekstra tyngde. En ekte cowboy-ohboy-hatt!</Apparel_CowboyHat.description>
-
-  <Apparel_BowlerHat.label>bowlerhatt</Apparel_BowlerHat.label>
-  <Apparel_BowlerHat.description>En hat som forteller verden nøyaktig hvor rik du føler deg. Folk vil høre på den som bærer denne.</Apparel_BowlerHat.description>
-
-  <Apparel_TribalHeaddress.label>stammehatt</Apparel_TribalHeaddress.label>
-  <Apparel_TribalHeaddress.description>En elegant hodepryd, gjerne med religiøs betydning. Folk vil høre på den som bærer denne.</Apparel_TribalHeaddress.description>
-
-  <Apparel_Tuque.label>lue</Apparel_Tuque.label>
-  <Apparel_Tuque.description>En myk, tykk lue. God å ha om vinteren.</Apparel_Tuque.description>
-
-  <Apparel_WarMask.label>krigsmaske</Apparel_WarMask.label>
-  <Apparel_WarMask.description>En fryktinngytende maske. Gir bæreren selvtillit.</Apparel_WarMask.description>
-
-  <Apparel_WarVeil.label>krigsslør</Apparel_WarVeil.label>
-  <Apparel_WarVeil.description>Et krigsslør, laget av stoff som er revet for å se ut som om det har sett mange kamper. Dette plagget gir bæreren selvtillit.</Apparel_WarVeil.description>
-
-
-  <!-- ================================== Helmets ====================================-->
-
-  <Apparel_SimpleHelmet.label>enkel hjelm</Apparel_SimpleHelmet.label>
-  <Apparel_SimpleHelmet.description>En enkel hjelm som gir nogenlunde beskyttelse mot skarpe våpen. Hjelper ikke mot stump skade.</Apparel_SimpleHelmet.description>
-
+  
+  <!-- EN: flak helmet -->
   <Apparel_AdvancedHelmet.label>avansert hjelm</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
   <Apparel_AdvancedHelmet.description>En lett hjelm med komplekst design, forsterket av plasteel. Hjelper ikke mot stump skade.</Apparel_AdvancedHelmet.description>
-
+  
+  <!-- EN: recon helmet -->
+  <Apparel_ArmorHelmetRecon.label>TODO</Apparel_ArmorHelmetRecon.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
+  <Apparel_ArmorHelmetRecon.description>TODO</Apparel_ArmorHelmetRecon.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>bowlerhatt</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>En hat som forteller verden nøyaktig hvor rik du føler deg. Folk vil høre på den som bærer denne.</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>Denne tøffe hatten holder solen fra øynene og regnet fra nakken. Bærerens ord vil bære ekstra tyngde. En ekte cowboy-ohboy-hatt!</Apparel_CowboyHat.description>
+  
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>TODO</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>TODO</Apparel_HatHood.description>
+  
+  <!-- EN: marine helmet -->
   <Apparel_PowerArmorHelmet.label>marinehjelm</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmorHelmet.description>En hjelm for rommarinens elitetropper og tunge infanteri. Dette er den beste beskyttelsen kolonistene dine kan ha.</Apparel_PowerArmorHelmet.description>
-
+  
+  <!-- EN: psychic foil helmet -->
   <Apparel_PsychicFoilHelmet.label>tinnfoliehjelm</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
   <Apparel_PsychicFoilHelmet.description>En hjelm med tynne lag av metaller som absorberer psykisk skadelige mikrobølger. Reduserer effekten av psykiske påvirkninger.</Apparel_PsychicFoilHelmet.description>
-
-
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>enkel hjelm</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>En enkel hjelm som gir nogenlunde beskyttelse mot skarpe våpen. Hjelper ikke mot stump skade.</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>stammehatt</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>En elegant hodepryd, gjerne med religiøs betydning. Folk vil høre på den som bærer denne.</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>lue</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>En myk, tykk lue. God å ha om vinteren.</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>krigsmaske</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>En fryktinngytende maske. Gir bæreren selvtillit.</Apparel_WarMask.description>
+  
+  <!-- EN: veil -->
+  <Apparel_WarVeil.label>krigsslør</Apparel_WarVeil.label>
+  <!-- EN: A piece of fabric which covers the wearer's face. -->
+  <Apparel_WarVeil.description>Et krigsslør, laget av stoff som er revet for å se ut som om det har sett mange kamper. Dette plagget gir bæreren selvtillit.</Apparel_WarVeil.description>
+  
 </LanguageData>

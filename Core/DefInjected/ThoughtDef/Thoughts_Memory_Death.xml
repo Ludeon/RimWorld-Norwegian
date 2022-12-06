@@ -25,7 +25,7 @@
   <KnowColonistExecuted.stages.colonist_executed.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>TODO</KnowColonistExecuted.stages.colonist_organharvested.label>
-  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
   <KnowColonistExecuted.stages.colonist_organharvested.description>TODO</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
@@ -42,7 +42,7 @@
   <KnowGuestExecuted.stages.someone_was_executed.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.label>
-  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->

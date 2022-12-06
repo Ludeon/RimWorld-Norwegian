@@ -1,19 +1,36 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
-    <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
-    
-    <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-    <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
-    
-    <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
-    <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
-    
-    <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
-    <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
-    
-    <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
-    <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
-    
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>TODO</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  
 </LanguageData>

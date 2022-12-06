@@ -36,7 +36,7 @@
   <Deer.labelMale>buck</Deer.labelMale>
   <Deer.labelMalePlural>male deer</Deer.labelMalePlural>
   <!-- EN: deer -->
-  <Deer.labelPlural>deer</Deer.labelPlural>
+  <Deer.labelPlural>TODO</Deer.labelPlural>
   <Deer.lifeStages.0.label>deer</Deer.lifeStages.0.label>
   <Deer.lifeStages.0.labelFemale>doe</Deer.lifeStages.0.labelFemale>
   <Deer.lifeStages.0.labelFemalePlural>female deers</Deer.lifeStages.0.labelFemalePlural>
@@ -83,15 +83,15 @@
   <Gazelle.lifeStages.2.labelPlural>gazelle</Gazelle.lifeStages.2.labelPlural>
   
   <!-- EN: ibex -->
-  <Ibex.label>ibex</Ibex.label>
+  <Ibex.label>TODO</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>ibex doe</Ibex.labelFemale>
+  <Ibex.labelFemale>TODO</Ibex.labelFemale>
   <Ibex.labelFemalePlural>female ibexes</Ibex.labelFemalePlural>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>ibex ram</Ibex.labelMale>
+  <Ibex.labelMale>TODO</Ibex.labelMale>
   <Ibex.labelMalePlural>male ibexes</Ibex.labelMalePlural>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>ibexes</Ibex.labelPlural>
+  <Ibex.labelPlural>TODO</Ibex.labelPlural>
   <Ibex.lifeStages.0.label>ibex</Ibex.lifeStages.0.label>
   <Ibex.lifeStages.0.labelFemale>ibex doe</Ibex.lifeStages.0.labelFemale>
   <Ibex.lifeStages.0.labelFemalePlural>female ibexs</Ibex.lifeStages.0.labelFemalePlural>

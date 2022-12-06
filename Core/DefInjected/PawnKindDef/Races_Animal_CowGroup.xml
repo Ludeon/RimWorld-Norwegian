@@ -43,7 +43,7 @@
   <Boomalope.lifeStages.boomalope_calf.labelMale>male boomalope calf</Boomalope.lifeStages.boomalope_calf.labelMale>
   <Boomalope.lifeStages.boomalope_calf.labelMalePlural>male boomalope calves</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>boomalope calves</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>TODO</Boomalope.lifeStages.boomalope_calf.labelPlural>
   <Boomalope.lifeStages.1.label>boomalope</Boomalope.lifeStages.1.label>
   <Boomalope.lifeStages.1.labelFemale>female boomalope</Boomalope.lifeStages.1.labelFemale>
   <Boomalope.lifeStages.1.labelFemalePlural>female boomalopes</Boomalope.lifeStages.1.labelFemalePlural>
@@ -58,21 +58,21 @@
   <Boomalope.lifeStages.2.labelPlural>boomalope</Boomalope.lifeStages.2.labelPlural>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
+  <Caribou.label>TODO</Caribou.label>
   <Caribou.labelFemale>female caribou</Caribou.labelFemale>
   <Caribou.labelFemalePlural>female caribou</Caribou.labelFemalePlural>
   <Caribou.labelMale>male caribou</Caribou.labelMale>
   <Caribou.labelMalePlural>male caribou</Caribou.labelMalePlural>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>caribou</Caribou.labelPlural>
+  <Caribou.labelPlural>TODO</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>caribou calf</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.label>TODO</Caribou.lifeStages.caribou_calf.label>
   <Caribou.lifeStages.caribou_calf.labelFemale>female caribou calf</Caribou.lifeStages.caribou_calf.labelFemale>
   <Caribou.lifeStages.caribou_calf.labelFemalePlural>female caribou calves</Caribou.lifeStages.caribou_calf.labelFemalePlural>
   <Caribou.lifeStages.caribou_calf.labelMale>male caribou calf</Caribou.lifeStages.caribou_calf.labelMale>
   <Caribou.lifeStages.caribou_calf.labelMalePlural>male caribou calves</Caribou.lifeStages.caribou_calf.labelMalePlural>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>caribou calves</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>TODO</Caribou.lifeStages.caribou_calf.labelPlural>
   <Caribou.lifeStages.1.label>caribou</Caribou.lifeStages.1.label>
   <Caribou.lifeStages.1.labelFemale>female caribou</Caribou.lifeStages.1.labelFemale>
   <Caribou.lifeStages.1.labelFemalePlural>female caribous</Caribou.lifeStages.1.labelFemalePlural>
@@ -88,7 +88,7 @@
   
   <!-- EN: cow -->
   <Cow.label>cow</Cow.label>
-  <Cow.labelFemale>female cow</Cow.labelFemale>
+  <Cow.labelFemale>cow</Cow.labelFemale>
   <Cow.labelFemalePlural>female cows</Cow.labelFemalePlural>
   <!-- EN: bull -->
   <Cow.labelMale>bull</Cow.labelMale>
@@ -101,7 +101,7 @@
   <Cow.lifeStages.calf.labelMale>male calf</Cow.lifeStages.calf.labelMale>
   <Cow.lifeStages.calf.labelMalePlural>male calves</Cow.lifeStages.calf.labelMalePlural>
   <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>calves</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.calf.labelPlural>TODO</Cow.lifeStages.calf.labelPlural>
   <Cow.lifeStages.1.label>cow</Cow.lifeStages.1.label>
   <Cow.lifeStages.1.labelFemale>female cow</Cow.lifeStages.1.labelFemale>
   <Cow.lifeStages.1.labelFemalePlural>female cows</Cow.lifeStages.1.labelFemalePlural>
@@ -205,7 +205,7 @@
   <Elk.labelMale>male elk</Elk.labelMale>
   <Elk.labelMalePlural>male elk</Elk.labelMalePlural>
   <!-- EN: elk -->
-  <Elk.labelPlural>elk</Elk.labelPlural>
+  <Elk.labelPlural>TODO</Elk.labelPlural>
   <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>elk calf</Elk.lifeStages.elk_calf.label>
   <Elk.lifeStages.elk_calf.labelFemale>female elk calf</Elk.lifeStages.elk_calf.labelFemale>
@@ -213,7 +213,7 @@
   <Elk.lifeStages.elk_calf.labelMale>male elk calf</Elk.lifeStages.elk_calf.labelMale>
   <Elk.lifeStages.elk_calf.labelMalePlural>male elk calves</Elk.lifeStages.elk_calf.labelMalePlural>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>elk calves</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>TODO</Elk.lifeStages.elk_calf.labelPlural>
   <Elk.lifeStages.1.label>elk</Elk.lifeStages.1.label>
   <Elk.lifeStages.1.labelFemale>female elk</Elk.lifeStages.1.labelFemale>
   <Elk.lifeStages.1.labelFemalePlural>female elks</Elk.lifeStages.1.labelFemalePlural>
@@ -319,7 +319,7 @@
   <Rhinoceros.labelMale>male rhinoceros</Rhinoceros.labelMale>
   <Rhinoceros.labelMalePlural>male rhinoceroses</Rhinoceros.labelMalePlural>
   <!-- EN: rhinoceroses -->
-  <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
+  <Rhinoceros.labelPlural>TODO</Rhinoceros.labelPlural>
   <Rhinoceros.lifeStages.0.label>rhinoceros</Rhinoceros.lifeStages.0.label>
   <Rhinoceros.lifeStages.0.labelFemale>female rhinoceros</Rhinoceros.lifeStages.0.labelFemale>
   <Rhinoceros.lifeStages.0.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.0.labelFemalePlural>

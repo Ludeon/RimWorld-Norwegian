@@ -2,56 +2,56 @@
 <LanguageData>
   
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.label>kokleapparat</CochlearImplant.label>
   <!-- EN: An installed cochlear implant. -->
   <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description>
   <!-- EN: a cochlear implant -->
-  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <CochlearImplant.labelNoun>et kokleapparat</CochlearImplant.labelNoun>
   
   <!-- EN: joywire -->
-  <Joywire.label>joywire</Joywire.label>
+  <Joywire.label>morokabel</Joywire.label>
   <!-- EN: An installed joywire implant. -->
   <Joywire.description>An installed joywire implant.</Joywire.description>
   <!-- EN: a joywire -->
-  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+  <Joywire.labelNoun>en morokabel</Joywire.labelNoun>
   
   <!-- EN: painstopper -->
-  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.label>smertedemper</Painstopper.label>
   <!-- EN: An installed painstopper implant. -->
   <Painstopper.description>An installed painstopper implant.</Painstopper.description>
   <!-- EN: a painstopper -->
-  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
+  <Painstopper.labelNoun>en smertedemper</Painstopper.labelNoun>
   
   <!-- EN: power claw -->
-  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.label>leddklo</PowerClaw.label>
   <!-- EN: An installed power claw. -->
   <PowerClaw.description>An installed power claw.</PowerClaw.description>
   <!-- EN: claw -->
-  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>claw</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>klo</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
-  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  <PowerClaw.labelNoun>en leddklo</PowerClaw.labelNoun>
   
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>enkel armprotese</SimpleProstheticArm.label>
   <!-- EN: An installed prosthetic arm. -->
   <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
   <!-- EN: fist -->
-  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic arm -->
-  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.labelNoun>en enkel armprotese</SimpleProstheticArm.labelNoun>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>enkel hjerteprotese</SimpleProstheticHeart.label>
   <!-- EN: An installed prosthetic heart. -->
   <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description>
   <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.labelNoun>en enkel hjerteprotese</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>enkel beinprotese</SimpleProstheticLeg.label>
   <!-- EN: An installed prosthetic leg. -->
   <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
   <!-- EN: a prosthetic leg -->
-  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.labelNoun>en enkel beinprotese</SimpleProstheticLeg.labelNoun>
   
 </LanguageData>

@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: heatstroke -->
   <Heatstroke.label>heteslag</Heatstroke.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
+  <Heatstroke.description>TODO</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>begynnende</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -13,9 +15,11 @@
   <Heatstroke.stages.serious.label>alvorlig</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
   <Heatstroke.stages.extreme.label>livstruende</Heatstroke.stages.extreme.label>
-
+  
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
+  <Hypothermia.description>TODO</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>begynnende</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
@@ -26,9 +30,11 @@
   <Hypothermia.stages.serious.label>alvorlig</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
   <Hypothermia.stages.extreme.label>livstruende</Hypothermia.stages.extreme.label>
-
+  
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>funksjonsnedsettelse fra frysning</HypothermicSlowdown.label>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>begynnende</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
@@ -39,5 +45,5 @@
   <HypothermicSlowdown.stages.serious.label>alvorlig</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
   <HypothermicSlowdown.stages.extreme.label>livstruende</HypothermicSlowdown.stages.extreme.label>
-
+  
 </LanguageData>

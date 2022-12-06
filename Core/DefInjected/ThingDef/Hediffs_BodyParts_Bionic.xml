@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArm.description>
+  <BionicArm.description>En sofistikert erstatning for en arm. Give ekstrem styrke til brukeren og helbreder seg selv over tid.</BionicArm.description>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.label>bionisk øre</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.</BionicEar.description>
+  <BionicEar.description>Et sofistikert høreapparat, koblet inn i nervebanene. Det kan høre en katt som lister seg, kan ikke skades av brå lyder, og har egen støydemping.</BionicEar.description>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.label>bionisk øye</BionicEye.label>
   <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage.</BionicEye.description>
+  <BionicEye.description>Avansert stykke teknologi som ikke kun erstatter naturlig øyne, men gir også overmenneskelig syn. Det kan helbrede sine skader over tid.</BionicEye.description>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+  <BionicHeart.description>Et syntetisk hjerte med rytmisk pumpe som følger eierens stressnivå. Overlegent til menneskehjertet.</BionicHeart.description>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.label>bionisk ben</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way.</BionicLeg.description>
+  <BionicLeg.description>Et bionisk ben er med den nyeste teknologi medvirkende til å gi eieren ekstrem gå-komfort og styrke. Innsatt stripestøv helbreder benet over tid.</BionicLeg.description>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine.</BionicSpine.description>
+  <BionicSpine.description>En kunstig ryggrad av biogelnerver og plastålledd, dekket av selvhelbredende stripestøv.</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.label>bionisk mage</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way.</BionicStomach.description>
+  <BionicStomach.description>En pose som produserer syrer som kan fordøye nærmest alt med energiinnhold. Stripestøv helbreder eventuelle syreskader.</BionicStomach.description>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>bionic tongue</BionicTongue.label>

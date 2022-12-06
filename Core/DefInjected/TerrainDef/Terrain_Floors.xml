@@ -1,34 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: blue carpet -->
-  <CarpetBlue.label>blått gulvteppe</CarpetBlue.label>
-  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Koselig gulvteppe i en kjølig blåfarge.</CarpetBlue.description>
-  
-  <!-- EN: cream carpet -->
-  <CarpetCream.label>cream carpet</CarpetCream.label>
-  <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
-  
-  <!-- EN: dark carpet -->
-  <CarpetDark.label>dark carpet</CarpetDark.label>
-  <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
-  
-  <!-- EN: green carpet -->
-  <CarpetGreen.label>grønnt gulvteppe</CarpetGreen.label>
-  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Et grønt gulvteppe som gir et naturalistiskt utseende.</CarpetGreen.description>
-  
-  <!-- EN: red carpet -->
-  <CarpetRed.label>rødt gulvteppe</CarpetRed.label>
-  <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Flott gulvteppe i en deilig rød rosetone.</CarpetRed.description>
-  
   <!-- EN: concrete -->
   <Concrete.label>betongulv</Concrete.label>
-  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
   <Concrete.description>Hurtigbetong. Raskt å gå på, men ikke særlig skjønt. Du må kunne grave ut jorden, for å fylle opp med betongen.</Concrete.description>
   
   <!-- EN: gold tile -->
@@ -36,25 +11,30 @@
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
   <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
   
-  <!-- EN: metal tile -->
+  <!-- EN: steel tile -->
   <MetalTile.label>metallfliser</MetalTile.label>
-  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
   <MetalTile.description>Flisegulv i metall, som gir deg den ekte romskipsfølselsen.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>brolagt flisgulv</PavedTile.label>
-  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
   <PavedTile.description>Utilitaristiske fliser. Man kan bevege seg hurtig på disse, men skjønne er de ikke.</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>silver tile</SilverTile.label>
-  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
   <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>sterile tile</SterileTile.label>
-  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
   <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>TODO</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>TODO</StrawMatting.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>tregulv</WoodPlankFloor.label>
