@@ -23,11 +23,6 @@
   <!-- EN: head -->
   <GuineaPig.tools.head.label>head</GuineaPig.tools.head.label>
   
-  <!-- UNUSED -->
-  <GuineaPig_Leather.label>guinea pig leather</GuineaPig_Leather.label>
-  <GuineaPig_Leather.description>guinea pig leather</GuineaPig_Leather.description>
-  <GuineaPig_Leather.stuffProps.stuffAdjective>guinea pig leather</GuineaPig_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: husky -->
   <Husky.label>husky</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->

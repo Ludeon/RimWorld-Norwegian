@@ -6,10 +6,6 @@
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
   <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
   
-  <!-- UNUSED -->
-  <MechCapsule.label>havarert mentalskip</MechCapsule.label>
-  <MechCapsule.description>En mystisk krasjlandet del av et romskip. Den kan inneholde eksotiske materialer, datamaskiner - ja selv AI-personligheter. Denne teknologien kan være farlig.</MechCapsule.description>
-  
   <!-- EN: ship part (psychic droner) -->
   <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->

@@ -60,9 +60,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Utpressing</RansomDemand.letterLabel>
   
-  <!-- UNUSED -->
-  <RefugeeChased.label>på flukt</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>flykting i redningskapsel</RefugeePodCrash.label>
   

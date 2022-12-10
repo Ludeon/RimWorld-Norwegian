@@ -50,12 +50,4 @@
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
   <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
-  <!-- UNUSED -->
-  <OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>
-  <OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>
-  <OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>Quest failed: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>
-  <OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>
-  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
-  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
-  
 </LanguageData>

@@ -13,9 +13,6 @@
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>samler forsyninger.</PrepareCaravan_GatherItems.reportString>
   
-  <!-- UNUSED -->
-  <PrepareCaravan_GatherPawns.reportString>forbereder seg på å dra.</PrepareCaravan_GatherPawns.reportString>
-  
   <!-- EN: taking TargetA back to a pen. -->
   <ReturnedCaravan_PenAnimals.reportString>TODO</ReturnedCaravan_PenAnimals.reportString>
   

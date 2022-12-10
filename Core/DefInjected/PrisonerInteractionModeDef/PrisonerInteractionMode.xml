@@ -6,9 +6,6 @@
   <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
   <AttemptRecruit.description>TODO</AttemptRecruit.description>
   
-  <!-- UNUSED -->
-  <Chat.label>friendly chat</Chat.label>
-  
   <!-- EN: execute -->
   <Execution.label>execution</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->

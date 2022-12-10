@@ -66,16 +66,6 @@
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
   
-  <!-- UNUSED -->
-  <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
-  
-  <!-- UNUSED -->
-  <MakeStoneBlocks.label>lag murstein</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Hugger steinklumper til brukbare murstein.</MakeStoneBlocks.description>
-  <MakeStoneBlocks.jobString>Hugger stein.</MakeStoneBlocks.jobString>
-  
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>TODO</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->

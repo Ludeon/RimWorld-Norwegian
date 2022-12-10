@@ -301,13 +301,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>Ingen av dine {0} har denne ferdigheten.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle dine {0} som har denne ferdigheten er ikke tildelt {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
-  <DesignatorSmoothFloor>Utjevn gulv</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Uthev grovt steinterreng som skal jevnes ut.</DesignatorSmoothFloorDesc>
-  <DesignatorRearmTrap>Sett opp felle</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Sett opp utløste feller så de kan brukes på nytt.</DesignatorRearmTrapDesc>
-  <TerrainBeingSmoothed>Terrenget her skal allerede jevnes ut.</TerrainBeingSmoothed>
-
 </LanguageData>

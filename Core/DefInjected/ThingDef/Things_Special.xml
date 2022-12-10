@@ -7,15 +7,8 @@
   <!-- EN: drop pod -->
   <ActiveDropPodMechanoid.label>TODO</ActiveDropPodMechanoid.label>
   
-  <!-- UNUSED -->
-  <DropPod.label>nedskytnings-kapsel</DropPod.label>
-  
   <!-- EN: fire -->
   <Fire.label>brann</Fire.label>
-  
-  <!-- UNUSED -->
-  <Puddle_Fuel.label>brennstoffpytt</Puddle_Fuel.label>
-  <Puddle_Fuel.description>Brenner opp på jorden.</Puddle_Fuel.description>
   
   <!-- EN: spark -->
   <Spark.label>gnist</Spark.label>

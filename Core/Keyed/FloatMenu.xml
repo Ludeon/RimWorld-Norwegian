@@ -558,14 +558,4 @@
   <!-- EN: Romance {0} -->
   <CanRomance>TODO</CanRomance>
 
-  <!-- UNUSED -->
-  <ConstructionSkillTooLow>byggeferdigheten for lav</ConstructionSkillTooLow>
-  <PickUp>Pick up {0}</PickUp>
-  <SociallyImproperLower>socially improper</SociallyImproperLower>
-  <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
-  <MissingSkill>skill too low</MissingSkill>
-  <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <VisitFactionBase>Visit {0}</VisitFactionBase>
-  <AttackFactionBase>Attack {0}</AttackFactionBase>
-
 </LanguageData>

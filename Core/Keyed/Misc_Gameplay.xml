@@ -1799,27 +1799,4 @@
   <!-- EN: Random -->
   <Random>TODO</Random>
 
-  <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>{0} hours until leaving</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0} hours.</ForceExitAndRemoveMapCountdownTip>
-  <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
-  <GameOverShipLaunched>You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunched>
-  <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
-  <NextTreatmentIn>Will need tending in {0}</NextTreatmentIn>
-  <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-  <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
-  <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
-  <FactionBaseTrader>{0} of {1}</FactionBaseTrader>
-  <HarvestFailed>Harvest\nfailed</HarvestFailed>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
-  <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
-  <ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
-  <Fire>Fire</Fire>
-  <MapConditionsTip>Special conditions affecting the area right now.</MapConditionsTip>
-  <TrapArmed>Armed</TrapArmed>
-  <TrapNotArmed>Not armed</TrapNotArmed>
-  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
-
 </LanguageData>

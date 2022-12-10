@@ -32,12 +32,4 @@
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
   <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
   
-  <!-- UNUSED -->
-  <OpportunitySite_ItemStash.root.nodes.4.name>asker</OpportunitySite_ItemStash.root.nodes.4.name>
-  <OpportunitySite_ItemStash.root.nodes.4.elseNode.nodes.0.name>askerIsNull</OpportunitySite_ItemStash.root.nodes.4.elseNode.nodes.0.name>
-  <OpportunitySite_ItemStash.root.nodes.6.node.name>siteThreatChance</OpportunitySite_ItemStash.root.nodes.6.node.name>
-  <OpportunitySite_ItemStash.root.nodes.6.elseNode.name>siteThreatChance</OpportunitySite_ItemStash.root.nodes.6.elseNode.name>
-  <OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.label>
-  <OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.text>Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired.</OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.text>
-  
 </LanguageData>

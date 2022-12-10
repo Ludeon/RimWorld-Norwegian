@@ -204,10 +204,5 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>kolonist</Colonist>
-  
-  
-  <!-- UNUSED -->
-  <LeatherLabel>{0} leather</LeatherLabel>
-  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
 
 </LanguageData>

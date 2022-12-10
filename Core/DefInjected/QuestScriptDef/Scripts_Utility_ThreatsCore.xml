@@ -4,29 +4,6 @@
   <!-- EN: <rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</li><li>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</li><li>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</li><li>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</li><li>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</li><li>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</li><li>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</li><li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</li><li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</li><li>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</li><li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</li><li>root->there's a [label]</li></rulesStrings> -->
   <Util_GenerateSite.root.singleSitePartRules.slateRef>TODO</Util_GenerateSite.root.singleSitePartRules.slateRef>
   
-  <!-- UNUSED -->
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.0>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.0>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.1>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</Util_GenerateSite.root.singleSitePartRules.rulesStrings.1>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.2>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</Util_GenerateSite.root.singleSitePartRules.rulesStrings.2>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.3>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.3>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.4>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.4>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.5>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.5>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.6>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.6>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.7>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</Util_GenerateSite.root.singleSitePartRules.rulesStrings.7>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.8>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.8>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.9>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.9>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.10>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.10>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.11>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.11>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.12>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.12>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.13>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.13>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.14>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.14>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.15>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</Util_GenerateSite.root.singleSitePartRules.rulesStrings.15>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.16>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</Util_GenerateSite.root.singleSitePartRules.rulesStrings.16>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.17>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</Util_GenerateSite.root.singleSitePartRules.rulesStrings.17>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.18>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.18>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.19>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.19>
-  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.20>root->there's a [label]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.20>
-  
   <!-- EN: threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats] -->
   <Util_MechCluster.questDescriptionRules.rulesStrings.0>threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats]</Util_MechCluster.questDescriptionRules.rulesStrings.0>
   
@@ -49,37 +26,5 @@
   <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.6>numGroupsOf(raidCount==3)->three groups of</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.6>
   <!-- EN: numGroupsOf(raidCount>=4)->[raidCount] groups of -->
   <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.7>numGroupsOf(raidCount>=4)->[raidCount] groups of</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.7>
-  
-  <!-- UNUSED -->
-  <Util_RaidDelayRepeatable.root.nodes.1.name>nextRaidDelayTicks</Util_RaidDelayRepeatable.root.nodes.1.name>
-  <Util_RaidDelayRepeatable.root.nodes.2.name>raidCountMinusOne</Util_RaidDelayRepeatable.root.nodes.2.name>
-  <Util_RaidDelayRepeatable.root.nodes.4.node.nodes.0.elseNode.name>nextRaidDelayTicks</Util_RaidDelayRepeatable.root.nodes.4.node.nodes.0.elseNode.name>
-  
-  <!-- UNUSED -->
-  <Util_RandomizePointsChallengeRating.root.nodes.0.name>pointsOriginal</Util_RandomizePointsChallengeRating.root.nodes.0.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.1.name>pointsFactorTwoStar</Util_RandomizePointsChallengeRating.root.nodes.1.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.1.elseNode.name>pointsFactorTwoStar</Util_RandomizePointsChallengeRating.root.nodes.1.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.2.name>pointsFactorThreeStar</Util_RandomizePointsChallengeRating.root.nodes.2.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.2.elseNode.name>pointsFactorThreeStar</Util_RandomizePointsChallengeRating.root.nodes.2.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.3.name>selectionWeightOneStar</Util_RandomizePointsChallengeRating.root.nodes.3.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.3.elseNode.name>selectionWeightOneStar</Util_RandomizePointsChallengeRating.root.nodes.3.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.4.name>selectionWeightTwoStar</Util_RandomizePointsChallengeRating.root.nodes.4.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.4.elseNode.name>selectionWeightTwoStar</Util_RandomizePointsChallengeRating.root.nodes.4.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.5.name>selectionWeightThreeStar</Util_RandomizePointsChallengeRating.root.nodes.5.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.5.elseNode.name>selectionWeightThreeStar</Util_RandomizePointsChallengeRating.root.nodes.5.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.6.name>minPointsTwoStar</Util_RandomizePointsChallengeRating.root.nodes.6.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.6.elseNode.name>minPointsTwoStar</Util_RandomizePointsChallengeRating.root.nodes.6.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.7.name>minPointsThreeStar</Util_RandomizePointsChallengeRating.root.nodes.7.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.7.elseNode.name>minPointsThreeStar</Util_RandomizePointsChallengeRating.root.nodes.7.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.8.node.name>selectionWeightThreeStar</Util_RandomizePointsChallengeRating.root.nodes.8.node.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.9.node.name>selectionWeightTwoStar</Util_RandomizePointsChallengeRating.root.nodes.9.node.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.0.nodes.0.name>challengeRating</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.0.nodes.0.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.0.nodes.1.name>pointsFactor</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.0.nodes.1.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.1.nodes.0.name>challengeRating</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.1.nodes.0.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.1.nodes.1.name>pointsFactor</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.1.nodes.1.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.2.nodes.0.name>challengeRating</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.2.nodes.0.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.10.nodes.2.nodes.1.name>pointsFactor</Util_RandomizePointsChallengeRating.root.nodes.10.nodes.2.nodes.1.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.11.elseNode.name>peacefulChallengeRating</Util_RandomizePointsChallengeRating.root.nodes.11.elseNode.name>
-  <Util_RandomizePointsChallengeRating.root.nodes.11.elseNode.node.name>challengeRating</Util_RandomizePointsChallengeRating.root.nodes.11.elseNode.node.name>
   
 </LanguageData>

@@ -12,11 +12,6 @@
   <!-- EN: right hoof -->
   <Bison.tools.right_hoof.label>right hoof</Bison.tools.right_hoof.label>
   
-  <!-- UNUSED -->
-  <Bison_Leather.label>bison leather</Bison_Leather.label>
-  <Bison_Leather.description>bison leather</Bison_Leather.description>
-  <Bison_Leather.stuffProps.stuffAdjective>bison leather</Bison_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: boomalope -->
   <Boomalope.label>pangtilope</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
@@ -63,11 +58,6 @@
   <!-- EN: right hoof -->
   <Donkey.tools.right_hoof.label>right hoof</Donkey.tools.right_hoof.label>
   
-  <!-- UNUSED -->
-  <Donkey_Leather.label>donkey leather</Donkey_Leather.label>
-  <Donkey_Leather.description>donkey leather</Donkey_Leather.description>
-  <Donkey_Leather.stuffProps.stuffAdjective>donkey leather</Donkey_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: dromedary -->
   <Dromedary.label>dromedary</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
@@ -110,11 +100,6 @@
   <!-- EN: head -->
   <Goat.tools.head.label>head</Goat.tools.head.label>
   
-  <!-- UNUSED -->
-  <Goat_Leather.label>goat leather</Goat_Leather.label>
-  <Goat_Leather.description>goat leather</Goat_Leather.description>
-  <Goat_Leather.stuffProps.stuffAdjective>goat leather</Goat_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: horse -->
   <Horse.label>horse</Horse.label>
   <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
@@ -127,11 +112,6 @@
   <Horse.tools.left_hoof.label>left hoof</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Horse.tools.right_hoof.label>right hoof</Horse.tools.right_hoof.label>
-  
-  <!-- UNUSED -->
-  <Horse_Leather.label>horse leather</Horse_Leather.label>
-  <Horse_Leather.description>horse leather</Horse_Leather.description>
-  <Horse_Leather.stuffProps.stuffAdjective>horse leather</Horse_Leather.stuffProps.stuffAdjective>
   
   <!-- EN: muffalo -->
   <Muffalo.label>muffalo</Muffalo.label>
@@ -167,10 +147,5 @@
   <Yak.tools.left_hoof.label>left hoof</Yak.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Yak.tools.right_hoof.label>right hoof</Yak.tools.right_hoof.label>
-  
-  <!-- UNUSED -->
-  <Yak_Leather.label>yak leather</Yak_Leather.label>
-  <Yak_Leather.description>yak leather</Yak_Leather.description>
-  <Yak_Leather.stuffProps.stuffAdjective>yak leather</Yak_Leather.stuffProps.stuffAdjective>
   
 </LanguageData>

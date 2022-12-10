@@ -22,11 +22,4 @@
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
   <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
-  <!-- UNUSED -->
-  <OpportunitySite_DownedRefugee.root.nodes.4.nodes.0.name>askerIsNull</OpportunitySite_DownedRefugee.root.nodes.4.nodes.0.name>
-  <OpportunitySite_DownedRefugee.root.nodes.6.node.name>siteThreatChance</OpportunitySite_DownedRefugee.root.nodes.6.node.name>
-  <OpportunitySite_DownedRefugee.root.nodes.6.elseNode.name>siteThreatChance</OpportunitySite_DownedRefugee.root.nodes.6.elseNode.name>
-  <OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.label>
-  <OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.text>[refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired.</OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.text>
-  
 </LanguageData>

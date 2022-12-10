@@ -24,8 +24,4 @@
   <!-- EN: questName->Breaking [prisoner_nameDef] Out -->
   <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.5>questName->Breaking [prisoner_nameDef] Out</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.5>
   
-  <!-- UNUSED -->
-  <OpportunitySite_PrisonerWillingToJoin.root.nodes.4.node.name>siteThreatChance</OpportunitySite_PrisonerWillingToJoin.root.nodes.4.node.name>
-  <OpportunitySite_PrisonerWillingToJoin.root.nodes.4.elseNode.name>siteThreatChance</OpportunitySite_PrisonerWillingToJoin.root.nodes.4.elseNode.name>
-  
 </LanguageData>

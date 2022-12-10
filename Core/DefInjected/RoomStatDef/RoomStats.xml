@@ -36,9 +36,6 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
   
-  <!-- UNUSED -->
-  <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
-  
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
   
@@ -65,10 +62,6 @@
   <!-- EN: wondrously impressive -->
   <Impressiveness.scoreStages.wondrously_impressive.label>unbelievably impressive</Impressiveness.scoreStages.wondrously_impressive.label>
   
-  <!-- UNUSED -->
-  <Impressiveness.scoreStages.10.label>miraculously wonderful</Impressiveness.scoreStages.10.label>
-  <Impressiveness.scoreStages.11.label>wonder of the World</Impressiveness.scoreStages.11.label>
-  
   <!-- EN: infection chance factor -->
   <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
   
@@ -94,9 +87,6 @@
   
   <!-- EN: surgery success chance cleanliness factor -->
   <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
-  
-  <!-- UNUSED -->
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
   
   <!-- EN: wealth -->
   <Wealth.label>rikdom</Wealth.label>

@@ -135,18 +135,10 @@
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>TODO</ProsthophileHappy.stages.machine_body_is_complete.description>
   
-  <!-- UNUSED -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>has a bionic bodypart</ProsthophileHappy.stages.transhumanist_pleased.label>
-  <ProsthophileHappy.stages.transhumanist_pleased.description>I'm a product of modern technology! I can do everything better!</ProsthophileHappy.stages.transhumanist_pleased.description>
-  
   <!-- EN: body modder frustrated -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>lacks a bionic bodypart</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Flesh is so limiting. I wish I had some kind of artificial body part.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
-  
-  <!-- UNUSED -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>lacks a bionic bodypart</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Flesh is so limiting. I wish I had some kind of artificial body part.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>has a bionic bodypart</ProsthophobeUnhappy.stages.body_purist_squeamish.label>

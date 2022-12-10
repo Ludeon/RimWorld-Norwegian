@@ -1322,36 +1322,4 @@
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
 
-  <!-- UNUSED -->
-  <Researched>Ferdig utforsket</Researched>
-  <ResearchMenuWithoutBench>Fram til du bygger en FORSKNINGSBENK, så vil kolonistene dine ikke gjøre noen faktisk forskning.\n\nLikevel kan du fortsatt se på og velge forsknings prosjekter nå.</ResearchMenuWithoutBench>
-  <BillRequiresNutrition>Krever {0} næring</BillRequiresNutrition>
-  <AnimalFilthRate>Dyrets skittenhet</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Dyr samler opp skitt når de går rundt på gulv. Dette er den gjennomsnittlige mengden skitt oppsamlet per {0} rute som denne skapningen har gått på.\n\nStørre eller kjæledyrlignende dyr samler opp mer skitt.</AnimalFilthRateExplanation>
-  <ConstructionSkillRequired>Påkrevd ferdighetsnivå for konstruksjon</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Krever dette ferdighetsnivået for Konstruksjon for å bygge.</ConstructionSkillRequiredExplanation>
-  <CaravanPawnIsUnreachable>{0} kan ikke nås av noen av de valgte kolonistene.</CaravanPawnIsUnreachable>
-  <SocialDrugs>Sosial narkotika</SocialDrugs>
-  <NoDrugs>Ingen narkotika</NoDrugs>
-  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
-  <Unrestricted>Ubegrenset</Unrestricted>
-  <PermadeathMode>Permanent død-modus</PermadeathMode>
-  <SurgeryRequireBed>Krever seng</SurgeryRequireBed>
-  <TradeMassUsageTooltip>Den endelige massebruken og massekapasiteten.</TradeMassUsageTooltip>
-  <CaravanConfigTab>Konfigurasjon</CaravanConfigTab>
-  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} dager med mat</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antar vi at planteetere kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Basert på den nåværende årstiden, temperaturen og omgivelsene antater vi at planteetere IKKE kan spise lokale planter. Dette kan endre seg når som helst.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <NoExitDirectionForCaravanChosen>Du må velge en utgangsretning for karavanen.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(ingen utgangsretning tilgjengelig)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Utgangsretning</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <EstimatedTimeToDestinationButton>Antatt tid til destinasjonen</EstimatedTimeToDestinationButton>
-  <CaravanSplitSourceLabel>Nåværende</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
-  <SplitCaravanMassUsageTooltip>Nåværende masseforbruk og massekapasitet.</SplitCaravanMassUsageTooltip>
-  <TransportersMassUsageTooltip>Nåværende masseforbruk og massekapasitet.\n\nDu kan ikke sende transport-pod'ene hvis forbruket er større enn kapasiteten.</TransportersMassUsageTooltip>
-  <ConfirmLeavePrisonersOrAnimalsBehind>Det er fremdeles noen fanger eller dyr igjen i dette området og dette er den eneste karavanen de kan bli med i øyeblikket.\n\nHvis du flytter karavanen vil de ikke være i stand til å forlate området til du er tilbake igjen. Fangene vil prøve å rømme, mens dyrene vil vente på deg.\n\nHvis du velger å vente vil de prøve å bli med karavanen så fort som mulig.\n\nVil du virkelig flytte karavanen?</ConfirmLeavePrisonersOrAnimalsBehind>
-
 </LanguageData>

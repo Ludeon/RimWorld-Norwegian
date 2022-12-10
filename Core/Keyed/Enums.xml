@@ -350,19 +350,5 @@
   <DrugCategory_Hard>tungt</DrugCategory_Hard>
   <!-- EN: any -->
   <DrugCategory_Any>alt</DrugCategory_Any>
-  
-  <!-- UNUSED -->
-  <ContentSource_LocalFolder>lokal katalog</ContentSource_LocalFolder>
-  <Unspecified>Ubestemt</Unspecified>
-  <Always>Tillatt</Always>
-  <QualityCategory_Shoddy>rufsete</QualityCategory_Shoddy>
-  <QualityCategory_Superior>overlegen</QualityCategory_Superior>
-  <QualityCategoryShort_Shoddy>rufs</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Superior>over</QualityCategoryShort_Superior>
-  <TrainableIntelligence_None>ingen</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>enkel</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>middels</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>avansert</TrainableIntelligence_Advanced>
-  <TechLevel_Transcendent>hinsides</TechLevel_Transcendent>
 
 </LanguageData>

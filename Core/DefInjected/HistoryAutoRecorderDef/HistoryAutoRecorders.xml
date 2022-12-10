@@ -28,10 +28,6 @@
   <Prisoners.label>fanger</Prisoners.label>
   <Prisoners.graphLabelY>Fanger</Prisoners.graphLabelY>
   
-  <!-- UNUSED -->
-  <RampUp.label>opptrapping</RampUp.label>
-  <RampUp.graphLabelY>Dager</RampUp.graphLabelY>
-  
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>TODO</ThreatPoints.label>
   <!-- EN: {0} points -->

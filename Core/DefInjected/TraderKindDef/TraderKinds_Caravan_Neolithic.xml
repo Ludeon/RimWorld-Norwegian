@@ -4,17 +4,11 @@
   <!-- EN: bulk goods trader -->
   <Caravan_Neolithic_BulkGoods.label>bulk goods trader</Caravan_Neolithic_BulkGoods.label>
   
-  <!-- UNUSED -->
-  <Caravan_Neolithic_CombatSupplier.label>combat supplier</Caravan_Neolithic_CombatSupplier.label>
-  
   <!-- EN: shaman merchant -->
   <Caravan_Neolithic_ShamanMerchant.label>TODO</Caravan_Neolithic_ShamanMerchant.label>
   
   <!-- EN: slaver -->
   <Caravan_Neolithic_Slaver.label>TODO</Caravan_Neolithic_Slaver.label>
-  
-  <!-- UNUSED -->
-  <Caravan_Neolithic_SlavesMerchant.label>slaves merchant</Caravan_Neolithic_SlavesMerchant.label>
   
   <!-- EN: war merchant -->
   <Caravan_Neolithic_WarMerchant.label>TODO</Caravan_Neolithic_WarMerchant.label>

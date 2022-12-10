@@ -12,8 +12,4 @@
   <!-- EN: There is an enemy outpost in this area. -->
   <Outpost.arrivedLetter>There is an enemy outpost in this area.</Outpost.arrivedLetter>
   
-  <!-- UNUSED -->
-  <Outpost.arrivedLetterLabel>Enemy outpost</Outpost.arrivedLetterLabel>
-  <Outpost.descriptionDialogue>there is an enemy outpost at the site guarded by {0} enemies</Outpost.descriptionDialogue>
-  
 </LanguageData>

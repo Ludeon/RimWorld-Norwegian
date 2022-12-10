@@ -8,8 +8,4 @@
   <!-- EN: There are scaria-infected manhunting animals in this area. -->
   <Manhunters.arrivedLetter>There are manhunting animals in this area.</Manhunters.arrivedLetter>
   
-  <!-- UNUSED -->
-  <Manhunters.arrivedLetterLabel>Manhunters</Manhunters.arrivedLetterLabel>
-  <Manhunters.descriptionDialogue>there is a group of {0} manhunting {1} wandering nearby</Manhunters.descriptionDialogue>
-  
 </LanguageData>

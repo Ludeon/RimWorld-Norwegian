@@ -40,11 +40,4 @@
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
   <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
   
-  <!-- UNUSED -->
-  <TradeRequest.root.nodes.3.label>Quest failed: [resolvedQuestName]</TradeRequest.root.nodes.3.label>
-  <TradeRequest.root.nodes.3.text>[faction_name] became hostile to you.</TradeRequest.root.nodes.3.text>
-  <TradeRequest.root.nodes.10.name>rewardValue</TradeRequest.root.nodes.10.name>
-  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>
-  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request?</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>
-  
 </LanguageData>

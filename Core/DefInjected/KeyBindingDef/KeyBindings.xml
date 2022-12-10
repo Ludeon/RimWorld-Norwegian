@@ -16,9 +16,6 @@
   <!-- EN: toggle power -->
   <Command_TogglePower.label>toggle power</Command_TogglePower.label>
   
-  <!-- UNUSED -->
-  <DebugTickOnce.label>tick once (debug)</DebugTickOnce.label>
-  
   <!-- EN: cancel -->
   <Designator_Cancel.label>cancel</Designator_Cancel.label>
   
@@ -159,9 +156,6 @@
   
   <!-- EN: toggle beauty display -->
   <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
-  
-  <!-- UNUSED -->
-  <ToggleLog.label>toggle log</ToggleLog.label>
   
   <!-- EN: pause/resume game -->
   <TogglePause.label>pause/resume game</TogglePause.label>

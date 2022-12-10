@@ -80,10 +80,6 @@
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
   <WoolBison.description>TODO</WoolBison.description>
   
-  <!-- UNUSED -->
-  <WoolCamel.label>kamelhår</WoolCamel.label>
-  <WoolCamel.description>Kamelhårsplagg brukes gjerne av ørkennomader, da det gir eksepsjonell varmebeskyttelse.</WoolCamel.description>
-  
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>dovendyrull</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->

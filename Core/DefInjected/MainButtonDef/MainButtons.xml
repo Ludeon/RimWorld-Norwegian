@@ -44,18 +44,10 @@
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>Studer og bestem deg for forskningerprosjekter.</Research.description>
   
-  <!-- UNUSED -->
-  <Restrict.label>Begrens</Restrict.label>
-  <Restrict.description>Begrens kolonister fra å utføre visse aktiviter bestemte tider på dagen. Du kan også angi tillatt oppholdsområde.</Restrict.description>
-  
   <!-- EN: schedule -->
   <Schedule.label>TODO</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
   <Schedule.description>TODO</Schedule.description>
-  
-  <!-- UNUSED -->
-  <Statistics.label>Statistikk</Statistics.label>
-  <Statistics.description>Gå gjennom statistikk for kolonien.</Statistics.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>Ville dyr</Wildlife.label>

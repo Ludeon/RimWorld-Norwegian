@@ -738,16 +738,4 @@
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Uten andre fraksjoner vil raid, handel og oppdrag ikke forekomme som normalt.</FactionsDisabledWarning>
 
-  <!-- UNUSED -->
-  <UnlockExtremeDifficulty>Nådeløs modus</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>Nådeløs modus er en spesiell spillmodus der hver utfordring skrus opp til ekstreme nivåer.\n\nNådeløs modus låses opp automatisk når du når bestemte milepæler. Du kan imidlertid låse den opp nå.\n\nDette alternativet anbefales bare når du har spilt et eller to vanskelige spill og ønsker å ha en god sjanse til å dø til tross for din beste innsats.</ConfirmUnlockExtremeDifficulty>
-  <Current>Nå</Current>
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-  <AvgWinterTemp>Winter temperature</AvgWinterTemp>
-  <MovementTimeNow>Current movement time</MovementTimeNow>
-  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
-
 </LanguageData>

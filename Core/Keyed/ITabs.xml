@@ -423,18 +423,4 @@
   <!-- EN: Auto-cut plants blocking wind turbine -->
   <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
 
-  <!-- UNUSED -->
-  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
-  <NoRelationships>(no relationships)</NoRelationships>
-  <PrisonerNoInteraction>No interaction</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Friendly chat</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
-  <PrisonerRelease>Release</PrisonerRelease>
-  <PrisonerExecution>Execution</PrisonerExecution>
-  <NoInjuries>(no injuries)</NoInjuries>
-  <Harvest>Harvest</Harvest>
-  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
-  <AverageArmor>Average armor</AverageArmor>
-  <ArmorElectric>Electric</ArmorElectric>
-
 </LanguageData>

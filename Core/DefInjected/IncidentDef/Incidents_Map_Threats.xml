@@ -38,11 +38,6 @@
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
   <MechCluster.letterText>TODO</MechCluster.letterText>
   
-  <!-- UNUSED -->
-  <PoisonShipPartCrash.label>giftskip landet</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterLabel>Giftskip</PoisonShipPartCrash.letterLabel>
-  <PoisonShipPartCrash.letterText>En stor bit av et eldgammelt skip har krasjlandet ikke langt unna.\n\nDets tilstedeværelse vil drepe alt planteliv i et stadig større område rundt seg.\n\nØdelegg det så fort som mulig. Men pass på – det har antakeligvis forsvarsmekanismer.</PoisonShipPartCrash.letterText>
-  
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>psykisk skip landet</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->

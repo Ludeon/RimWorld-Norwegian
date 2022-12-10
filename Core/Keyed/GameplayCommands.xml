@@ -637,11 +637,5 @@
   <SelectAllLinked>TODO</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
   <SelectAllLinkedDesc>TODO</SelectAllLinkedDesc>
-  
-  <!-- UNUSED -->
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-  <CommandAllowFiringLabel>Allow firing</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Toggle allow firing.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandAllowFiringDesc>
-  <CommandSettleFailOtherWorldObjectsHere>Your caravan must be the only object on this tile in order to settle the area.</CommandSettleFailOtherWorldObjectsHere>
 
 </LanguageData>

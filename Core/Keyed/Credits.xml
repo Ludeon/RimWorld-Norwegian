@@ -39,14 +39,4 @@
   <!-- EN: Special thanks -->
   <Credit_SpecialThanks>En spesiell takk</Credit_SpecialThanks>
 
-  <!-- UNUSED -->
-  <Credit_DirectionVarious>Planlegging, design, koding og kunst</Credit_DirectionVarious>
-  <Credit_Code>Kode</Credit_Code>
-  <Credit_AdditionalCode>Ytterligere kode</Credit_AdditionalCode>
-  <Credit_Tester>Tester</Credit_Tester>
-  <Credit_Writer>Forfatter</Credit_Writer>
-  <Credit_Translator>Oversetter</Credit_Translator>
-  <Credit_OpenSourceLibraries>Åpen kildekode-bibliotek</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>Støygenerering</Credit_NoiseGeneration>
-
 </LanguageData>

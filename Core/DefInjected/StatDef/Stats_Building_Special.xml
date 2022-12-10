@@ -11,10 +11,6 @@
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>The speed at which the door opens.</DoorOpenSpeed.description>
   
-  <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
-  
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
@@ -30,19 +26,12 @@
   <!-- EN: Medical tend quality is offset by this value. -->
   <MedicalTendQualityOffset.description>TODO</MedicalTendQualityOffset.description>
   
-  <!-- UNUSED -->
-  <MedicalTreatmentQualityFactor.label>medical treatment quality factor</MedicalTreatmentQualityFactor.label>
-  <MedicalTreatmentQualityFactor.description>Medical treatment quality is multiplied by this value.</MedicalTreatmentQualityFactor.description>
-  
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
   <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>TODO</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
-  
-  <!-- UNUSED -->
-  <ResearchSpeedFactor.parts.0.customLabel>Room cleanliness</ResearchSpeedFactor.parts.0.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>TODO</SurgerySuccessChanceFactor.label>

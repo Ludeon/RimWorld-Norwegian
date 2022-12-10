@@ -109,10 +109,6 @@
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>tredje trimester</Pregnant.stages.latestage.label>
   
-  <!-- UNUSED -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravid</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} er blitt gravid!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
-  
   <!-- EN: psychic coma -->
   <PsychicComa.label>TODO</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->

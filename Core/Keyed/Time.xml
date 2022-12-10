@@ -88,9 +88,5 @@
   <OccurredTimeAgo>skjedde {0} siden</OccurredTimeAgo>
   <!-- EN: {0} ago -->
   <TimeAgo>{0} siden</TimeAgo>
-  
-  <!-- UNUSED -->
-  <Period1Season>1 sesong</Period1Season>
-  <PeriodSeasons>{0} sesong</PeriodSeasons>
 
 </LanguageData>

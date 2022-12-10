@@ -45,9 +45,4 @@
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>right hoof</Sheep.tools.right_hoof.label>
   
-  <!-- UNUSED -->
-  <Sheep_Leather.label>sheep leather</Sheep_Leather.label>
-  <Sheep_Leather.description>sheep leather</Sheep_Leather.description>
-  <Sheep_Leather.stuffProps.stuffAdjective>sheep leather</Sheep_Leather.stuffProps.stuffAdjective>
-  
 </LanguageData>

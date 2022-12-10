@@ -107,17 +107,10 @@
   <!-- EN: physically hideous -->
   <Ugly.stages.physically_hideous.label>TODO</Ugly.stages.physically_hideous.label>
   
-  <!-- UNUSED -->
-  <Ugly.stages.ugly.label>ugly</Ugly.stages.ugly.label>
-  
   <!-- EN: sleeping alone -->
   <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
   <!-- EN: I should be sleeping with a lover or spouse. -->
   <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
-  
-  <!-- UNUSED -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>want to sleep with {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>I don't like sleeping apart from my partner.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>woman</Woman.stages.woman.label>

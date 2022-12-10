@@ -4,22 +4,13 @@
   <!-- EN: colonist mood -->
   <ColonistMood.label>kolonisthumør</ColonistMood.label>
   
-  <!-- UNUSED -->
-  <ColonistMood.graphLabelY>Prosent</ColonistMood.graphLabelY>
-  
   <!-- EN: debug -->
   <Debug.label>debug</Debug.label>
   
   <!-- EN: population -->
   <Population.label>befolkning</Population.label>
   
-  <!-- UNUSED -->
-  <Population.graphLabelY>Kolonister</Population.graphLabelY>
-  
   <!-- EN: wealth -->
   <Wealth.label>formue</Wealth.label>
-  
-  <!-- UNUSED -->
-  <Wealth.graphLabelY>mengde</Wealth.graphLabelY>
   
 </LanguageData>

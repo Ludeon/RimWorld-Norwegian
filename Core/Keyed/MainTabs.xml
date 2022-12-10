@@ -353,14 +353,4 @@
   <!-- EN: Click to edit -->
   <ClickToEdit>TODO</ClickToEdit>
 
-  <!-- UNUSED -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <CurrentOutfit>Current outfit</CurrentOutfit>
-  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
-  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
-  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
-
 </LanguageData>

@@ -34,11 +34,6 @@
   <!-- EN: head -->
   <Goose.tools.head.label>head</Goose.tools.head.label>
   
-  <!-- UNUSED -->
-  <Goose_Leather.label>goose leather</Goose_Leather.label>
-  <Goose_Leather.description>goose leather</Goose_Leather.description>
-  <Goose_Leather.stuffProps.stuffAdjective>goose leather</Goose_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: turkey -->
   <Turkey.label>turkey</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->

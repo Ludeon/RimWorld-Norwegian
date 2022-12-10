@@ -26,10 +26,6 @@
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
   <PawnBeauty.description>TODO</PawnBeauty.description>
   
-  <!-- UNUSED -->
-  <RecruitPrisonerChance.label>recruit prisoner chance</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Base chance this person will recruit a prisoner.</RecruitPrisonerChance.description>
-  
   <!-- EN: social impact -->
   <SocialImpact.label>social chat impact</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->

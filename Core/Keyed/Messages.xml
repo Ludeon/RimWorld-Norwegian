@@ -789,27 +789,4 @@
   <!-- EN: Storage settings pasted from clipboard. -->
   <StorageSettingsPastedFromClipboard>TODO</StorageSettingsPastedFromClipboard>
 
-  <!-- UNUSED -->
-  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
-  <MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{0} has failed catastrophically while operating on {1}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{0} has failed in a ridiculous way while operating on {1}.</MessageMedicalOperationFailureRidiculous>
-  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
-  <MessageRescueeJoined>Since you rescued [PAWN_objective], {0} has joined your group!</MessageRescueeJoined>
-  <MessageMustDesignateSmoothableFloor>Must designate rough stone terrain.</MessageMustDesignateSmoothableFloor>
-  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
-  <MessageFailedToSendCaravanBecausePawnLost>Failed to send the caravan because one of the colonists, prisoners or animals has been lost.</MessageFailedToSendCaravanBecausePawnLost>
-  <MessageCaravanIsVisitingFaction>{0} has arrived in {1}.</MessageCaravanIsVisitingFaction>
-  <MessageCaravanEnteredWorldObject>{0} has arrived in {1}.</MessageCaravanEnteredWorldObject>
-  <MessageAmbushVictory>Victory! In {0} hours, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageAmbushVictory>
-  <MessageAutomaticallyReformedCaravan>Your colonists have reformed the caravan.</MessageAutomaticallyReformedCaravan>
-  <MessageOldWoundHealed>Because of {0}, {1}'s {2} has healed.</MessageOldWoundHealed>
-  <MessageAttackedCaravanIsNowHostile>Because you attacked a caravan of {0}, this faction is now hostile to you.</MessageAttackedCaravanIsNowHostile>
-  <MessageTransportPodsArrived_BecameHostile>{0} is now hostile to you.</MessageTransportPodsArrived_BecameHostile>
-  <MessageFailedToLoadTransportersBecauseColonistLost>The loading process has been canceled because one of the colonists has been lost.</MessageFailedToLoadTransportersBecauseColonistLost>
-  <MessageCantAbandonLastColonist>You can't abandon the last colonist.</MessageCantAbandonLastColonist>
-  <MessageCaravanRunOutOfFood>{0} has run out of food ({1}).</MessageCaravanRunOutOfFood>
-
 </LanguageData>

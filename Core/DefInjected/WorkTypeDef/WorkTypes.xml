@@ -89,13 +89,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Slukker</Firefighter.verb>
   
-  <!-- UNUSED -->
-  <Flicker.labelShort>Klikker</Flicker.labelShort>
-  <Flicker.description>Klikk brytere. Hvis du for eksempel angir at strømmen til et kanontårn skal skrus på, må en person manuelt klikke på den tilhørende bryteren for at på strømmen skal skrus på.</Flicker.description>
-  <Flicker.pawnLabel>Klikker</Flicker.pawnLabel>
-  <Flicker.gerundLabel>Klikking av brytere</Flicker.gerundLabel>
-  <Flicker.verb>Klikker</Flicker.verb>
-  
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Så frø og høst dyrkede avlinger.</Growing.description>
   <!-- EN: growing -->
@@ -183,13 +176,6 @@
   <PlantCutting.pawnLabel>Planteklipper</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
   <PlantCutting.verb>Klipper</PlantCutting.verb>
-  
-  <!-- UNUSED -->
-  <Repair.labelShort>Reparering</Repair.labelShort>
-  <Repair.description>Reparer skadede eller ødelagte bygninger.</Repair.description>
-  <Repair.pawnLabel>Reparatør</Repair.pawnLabel>
-  <Repair.gerundLabel>Reparering</Repair.gerundLabel>
-  <Repair.verb>Reparerer</Repair.verb>
   
   <!-- EN: Perform research work. -->
   <Research.description>Forsk på de oppgavene du har utpekt.</Research.description>

@@ -38,7 +38,4 @@
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
   <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>TODO</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
   
-  <!-- UNUSED -->
-  <ThreatReward_Raid_Joiner.root.nodes.6.name>raidDelayTicks</ThreatReward_Raid_Joiner.root.nodes.6.name>
-  
 </LanguageData>

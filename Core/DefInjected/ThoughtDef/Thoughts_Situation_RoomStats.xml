@@ -67,22 +67,6 @@
   <!-- EN: My prison barracks is wonderful! I can't believe they are keeping me in a place like this. -->
   <PrisonBarracks.stages.wondrously_impressive_barracks.description>TODO</PrisonBarracks.stages.wondrously_impressive_barracks.description>
   
-  <!-- UNUSED -->
-  <PrisonBarracks.stages.awful_barrack.label>awful barrack</PrisonBarracks.stages.awful_barrack.label>
-  <PrisonBarracks.stages.awful_barrack.description>My prison barrack is an awful place.</PrisonBarracks.stages.awful_barrack.description>
-  <PrisonBarracks.stages.dull_barrack.label>repulsive barrack</PrisonBarracks.stages.dull_barrack.label>
-  <PrisonBarracks.stages.dull_barrack.description>My prison barrack is a repulsive place.</PrisonBarracks.stages.dull_barrack.description>
-  <PrisonBarracks.stages.somewhat_impressive_barrack.label>little bit impressive barrack</PrisonBarracks.stages.somewhat_impressive_barrack.label>
-  <PrisonBarracks.stages.somewhat_impressive_barrack.description>My prison barrack looks like a nice place.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
-  <PrisonBarracks.stages.very_impressive_barrack.label>impressive barrack</PrisonBarracks.stages.very_impressive_barrack.label>
-  <PrisonBarracks.stages.very_impressive_barrack.description>My prison barrack is impressive. I like it.</PrisonBarracks.stages.very_impressive_barrack.description>
-  <PrisonBarracks.stages.extremely_impressive_barrack.label>very impressive barrack</PrisonBarracks.stages.extremely_impressive_barrack.label>
-  <PrisonBarracks.stages.extremely_impressive_barrack.description>My prison barrack is very impressive. I like it.</PrisonBarracks.stages.extremely_impressive_barrack.description>
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>extremely impressive barrack</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
-  <PrisonBarracks.stages.wondrously_impressive_barrack.label>unbelievably impressive barrack</PrisonBarracks.stages.wondrously_impressive_barrack.label>
-  <PrisonBarracks.stages.wondrously_impressive_barrack.description>My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
-  
   <!-- EN: awful prison cell -->
   <PrisonCell.stages.awful_prison_cell.label>awful prison cell</PrisonCell.stages.awful_prison_cell.label>
   <!-- EN: My prison cell is an awful place. -->

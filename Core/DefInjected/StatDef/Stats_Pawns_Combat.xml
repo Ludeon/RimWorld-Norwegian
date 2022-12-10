@@ -43,10 +43,6 @@
   <!-- EN: Chance to spring a trap the character is unaware of. -->
   <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
   
-  <!-- UNUSED -->
-  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Base chance to not miss per square of shot distance.</ShootingAccuracy.description>
-  
   <!-- EN: accuracy factor (long) -->
   <ShootingAccuracyFactor_Long.label>TODO</ShootingAccuracyFactor_Long.label>
   <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->

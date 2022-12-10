@@ -100,12 +100,6 @@
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
   <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] føler seg konstant nervøs rundt alt det som skal ordnes. [PAWN_pronoun] vil arbeide ekstremt hardt for å opprettholde tingene på sin måte, men [PAWN_possessive] nerver kan ramme [PAWN_objective] hardt.</Neurotic.degreeDatas.very_neurotic.description>
   
-  <!-- UNUSED -->
-  <Prettiness.degreeDatas.0.label>beautiful</Prettiness.degreeDatas.0.label>
-  <Prettiness.degreeDatas.0.description>[PAWN_nameDef] is exceptionally beautiful, which makes everyone like [PAWN_objective].</Prettiness.degreeDatas.0.description>
-  <Prettiness.degreeDatas.1.label>ugly</Prettiness.degreeDatas.1.label>
-  <Prettiness.degreeDatas.1.description>[PAWN_nameDef] is staggeringly ugly, which socially repels others.</Prettiness.degreeDatas.1.description>
-  
   <!-- EN: psychically hypersensitive -->
   <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psykisk hypersensitiv</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
@@ -144,15 +138,5 @@
   <SpeedOffset.degreeDatas.jogger.label>jogger</SpeedOffset.degreeDatas.jogger.label>
   <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
   <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] beveger seg altid som om, det var ingen tid å spille - så raskt, at andre ofte faller etter.</SpeedOffset.degreeDatas.jogger.description>
-  
-  <!-- UNUSED -->
-  <TemperaturePreference.degreeDatas.0.label>cold lover</TemperaturePreference.degreeDatas.0.label>
-  <TemperaturePreference.degreeDatas.0.description>[PAWN_nameDef]'s body produces tremendous amounts of heat. [PAWN_pronoun] is comfortable in temperatures which would make anyone else shiver, but [PAWN_pronoun] doesn't like heat.</TemperaturePreference.degreeDatas.0.description>
-  <TemperaturePreference.degreeDatas.1.label>cold tolerant</TemperaturePreference.degreeDatas.1.label>
-  <TemperaturePreference.degreeDatas.1.description>[PAWN_nameDef] handles cool temperatures better than most.</TemperaturePreference.degreeDatas.1.description>
-  <TemperaturePreference.degreeDatas.2.label>heat tolerant</TemperaturePreference.degreeDatas.2.label>
-  <TemperaturePreference.degreeDatas.2.description>[PAWN_nameDef] handles warm temperatures better than most.</TemperaturePreference.degreeDatas.2.description>
-  <TemperaturePreference.degreeDatas.3.label>heat lover</TemperaturePreference.degreeDatas.3.label>
-  <TemperaturePreference.degreeDatas.3.description>[PAWN_nameDef] loves hot weather - but [PAWN_pronoun] doesn't handle cold very well.</TemperaturePreference.degreeDatas.3.description>
   
 </LanguageData>

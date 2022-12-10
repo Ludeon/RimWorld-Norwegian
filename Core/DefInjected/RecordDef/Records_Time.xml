@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- UNUSED -->
-  <TimeAsColonist.label>time as a colonist</TimeAsColonist.label>
-  <TimeAsColonist.description>Total time spent as a colonist.</TimeAsColonist.description>
-  
+
   <!-- EN: time as a colonist -->
   <TimeAsColonistOrColonyAnimal.label>TODO</TimeAsColonistOrColonyAnimal.label>
   <!-- EN: Total time spent loyal to your community. -->

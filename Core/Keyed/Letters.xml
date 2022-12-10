@@ -566,30 +566,4 @@
   <!-- EN: Accept -->
   <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
 
-  <!-- UNUSED -->
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
-  <RelationsBrokenDown>Relations with {0} have broken down. They are now hostile to you.</RelationsBrokenDown>
-  <RelationsWarmed>Relations have with {0} have warmed. They are no longer hostile to you.</RelationsWarmed>
-  <RelationsBrokenCapture>Because you captured {0}, {1} is now your enemy.</RelationsBrokenCapture>
-  <ColonyGoodwill>Colony goodwill</ColonyGoodwill>
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
-  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
-  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
-  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
-  <LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
-  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
-  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
-
 </LanguageData>

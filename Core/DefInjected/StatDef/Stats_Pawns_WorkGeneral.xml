@@ -36,18 +36,10 @@
   <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
   <DrugHarvestYield.description>TODO</DrugHarvestYield.description>
   
-  <!-- UNUSED -->
-  <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
-  
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>TODO</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
   <FixBrokenDownBuildingSuccessChance.description>TODO</FixBrokenDownBuildingSuccessChance.description>
-  
-  <!-- UNUSED -->
-  <HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-  <HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
   
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>TODO</HuntingStealth.label>

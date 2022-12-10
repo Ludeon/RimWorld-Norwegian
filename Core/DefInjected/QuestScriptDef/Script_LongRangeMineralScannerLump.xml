@@ -46,11 +46,4 @@
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
   <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>TODO</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
-  <!-- UNUSED -->
-  <LongRangeMineralScannerLump.root.nodes.2.node.name>siteThreatChance</LongRangeMineralScannerLump.root.nodes.2.node.name>
-  <LongRangeMineralScannerLump.root.nodes.2.elseNode.name>siteThreatChance</LongRangeMineralScannerLump.root.nodes.2.elseNode.name>
-  <LongRangeMineralScannerLump.root.nodes.7.name>timeoutTicks</LongRangeMineralScannerLump.root.nodes.7.name>
-  <LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.label>Quest expired: [resolvedQuestName]</LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.label>
-  <LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.text>Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired.</LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.text>
-  
 </LanguageData>
