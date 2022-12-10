@@ -17,7 +17,7 @@
   <!-- EN: Options -->
   <Options>Instillinger</Options>
   <!-- EN: Mod -->
-  <Mod>TODO</Mod>
+  <Mod>Mod</Mod>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
@@ -27,11 +27,11 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Ryddopp oversettelsesfiler</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Oppdater oversettelsesfiler (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Rengjøring av oversettelsesfiler</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
-  <DevQuickTest>TODO</DevQuickTest>
+  <DevQuickTest>Dev hurtigtest</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>Kreditter</Credits>
   <!-- EN: Quit to main menu -->
@@ -81,7 +81,7 @@
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Lagre og ferdig</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>TODO</ResetFactions>
+  <ResetFactions>Nullstill fraksjoner</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Klodedekning</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -89,7 +89,7 @@
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Generelt temperatur</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>Befolkning</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Lav</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -103,11 +103,11 @@
   <!-- EN: High -->
   <PlanetTemperature_High>Høy</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Spredd</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>Tett</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Seed</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -153,67 +153,67 @@
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Er du sikker på at du vil slette alt innholdet for {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>Autosorter mods</ResolveModOrder>
   <!-- EN: Save and apply changes -->
-  <SaveModChanges>TODO</SaveModChanges>
+  <SaveModChanges>Lagre og bruk endringer</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
-  <DiscardModChanges>TODO</DiscardModChanges>
+  <DiscardModChanges>Mod-endringer har ikke blitt lagret. Er du sikker på at du vil fortsette?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>Kan ikke flytte {0}: Den må lastes inn etter {1}.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>Kan ikke flytte {0}: Den må lastes inn før {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Avslutte abonnementet</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe? -->
-  <ConfirmUnsubscribe>Er du sikker på at du vil avslutte abonnementet på {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Er du sikker på at du vil avslutte abonnementet?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFrom>Er du sikker på at du vil avslutte abonnementet på {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
-  <ConfirmUnsubscribeFromMultiple>TODO</ConfirmUnsubscribeFromMultiple>
+  <ConfirmUnsubscribeFromMultiple>Er du sikker på at du vil avslutte abonnementet på:\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Forfatter</Author>
   <!-- EN: Enabled -->
-  <Enabled>TODO</Enabled>
+  <Enabled>Aktivert</Enabled>
   <!-- EN: Disabled -->
-  <Disabled>TODO</Disabled>
+  <Disabled>Deaktivert</Disabled>
   <!-- EN: Enable -->
-  <Enable>TODO</Enable>
+  <Enable>Aktiver</Enable>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>Deaktiver</Disable>
   <!-- EN: Get mods from... -->
-  <GetMods>TODO</GetMods>
+  <GetMods>Hent mods fra ...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>TODO</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Avslutt abonnement på ...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
-  <SaveLoadList>TODO</SaveLoadList>
+  <SaveLoadList>Lagre / last inn liste</SaveLoadList>
   <!-- EN: Save mod list -->
-  <SaveModList>TODO</SaveModList>
+  <SaveModList>Lagre mod-liste</SaveModList>
   <!-- EN: Load mod list -->
-  <LoadModList>TODO</LoadModList>
+  <LoadModList>Last inn mod-liste</LoadModList>
   <!-- EN: Added mods -->
-  <AddedModsList>TODO</AddedModsList>
+  <AddedModsList>Tillagte mods</AddedModsList>
   <!-- EN: Missing mods -->
-  <MissingModsList>TODO</MissingModsList>
+  <MissingModsList>Manglende mods</MissingModsList>
   <!-- EN: Shared mods -->
-  <SharedModsList>TODO</SharedModsList>
+  <SharedModsList>Delte mods</SharedModsList>
   <!-- EN: Website -->
-  <ModWebsite>TODO</ModWebsite>
+  <ModWebsite>Nettside</ModWebsite>
   <!-- EN: Open folder -->
-  <ModFolder>TODO</ModFolder>
+  <ModFolder>Åpne mappe</ModFolder>
   <!-- EN: Mod options -->
-  <ModOptions>TODO</ModOptions>
+  <ModOptions>Mod-innstillinger</ModOptions>
   <!-- EN: Workshop -->
-  <FromWorkshop>TODO</FromWorkshop>
+  <FromWorkshop>Workshop</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>TODO</FromForum>
+  <FromForum>Forum</FromForum>
   <!-- EN: Advanced... -->
-  <MoreActions>TODO</MoreActions>
+  <MoreActions>Avansert ...</MoreActions>
   <!-- EN: All selected mods -->
-  <AllSelectedMods>TODO</AllSelectedMods>
+  <AllSelectedMods>Alle valgte mods</AllSelectedMods>
   <!-- EN: All disabled mods -->
-  <AllDisabledMods>TODO</AllDisabledMods>
+  <AllDisabledMods>Alle deaktiverte mods</AllDisabledMods>
   <!-- EN: All incompatible mods -->
-  <AllIncompatibleMods>TODO</AllIncompatibleMods>
+  <AllIncompatibleMods>Alle inkompatible mods</AllIncompatibleMods>
   <!-- EN: Workshop page -->
   <WorkshopPage>Workshop nettside</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -229,67 +229,67 @@
   <!-- EN: Downloading -->
   <Downloading>Laster ned</Downloading>
   <!-- EN: Workshop ID -->
-  <WorkshopId>TODO</WorkshopId>
+  <WorkshopId>Workshop ID</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Vis oppfylte krav</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>Trykk for å velge.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Trykk for å gå til nettside.</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Kilde</Source>
   <!-- EN: Game versions -->
   <ModTargetVersion>For versjon: {0}</ModTargetVersion>
   <!-- EN: Mod version -->
-  <ModVersion>TODO</ModVersion>
+  <ModVersion>Mod-versjon</ModVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>Denne må lastes inn før: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>Denne må lastes inn etter: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>Avhenger av: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>Inkompatibel med: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Denne modden er inkompatibel med: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>Denne modden lastes inn i feil rekkefølge i forhold til en annen mod. Bruk 'autosorter'-knappen, eller omorganiser moddene manuelt.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>En annen aktiv mod bruker den samme ID-en: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>Det finnes en syklisk mod-avhengighet som starter med {0}.</ModCyclicDependency>
   <!-- EN: This requires the following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Denne krever følgende mods for å fungere: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Denne moden ble ikke laget for denne versjonen av RimWorld, og vil sannsynligvis ikke fungere riktig.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Denne modden er ikke laget for denne versjonen av RimWorld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Denne modden ble laget for en nyere versjon av RimWorld enn dette, og vil sannsynligvis ikke fungere riktig.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod trenger en godt formatert målversjon i about.xml. Som dette: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod trenger en godt formatert målversjon i About.xml. Som dette: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Mod trenger en unik, riktig formatert packageId i About.xml. Den må oppfylle følgende krav:\n\n - Kun alfanumeriske tegn og punktum.\n - Ingen mellomrom.\n - Minst ett punktum.\n - Ingen gjentatte punktum på rad, eller start eller avslutning med punktum.\n - 60 tegn eller mindre.\n - Kan ikke inneholde ordet "Ludeon".\n\nFor eksempel:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Denne modden har problemer i LoadFolders.xml, som du må løse før opplasting:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Mappe {0} spesifisert for versjon {1} eksisterer ikke.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Misdannet versjonsstreng '{0}'. Riktig format er Stor.Liten (f.eks. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Listen over innlastings-mapper for versjon {0} er tom.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Versjon {0} viser den samme mappen mer enn én gang: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Ugyldig versjonsrekkefølge: {0} bør komme før {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Ugyldig versjonsrekkefølge: 'standard' bør defineres først.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Bruk av 'standard' i innlastingsmapper er utdatert. Vennligst definer mapper for hver versjon ved å bruke v...-taggene.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versjon {0} er definert i innlastingsmapper, men er ikke oppført i 'supportedVersions' i moddens About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Dra for å omorganisere</DragToReorder>
 
@@ -297,7 +297,7 @@
   <!-- EN: Choose scenario -->
   <ChooseScenario>Velg scenario</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ScenariosCustom>Egendefinert</ScenariosCustom>
   <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
@@ -325,13 +325,13 @@
   <!-- EN: Incompatible -->
   <Incompatible>Uforenlig</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>TODO</TagAsTranslation>
+  <TagAsTranslation>Merk som oversettelse</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>For mange (maks. {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Kan oppdateres på Workshop, fordi du er forfatteren.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
-  <ScenarioChangedSavePrompt>TODO</ScenarioChangedSavePrompt>
+  <ScenarioChangedSavePrompt>Dette scenariet har blitt redigert.\n\nVil du lagre det før du fortsetter?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -341,9 +341,9 @@
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Velg en vanskelighetsinnstilling.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>Difficulty</Difficulty>
+  <Difficulty>Vanskelighetsgrad</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>Ironman</CommitmentMode>
+  <CommitmentMode>Forpliktelsesmodus</CommitmentMode>
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>Vanlig</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
@@ -357,175 +357,175 @@
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>Egendefinerte spillestil-innstillinger</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>TODO</DifficultyReset>
+  <DifficultyReset>Sett til standard spillestil ...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>TODO</DifficultyThreatSection>
+  <DifficultyThreatSection>Trusler</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>Trusselskala</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>Juster størrelsen på trusler som plyndring og angrep, og vanskelighetsgraden på oppdrag.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>TODO</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>Store trusler</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>Tillat store trusler som plyndring, angrep, mannevonde-flokker, havarerte mekanoidskip og mer.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>TODO</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>Oppdragstrusler</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>Tillat oppdrag å inneholde voldelige trusler og utfordringer. Hvis dette er deaktivert, vil oppdrag bli endret til å være ikke-voldelige.</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>TODO</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>Intro-trusler</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>Aktiver de planlagte intro-truslene som forekommer ved spillets start.</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>TODO</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>Rovdyr jakter på mennesker</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>TODO</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Tillat ville rovdyr å jakte på mennesker.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>TODO</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Ekstremvær</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Tillat ekstreme værhendelser som giftig nedfall, vulkanske vintre og styrtstormer.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection>TODO</DifficultyEconomySection>
+  <DifficultyEconomySection>Økonomi</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>Handelspris-ulempe</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>TODO</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>Ved handel øker kjøpsprisene med dette beløpet mens salgsprisene reduseres med dette beløpet.</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>TODO</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>Innhøstingsutbytte</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>TODO</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>Juster mengden materialer som produseres når du høster planter og avlinger. Dette inkluderer høsting av planter og kutting av trær.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>TODO</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>Gravingsutbytte</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>TODO</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>Juster mengden materialer som produseres ved graving.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>TODO</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Slaktutbytte</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>Juster mengden materialer som produseres ved slakting. Dette inkluderer kjøtt, lær og utbytte fra makulering av mekanoider.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>TODO</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>Forskningshastighet</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>TODO</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>Juster hastigheten på forskning.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>TODO</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Oppdragsbelønninger</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Juster verdien av belønninger gitt for oppdrag.\n\nMerk: Oppdragsbelønningsverdien skaleres også automatisk for å kompensere for trusselskalaen. Hvis du justerer denne innstillingen, vil du legge til en ekstra multiplikator.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>TODO</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>Plyndringsutbytte</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>TODO</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>Juster verdien på tyvegods som plyndrere har med seg.\n\nMerk: Plyndringsutbytte-verdien skaleres også automatisk for å kompensere for trusselskalaen. Hvis du justerer denne innstillingen, vil du legge til en ekstra multiplikator.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>TODO</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>Kanontårns rearmeringskostnad</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Juster kostnaden på rearmering av kanontårn.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>TODO</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Scaria-råtningssjanse</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>Sannsynligheten for at et lik umiddelbart vil råtne ved død, hvis vesenet har scariasykdommen.\n\nMerk: Standardinnstillingene er designet for å nøyaktig utbalansere økningen i antall dyr ved høyere vanskeligheter, slik at alle spillere får de samme kjøttbelønningene.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Fiendedød når nedslått</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Juster den ekstra sjansen for at en fiende umiddelbart vil dø når de blir slått ned. Dette påvirker sjansene for å kunne ta fanger, og dermed også koloniens befolkningsvekst.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>TODO</DifficultyGeneralSection>
+  <DifficultyGeneralSection>Generelt</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>TODO</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>Kolonisthumør</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>En permanent humørforskyvning anvendt på hver kolonist og fange. Kolonister har et humørutgangspunkt på 50 %.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>TODO</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>Matforgiftningssjanse</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>Juster sjansen for at en person vil få matforgiftning av å spise et potensielt-forgiftet måltid.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>TODO</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Dyrehevnssjanse</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>TODO</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Juster sjansen for at skade på et vilt dyr vil føre til at det angriper.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>TODO</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>Vennlig ild</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Juster sjansen for vennlig ild.\n\nMerk: Denne innstillingen påvirker bare direkte skudd som skulle treffe målet deres. Det forhindrer ikke skade fra eksplosjoner, eller fra skudd som skulle bomme på målet.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>TODO</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>Kolonister dør umiddelbart</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Juster sjansen for at en kolonist kan dø umiddelbart av et angrep. Den innkommende skaden justeres slik at den vil slå ned kolonisten i stedet.\n\nDette forhindrer bare noen typer umiddelbare drap - kolonister kan fortsatt bli nedslått og blø i hjel, dø av brann, eksplosjoner, sykdom, og så videre.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Infeksjonssjanse</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Juster sjansen for at et sår vil bli infisert.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Sykdomsfrekvens</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Juster frekvensen av tilfeldige sykdomshendelser.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>Insektgytingshastighet</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>TODO</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Juster hastigheten som eksisterende insektkuber gyter nye insekter med. Lavere verdier betyr mer tid mellom gytehendelser.\n\nDette påvirker ikke forekomsten av insektangrep - kun hastigheten som aktive kuber produserer insekter med.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>TODO</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Insektangrep fra dypboring</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>TODO</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Juster sjansen for at dypboring vil utløse et insektangrep.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>TODO</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>Kartgenerasjon av antikke trusler</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>TODO</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>Antikke strukturer kan inneholde farlige trusler.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>TODO</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>Kartgenerasjon av naturlige insektkuber</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Dvalende insektkuber kan forekomme i naturlige grotter.\n\nDenne innstillingen gjelder kun kartgenerering og påvirker ikke aktive insekter som kan komme opp fra bakken underveis i spillet.</Difficulty_AllowCaveHives_Info>
   <!-- EN: Add unwavering prisoners -->
-  <Difficulty_UnwaveringPrisoners_Label>TODO</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Label>Legg til urokkelige fanger</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
-  <Difficulty_UnwaveringPrisoners_Info>TODO</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Denne innstillingen legger til flere fanger i spillet som kan fanges, men ikke rekrutteres på grunn av deres urokkelige lojalitet.\n\nUrokkelige fanger blir lagt til som et tillegg til vanlige fanger, så å slå av dette vil ikke gi flere rekrutterbare fanger - det vil kun fjerne de urokkelige. \n\nUrokkelige fanger kan fremdeles løslates for diplomatiske fordeler, selges, slavebindes, høstes for organer, eller benyttes til annet bruk. Generelt tilbyr de flere alternativer og ressurser, og gjør spillet litt enklere og rikere.</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>TODO</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>Spillerverktøy</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>TODO</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>Spiller kan bygge feller</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>TODO</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Spiller kan bygge feller som bjørnefeller og IED-feller.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>TODO</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>Spiller kan bygge kanontårn</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>TODO</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Spiller kan bygge statiske tårn som improviserte kanontårn, autokanoner og urangønnertårn.\n\nDu kan fortsatt bruke erobrede kanontårn selv om dette er deaktivert.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>TODO</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>Spiller kan bygge mortere</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>TODO</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>Spiller kan bygge mortere.\n\nDu kan fortsatt bruke erobrede mortere selv om dette er deaktivert.</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>Klassiske mortere</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>Mortere vil ikke kreve forsterkede kanonløp for å konstruere eller lade om, og balanseres for denne lettere tilgangen.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>TODO</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>Tilpasning</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Tilpasning-veksthastighet</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Tilpasning betyr at fortelleren gjør spillet mer utfordrende når du gjør det bra. En tilpasningsscore vokser over tid, og blir redusert når du tar skade.\n\nDenne innstillingen justerer hvor raskt tilpasningsscoren vokser over tid.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Adaptation impact -->
-  <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>Tilpasningsinnvirkning</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
-  <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>Tilpasning betyr at fortelleren gjør spillet mer utfordrende når du gjør det bra. En tilpasningsscore vokser over tid, og blir redusert når du tar skade.\n\nDenne innstillingen justerer hvor mye tilpasningsscoren påvirker vanskelighetsgraden.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Formueuavhengig fremdriftsmodus</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Spill i en formueuavhengig fremdriftsmodus.\n\nI vanlig modus skalerer historiefortelleren trusler i henhold til kolonistantall, spillerrikdom, og en rekke andre faktorer. Formueuavhengig modus fjerner formuefaktoren og erstatter den med en fastsatt fremdriftskurve basert på tid. Tiden regnes fra grunnleggelsen av hver koloni.\n\nDette anbefales kun for de som leter etter en streng utfordring som vil sette ferdighetene på prøve. I formueuavhengig modus kan det være nesten umulig å komme seg etter alvorlige tap, med mindre du oppretter en ny bosetning. Men det er også mulig å komme for langt foran kurven, og dermed finne spillet for enkelt.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>År til maksimal trussel</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>Antall spillår til den formueuavhengige modusen når sitt maksimale trusselnivå.\n\nVær oppmerksom på at historiefortelleren fortsatt vil skalere trusler i henhold til kolonistantall og en rekke andre faktorer.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>TODO</DifficultyIdeologySection>
+  <DifficultyIdeologySection>Ideologi</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Label>Lav pop-konverteringsøkning</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>TODO</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>Med en enkelt kolonist av spillerens starts-ideoligion, multipliseres sjansen for konvertering til deres ideoligion med denne mengden. Konverteringsforsøk mot dem har deres innvirkning delt på den mengden.\n\nMed to kolonister av spillerens starts-ideoligion, halveres effekten.\n\nMed tre eller flere kolonister av spillerens starts-ideoligion, har dette ingen effekt.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -563,7 +563,7 @@
   <!-- EN: Fertility -->
   <Fertility>Fruktbarhet</Fertility>
   <!-- EN: fertility -->
-  <FertilityLower>TODO</FertilityLower>
+  <FertilityLower>fruktbarhet</FertilityLower>
   <!-- EN: Average temperature -->
   <AvgTemp>Gjennomsnittstemperatur</AvgTemp>
   <!-- EN: Rainfall -->
@@ -599,9 +599,9 @@
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valgte personene kan utføre følgende jobber:\n\n{0}\n\nDette kan gjøre spillet vanskeligere enn vanlig. Er du sikker på at du vil fortsette?</ConfirmRequiredWorkTypeDisabledForEveryone>
   <!-- EN: temperature -->
-  <TemperatureLower>TODO</TemperatureLower>
+  <TemperatureLower>temperatur</TemperatureLower>
   <!-- EN: light -->
-  <LightLower>TODO</LightLower>
+  <LightLower>lys</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
@@ -617,31 +617,31 @@
   <!-- EN: age {0} -->
   <AgeIndicator>alder {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, {PAWN_ageFull} år</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, {PAWN_ageFull} år</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Bakgrunn</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Ute av stand til</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>Evner</Abilities>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Forårsaket av</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Deaktiverte arbeidstyper:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by backstory -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Forårsaket av bakgrunn</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Forårsaket av tittel</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Forårsaket av egenskap</IncapableOfTooltipTrait>
   <!-- EN: Caused by quest status -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Forårsaket av oppdragsstatus</IncapableOfTooltipQuest>
   <!-- EN: Caused by role -->
-  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Forårsaket av rolle</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
-  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
+  <IncapableOfTooltipGene>Forårsaket av gen</IncapableOfTooltipGene>
   <!-- EN: Traits -->
   <Traits>Egenskaper</Traits>
   <!-- EN: Permanent mood effect -->
@@ -659,7 +659,7 @@
   <!-- EN: female -->
   <Female>kvinne</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>TODO</MaleAndFemale>
+  <MaleAndFemale>mann og kvinne</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>hann</MaleAnimal>
   <!-- EN: female -->
@@ -671,7 +671,7 @@
   <!-- EN: Relations -->
   <Relations>Relasjoner</Relations>
   <!-- EN: Possessions -->
-  <Possessions>TODO</Possessions>
+  <Possessions>Eiendeler</Possessions>
   <!-- EN: Team skills -->
   <TeamSkills>Teamferdigheter</TeamSkills>
   <!-- EN: Selected -->
@@ -679,7 +679,7 @@
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Etterlatt</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>TODO</GuiltyDesc>
+  <GuiltyDesc>Denne kolonisten anses som skyldig. Du kan fritt velge å forvise, henrette eller arrestere dem, og andre vil ikke plages.\n\nSkyld utløper om</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -691,7 +691,7 @@
   <!-- EN: Back -->
   <Back>Forrige</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>TODO</ShowMaterials>
+  <ShowMaterials>Endre materiale ...</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Gameplay</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
@@ -716,27 +716,27 @@
   <GeneratingMapForNewEncounter>Generer kart for nytt møte</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info. -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>Trykk for mer info.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Ingen mer info er tilgjengelig.</NoMoreInfoAvailable>
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>TODO</Factions>
+  <Factions>Fraksjoner</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
+  <TotalFactionsAllowed>maks {0} vanlige fraksjoner tillatt</TotalFactionsAllowed>
   <!-- EN: max {0} -->
-  <MaxFactionsForType>TODO</MaxFactionsForType>
+  <MaxFactionsForType>maks {0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>TODO</FactionSelectionDesc>
+  <FactionSelectionDesc>Velg fraksjonene for verdenen. Du kan velge inntil {0} fraksjoner totalt.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>Deaktivering av {0} betyr mindre oppdragsvariasjon og annet redusert innhold.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>Deaktivering av {0} betyr mindre spontan trusselvariasjon.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Deaktivering av {0} betyr færre oppdrag og mindre spontan trusselvariasjon.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Uten andre fraksjoner vil raid, handel og oppdrag ikke forekomme som normalt.</FactionsDisabledWarning>
 
   <!-- UNUSED -->
   <UnlockExtremeDifficulty>Nådeløs modus</UnlockExtremeDifficulty>

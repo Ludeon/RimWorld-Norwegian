@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: attacking settlement -->
-  <AttackingSettlement.label>attacking settlement</AttackingSettlement.label>
+  <AttackingSettlement.label>angriper bosetning</AttackingSettlement.label>
   
   <!-- EN: natural enemy -->
-  <NaturalEnemy.label>natural enemy</NaturalEnemy.label>
+  <NaturalEnemy.label>naturlig fiende</NaturalEnemy.label>
   
   <!-- EN: permanently hostile -->
-  <PermanentEnemy.label>permanently hostile</PermanentEnemy.label>
+  <PermanentEnemy.label>permanent fiendtlig</PermanentEnemy.label>
   
 </LanguageData>

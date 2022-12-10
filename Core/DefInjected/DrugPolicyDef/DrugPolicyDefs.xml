@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: no drugs -->
-  <NoDrugs.label>no drugs</NoDrugs.label>
+  <NoDrugs.label>ingen rusmidler</NoDrugs.label>
   
   <!-- EN: one drink per day -->
-  <OneDrinkPerDay.label>one drink per day</OneDrinkPerDay.label>
+  <OneDrinkPerDay.label>én drink per dag</OneDrinkPerDay.label>
   
   <!-- EN: social drugs -->
-  <SocialDrugs.label>social drugs</SocialDrugs.label>
+  <SocialDrugs.label>sosiale rusmidler</SocialDrugs.label>
   
   <!-- EN: unrestricted -->
-  <Unrestricted.label>unrestricted</Unrestricted.label>
+  <Unrestricted.label>ubegrenset</Unrestricted.label>
   
 </LanguageData>

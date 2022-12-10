@@ -72,9 +72,9 @@
   <Legs.label>ben</Legs.label>
   
   <!-- EN: middle finger -->
-  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <MiddleFingers.label>langfinger</MiddleFingers.label>
   <!-- EN: finger -->
-  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
+  <MiddleFingers.labelShort>finger</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
   <Mouth.label>munn</Mouth.label>

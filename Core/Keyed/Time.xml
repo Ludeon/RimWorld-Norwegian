@@ -10,12 +10,12 @@
   <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
   <!-- EN: y -->
-  <LetterYear>TODO</LetterYear>
+  <LetterYear>å</LetterYear>
 
   <!-- EN: days -->
   <DaysLower>dager</DaysLower>
   <!-- EN: hours -->
-  <HoursLower>TODO</HoursLower>
+  <HoursLower>timer</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower>sekunder</SecondsLower>
 
@@ -28,27 +28,27 @@
   <!-- EN: winter -->
   <SeasonWinter>Vinter</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>permanent sommer</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>permanent vinter</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <QuadrumAprimay>Aprimai</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>TODO</QuadrumJugust>
+  <QuadrumJugust>Jugust</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>TODO</QuadrumDecembary>
+  <QuadrumDecembary>Desembuar</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>Des</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>Født: {0} {1} {2}</Born>
@@ -63,9 +63,9 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0} år</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>TODO</Period1Quadrum>
+  <Period1Quadrum>1 kvadrum</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <PeriodQuadrums>{0} kvadrumer</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>1 dag</Period1Day>
   <!-- EN: {0} days -->
@@ -75,9 +75,9 @@
   <!-- EN: {0} hours -->
   <PeriodHours>{0} timer</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 sekund</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} sekunder</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
@@ -87,7 +87,7 @@
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>skjedde {0} siden</OccurredTimeAgo>
   <!-- EN: {0} ago -->
-  <TimeAgo>TODO</TimeAgo>
+  <TimeAgo>{0} siden</TimeAgo>
   
   <!-- UNUSED -->
   <Period1Season>1 sesong</Period1Season>

@@ -17,9 +17,9 @@
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Frivillige</Credits_TitleCommunity>
   <!-- EN: Community testers -->
-  <Credits_TitleTester>TODO</Credits_TitleTester>
+  <Credits_TitleTester>Community-spilltestere</Credits_TitleTester>
   <!-- EN: Mods -->
-  <Credits_TitleMods>TODO</Credits_TitleMods>
+  <Credits_TitleMods>Mods</Credits_TitleMods>
   <!-- EN: Mod donor -->
   <Credit_ModDonation>Donering - modifikasjoner</Credit_ModDonation>
   <!-- EN: Writing donor -->
@@ -29,7 +29,7 @@
   <!-- EN: Wiki master -->
   <Credit_WikiMaster>Wikimester</Credit_WikiMaster>
   <!-- EN: Test lead -->
-  <Credit_TestLead>TODO</Credit_TestLead>
+  <Credit_TestLead>Testleder</Credit_TestLead>
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} språk</Credits_TitleLanguage>
   <!-- EN: Thanks for playing! -->

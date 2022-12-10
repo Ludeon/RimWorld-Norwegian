@@ -8,7 +8,7 @@
   <ColonistMood.graphLabelY>Prosent</ColonistMood.graphLabelY>
   
   <!-- EN: debug -->
-  <Debug.label>TODO</Debug.label>
+  <Debug.label>debug</Debug.label>
   
   <!-- EN: population -->
   <Population.label>befolkning</Population.label>
