@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Autolagrer</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <GameStartDialog>Dere våkner i dvale-sarkofagene deres til lyden av sirener og rivende metall. Dere kommer så vidt til fluktkapslene før skipet blir revet i stykker.\n\nEn tid senere lander dere på denne ukjente randverdenen.\n\nNår deler av det opprevne stjerneskipet faller rundt dere, begynner dere å legge planer for å overleve.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Koloni</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
@@ -23,7 +23,7 @@
   <!-- EN: Compiled {0} -->
   <CompiledOn>Kompilert {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>Logget inn på Steam som {0}</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>Innlogget på Steam som {0}</LoggedIntoSteamAs>
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
@@ -55,7 +55,7 @@
   <!-- EN: multiplier -->
   <multiplier>multiplikator</multiplier>
   <!-- EN: damage -->
-  <damage>skader</damage>
+  <damage>skade</damage>
   <!-- EN: radius -->
   <radius>radius</radius>
   <!-- EN: expired -->
@@ -102,11 +102,11 @@
   <!-- EN: {0} meat -->
   <MeatLabel>{0} kjøtt</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatDesc>Rått slaktet kjøtt. Kan tilberedes til måltider, eller spises rå.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Rått slaktet kjøtt. Om nødvendig, kan tilberedes i måltider, eller til og med spises rå. Ekstremt uappetittlig.</MeatInsectDesc>
+  <MeatInsectDesc>Rått slaktet kjøtt. Om nødvendig, kan det tilberedes til måltider, eller til og med spises rå. Ekstremt uappetittelig.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Rått slaktet kjøtt. Kan tilberedes i måltider eller spises rå, selv om de fleste mennesker misliker ideen.</MeatHumanDesc>
+  <MeatHumanDesc>Rått slaktet kjøtt. Kan tilberedes til måltider eller spises rå, selv om de fleste mennesker misliker idéen.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
   <TechprintLabel>techkopi ({PROJECT_label})</TechprintLabel>
@@ -114,23 +114,26 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>TODO</TechprintDesc>
+  <TechprintDesc>Dette er en techprint for forskningsprosjektet '{PROJECT_label}'.
+\nDen fysiske formen for techprints kan variere helt fra papirbiter med diagrammer, til avanserte selvstyrte læringsmaskiner. Uansett form har de likt brukstilfelle. De gjør forskerne trygge på at en idé er mulig, og en grov idé om designene som brukes i mer etablerte samfunn.
+\nForskerne dine trenger den grunnleggende kunnskapen som tilbys av techprints for å vite hvor de skal begynne med en gitt teknologi. Først etter at nok techprints har blitt brukt, kan forskerne utarbeide detaljene om hvordan de kan få bruk for teknologien i akkurat din situasjon.
+\nAnvending av techprints i et passende prosjekt oppfyller halvparten av den gjenværende forskningsfremgangen. I tillegg får forskere alltid en økning i sine intellektuelle ferdigheter når de anvender techprints, selv på allerede-fullførte teknologier.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Låser opp</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} lik</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Død kropp av en {0}.</CorpseDesc>
+  <CorpseDesc>Den døde kroppen til en {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (død)</DeadLabel>
+  <DeadLabel>{1_label} (død)</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>ujevn {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Ujevn, naturlig {0} bakke.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>ujevn-hugget {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>ujevnt hugget {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Ujevnt kuttet naturlig {0} gulv.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
@@ -139,9 +142,9 @@
   <SmoothStoneTerrainDesc>Utjevnet naturlig {0} gulv.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(blåkopi)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (bygning)</FrameLabelExtra>
+  <FrameLabelExtra>(bygning)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Utilknyttet</FactionUnaffiliated>
@@ -158,15 +161,15 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
+  <SomeonesRoom>{PAWN_labelShort}s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{0} og {1}s {2}</CouplesRoom>
+  <CouplesRoom>{PAWN1_labelShort} og {PAWN2_labelShort}s {2}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
   <StatRelatesToCurrentRoom>Viktig for denne typen rom.</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
-  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} under bakken her.</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
