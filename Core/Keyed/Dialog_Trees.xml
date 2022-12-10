@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>Representanten til {0} slenger noen skjellsord på skjermen og frakobler.</FactionGreetingHostile>
+  <FactionGreetingHostile>{0} slenger noen skjellsord inn i mikrofonen og kobler fra.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>{0} krever at du gjør en hyggelig gest, som å bringe gaver til en av {0_possessive} bosetninger eller løslate {0_possessive}-fraksjonens fanger uskadd. Inntil da er {0_pronoun} ikke villig til å snakke.\n\n{0_pronoun} mumler en fornærmelse, før de kobler fra samtalen.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
-  <FactionGreetingWary>Representanten til {0} hilser {1} varsomt og spør hva DU vil.</FactionGreetingWary>
+  <FactionGreetingWary>{0} hilser på {NEGOTIATOR_labelShort} og spør hva slags forhandlinger du ønsker å foreta.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>Representanten til {0} hilser {1} varmt og spør hvordan det går med kolonien.</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} hilser varmt på {NEGOTIATOR_labelShort} og spør hva {LEADER_pronoun} kan hjelpe deg med.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>vil ikke gjøre {0}</WorkTypeDisablesOption>
@@ -19,25 +19,25 @@
   <!-- EN: Offer gift -->
   <OfferGift>Tilby gave</OfferGift>
   <!-- EN: must be ally -->
-  <MustBeAlly>Må være en alliert </MustBeAlly>
+  <MustBeAlly>må være en alliert </MustBeAlly>
   <!-- EN: need {0} goodwill -->
-  <NeedGoodwill>Trenger {0} goodwill</NeedGoodwill>
+  <NeedGoodwill>trenger {0} velvilje</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>Trenger {0} sølv tilgjengelig</NeedSilverLaunchable>
+  <NeedSilverLaunchable>trenger {0} sølv i nærheten av handelsbeacon</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>Ikke nok sølv.</NotEnoughSilver>
+  <NotEnoughSilver>ikke nok sølv</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0} sølv for {1} velvilje</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>Representanten til {0} takker deg.\n\n(Velvilje forbedret med {1}).</SilverGiftSent>
+  <SilverGiftSent>{0} takker deg.\n\n(Velvilje forbedret med {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>Be om en handelskaravane (kostnad: {0} sølv)</RequestTrader>
+  <RequestTrader>Be om en handelskaravane (kostnad: {0} velvilje)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0} spør hva slags handelskaravane du behøver.</ChooseTraderKind>
+  <ChooseTraderKind>{0} spør hva slags handelskaravane du ønsker.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
-  <TraderSent>{0} godtar å sende deg en handelskaravane. Den vil ankomme om noen få dager.</TraderSent>
+  <TraderSent>{0} godtar å sende deg en handelskaravane. Den vil ankomme i løpet av noen få dager.</TraderSent>
   <!-- EN: wait {0} -->
   <WaitTime>vent {0}</WaitTime>
   
@@ -45,24 +45,24 @@
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
   <RequestAICoreInformation>Be om koordinatene til en {0} (kostnad: {1} sølv)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
-  <RequestAICoreInformationResult>{0} sender deg den forespurte informasjonen og ønsker deg lykke til.</RequestAICoreInformationResult>
+  <RequestAICoreInformationResult>{0} sender den forespurte informasjonen og ønsker deg lykke til.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
   <NoKnownAICore>ingen flere steder kjent</NoKnownAICore>  
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Be om umiddelbar militærbistand ({0} velvilje)</RequestMilitaryAid>
+  <RequestMilitaryAid>Be om umiddelbar militær bistand (kostnad: {0} velvilje)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjelpe deg med å slåss mot en part som ikke er deres fiende. Dette inkluderer noen av de som truer deg, {1}. Har du fortsatt lyst til å spørre dem om bistand?</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjelpe deg med å slåss mot andre fraksjoner som ikke er deres fiender. Dette inkluderer noen av de som truer deg, {1}. Ønsker du fortsatt å spørre dem om bistand?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>Ja, ring dem uansett.</CallConfirm>
+  <CallConfirm>Ja, ring dem likevel.</CallConfirm>
   <!-- EN: No, never mind. -->
   <CallCancel>Nei, glem det.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
-  <MilitaryAidSent>Representanten til {0} forbereder utsending av krigere.</MilitaryAidSent>
+  <MilitaryAidSent>{0} godtar å sende ut krigere for å hjelpe deg.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} beklager og sier at de ikke kan komme i tide. \n\n(Denne fraksjonen er ikke avansert nok til å bygge transportkapsler)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} beklager og sier de ikke kan komme i tide.\n\n(Denne fraksjonens teknologinivå er for lav for transportkapsler)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
-  <HostileVisitorsPresent>fiendtlige besøkende er tilstede</HostileVisitorsPresent>
+  <HostileVisitorsPresent>fiendtlige besøkende er til stede</HostileVisitorsPresent>
 
 </LanguageData>

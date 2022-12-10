@@ -57,7 +57,7 @@
   <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>sprit</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>tørrfor</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>tørrfôr</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
@@ -87,7 +87,7 @@
   <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>leg</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
@@ -103,7 +103,7 @@
   <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>Utslitt</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>Veldig sliten</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>Sliten</HungerLevel_VeryTired>
   <!-- EN: Tired -->
   <HungerLevel_Tired>Trøtt</HungerLevel_Tired>
   <!-- EN: Rested -->
@@ -119,7 +119,7 @@
   <!-- EN: mountainous -->
   <Hilliness_Mountainous>fjellrikt</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>uframkommelig</Hilliness_Impassable>
+  <Hilliness_Impassable>ufremkommelig</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
@@ -149,19 +149,19 @@
   
   <!-- Medical care category -->
   <!-- EN: no medical care -->
-  <MedicalCareCategory_NoCare>Intet medisinsk tilsyn</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>ingen medisinsk tilsyn</MedicalCareCategory_NoCare>
   <!-- EN: doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Legetilsyn, men ingen medisin</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>legetilsyn, men ingen medisin</MedicalCareCategory_NoMeds>
   <!-- EN: herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Urtemedisin eller verre</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>urtemedisin eller verre</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Normal medisin eller verre</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>vanlig medisin eller verre</MedicalCareCategory_NormalOrWorse>
   <!-- EN: best quality medicine -->
-  <MedicalCareCategory_Best>Beste mulige medisinske tilsyn</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>medisin av beste kvalitet</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>Overse</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Ignorer</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
   <HostilityResponseMode_Attack>Angrip</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
@@ -195,7 +195,7 @@
   <!-- EN: Standing -->
   <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Slipp-pod'er</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Slipp-kapsler</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
@@ -203,11 +203,11 @@
   <!-- EN: player starting characters -->
   <PawnGenerationContext_PlayerStarter>spiller-startende karakterer</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>ikke-spiller-startende karakterer</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>ikke-spillerstyrte karakterer</PawnGenerationContext_NonPlayer>
 
   <!-- Screen shake mode -->
   <!-- EN: Screen shake intensity -->
-  <ScreenShakeIntensity>Skjermristing-intensitet</ScreenShakeIntensity>
+  <ScreenShakeIntensity>Skjermristingsintensitet</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -219,7 +219,7 @@
   
   <!-- Mech name display mode -->
   <!-- EN: Show player mech names -->
-  <ShowMechNames>Vis spiller-mech navn</ShowMechNames>
+  <ShowMechNames>Vis spiller-mech-navn</ShowMechNames>
   <!-- EN: While drafted -->
   <MechNameDisplayMode_WhileDrafted>Mens utpekt</MechNameDisplayMode_WhileDrafted>
   <!-- EN: always -->
@@ -267,9 +267,9 @@
   <!-- EN: Herbivorous -->
   <DietCategory_Herbivorous>Planteeter</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>Treeter</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Tre-eter</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>Eggeeter</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Egg-eter</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
   <DietCategory_Omnivorous>Altetende</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->

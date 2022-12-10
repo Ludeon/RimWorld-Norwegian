@@ -29,17 +29,17 @@
 
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
-  <EdgeScreenScroll>Skjermkant-musrulling </EdgeScreenScroll>
+  <EdgeScreenScroll>Skjermkant-musrulling</EdgeScreenScroll>
   <!-- EN: Pause on load -->
-  <PauseOnLoad>Pause ved lasting</PauseOnLoad>
+  <PauseOnLoad>Pause ved innlasting</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>Pause på hastemelding</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pause ved hastemelding</PauseOnUrgentLetter>
   <!-- EN: Pause on letter -->
   <AutomaticPauseModeSetting>Pause ved melding</AutomaticPauseModeSetting>
   <!-- EN: Disable game-specific cursor -->
-  <CustomCursor>Egendefinert markør </CustomCursor>
+  <CustomCursor>Egendefinert markør</CustomCursor>
   <!-- EN: Hide hats on UI -->
-  <HatsShownOnlyOnMap>Hatter vist kun på spillkartet </HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Hatter vist kun på spillkartet</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>UI-skala</UIScale>
   <!-- EN: Keyboard configuration -->
@@ -57,11 +57,11 @@
   <!-- EN: Keyboard mode -->
   <SteamDeckKeyboardMode>Tastaturmodus</SteamDeckKeyboardMode>
   <!-- EN: Run in background -->
-  <RunInBackground>Kjør i bakgrunnen </RunInBackground>
+  <RunInBackground>Kjør i bakgrunnen</RunInBackground>
   <!-- EN: Development mode -->
   <DevelopmentMode>Utviklingsmodus</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>iAutomatisk tilbakestill mods konfigurasjon ved krasj</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Automatisk tilbakestill modskonfigurasjon ved krasj</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simuler å ikke eie Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
@@ -71,9 +71,9 @@
   <!-- EN: Verbose logging -->
   <LogVerbose>Utførlig logging</LogVerbose>
   <!-- EN: Save data folder -->
-  <SaveGameDataFolder>Lagringsdatamappe</SaveGameDataFolder>
+  <SaveGameDataFolder>Lagringsdata-mappe</SaveGameDataFolder>
   <!-- EN: Save data location -->
-  <SaveGameDataLocation>Lagringsdataplassering</SaveGameDataLocation>
+  <SaveGameDataLocation>Lagringsdata-plassering</SaveGameDataLocation>
   <!-- EN: Log file folder -->
   <LogFileFolder>Loggfil-mappe</LogFileFolder>
   <!-- EN: Log file location -->
@@ -83,11 +83,11 @@
   <!-- EN: Show -->
   <ShowFolder>Vis</ShowFolder>
   <!-- EN: Preferred "Name in Game" characters -->
-  <NamesYouWantToSee>Navn på spillerskapte karakterer du vil se: </NamesYouWantToSee>
+  <NamesYouWantToSee>Navn på spillerskapte karakterer du vil se:</NamesYouWantToSee>
   <!-- EN: These characters will be more likely to appear randomly during play. -->
   <NamesYouWantToSeeSubText>Disse karakterene vil være mer sannsynlig å dukke opp tilfeldig under spilling.</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
-  <AddName>Leg til navn</AddName>
+  <AddName>Legg til navn</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
   <TypeFirstNickOrLastName>Skriv inn fornavnet, kallenavnet eller etternavnet.</TypeFirstNickOrLastName>
   <!-- EN: This name is already on the preferred list. -->
@@ -99,7 +99,7 @@
   <!-- EN: The number of in game days between each auto save. -->
   <AutosaveIntervalTooltip>Antall spilldager mellom hver autolagring.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
-  <TemperatureMode>Temperaturenheter</TemperatureMode>
+  <TemperatureMode>Temperaturenhet</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Vis sanntidsklokke</ShowRealtimeClock>
   <!-- EN: Disable tiny font -->
@@ -109,15 +109,15 @@
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Kartmuspekers dra-følsomhet</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>Plant vind svaier</PlantWindSway>
+  <PlantWindSway>Planter svaier i vind</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Aktiver testkartstørrelser</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>Maksimalt autolagringsintervall i permadeath-modus er {0} dag.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
-  <ModSettings>Mod instillinger</ModSettings>
+  <ModSettings>Mod-innstillinger</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>Deaktiver utviklingsmodus permanent</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Permanent deaktiver utviklingsmodus</PermanentlyDisableDevMode>
   <!-- EN: Texture compression -->
   <TextureCompression>Teksturkomprimering</TextureCompression>
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
@@ -131,7 +131,7 @@
   <!-- EN: Resolution -->
   <Resolution>Skjermoppløsning</Resolution>
   <!-- EN: Fullscreen -->
-  <Fullscreen>Full skjerm</Fullscreen>
+  <Fullscreen>Fullskjerm</Fullscreen>
   <!-- EN: Borderless fullscreen -->
   <BorderlessFullscreen>Kantløs fullskjerm</BorderlessFullscreen>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->

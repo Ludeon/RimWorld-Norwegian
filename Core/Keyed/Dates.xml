@@ -8,16 +8,16 @@
   <!-- EN: Year -->
   <ClockYear>År</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Dager siden din ankomst: {0}\nDet er {1} dager i hver måned.</DateReadoutTip>
+  <DateReadoutTip>Dager siden din ankomst: {0}\nNåværende kvadrum: {4}\nLokal sesong: {2}\n\nÅret er delt inn i 4 kvadrum på {3} dager hver. Kvadrummene er like overalt, mens årstidene er forskjellige på forskjellige steder.\n\nLokale sesonger for hvert kvadrum:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{0} {1}, År {2}</FullDate>
+  <FullDate>{0}. {1}, {2}</FullDate>
   <!-- EN: {0} {1} {2} -->
-  <ShortDate>{0} {1} {2}</ShortDate>
+  <ShortDate>{0}. {1} {2}</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>{0} av {1}, {2}</DateReadout>
+  <DateReadout>{0}. {1}, {2}</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>{0} av {1}</SeasonFullDate>
+  <SeasonFullDate>{0}. {1}</SeasonFullDate>
   <!-- EN: Whole year -->
   <WholeYear>Fullt år</WholeYear>
   
