@@ -23,5 +23,6 @@ click - klikk
 mine - grave
 deteriorate - bryte ned
 cryptosleep - dvale
-faction - gruppe
+faction - gruppe (fraksjon? 'gruppe' brukes allerede om 'group' (mini faction) i spillet)
 caravan - karavane
+goodwill - velvilje
