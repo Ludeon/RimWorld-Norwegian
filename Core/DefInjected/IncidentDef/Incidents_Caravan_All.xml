@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>bakhold</Ambush.label>
+  <Ambush.label>bakholdsangrep</Ambush.label>
   <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Karavane blir angrepet</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
@@ -15,7 +15,7 @@
   <CaravanMeeting.label>karavanemøte</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>anngrepet av mannevonde dyr</ManhunterAmbush.label>
+  <ManhunterAmbush.label>angrepet av mannevonde dyr</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
   <ManhunterAmbush.letterLabel>Karavane blir angrepet (mannevonde dyr)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->

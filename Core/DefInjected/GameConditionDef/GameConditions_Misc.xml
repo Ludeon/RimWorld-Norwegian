@@ -11,7 +11,7 @@
   <Aurora.letterText>TODO</Aurora.letterText>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>klima syklus</ClimateCycle.label>
+  <ClimateCycle.label>klimasyklus</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
   <ClimateCycle.description>En flerårig klimasyklus på grunn av en elliptisk bane.</ClimateCycle.description>
   
@@ -36,11 +36,11 @@
   <Eclipse.letterText>TODO</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.label>styrtstorm</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
   <Flashstorm.description>En freak lokalisert storm sprenger et lite område med gjentatte lynnedslag.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>Flashstorm er sluttet.</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Styrtstormen er over.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
   <Flashstorm.letterText>TODO</Flashstorm.letterText>
   

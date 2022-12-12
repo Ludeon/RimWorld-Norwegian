@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextEnemy>De angriper øyeblikkelig.</ImmediateAttack.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextFriendly>De kommer til unnsetning øyeblikkelig.</ImmediateAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelEnemy>Angrep</ImmediateAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>They are attacking immediately.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>De angriper øyeblikkelig.</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>De kommer til unnsetning øyeblikkelig.</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>Raid</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Angrep</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>Friendlies</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Vennligsinnede</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>TODO</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>De kommer til unnsetning øyeblikkelig.</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Angrep</ImmediateAttackSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.letterLabelFriendly>Vennligsinnede</ImmediateAttackSmart.letterLabelFriendly>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
-  <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextEnemy>De vil forberede seg en stund før de angriper.\n\nForbered forsvaret ditt nøye, eller organiser et motangrep.</StageThenAttack.arrivalTextEnemy>
   <!-- EN: They will prepare for a while before moving in to help you. -->
-  <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextFriendly>De vil forberede seg en stund før de kommer til unnsetning.</StageThenAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelEnemy>Angrep</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.letterLabelFriendly>Vennligsinnede</StageThenAttack.letterLabelFriendly>
   
 </LanguageData>

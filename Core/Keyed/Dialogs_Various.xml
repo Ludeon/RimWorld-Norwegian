@@ -6,27 +6,27 @@
   <!-- EN: Go back -->
   <GoBack>Gå tilbake</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>TODO</WantToContinue>
+  <WantToContinue>Ønsker du å fortsette?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Lukk</Close>
   <!-- EN: Accept -->
-  <Accept>TODO</Accept>
+  <Accept>Aksepter</Accept>
   <!-- EN: Cancel -->
-  <Cancel>TODO</Cancel>
+  <Cancel>Avbryt</Cancel>
   <!-- EN: Reset -->
-  <Reset>Nullstille</Reset>
+  <Reset>Nullstill</Reset>
   <!-- EN: Reset all -->
-  <ResetAll>TODO</ResetAll>
+  <ResetAll>Nullstill alle</ResetAll>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>Deaktiver</Disable>
   <!-- EN: Modify -->
-  <Modify>TODO</Modify>
+  <Modify>Modifiser</Modify>
   <!-- EN: Settle here anyways? -->
   <ConfirmSettle>TODO</ConfirmSettle>
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>legg til</Add>
   <!-- EN: Cannot shoot -->
   <CannotShoot>TODO</CannotShoot>
   
@@ -341,9 +341,9 @@
   <!-- EN: Damage -->
   <Damage>Skade</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>Rustningpetetrasjon</ArmorPenetration>
+  <ArmorPenetration>Rustningspebetrasjon</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Rustningpetetrasjon er mengden rustningpoeng dette våpenet vil ignorere hver gang det treffer målet.\n\nHvis Rustningpenetrasjonen er større enn målets rustning, er det som om målet ikke har noen rustning.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Rustningspenetrasjon er mengden rustningpoeng dette våpenet vil ignorere hver gang det treffer målet.\n\nHvis Rustningpenetrasjonen er større enn målets rustning, er det som om målet ikke har noen rustning.</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
   <BuildingDamageFactor>TODO</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
@@ -925,7 +925,7 @@
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>Narkotikaregler</DrugPolicy>
+  <DrugPolicy>Rusmiddelregler</DrugPolicy>
   <!-- EN: Select policy... -->
   <SelectDrugPolicy>Velg regler...</SelectDrugPolicy>
   <!-- EN: New policy -->
@@ -933,15 +933,15 @@
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>Slett regler...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Narkotikareglene er i bruk av {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Rusmiddelreglene er i bruk av {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Matrestriksjoner er i bruk av {0}.</FoodRestrictionInUse>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Ingen narkotikaregler valgt</NoDrugPolicySelected>
+  <NoDrugPolicySelected>Ingen rusmiddelregler valgt</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
-  <AddDrug>Legg til narkotika...</AddDrug>
+  <AddDrug>Legg til rusmiddel...</AddDrug>
   <!-- EN: Drug -->
-  <DrugColumnLabel>Narkotika</DrugColumnLabel>
+  <DrugColumnLabel>Rusmiddel</DrugColumnLabel>
   <!-- EN: Usage -->
   <DrugUsageColumnLabel>Bruk</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
@@ -953,7 +953,7 @@
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>Flytt til inventaret</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>(ingen narkotika)</NoDrugsBrackets>
+  <NoDrugsBrackets>(ingen rusmidler)</NoDrugsBrackets>
   <!-- EN: Every day -->
   <EveryDay>Hver dag</EveryDay>
   <!-- EN: {0} times per day -->
@@ -963,25 +963,25 @@
   <!-- EN: Any -->
   <NoDrugUseRequirement>Hva som helst</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>Slett dette narkotikumet.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>Slett dette rusmiddelet.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>Navn på narkotikum.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>Navnet på et rusmiddel.</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>Hvordan narkotikumet er tillatt brukt.</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>Hvordan rusmiddelet er tillatt brukt.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>Hvor ofte kolinistene bør prøve å ta dette narkotikumet.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>Hvor ofte kolinistene bør prøve å ta dette rusmiddelet.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres humørniva er under dette nivået.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>Kolonistene vil bruke dette rusmiddelet kun hvis deres humørniva er under dette nivået.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>Kolonistene vil bruke dette narkotikumet kun hvis deres gledesnivå er under dette nivået.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonistene vil bruke dette rusmiddelet kun hvis deres gledesnivå er under dette nivået.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>Mengden stoff kolonistene vil ta med seg når de tar stoffet, for å gå frem og tilbake.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>For avhengighet\n\nBruk dette narkotikumet for å stilne den avhengigheten som allerede finnes.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>For avhengighet\n\nBruk dette rusmiddelet for å stilne den avhengigheten som allerede finnes.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av rusmiddelet likevel.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>For glede\n\nBruk dette narkotikumet for glede og sosial sammenheng.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av narkotikumet likevel.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>For glede\n\nBruk dette rusmiddelet for glede og sosial sammenheng.\n\nSelv om det er deaktivert vil noen karakterer med spesiell trakk, eller med mentalt sammenbrudd, benytte seg av rusmiddelet likevel.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>Planlagt\n\nBruk dette narkotikumet i et forhåndsbestemt tidsskjema, når spesifikke betingelser er til stede.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>Planlagt\n\nBruk dette rusmiddelet i et forhåndsbestemt tidsskjema, når spesifikke betingelser er til stede.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
@@ -1288,7 +1288,7 @@
   <!-- EN: sat -->
   <Saturation>TODO</Saturation>
   <!-- EN: value -->
-  <Value>Value</Value>
+  <ColorValue>TODO</ColorValue>
   <!-- EN: darklight -->
   <Darklight>TODO</Darklight>
   <!-- EN: not darklight -->

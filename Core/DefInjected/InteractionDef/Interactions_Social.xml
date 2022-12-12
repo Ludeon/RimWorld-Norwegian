@@ -94,7 +94,7 @@
   -->
   <Insult.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] sammenliknet [target] men en [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sammenliknet [target] med en [insultcomparison].</li>
     <li>r_logentry->[INITIATOR_nameDef] kalte [target] en [insultcomparison].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>target->[RECIPIENT_nameDef] sin [PersonFamily]</li>
@@ -136,7 +136,7 @@
     <li>complimented->hyllet</li>
     <li>complimented->sa hyggelige ting om</li>
     <li>complimented->sa at [INITIATOR_pronoun] skulle ønske [INITIATOR_pronoun] hadde</li>
-    <li>complimented->aplauderte</li>
+    <li>complimented->applauderte</li>
     <li>complimented->danset en liten dans for</li>
     <li>complimented->komplimenterte</li>
     <li>complimented->sa noe snilt om</li>

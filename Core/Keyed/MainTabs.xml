@@ -3,23 +3,23 @@
 
   <!-- Work tab -->
   <!-- EN: Manual priorities -->
-  <ManualPriorities>Manual priorities</ManualPriorities>
+  <ManualPriorities>TODO</ManualPriorities>
   <!-- EN: higher priority -->
-  <HigherPriority>higher priority</HigherPriority>
+  <HigherPriority>TODO</HigherPriority>
   <!-- EN: lower priority -->
-  <LowerPriority>lower priority</LowerPriority>
+  <LowerPriority>TODO</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <RelevantSkills>TODO</RelevantSkills>
   <!-- EN: Click to jump to: -->
-  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
+  <ClickToJumpTo>TODO</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
-  <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
+  <CannotDoThisWork>TODO</CannotDoThisWork>
   <!-- EN: (none) -->
-  <NoneBrackets>(none)</NoneBrackets>
+  <NoneBrackets>TODO</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>TODO</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <EmergencyWorkMarker>TODO</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
@@ -45,37 +45,37 @@
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
-  <ManageOutfits>Manage outfits</ManageOutfits>
+  <ManageOutfits>TODO</ManageOutfits>
   <!-- EN: Unchangeable -->
   <Unchangeable>TODO</Unchangeable>
   <!-- EN: Clr. forced -->
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
+  <ClearForcedApparel>TODO</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>forced</ApparelForcedLower>
+  <ApparelForcedLower>TODO</ApparelForcedLower>
   <!-- EN: locked -->
   <ApparelLockedLower>TODO</ApparelLockedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>Forced apparel</ForcedApparel>
+  <ForcedApparel>TODO</ForcedApparel>
   <!-- EN: Edit... -->
-  <AssignTabEdit>Edit...</AssignTabEdit>
+  <AssignTabEdit>TODO</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+  <ManageDrugPolicies>TODO</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>Copy</Copy>
+  <Copy>TODO</Copy>
   <!-- EN: Paste -->
-  <Paste>Paste</Paste>
+  <Paste>TODO</Paste>
   <!-- EN: Allowed area -->
-  <AllowedArea>Allowed area</AllowedArea>
+  <AllowedArea>TODO</AllowedArea>
   
   <!-- Animals tab -->
   <!-- EN: Master -->
-  <Master>Master</Master>
+  <Master>TODO</Master>
   <!-- EN: Pregnant ({0} / {1}) -->
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <PregnantIconDesc>TODO</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>TODO</BondedTo>
   <!-- EN: Sterilize animal. -->
@@ -91,7 +91,7 @@
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
-  <Hostile>Hostile</Hostile>
+  <Hostile>TODO</Hostile>
   <!-- EN: Ally -->
   <Ally>TODO</Ally>
   <!-- EN: hostile -->
@@ -99,9 +99,9 @@
   <!-- EN: ally -->
   <AllyLower>TODO</AllyLower>
   <!-- EN: defeated -->
-  <DefeatedLower>defeated</DefeatedLower>
+  <DefeatedLower>TODO</DefeatedLower>
   <!-- EN: Enemy of {0} -->
-  <HostileTo>Enemy of {0}</HostileTo>
+  <HostileTo>TODO</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>TODO</EnemyOf>
   <!-- EN: Recent events -->
@@ -119,35 +119,35 @@
 
   <!-- Social tab -->
   <!-- EN: Friend -->
-  <Friend>Friend</Friend>
+  <Friend>TODO</Friend>
   <!-- EN: Rival -->
-  <Rival>Rival</Rival>
+  <Rival>TODO</Rival>
   <!-- EN: Acquaintance -->
-  <Acquaintance>Acquaintance</Acquaintance>
+  <Acquaintance>TODO</Acquaintance>
   
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
-  <Graph>Graph</Graph>
+  <Graph>TODO</Graph>
   <!-- EN: Messages -->
   <Messages>TODO</Messages>
   <!-- EN: Statistics -->
-  <Statistics>Statistics</Statistics>
+  <Statistics>TODO</Statistics>
   
   <!-- History tab - Graphs -->
   <!-- EN: Select graph -->
-  <SelectGraph>Select graph</SelectGraph>
+  <SelectGraph>TODO</SelectGraph>
   <!-- EN: Last 30 days -->
-  <Last30Days>Last 30 days</Last30Days>
+  <Last30Days>TODO</Last30Days>
   <!-- EN: Last 100 days -->
-  <Last100Days>Last 100 days</Last100Days>
+  <Last100Days>TODO</Last100Days>
   <!-- EN: Last 300 days -->
-  <Last300Days>Last 300 days</Last300Days>
+  <Last300Days>TODO</Last300Days>
   <!-- EN: All -->
-  <AllDays>All</AllDays>
+  <AllDays>TODO</AllDays>
   <!-- EN: Value -->
-  <Value>Value</Value>
+  <Value>TODO</Value>
   <!-- EN: External -->
-  <External>External</External>
+  <External>TODO</External>
 
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
@@ -161,27 +161,27 @@
 
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
-  <Playtime>Play time</Playtime>
+  <Playtime>TODO</Playtime>
   <!-- EN: Storyteller -->
-  <Storyteller>Storyteller</Storyteller>
+  <Storyteller>TODO</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>TODO</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>TODO</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>TODO</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
   <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
-  <NumThreatBigs>Major threats</NumThreatBigs>
+  <NumThreatBigs>TODO</NumThreatBigs>
   <!-- EN: Enemy raids -->
-  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
+  <NumEnemyRaids>TODO</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>TODO</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
-  <ColonistsKilled>Colonists killed</ColonistsKilled>
+  <ColonistsKilled>TODO</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
-  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+  <ColonistsLaunched>TODO</ColonistsLaunched>
 
   <!-- Research tab -->
   <!-- EN: Research -->
@@ -213,7 +213,7 @@
   <!-- EN: Required research bench facilities -->
   <RequiredResearchBenchFacilities>Krever forskningsbenk-anlegg</RequiredResearchBenchFacilities>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ResearchCostComparison>TODO</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
   <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->

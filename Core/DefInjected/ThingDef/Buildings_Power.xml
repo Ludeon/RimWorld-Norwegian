@@ -27,7 +27,7 @@
   <PowerSwitch.description>Skrur strøm av og på.</PowerSwitch.description>
   
   <!-- EN: solar generator -->
-  <SolarGenerator.label>solcelle generator</SolarGenerator.label>
+  <SolarGenerator.label>solcellegenerator</SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
   <SolarGenerator.description>Produserer elektrisitet fra sollys. Virker ikke når det er mørkt.</SolarGenerator.description>
   

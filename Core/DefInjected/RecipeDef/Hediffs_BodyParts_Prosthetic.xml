@@ -9,18 +9,18 @@
   <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <InstallJoywire.label>TODO</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+  <InstallJoywire.description>TODO</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  <InstallJoywire.jobString>TODO.</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
-  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <InstallPainstopper.label>TODO</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
-  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.description>TODO</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
-  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  <InstallPainstopper.jobString>TODO</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
   <InstallPowerClaw.label>installer kraftklo</InstallPowerClaw.label>
@@ -30,31 +30,31 @@
   <InstallPowerClaw.jobString>Installerer kraftklo.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>installer simpel armprotese</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>installer prostetisk arm</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>Installerer simpel armprotese.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>Installer en prostetisk arm.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
-  <InstallSimpleProstheticArm.jobString>Installerer simpel armprotese.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.jobString>Installerer prostetisk arm.</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>installer prostetisk hjerte</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>Installer et prostetisk hjerte.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Installerer prostetisk hjerte.</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
-  <InstallSimpleProstheticLeg.label>installer simpel benprotese</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.label>installer prostetisk ben</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>Installerer simpel benprotese.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>Installer et prostetisk ben.</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
-  <InstallSimpleProstheticLeg.jobString>Installerer simpel benprotese.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.jobString>Installerer prostetisk ben.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>remove painstopper</RemovePainstopper.label>
+  <RemovePainstopper.label>TODO</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>Remove the painstopper.</RemovePainstopper.description>
+  <RemovePainstopper.description>TODO</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>Removing painstopper.</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>TODO</RemovePainstopper.jobString>
   
 </LanguageData>

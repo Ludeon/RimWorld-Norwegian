@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: accepted deserter -->
-  <AcceptedDeserter.label>accepted deserter</AcceptedDeserter.label>
+  <AcceptedDeserter.label>TODO</AcceptedDeserter.label>
   
   <!-- EN: failed to keep guests happy -->
-  <FailedToKeepLodgersHappy.label>failed to keep guests happy</FailedToKeepLodgersHappy.label>
+  <FailedToKeepLodgersHappy.label>TODO</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>member missed shuttle</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>TODO</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>monument construction expired</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>TODO</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>monument construction abandoned</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>TODO</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
-  <MonumentDestroyed.label>destroyed monument</MonumentDestroyed.label>
+  <MonumentDestroyed.label>TODO</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
-  <QuestGoodwillReward.label>quest completed</QuestGoodwillReward.label>
+  <QuestGoodwillReward.label>TODO</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
-  <QuestPawnArrested.label>member arrested</QuestPawnArrested.label>
+  <QuestPawnArrested.label>TODO</QuestPawnArrested.label>
   
   <!-- EN: member lost at colony -->
-  <QuestPawnLost.label>member lost at colony</QuestPawnLost.label>
+  <QuestPawnLost.label>TODO</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>enslaved lent prisoner</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>TODO</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>recruited lent prisoner</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>TODO</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>shuttle commander missed shuttle</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>TODO</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>shuttle guards missed shuttle</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>TODO</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

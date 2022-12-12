@@ -2,112 +2,25 @@
 <LanguageData>
   
   <!-- EN: alpaca -->
-  <Alpaca.label>alpaca</Alpaca.label>
-  <Alpaca.labelFemale>female alpaca</Alpaca.labelFemale>
-  <Alpaca.labelFemalePlural>female alpacas</Alpaca.labelFemalePlural>
-  <Alpaca.labelMale>male alpaca</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>male alpacas</Alpaca.labelMalePlural>
-  <Alpaca.labelPlural>alpacas</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>alpaca</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelFemale>female alpaca</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>female alpacas</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.0.labelMale>male alpaca</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>male alpacas</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelPlural>alpaca</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.1.label>alpaca</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelFemale>female alpaca</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>female alpacas</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.1.labelMale>male alpaca</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>male alpacas</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelPlural>alpaca</Alpaca.lifeStages.1.labelPlural>
-  <Alpaca.lifeStages.2.label>alpaca</Alpaca.lifeStages.2.label>
-  <Alpaca.lifeStages.2.labelFemale>female alpaca</Alpaca.lifeStages.2.labelFemale>
-  <Alpaca.lifeStages.2.labelFemalePlural>female alpacas</Alpaca.lifeStages.2.labelFemalePlural>
-  <Alpaca.lifeStages.2.labelMale>male alpaca</Alpaca.lifeStages.2.labelMale>
-  <Alpaca.lifeStages.2.labelMalePlural>male alpacas</Alpaca.lifeStages.2.labelMalePlural>
-  <Alpaca.lifeStages.2.labelPlural>alpaca</Alpaca.lifeStages.2.labelPlural>
+  <Alpaca.label>TODO</Alpaca.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>capybara</Capybara.label>
-  <Capybara.labelFemale>female capybara</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>female capybaras</Capybara.labelFemalePlural>
-  <Capybara.labelMale>male capybara</Capybara.labelMale>
-  <Capybara.labelMalePlural>male capybaras</Capybara.labelMalePlural>
-  <Capybara.labelPlural>capybaras</Capybara.labelPlural>
-  <Capybara.lifeStages.0.label>capybara</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.0.labelFemale>female capybara</Capybara.lifeStages.0.labelFemale>
-  <Capybara.lifeStages.0.labelFemalePlural>female capybaras</Capybara.lifeStages.0.labelFemalePlural>
-  <Capybara.lifeStages.0.labelMale>male capybara</Capybara.lifeStages.0.labelMale>
-  <Capybara.lifeStages.0.labelMalePlural>male capybaras</Capybara.lifeStages.0.labelMalePlural>
-  <Capybara.lifeStages.0.labelPlural>capybara</Capybara.lifeStages.0.labelPlural>
-  <Capybara.lifeStages.1.label>capybara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.1.labelFemale>female capybara</Capybara.lifeStages.1.labelFemale>
-  <Capybara.lifeStages.1.labelFemalePlural>female capybaras</Capybara.lifeStages.1.labelFemalePlural>
-  <Capybara.lifeStages.1.labelMale>male capybara</Capybara.lifeStages.1.labelMale>
-  <Capybara.lifeStages.1.labelMalePlural>male capybaras</Capybara.lifeStages.1.labelMalePlural>
-  <Capybara.lifeStages.1.labelPlural>capybara</Capybara.lifeStages.1.labelPlural>
-  <Capybara.lifeStages.2.label>capybara</Capybara.lifeStages.2.label>
-  <Capybara.lifeStages.2.labelFemale>female capybara</Capybara.lifeStages.2.labelFemale>
-  <Capybara.lifeStages.2.labelFemalePlural>female capybaras</Capybara.lifeStages.2.labelFemalePlural>
-  <Capybara.lifeStages.2.labelMale>male capybara</Capybara.lifeStages.2.labelMale>
-  <Capybara.lifeStages.2.labelMalePlural>male capybaras</Capybara.lifeStages.2.labelMalePlural>
-  <Capybara.lifeStages.2.labelPlural>capybara</Capybara.lifeStages.2.labelPlural>
+  <Capybara.label>TODO</Capybara.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.labelFemale>female megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female megasloths</Megasloth.labelFemalePlural>
-  <Megasloth.labelMale>male megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelPlural>megasloths</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>megasloth</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelFemale>female megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>female megasloths</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.0.labelMale>male megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>male megasloths</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelPlural>megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.1.label>megasloth</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelFemale>female megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>female megasloths</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.1.labelMale>male megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>male megasloths</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelPlural>megasloth</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.2.label>megasloth</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelFemale>female megasloth</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>female megasloths</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.lifeStages.2.labelMale>male megasloth</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>male megasloths</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelPlural>megasloth</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.label>TODO</Megasloth.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>sheep</Sheep.label>
+  <Sheep.label>TODO</Sheep.label>
   <!-- EN: ewe -->
-  <Sheep.labelFemale>ewe</Sheep.labelFemale>
-  <Sheep.labelFemalePlural>female sheep</Sheep.labelFemalePlural>
+  <Sheep.labelFemale>TODO</Sheep.labelFemale>
   <!-- EN: ram -->
-  <Sheep.labelMale>ram</Sheep.labelMale>
-  <Sheep.labelMalePlural>male sheep</Sheep.labelMalePlural>
+  <Sheep.labelMale>TODO</Sheep.labelMale>
   <!-- EN: sheep -->
-  <Sheep.labelPlural>sheep</Sheep.labelPlural>
+  <Sheep.labelPlural>TODO</Sheep.labelPlural>
   <!-- EN: lamb -->
-  <Sheep.lifeStages.lamb.label>lamb</Sheep.lifeStages.lamb.label>
-  <Sheep.lifeStages.lamb.labelFemale>female lamb</Sheep.lifeStages.lamb.labelFemale>
-  <Sheep.lifeStages.lamb.labelFemalePlural>female lambs</Sheep.lifeStages.lamb.labelFemalePlural>
-  <Sheep.lifeStages.lamb.labelMale>male lamb</Sheep.lifeStages.lamb.labelMale>
-  <Sheep.lifeStages.lamb.labelMalePlural>male lambs</Sheep.lifeStages.lamb.labelMalePlural>
+  <Sheep.lifeStages.lamb.label>TODO</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
-  <Sheep.lifeStages.lamb.labelPlural>lambs</Sheep.lifeStages.lamb.labelPlural>
-  <Sheep.lifeStages.1.label>sheep</Sheep.lifeStages.1.label>
-  <Sheep.lifeStages.1.labelFemale>ewe</Sheep.lifeStages.1.labelFemale>
-  <Sheep.lifeStages.1.labelFemalePlural>female sheeps</Sheep.lifeStages.1.labelFemalePlural>
-  <Sheep.lifeStages.1.labelMale>ram</Sheep.lifeStages.1.labelMale>
-  <Sheep.lifeStages.1.labelMalePlural>male sheeps</Sheep.lifeStages.1.labelMalePlural>
-  <Sheep.lifeStages.1.labelPlural>sheep</Sheep.lifeStages.1.labelPlural>
-  <Sheep.lifeStages.2.label>sheep</Sheep.lifeStages.2.label>
-  <Sheep.lifeStages.2.labelFemale>ewe</Sheep.lifeStages.2.labelFemale>
-  <Sheep.lifeStages.2.labelFemalePlural>female sheeps</Sheep.lifeStages.2.labelFemalePlural>
-  <Sheep.lifeStages.2.labelMale>ram</Sheep.lifeStages.2.labelMale>
-  <Sheep.lifeStages.2.labelMalePlural>male sheeps</Sheep.lifeStages.2.labelMalePlural>
-  <Sheep.lifeStages.2.labelPlural>sheep</Sheep.lifeStages.2.labelPlural>
+  <Sheep.lifeStages.lamb.labelPlural>TODO</Sheep.lifeStages.lamb.labelPlural>
   
 </LanguageData>

@@ -12,9 +12,9 @@
   <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}s stemme har en spesielt skurrende, nasal kvalitet, og {PAWN_pronoun} har en tendens til å snakke i bjeffede, forvrengte fraser. Dette disponerer andrew til å mislike {PAWN_objective}</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
-  <Ascetic.degreeDatas.ascetic.label>ascetic</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.label>TODO</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} prefers to live in asceticism. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} has a bedroom that's too impressive.</Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>TODO</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
   <Asexual.degreeDatas.asexual.label>TODO</Asexual.degreeDatas.asexual.label>
@@ -33,11 +33,11 @@
   
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>prostofob</BodyPurist.degreeDatas.body_purist.label>
-  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
   <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} tror på at menneskekroppen er som den er, av en årsak. For {PAWN_objective}, er bioniske kroppsdeler et uetisk valg.</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
-  <Brawler.degreeDatas.brawler.label>brawler</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.label>TODO</Brawler.degreeDatas.brawler.label>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
   <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} liker å kjempe ansikt til ansikt. {PAWN_possessive} nøyaktighet er mye bedre i nærkamp, men {PAWN_pronoun} kan bli veldig bitter, om man gir kolonisten et skytevåpen.</Brawler.degreeDatas.brawler.description>
   
@@ -52,14 +52,14 @@
   <CreepyBreathing.degreeDatas.creepy_breathing.description>TODO</CreepyBreathing.degreeDatas.creepy_breathing.description>
   
   <!-- EN: misandrist -->
-  <DislikesMen.degreeDatas.misandrist.label>dislikes men</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.label>TODO</DislikesMen.degreeDatas.misandrist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
-  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} really dislikes and distrusts men.</DislikesMen.degreeDatas.misandrist.description>
+  <DislikesMen.degreeDatas.misandrist.description>TODO</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
-  <DislikesWomen.degreeDatas.misogynist.label>dislikes women</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.label>TODO</DislikesWomen.degreeDatas.misogynist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} really dislikes and distrusts women.</DislikesWomen.degreeDatas.misogynist.description>
+  <DislikesWomen.degreeDatas.misogynist.description>TODO</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
   <FastLearner.degreeDatas.fast_learner.label>TODO</FastLearner.degreeDatas.fast_learner.label>
@@ -67,9 +67,9 @@
   <FastLearner.degreeDatas.fast_learner.description>TODO</FastLearner.degreeDatas.fast_learner.description>
   
   <!-- EN: gay -->
-  <Gay.degreeDatas.gay.label>gay</Gay.degreeDatas.gay.label>
+  <Gay.degreeDatas.gay.label>TODO</Gay.degreeDatas.gay.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
-  <Gay.degreeDatas.gay.description>{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.</Gay.degreeDatas.gay.description>
+  <Gay.degreeDatas.gay.description>TODO</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>TODO</Gourmand.degreeDatas.gourmand.label>
@@ -82,14 +82,14 @@
   <GreatMemory.degreeDatas.great_memory.description>TODO</GreatMemory.degreeDatas.great_memory.description>
   
   <!-- EN: greedy -->
-  <Greedy.degreeDatas.greedy.label>greedy</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.label>TODO</Greedy.degreeDatas.greedy.label>
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
-  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants.</Greedy.degreeDatas.greedy.description>
+  <Greedy.degreeDatas.greedy.description>TODO</Greedy.degreeDatas.greedy.description>
   
   <!-- EN: jealous -->
-  <Jealous.degreeDatas.jealous.label>jealous</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.label>TODO</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>TODO</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>TODO</Kind.degreeDatas.kind.label>
@@ -102,9 +102,9 @@
   <Masochist.degreeDatas.masochist.description>For {PAWN_nameDef}, er det bare noe spennende ved å bli såret. {PAWN_pronoun} vet ikke hvorfor, {PAWN_pronoun} er bare skrudd sammen på den måten.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
-  <NightOwl.degreeDatas.night_owl.label>night owl</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.label>TODO</NightOwl.degreeDatas.night_owl.label>
   <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} likes to work at night. {PAWN_pronoun} gets a mood bonus if awake at night and mood loss if awake during the day.</NightOwl.degreeDatas.night_owl.description>
+  <NightOwl.degreeDatas.night_owl.description>TODO</NightOwl.degreeDatas.night_owl.description>
   
   <!-- EN: nimble -->
   <Nimble.degreeDatas.nimble.label>TODO</Nimble.degreeDatas.nimble.label>
@@ -123,7 +123,7 @@
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>TODO</Pyromaniac.degreeDatas.pyromaniac.label>
-  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when yielding an incendiary weapon. -->
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
   <Pyromaniac.degreeDatas.pyromaniac.description>TODO</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
@@ -155,7 +155,7 @@
   
   <!-- EN: body modder -->
   <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
-  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
   <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->

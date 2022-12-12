@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>dyr</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Konfigurer hvordan koloniens tamme dyr skal behandles.</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>Animals</Animals.skillLabel>
+  <Animals.skillLabel>dyr</Animals.skillLabel>
   
   <!-- EN: artistic -->
   <Artistic.label>TODO</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>Crafting art.</Artistic.description>
+  <Artistic.description>TODO</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>Artistic</Artistic.skillLabel>
+  <Artistic.skillLabel>TODO</Artistic.skillLabel>
   
   <!-- EN: construction -->
   <Construction.label>TODO</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
+  <Construction.description>TODO</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>Construction</Construction.skillLabel>
+  <Construction.skillLabel>TODO</Construction.skillLabel>
   
   <!-- EN: cooking -->
   <Cooking.label>TODO</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
+  <Cooking.description>TODO</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>Cooking</Cooking.skillLabel>
+  <Cooking.skillLabel>TODO</Cooking.skillLabel>
   
   <!-- EN: crafting -->
   <Crafting.label>TODO</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
+  <Crafting.description>TODO</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>Crafting</Crafting.skillLabel>
+  <Crafting.skillLabel>TODO</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
   <Intellectual.label>TODO</Intellectual.label>
@@ -46,43 +46,43 @@
   <!-- EN: medical -->
   <Medicine.label>TODO</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
+  <Medicine.description>TODO</Medicine.description>
   <!-- EN: medical -->
-  <Medicine.skillLabel>Medicine</Medicine.skillLabel>
+  <Medicine.skillLabel>TODO</Medicine.skillLabel>
   
   <!-- EN: melee -->
   <Melee.label>TODO</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
+  <Melee.description>TODO</Melee.description>
   <!-- EN: melee -->
-  <Melee.skillLabel>Melee</Melee.skillLabel>
+  <Melee.skillLabel>TODO</Melee.skillLabel>
   
   <!-- EN: mining -->
   <Mining.label>TODO</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
+  <Mining.description>TODO</Mining.description>
   <!-- EN: mining -->
-  <Mining.skillLabel>Mining</Mining.skillLabel>
+  <Mining.skillLabel>TODO</Mining.skillLabel>
   
   <!-- EN: plants -->
   <Plants.label>TODO</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>Sowing, caring for, and harvesting crops.</Plants.description>
+  <Plants.description>TODO</Plants.description>
   <!-- EN: plants -->
-  <Plants.skillLabel>Growing</Plants.skillLabel>
+  <Plants.skillLabel>TODO</Plants.skillLabel>
   
   <!-- EN: shooting -->
   <Shooting.label>TODO</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
+  <Shooting.description>TODO</Shooting.description>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>Shooting</Shooting.skillLabel>
+  <Shooting.skillLabel>TODO</Shooting.skillLabel>
   
   <!-- EN: social -->
   <Social.label>TODO</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
+  <Social.description>TODO</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>Social</Social.skillLabel>
+  <Social.skillLabel>TODO</Social.skillLabel>
   
 </LanguageData>

@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: son-in-law -->
-  <ChildInLaw.label>son-in-law</ChildInLaw.label>
+  <ChildInLaw.label>TODO</ChildInLaw.label>
   <!-- EN: daughter-in-law -->
-  <ChildInLaw.labelFemale>daughter-in-law</ChildInLaw.labelFemale>
+  <ChildInLaw.labelFemale>TODO</ChildInLaw.labelFemale>
   
   <!-- EN: ex-lover -->
-  <ExLover.label>ex-lover</ExLover.label>
+  <ExLover.label>TODO</ExLover.label>
   
   <!-- EN: ex-husband -->
-  <ExSpouse.label>ex-husband</ExSpouse.label>
+  <ExSpouse.label>TODO</ExSpouse.label>
   <!-- EN: ex-wife -->
-  <ExSpouse.labelFemale>ex-wife</ExSpouse.labelFemale>
+  <ExSpouse.labelFemale>TODO</ExSpouse.labelFemale>
   
   <!-- EN: fiance -->
-  <Fiance.label>fiance</Fiance.label>
+  <Fiance.label>TODO</Fiance.label>
   <!-- EN: fiancée -->
-  <Fiance.labelFemale>fiancée</Fiance.labelFemale>
+  <Fiance.labelFemale>TODO</Fiance.labelFemale>
   
   <!-- EN: lover -->
-  <Lover.label>lover</Lover.label>
+  <Lover.label>TODO</Lover.label>
   
   <!-- EN: father-in-law -->
-  <ParentInLaw.label>father-in-law</ParentInLaw.label>
+  <ParentInLaw.label>TODO</ParentInLaw.label>
   <!-- EN: mother-in-law -->
-  <ParentInLaw.labelFemale>mother-in-law</ParentInLaw.labelFemale>
+  <ParentInLaw.labelFemale>TODO</ParentInLaw.labelFemale>
   
   <!-- EN: husband -->
-  <Spouse.label>husband</Spouse.label>
+  <Spouse.label>TODO</Spouse.label>
   <!-- EN: wife -->
-  <Spouse.labelFemale>wife</Spouse.labelFemale>
+  <Spouse.labelFemale>TODO</Spouse.labelFemale>
   
   <!-- EN: stepson -->
-  <Stepchild.label>stepson</Stepchild.label>
+  <Stepchild.label>TODO</Stepchild.label>
   <!-- EN: stepdaughter -->
-  <Stepchild.labelFemale>stepdaughter</Stepchild.labelFemale>
+  <Stepchild.labelFemale>TODO</Stepchild.labelFemale>
   
   <!-- EN: stepfather -->
-  <Stepparent.label>stepfather</Stepparent.label>
+  <Stepparent.label>TODO</Stepparent.label>
   <!-- EN: stepmother -->
-  <Stepparent.labelFemale>stepmother</Stepparent.labelFemale>
+  <Stepparent.labelFemale>TODO</Stepparent.labelFemale>
   
 </LanguageData>

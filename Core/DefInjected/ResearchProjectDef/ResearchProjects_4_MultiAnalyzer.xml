@@ -12,33 +12,33 @@
   <Bionics.description>TODO</Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>charged shot</ChargedShot.label>
+  <ChargedShot.label>TODO</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+  <ChargedShot.description>TODO</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
+  <Cryptosleep.label>TODO</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>Allows colonists to construct cryptosleep caskets, which can put living beings in a state of suspended animation.</Cryptosleep.description>
+  <Cryptosleep.description>TODO</Cryptosleep.description>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>component assembly</Fabrication.label>
+  <Fabrication.label>TODO</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</Fabrication.description>
+  <Fabrication.description>TODO</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
   <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
   <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
+  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>Allows colonists to build multi-analyzers which increase research speed, and allow higher-level research projects, if placed near a research bench.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>powered armor</PoweredArmor.label>
+  <PoweredArmor.label>TODO</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+  <PoweredArmor.description>TODO</PoweredArmor.description>
   
   <!-- EN: recon armor -->
   <ReconArmor.label>TODO</ReconArmor.label>
@@ -56,8 +56,8 @@
   <SniperTurret.description>TODO</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <VitalsMonitor.label>TODO</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds.</VitalsMonitor.description>
+  <VitalsMonitor.description>TODO</VitalsMonitor.description>
   
 </LanguageData>

@@ -14,12 +14,12 @@
   <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>kolonistlik</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>tillat kolonistlik</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Tillat døde kolonister.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>fremmedlik</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>tillat fremmedlik</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Tillat døde fremmede og fiender.</AllowCorpsesStranger.description>
   
@@ -69,13 +69,12 @@
   <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-  <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+  <AllowNonSmeltableWeapons.label>TODO</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
-  <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+  <AllowPlantFood.label>TODO</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
-  <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+  <AllowPlantFood.description>TODO</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
   <AllowRotten.label>tillat råttent</AllowRotten.label>

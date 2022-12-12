@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>TODO</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh animals.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>TODO</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
-  <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>TODO</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>Speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>TODO</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>TODO</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>Multiplier on the amount of materials yielded when this person disassembles a dead mechanoid.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>TODO</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>TODO</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>TODO</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
-  <CookSpeed.label>cooking speed</CookSpeed.label>
+  <CookSpeed.label>TODO</CookSpeed.label>
   <!-- EN: The speed at which this person cooks meals. -->
-  <CookSpeed.description>Speed at which this person cooks meals.</CookSpeed.description>
+  <CookSpeed.description>TODO</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>brewing speed</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>TODO</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>Speed at which this person brews beer.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
   <DrugSynthesisSpeed.label>TODO</DrugSynthesisSpeed.label>
@@ -37,9 +37,9 @@
   <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
   <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
   
@@ -49,8 +49,8 @@
   <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
+  <SmeltingSpeed.label>TODO</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>Speed at which this person smelts things.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>TODO</SmeltingSpeed.description>
   
 </LanguageData>

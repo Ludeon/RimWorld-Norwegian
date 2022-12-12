@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: bison -->
-  <Bison.label>bison</Bison.label>
+  <Bison.label>TODO</Bison.label>
   <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
-  <Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description>
+  <Bison.description>TODO</Bison.description>
   <!-- EN: head -->
-  <Bison.tools.head.label>head</Bison.tools.head.label>
+  <Bison.tools.head.label>TODO</Bison.tools.head.label>
   <!-- EN: left hoof -->
-  <Bison.tools.left_hoof.label>left hoof</Bison.tools.left_hoof.label>
+  <Bison.tools.left_hoof.label>TODO</Bison.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Bison.tools.right_hoof.label>right hoof</Bison.tools.right_hoof.label>
+  <Bison.tools.right_hoof.label>TODO</Bison.tools.right_hoof.label>
   
   <!-- EN: boomalope -->
   <Boomalope.label>pangtilope</Boomalope.label>
@@ -48,26 +48,26 @@
   <Cow.tools.right_hoof.label>høyre hov</Cow.tools.right_hoof.label>
   
   <!-- EN: donkey -->
-  <Donkey.label>donkey</Donkey.label>
+  <Donkey.label>TODO</Donkey.label>
   <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
-  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed.</Donkey.description>
+  <Donkey.description>TODO</Donkey.description>
   <!-- EN: head -->
-  <Donkey.tools.head.label>head</Donkey.tools.head.label>
+  <Donkey.tools.head.label>TODO</Donkey.tools.head.label>
   <!-- EN: left hoof -->
-  <Donkey.tools.left_hoof.label>left hoof</Donkey.tools.left_hoof.label>
+  <Donkey.tools.left_hoof.label>TODO</Donkey.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Donkey.tools.right_hoof.label>right hoof</Donkey.tools.right_hoof.label>
+  <Donkey.tools.right_hoof.label>TODO</Donkey.tools.right_hoof.label>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.label>TODO</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
-  <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed.</Dromedary.description>
+  <Dromedary.description>TODO</Dromedary.description>
   <!-- EN: left hoof -->
-  <Dromedary.tools.left_hoof.label>left hoof</Dromedary.tools.left_hoof.label>
+  <Dromedary.tools.left_hoof.label>TODO</Dromedary.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Dromedary.tools.right_hoof.label>right hoof</Dromedary.tools.right_hoof.label>
+  <Dromedary.tools.right_hoof.label>TODO</Dromedary.tools.right_hoof.label>
   <!-- EN: head -->
-  <Dromedary.tools.head.label>head</Dromedary.tools.head.label>
+  <Dromedary.tools.head.label>TODO</Dromedary.tools.head.label>
   
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
@@ -94,35 +94,35 @@
   <Elk.tools.head.label>TODO</Elk.tools.head.label>
   
   <!-- EN: goat -->
-  <Goat.label>goat</Goat.label>
+  <Goat.label>TODO</Goat.label>
   <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
-  <Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description>
+  <Goat.description>TODO</Goat.description>
   <!-- EN: head -->
-  <Goat.tools.head.label>head</Goat.tools.head.label>
+  <Goat.tools.head.label>TODO</Goat.tools.head.label>
   
   <!-- EN: horse -->
-  <Horse.label>horse</Horse.label>
+  <Horse.label>TODO</Horse.label>
   <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
-  <Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed.</Horse.description>
+  <Horse.description>TODO</Horse.description>
   <!-- EN: horse meat -->
   <Horse.race.meatLabel>TODO</Horse.race.meatLabel>
   <!-- EN: head -->
-  <Horse.tools.head.label>head</Horse.tools.head.label>
+  <Horse.tools.head.label>TODO</Horse.tools.head.label>
   <!-- EN: left hoof -->
-  <Horse.tools.left_hoof.label>left hoof</Horse.tools.left_hoof.label>
+  <Horse.tools.left_hoof.label>TODO</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Horse.tools.right_hoof.label>right hoof</Horse.tools.right_hoof.label>
+  <Horse.tools.right_hoof.label>TODO</Horse.tools.right_hoof.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.label>TODO</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed.</Muffalo.description>
+  <Muffalo.description>TODO</Muffalo.description>
   <!-- EN: head -->
-  <Muffalo.tools.head.label>head</Muffalo.tools.head.label>
+  <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
-  <Muffalo.tools.left_hoof.label>left hoof</Muffalo.tools.left_hoof.label>
+  <Muffalo.tools.left_hoof.label>TODO</Muffalo.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Muffalo.tools.right_hoof.label>right hoof</Muffalo.tools.right_hoof.label>
+  <Muffalo.tools.right_hoof.label>TODO</Muffalo.tools.right_hoof.label>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>neshorn</Rhinoceros.label>
@@ -136,16 +136,16 @@
   <Rhinoceros.tools.head.label>hode</Rhinoceros.tools.head.label>
   
   <!-- EN: yak -->
-  <Yak.label>yak</Yak.label>
+  <Yak.label>TODO</Yak.label>
   <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
-  <Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description>
+  <Yak.description>TODO</Yak.description>
   <!-- EN: yak beef -->
   <Yak.race.meatLabel>TODO</Yak.race.meatLabel>
   <!-- EN: head -->
-  <Yak.tools.head.label>head</Yak.tools.head.label>
+  <Yak.tools.head.label>TODO</Yak.tools.head.label>
   <!-- EN: left hoof -->
-  <Yak.tools.left_hoof.label>left hoof</Yak.tools.left_hoof.label>
+  <Yak.tools.left_hoof.label>TODO</Yak.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Yak.tools.right_hoof.label>right hoof</Yak.tools.right_hoof.label>
+  <Yak.tools.right_hoof.label>TODO</Yak.tools.right_hoof.label>
   
 </LanguageData>

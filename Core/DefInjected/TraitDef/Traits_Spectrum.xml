@@ -19,17 +19,17 @@
   <Beauty.degreeDatas.staggeringly_ugly.description>TODO</Beauty.degreeDatas.staggeringly_ugly.description>
   
   <!-- EN: chemical fascination -->
-  <DrugDesire.degreeDatas.chemical_fascination.label>chemical fascination</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.label>TODO</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_fascination.description>TODO</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
-  <DrugDesire.degreeDatas.chemical_interest.label>chemical interest</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.label>TODO</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.chemical_interest.description>TODO</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
-  <DrugDesire.degreeDatas.teetotaler.label>teetotaler</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.label>TODO</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and drugs.</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>TODO</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
   <Immunity.degreeDatas.superimmune.label>TODO</Immunity.degreeDatas.superimmune.label>
@@ -58,7 +58,7 @@
   <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] elsker å gjøre ingenting, og hater alt produktivt. [PAWN_pronoun] beveger seg langsomt og blir sjeldent ved en oppgave i lengre tid om gangen.</Industriousness.degreeDatas.slothful.description>
   
   <!-- EN: sanguine -->
-  <NaturalMood.degreeDatas.sanguine.label>sanguine</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.label>sangvinsk</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
   <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] er bare naturlig oppe og kjører over [PAWN_possessive] situasjon, riktig godt hele tiden, uansett hva det er som skjer.</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
@@ -72,7 +72,7 @@
   <!-- EN: depressive -->
   <NaturalMood.degreeDatas.depressive.label>depressiv</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] er altid trist. [PAWN_pronoun] har problemer med å holde seg i et godt humør, selv når ting er helt ok.</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] er alltid trist. [PAWN_pronoun] har problemer med å holde seg i et godt humør, selv når ting er helt ok.</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
   <Nerves.degreeDatas.ironwilled.label>jernvilje</Nerves.degreeDatas.ironwilled.label>
@@ -92,39 +92,39 @@
   <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] henger på spissen hele tiden. [PAWN_pronoun] er den første som bryter sammen i en hard sitasjon.</Nerves.degreeDatas.volatile.description>
   
   <!-- EN: neurotic -->
-  <Neurotic.degreeDatas.neurotic.label>neurotisk</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.label>nevrotisk</Neurotic.degreeDatas.neurotic.label>
   <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
   <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] kan godt like å gjøre ting på sin egen måte. [PAWN_pronoun] vil arbeide hardere en de fleste, for å opprettholde tingene på sin måte, men [PAWN_possessive] nerver kan ramme [PAWN_objective] hardt.</Neurotic.degreeDatas.neurotic.description>
   <!-- EN: very neurotic -->
-  <Neurotic.degreeDatas.very_neurotic.label>veldig neurotisk</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.label>veldig nevrotisk</Neurotic.degreeDatas.very_neurotic.label>
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
   <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] føler seg konstant nervøs rundt alt det som skal ordnes. [PAWN_pronoun] vil arbeide ekstremt hardt for å opprettholde tingene på sin måte, men [PAWN_possessive] nerver kan ramme [PAWN_objective] hardt.</Neurotic.degreeDatas.very_neurotic.description>
   
   <!-- EN: psychically hypersensitive -->
   <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psykisk hypersensitiv</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]'s sinne er som en sil. [PAWN_pronoun] er ekstremt sensitiv til fenomener som kan påvirke psyken.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]s sinn er som en sil. [PAWN_pronoun] er ekstremt sensitiv til fenomener som kan påvirke psyken.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
   <PsychicSensitivity.degreeDatas.psychically_sensitive.label>psykisk sensitiv</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]'s sinne er usedvanlig sensitiv overfor fenomener som påvirker psyken.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]s sinn er usedvanlig sensitiv overfor fenomener som påvirker psyken.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
   <PsychicSensitivity.degreeDatas.psychically_dull.label>stabil psyke</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]'s sinne er ikke som de fleste andres. [PAWN_pronoun] blir ikke så lett påvirket av fenomener som rammer psyken.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]s sinn er ikke som de fleste andres. [PAWN_pronoun] blir ikke så lett påvirket av fenomener som rammer psyken.</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.label>immun psyke</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]'s sinne arbeider på en helt annen psykisk frekvens en alle andres. [PAWN_pronoun] blir slett ikke påvirket av psykiske fenomener.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]s sinn arbeider på en helt annen psykisk frekvens en alle andres. [PAWN_pronoun] blir slett ikke påvirket av psykiske fenomener.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.label>careful shooter</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>TODO</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] is a pretty good shot, but [PAWN_pronoun] needs more time to focus on [PAWN_possessive] target.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>TODO</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>trigger-happy</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>TODO</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pew! Pew! Pew! [PAWN_nameDef] is a terrible shot, but [PAWN_pronoun] doesn't care, because guns are awesome!</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>TODO</ShootingAccuracy.degreeDatas.triggerhappy.description>
   
   <!-- EN: slowpoke -->
   <SpeedOffset.degreeDatas.slowpoke.label>sløv</SpeedOffset.degreeDatas.slowpoke.label>

@@ -13,36 +13,36 @@
   <Chicken.tools.head.label>hode</Chicken.tools.head.label>
   
   <!-- EN: duck -->
-  <Duck.label>duck</Duck.label>
+  <Duck.label>TODO</Duck.label>
   <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
-  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely.</Duck.description>
+  <Duck.description>TODO</Duck.description>
   <!-- EN: claws -->
-  <Duck.tools.claws.label>claws</Duck.tools.claws.label>
+  <Duck.tools.claws.label>TODO</Duck.tools.claws.label>
   <!-- EN: beak -->
-  <Duck.tools.beak.label>beak</Duck.tools.beak.label>
+  <Duck.tools.beak.label>TODO</Duck.tools.beak.label>
   <!-- EN: head -->
-  <Duck.tools.head.label>head</Duck.tools.head.label>
+  <Duck.tools.head.label>TODO</Duck.tools.head.label>
   
   <!-- EN: goose -->
-  <Goose.label>goose</Goose.label>
+  <Goose.label>TODO</Goose.label>
   <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
-  <Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description>
+  <Goose.description>TODO</Goose.description>
   <!-- EN: claws -->
-  <Goose.tools.claws.label>claws</Goose.tools.claws.label>
+  <Goose.tools.claws.label>TODO</Goose.tools.claws.label>
   <!-- EN: beak -->
-  <Goose.tools.beak.label>beak</Goose.tools.beak.label>
+  <Goose.tools.beak.label>TODO</Goose.tools.beak.label>
   <!-- EN: head -->
-  <Goose.tools.head.label>head</Goose.tools.head.label>
+  <Goose.tools.head.label>TODO</Goose.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>turkey</Turkey.label>
+  <Turkey.label>TODO</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.description>TODO</Turkey.description>
   <!-- EN: claws -->
-  <Turkey.tools.claws.label>claws</Turkey.tools.claws.label>
+  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
   <!-- EN: beak -->
-  <Turkey.tools.beak.label>beak</Turkey.tools.beak.label>
+  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
   <!-- EN: head -->
-  <Turkey.tools.head.label>head</Turkey.tools.head.label>
+  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
   
 </LanguageData>

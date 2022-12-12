@@ -7,14 +7,14 @@
   <AttendedConcert.stages.attended_concert.description>TODO</AttendedConcert.stages.attended_concert.description>
   
   <!-- EN: attended party -->
-  <AttendedParty.stages.attended_party.label>attended party</AttendedParty.stages.attended_party.label>
+  <AttendedParty.stages.attended_party.label>TODO</AttendedParty.stages.attended_party.label>
   <!-- EN: I had a good time at that party. -->
-  <AttendedParty.stages.attended_party.description>I had a good time at that party.</AttendedParty.stages.attended_party.description>
+  <AttendedParty.stages.attended_party.description>TODO</AttendedParty.stages.attended_party.description>
   
   <!-- EN: attended wedding -->
-  <AttendedWedding.stages.attended_wedding.label>attended wedding</AttendedWedding.stages.attended_wedding.label>
+  <AttendedWedding.stages.attended_wedding.label>TODO</AttendedWedding.stages.attended_wedding.label>
   <!-- EN: It was great to see two people come together to build a future like that. -->
-  <AttendedWedding.stages.attended_wedding.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.attended_wedding.description>
+  <AttendedWedding.stages.attended_wedding.description>TODO</AttendedWedding.stages.attended_wedding.description>
   
   <!-- EN: encouraging speech -->
   <EncouragingSpeech.stages.encouraging_speech.label>TODO</EncouragingSpeech.stages.encouraging_speech.label>
@@ -22,9 +22,9 @@
   <EncouragingSpeech.stages.encouraging_speech.description>TODO</EncouragingSpeech.stages.encouraging_speech.description>
   
   <!-- EN: got married to {0} -->
-  <GotMarried.stages.got_married_to.label>got married</GotMarried.stages.got_married_to.label>
+  <GotMarried.stages.got_married_to.label>TODO</GotMarried.stages.got_married_to.label>
   <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
-  <GotMarried.stages.got_married_to.description>I got married! Life is full of possibility!</GotMarried.stages.got_married_to.description>
+  <GotMarried.stages.got_married_to.description>TODO</GotMarried.stages.got_married_to.description>
   
   <!-- EN: held concert -->
   <HeldConcert.stages.held_concert.label>TODO</HeldConcert.stages.held_concert.label>

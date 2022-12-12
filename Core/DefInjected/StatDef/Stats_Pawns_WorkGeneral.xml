@@ -17,9 +17,9 @@
   <CleaningSpeed.description>TODO</CleaningSpeed.description>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
+  <ConstructionSpeed.label>TODO</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>Speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+  <ConstructionSpeed.description>TODO</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>TODO</ConstructSuccessChance.label>
@@ -47,9 +47,9 @@
   <HuntingStealth.description>TODO</HuntingStealth.description>
   
   <!-- EN: mining speed -->
-  <MiningSpeed.label>mining speed</MiningSpeed.label>
+  <MiningSpeed.label>TODO</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>A multiplier on the speed at which this person mines rock.</MiningSpeed.description>
+  <MiningSpeed.description>TODO</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>TODO</MiningYield.label>
@@ -62,23 +62,23 @@
   <PlantHarvestYield.description>TODO</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
-  <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
+  <PlantWorkSpeed.label>TODO</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
-  <PlantWorkSpeed.description>Speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.description>TODO</PlantWorkSpeed.description>
   
   <!-- EN: research speed -->
-  <ResearchSpeed.label>research speed</ResearchSpeed.label>
+  <ResearchSpeed.label>TODO</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>This person does research at this speed.</ResearchSpeed.description>
+  <ResearchSpeed.description>TODO</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
-  <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
+  <SmoothingSpeed.label>TODO</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>A multiplier on the speed at which this person smooths floors.</SmoothingSpeed.description>
+  <SmoothingSpeed.description>TODO</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
-  <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.label>TODO</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>A multiplier on someone's speed at doing any work.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>TODO</WorkSpeedGlobal.description>
   
 </LanguageData>

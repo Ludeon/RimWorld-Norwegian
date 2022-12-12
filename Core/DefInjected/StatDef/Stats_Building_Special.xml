@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: rest effectiveness -->
-  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>TODO</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>TODO</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>The speed at which the door opens.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>TODO</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>TODO</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>TODO</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
   <JoyGainFactor.label>TODO</JoyGainFactor.label>
@@ -27,9 +27,9 @@
   <MedicalTendQualityOffset.description>TODO</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>TODO</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
-  <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>TODO</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>TODO</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
@@ -41,14 +41,14 @@
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>TODO</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
-  <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
+  <TrapMeleeDamage.label>TODO</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
+  <TrapSpringChance.label>TODO</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+  <TrapSpringChance.description>TODO</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>
@@ -56,9 +56,9 @@
   <WorkTableEfficiencyFactor.description>TODO</WorkTableEfficiencyFactor.description>
   
   <!-- EN: work speed factor -->
-  <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.label>TODO</WorkTableWorkSpeedFactor.label>
   <!-- EN: Work speed is multiplied by this value. -->
-  <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.description>TODO</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
   <WorkToBuild.label>TODO</WorkToBuild.label>

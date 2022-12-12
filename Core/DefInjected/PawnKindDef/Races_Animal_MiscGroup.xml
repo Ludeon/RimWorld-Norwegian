@@ -2,109 +2,19 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>alphabeaver</Alphabeaver.label>
-  <Alphabeaver.labelFemale>female alphabeaver</Alphabeaver.labelFemale>
-  <Alphabeaver.labelFemalePlural>female alphabeavers</Alphabeaver.labelFemalePlural>
-  <Alphabeaver.labelMale>male alphabeaver</Alphabeaver.labelMale>
-  <Alphabeaver.labelMalePlural>male alphabeavers</Alphabeaver.labelMalePlural>
-  <Alphabeaver.labelPlural>alphabeavers</Alphabeaver.labelPlural>
-  <Alphabeaver.lifeStages.0.label>alphabeaver</Alphabeaver.lifeStages.0.label>
-  <Alphabeaver.lifeStages.0.labelFemale>female alphabeaver</Alphabeaver.lifeStages.0.labelFemale>
-  <Alphabeaver.lifeStages.0.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.0.labelFemalePlural>
-  <Alphabeaver.lifeStages.0.labelMale>male alphabeaver</Alphabeaver.lifeStages.0.labelMale>
-  <Alphabeaver.lifeStages.0.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.0.labelMalePlural>
-  <Alphabeaver.lifeStages.0.labelPlural>alphabeaver</Alphabeaver.lifeStages.0.labelPlural>
-  <Alphabeaver.lifeStages.1.label>alphabeaver</Alphabeaver.lifeStages.1.label>
-  <Alphabeaver.lifeStages.1.labelFemale>female alphabeaver</Alphabeaver.lifeStages.1.labelFemale>
-  <Alphabeaver.lifeStages.1.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.1.labelFemalePlural>
-  <Alphabeaver.lifeStages.1.labelMale>male alphabeaver</Alphabeaver.lifeStages.1.labelMale>
-  <Alphabeaver.lifeStages.1.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.1.labelMalePlural>
-  <Alphabeaver.lifeStages.1.labelPlural>alphabeaver</Alphabeaver.lifeStages.1.labelPlural>
-  <Alphabeaver.lifeStages.2.label>alphabeaver</Alphabeaver.lifeStages.2.label>
-  <Alphabeaver.lifeStages.2.labelFemale>female alphabeaver</Alphabeaver.lifeStages.2.labelFemale>
-  <Alphabeaver.lifeStages.2.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.2.labelFemalePlural>
-  <Alphabeaver.lifeStages.2.labelMale>male alphabeaver</Alphabeaver.lifeStages.2.labelMale>
-  <Alphabeaver.lifeStages.2.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.2.labelMalePlural>
-  <Alphabeaver.lifeStages.2.labelPlural>alphabeaver</Alphabeaver.lifeStages.2.labelPlural>
+  <Alphabeaver.label>TODO</Alphabeaver.label>
   
   <!-- EN: cobra -->
-  <Cobra.label>cobra</Cobra.label>
-  <Cobra.labelFemale>female cobra</Cobra.labelFemale>
-  <Cobra.labelFemalePlural>female cobras</Cobra.labelFemalePlural>
-  <Cobra.labelMale>male cobra</Cobra.labelMale>
-  <Cobra.labelMalePlural>male cobras</Cobra.labelMalePlural>
-  <Cobra.labelPlural>cobras</Cobra.labelPlural>
-  <Cobra.lifeStages.0.label>cobra</Cobra.lifeStages.0.label>
-  <Cobra.lifeStages.0.labelFemale>female cobra</Cobra.lifeStages.0.labelFemale>
-  <Cobra.lifeStages.0.labelFemalePlural>female cobras</Cobra.lifeStages.0.labelFemalePlural>
-  <Cobra.lifeStages.0.labelMale>male cobra</Cobra.lifeStages.0.labelMale>
-  <Cobra.lifeStages.0.labelMalePlural>male cobras</Cobra.lifeStages.0.labelMalePlural>
-  <Cobra.lifeStages.0.labelPlural>cobra</Cobra.lifeStages.0.labelPlural>
-  <Cobra.lifeStages.1.label>cobra</Cobra.lifeStages.1.label>
-  <Cobra.lifeStages.1.labelFemale>female cobra</Cobra.lifeStages.1.labelFemale>
-  <Cobra.lifeStages.1.labelFemalePlural>female cobras</Cobra.lifeStages.1.labelFemalePlural>
-  <Cobra.lifeStages.1.labelMale>male cobra</Cobra.lifeStages.1.labelMale>
-  <Cobra.lifeStages.1.labelMalePlural>male cobras</Cobra.lifeStages.1.labelMalePlural>
-  <Cobra.lifeStages.1.labelPlural>cobra</Cobra.lifeStages.1.labelPlural>
-  <Cobra.lifeStages.2.label>cobra</Cobra.lifeStages.2.label>
-  <Cobra.lifeStages.2.labelFemale>female cobra</Cobra.lifeStages.2.labelFemale>
-  <Cobra.lifeStages.2.labelFemalePlural>female cobras</Cobra.lifeStages.2.labelFemalePlural>
-  <Cobra.lifeStages.2.labelMale>male cobra</Cobra.lifeStages.2.labelMale>
-  <Cobra.lifeStages.2.labelMalePlural>male cobras</Cobra.lifeStages.2.labelMalePlural>
-  <Cobra.lifeStages.2.labelPlural>cobra</Cobra.lifeStages.2.labelPlural>
+  <Cobra.label>TODO</Cobra.label>
   
   <!-- EN: thrumbo -->
-  <Thrumbo.label>thrumbo</Thrumbo.label>
-  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
-  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
-  <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
+  <Thrumbo.label>TODO</Thrumbo.label>
   <!-- EN: thrumbo calf -->
-  <Thrumbo.lifeStages.thrumbo_calf.label>thrumbo calf</Thrumbo.lifeStages.thrumbo_calf.label>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemale>female thrumbo calf</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>female thrumbo calves</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMale>male thrumbo calf</Thrumbo.lifeStages.thrumbo_calf.labelMale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>male thrumbo calves</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
+  <Thrumbo.lifeStages.thrumbo_calf.label>TODO</Thrumbo.lifeStages.thrumbo_calf.label>
   <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>thrumbo calves</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.1.label>thrumbo</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelFemale>female thrumbo</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.1.labelMale>male thrumbo</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>male thrumbos</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelPlural>thrumbo</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelFemale>female thrumbo</Thrumbo.lifeStages.2.labelFemale>
-  <Thrumbo.lifeStages.2.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.lifeStages.2.labelMale>male thrumbo</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>male thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
-  <Thrumbo.lifeStages.2.labelPlural>thrumbo</Thrumbo.lifeStages.2.labelPlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>TODO</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>tortoise</Tortoise.label>
-  <Tortoise.labelFemale>female tortoise</Tortoise.labelFemale>
-  <Tortoise.labelFemalePlural>female tortoises</Tortoise.labelFemalePlural>
-  <Tortoise.labelMale>male tortoise</Tortoise.labelMale>
-  <Tortoise.labelMalePlural>male tortoises</Tortoise.labelMalePlural>
-  <Tortoise.labelPlural>tortoises</Tortoise.labelPlural>
-  <Tortoise.lifeStages.0.label>tortoise</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.0.labelFemale>female tortoise</Tortoise.lifeStages.0.labelFemale>
-  <Tortoise.lifeStages.0.labelFemalePlural>female tortoises</Tortoise.lifeStages.0.labelFemalePlural>
-  <Tortoise.lifeStages.0.labelMale>male tortoise</Tortoise.lifeStages.0.labelMale>
-  <Tortoise.lifeStages.0.labelMalePlural>male tortoises</Tortoise.lifeStages.0.labelMalePlural>
-  <Tortoise.lifeStages.0.labelPlural>tortoise</Tortoise.lifeStages.0.labelPlural>
-  <Tortoise.lifeStages.1.label>tortoise</Tortoise.lifeStages.1.label>
-  <Tortoise.lifeStages.1.labelFemale>female tortoise</Tortoise.lifeStages.1.labelFemale>
-  <Tortoise.lifeStages.1.labelFemalePlural>female tortoises</Tortoise.lifeStages.1.labelFemalePlural>
-  <Tortoise.lifeStages.1.labelMale>male tortoise</Tortoise.lifeStages.1.labelMale>
-  <Tortoise.lifeStages.1.labelMalePlural>male tortoises</Tortoise.lifeStages.1.labelMalePlural>
-  <Tortoise.lifeStages.1.labelPlural>tortoise</Tortoise.lifeStages.1.labelPlural>
-  <Tortoise.lifeStages.2.label>tortoise</Tortoise.lifeStages.2.label>
-  <Tortoise.lifeStages.2.labelFemale>female tortoise</Tortoise.lifeStages.2.labelFemale>
-  <Tortoise.lifeStages.2.labelFemalePlural>female tortoises</Tortoise.lifeStages.2.labelFemalePlural>
-  <Tortoise.lifeStages.2.labelMale>male tortoise</Tortoise.lifeStages.2.labelMale>
-  <Tortoise.lifeStages.2.labelMalePlural>male tortoises</Tortoise.lifeStages.2.labelMalePlural>
-  <Tortoise.lifeStages.2.labelPlural>tortoise</Tortoise.lifeStages.2.labelPlural>
+  <Tortoise.label>TODO</Tortoise.label>
   
 </LanguageData>

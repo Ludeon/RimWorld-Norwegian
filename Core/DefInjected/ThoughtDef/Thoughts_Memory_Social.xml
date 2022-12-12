@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: botched my surgery -->
-  <BotchedMySurgery.stages.botched_my_surgery.label>botched my surgery</BotchedMySurgery.stages.botched_my_surgery.label>
+  <BotchedMySurgery.stages.botched_my_surgery.label>TODO</BotchedMySurgery.stages.botched_my_surgery.label>
   
   <!-- EN: broke up with me -->
-  <BrokeUpWithMe.stages.broke_up_with_me.label>broke up with me</BrokeUpWithMe.stages.broke_up_with_me.label>
+  <BrokeUpWithMe.stages.broke_up_with_me.label>TODO</BrokeUpWithMe.stages.broke_up_with_me.label>
   
   <!-- EN: broken up with by {0} -->
   <BrokeUpWithMeMood.stages.broken_up_with_by.label>TODO</BrokeUpWithMeMood.stages.broken_up_with_by.label>
@@ -13,7 +13,7 @@
   <BrokeUpWithMeMood.stages.broken_up_with_by.description>TODO</BrokeUpWithMeMood.stages.broken_up_with_by.description>
   
   <!-- EN: cheated on me -->
-  <CheatedOnMe.stages.cheated_on_me.label>cheater</CheatedOnMe.stages.cheated_on_me.label>
+  <CheatedOnMe.stages.cheated_on_me.label>TODO</CheatedOnMe.stages.cheated_on_me.label>
   
   <!-- EN: cheated on by {0} -->
   <CheatedOnMeMood.stages.cheated_on_by.label>TODO</CheatedOnMeMood.stages.cheated_on_by.label>
@@ -21,16 +21,16 @@
   <CheatedOnMeMood.stages.cheated_on_by.description>TODO</CheatedOnMeMood.stages.cheated_on_by.description>
   
   <!-- EN: chitchat -->
-  <Chitchat.stages.chitchat.label>chitchat</Chitchat.stages.chitchat.label>
+  <Chitchat.stages.chitchat.label>TODO</Chitchat.stages.chitchat.label>
   
   <!-- EN: crashed together -->
-  <CrashedTogether.stages.crashed_together.label>crashed together</CrashedTogether.stages.crashed_together.label>
+  <CrashedTogether.stages.crashed_together.label>TODO</CrashedTogether.stages.crashed_together.label>
   
   <!-- EN: deep talk -->
-  <DeepTalk.stages.deep_talk.label>had deep talk</DeepTalk.stages.deep_talk.label>
+  <DeepTalk.stages.deep_talk.label>TODO</DeepTalk.stages.deep_talk.label>
   
   <!-- EN: divorced me -->
-  <DivorcedMe.stages.divorced_me.label>divorced me</DivorcedMe.stages.divorced_me.label>
+  <DivorcedMe.stages.divorced_me.label>TODO</DivorcedMe.stages.divorced_me.label>
   
   <!-- EN: divorced by {0} -->
   <DivorcedMeMood.stages.divorced_by.label>TODO</DivorcedMeMood.stages.divorced_by.label>
@@ -62,24 +62,24 @@
   <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>TODO</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
   
   <!-- EN: got some lovin' -->
-  <GotSomeLovin.stages.got_some_lovin.label>got some lovin’</GotSomeLovin.stages.got_some_lovin.label>
+  <GotSomeLovin.stages.got_some_lovin.label>TODO</GotSomeLovin.stages.got_some_lovin.label>
   <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
-  <GotSomeLovin.stages.got_some_lovin.description>There's nothing like a tumble between the sheets to lift the mood.</GotSomeLovin.stages.got_some_lovin.description>
+  <GotSomeLovin.stages.got_some_lovin.description>TODO</GotSomeLovin.stages.got_some_lovin.description>
   
   <!-- EN: angering fight -->
-  <HadAngeringFight.stages.angering_fight.label>had an angering fight</HadAngeringFight.stages.angering_fight.label>
+  <HadAngeringFight.stages.angering_fight.label>TODO</HadAngeringFight.stages.angering_fight.label>
   
   <!-- EN: cathartic fight -->
-  <HadCatharticFight.stages.cathartic_fight.label>had a cathartic fight</HadCatharticFight.stages.cathartic_fight.label>
+  <HadCatharticFight.stages.cathartic_fight.label>TODO</HadCatharticFight.stages.cathartic_fight.label>
   
   <!-- EN: harmed me -->
-  <HarmedMe.stages.harmed_me.label>harmed me</HarmedMe.stages.harmed_me.label>
+  <HarmedMe.stages.harmed_me.label>TODO</HarmedMe.stages.harmed_me.label>
   
   <!-- EN: honeymoon phase -->
-  <HoneymoonPhase.stages.honeymoon_phase.label>honeymoon phase</HoneymoonPhase.stages.honeymoon_phase.label>
+  <HoneymoonPhase.stages.honeymoon_phase.label>TODO</HoneymoonPhase.stages.honeymoon_phase.label>
   
   <!-- EN: insulted -->
-  <Insulted.stages.insulted.label>insulted</Insulted.stages.insulted.label>
+  <Insulted.stages.insulted.label>TODO</Insulted.stages.insulted.label>
   
   <!-- EN: insulted -->
   <InsultedMood.stages.insulted.label>TODO</InsultedMood.stages.insulted.label>
@@ -87,7 +87,7 @@
   <InsultedMood.stages.insulted.description>TODO</InsultedMood.stages.insulted.description>
   
   <!-- EN: I rejected their proposal -->
-  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>I rejected their proposal</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>TODO</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   
   <!-- EN: killed my bonded animal -->
   <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>TODO</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
@@ -108,7 +108,7 @@
   <KilledMyFriend.stages.killed_my_friend.label>TODO</KilledMyFriend.stages.killed_my_friend.label>
   
   <!-- EN: killed my kin -->
-  <KilledMyKin.stages.killed_my_kin.label>killed my kin</KilledMyKin.stages.killed_my_kin.label>
+  <KilledMyKin.stages.killed_my_kin.label>TODO</KilledMyKin.stages.killed_my_kin.label>
   
   <!-- EN: killed my lover -->
   <KilledMyLover.stages.killed_my_lover.label>TODO</KilledMyLover.stages.killed_my_lover.label>
@@ -148,10 +148,10 @@
   <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>TODO</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
   
   <!-- EN: recruited me -->
-  <RecruitedMe.stages.recruited_me.label>recruited me</RecruitedMe.stages.recruited_me.label>
+  <RecruitedMe.stages.recruited_me.label>TODO</RecruitedMe.stages.recruited_me.label>
   
   <!-- EN: rejected my proposal -->
-  <RejectedMyProposal.stages.rejected_my_proposal.label>rejected my proposal</RejectedMyProposal.stages.rejected_my_proposal.label>
+  <RejectedMyProposal.stages.rejected_my_proposal.label>TODO</RejectedMyProposal.stages.rejected_my_proposal.label>
   
   <!-- EN: my proposal was rejected by {0} -->
   <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>TODO</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
@@ -159,7 +159,7 @@
   <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>TODO</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
   
   <!-- EN: rescued me -->
-  <RescuedMe.stages.rescued_me.label>rescued me</RescuedMe.stages.rescued_me.label>
+  <RescuedMe.stages.rescued_me.label>TODO</RescuedMe.stages.rescued_me.label>
   
   <!-- EN: rescued me -->
   <RescuedMeByOfferingHelp.stages.rescued_me.label>TODO</RescuedMeByOfferingHelp.stages.rescued_me.label>
@@ -167,7 +167,7 @@
   <RescuedMeByOfferingHelp.stages.rescued_me.description>TODO</RescuedMeByOfferingHelp.stages.rescued_me.description>
   
   <!-- EN: slighted -->
-  <Slighted.stages.slighted.label>slighted</Slighted.stages.slighted.label>
+  <Slighted.stages.slighted.label>TODO</Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal given away -->
   <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
@@ -184,10 +184,10 @@
   <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
   
   <!-- EN: loved one sold -->
-  <SoldMyLovedOne.stages.loved_one_sold.label>loved one sold</SoldMyLovedOne.stages.loved_one_sold.label>
+  <SoldMyLovedOne.stages.loved_one_sold.label>TODO</SoldMyLovedOne.stages.loved_one_sold.label>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
-  <SoldMyLovedOne.stages.loved_one_sold.description>Someone I love was sold to a trader like a piece of meat!</SoldMyLovedOne.stages.loved_one_sold.description>
+  <SoldMyLovedOne.stages.loved_one_sold.description>TODO</SoldMyLovedOne.stages.loved_one_sold.description>
   <!-- EN: sold my loved one -->
-  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>sold my loved one</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>TODO</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   
 </LanguageData>

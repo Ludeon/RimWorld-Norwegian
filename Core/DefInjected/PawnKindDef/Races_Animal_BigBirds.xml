@@ -3,82 +3,15 @@
   
   <!-- EN: cassowary -->
   <Cassowary.label>TODO</Cassowary.label>
-  <Cassowary.labelFemale>female cassowary</Cassowary.labelFemale>
-  <Cassowary.labelFemalePlural>female cassowaries</Cassowary.labelFemalePlural>
-  <Cassowary.labelMale>male cassowary</Cassowary.labelMale>
-  <Cassowary.labelMalePlural>male cassowaries</Cassowary.labelMalePlural>
   <!-- EN: cassowaries -->
   <Cassowary.labelPlural>TODO</Cassowary.labelPlural>
-  <Cassowary.lifeStages.0.label>cassowary</Cassowary.lifeStages.0.label>
-  <Cassowary.lifeStages.0.labelFemale>female cassowary</Cassowary.lifeStages.0.labelFemale>
-  <Cassowary.lifeStages.0.labelFemalePlural>female cassowarys</Cassowary.lifeStages.0.labelFemalePlural>
-  <Cassowary.lifeStages.0.labelMale>male cassowary</Cassowary.lifeStages.0.labelMale>
-  <Cassowary.lifeStages.0.labelMalePlural>male cassowarys</Cassowary.lifeStages.0.labelMalePlural>
-  <Cassowary.lifeStages.0.labelPlural>cassowaries</Cassowary.lifeStages.0.labelPlural>
-  <Cassowary.lifeStages.1.label>cassowary</Cassowary.lifeStages.1.label>
-  <Cassowary.lifeStages.1.labelFemale>female cassowary</Cassowary.lifeStages.1.labelFemale>
-  <Cassowary.lifeStages.1.labelFemalePlural>female cassowarys</Cassowary.lifeStages.1.labelFemalePlural>
-  <Cassowary.lifeStages.1.labelMale>male cassowary</Cassowary.lifeStages.1.labelMale>
-  <Cassowary.lifeStages.1.labelMalePlural>male cassowarys</Cassowary.lifeStages.1.labelMalePlural>
-  <Cassowary.lifeStages.1.labelPlural>cassowaries</Cassowary.lifeStages.1.labelPlural>
-  <Cassowary.lifeStages.2.label>cassowary</Cassowary.lifeStages.2.label>
-  <Cassowary.lifeStages.2.labelFemale>female cassowary</Cassowary.lifeStages.2.labelFemale>
-  <Cassowary.lifeStages.2.labelFemalePlural>female cassowarys</Cassowary.lifeStages.2.labelFemalePlural>
-  <Cassowary.lifeStages.2.labelMale>male cassowary</Cassowary.lifeStages.2.labelMale>
-  <Cassowary.lifeStages.2.labelMalePlural>male cassowarys</Cassowary.lifeStages.2.labelMalePlural>
-  <Cassowary.lifeStages.2.labelPlural>cassowaries</Cassowary.lifeStages.2.labelPlural>
   
   <!-- EN: emu -->
   <Emu.label>TODO</Emu.label>
-  <Emu.labelFemale>female emu</Emu.labelFemale>
-  <Emu.labelFemalePlural>female emus</Emu.labelFemalePlural>
-  <Emu.labelMale>male emu</Emu.labelMale>
-  <Emu.labelMalePlural>male emus</Emu.labelMalePlural>
-  <Emu.labelPlural>emus</Emu.labelPlural>
-  <Emu.lifeStages.0.label>emu</Emu.lifeStages.0.label>
-  <Emu.lifeStages.0.labelFemale>female emu</Emu.lifeStages.0.labelFemale>
-  <Emu.lifeStages.0.labelFemalePlural>female emus</Emu.lifeStages.0.labelFemalePlural>
-  <Emu.lifeStages.0.labelMale>male emu</Emu.lifeStages.0.labelMale>
-  <Emu.lifeStages.0.labelMalePlural>male emus</Emu.lifeStages.0.labelMalePlural>
-  <Emu.lifeStages.0.labelPlural>emu</Emu.lifeStages.0.labelPlural>
-  <Emu.lifeStages.1.label>emu</Emu.lifeStages.1.label>
-  <Emu.lifeStages.1.labelFemale>female emu</Emu.lifeStages.1.labelFemale>
-  <Emu.lifeStages.1.labelFemalePlural>female emus</Emu.lifeStages.1.labelFemalePlural>
-  <Emu.lifeStages.1.labelMale>male emu</Emu.lifeStages.1.labelMale>
-  <Emu.lifeStages.1.labelMalePlural>male emus</Emu.lifeStages.1.labelMalePlural>
-  <Emu.lifeStages.1.labelPlural>emu</Emu.lifeStages.1.labelPlural>
-  <Emu.lifeStages.2.label>emu</Emu.lifeStages.2.label>
-  <Emu.lifeStages.2.labelFemale>female emu</Emu.lifeStages.2.labelFemale>
-  <Emu.lifeStages.2.labelFemalePlural>female emus</Emu.lifeStages.2.labelFemalePlural>
-  <Emu.lifeStages.2.labelMale>male emu</Emu.lifeStages.2.labelMale>
-  <Emu.lifeStages.2.labelMalePlural>male emus</Emu.lifeStages.2.labelMalePlural>
-  <Emu.lifeStages.2.labelPlural>emu</Emu.lifeStages.2.labelPlural>
   
   <!-- EN: ostrich -->
   <Ostrich.label>TODO</Ostrich.label>
-  <Ostrich.labelFemale>female ostrich</Ostrich.labelFemale>
-  <Ostrich.labelFemalePlural>female ostriches</Ostrich.labelFemalePlural>
-  <Ostrich.labelMale>male ostrich</Ostrich.labelMale>
-  <Ostrich.labelMalePlural>male ostriches</Ostrich.labelMalePlural>
   <!-- EN: ostriches -->
   <Ostrich.labelPlural>TODO</Ostrich.labelPlural>
-  <Ostrich.lifeStages.0.label>ostrich</Ostrich.lifeStages.0.label>
-  <Ostrich.lifeStages.0.labelFemale>female ostrich</Ostrich.lifeStages.0.labelFemale>
-  <Ostrich.lifeStages.0.labelFemalePlural>female ostrichs</Ostrich.lifeStages.0.labelFemalePlural>
-  <Ostrich.lifeStages.0.labelMale>male ostrich</Ostrich.lifeStages.0.labelMale>
-  <Ostrich.lifeStages.0.labelMalePlural>male ostrichs</Ostrich.lifeStages.0.labelMalePlural>
-  <Ostrich.lifeStages.0.labelPlural>ostriches</Ostrich.lifeStages.0.labelPlural>
-  <Ostrich.lifeStages.1.label>ostrich</Ostrich.lifeStages.1.label>
-  <Ostrich.lifeStages.1.labelFemale>female ostrich</Ostrich.lifeStages.1.labelFemale>
-  <Ostrich.lifeStages.1.labelFemalePlural>female ostrichs</Ostrich.lifeStages.1.labelFemalePlural>
-  <Ostrich.lifeStages.1.labelMale>male ostrich</Ostrich.lifeStages.1.labelMale>
-  <Ostrich.lifeStages.1.labelMalePlural>male ostrichs</Ostrich.lifeStages.1.labelMalePlural>
-  <Ostrich.lifeStages.1.labelPlural>ostriches</Ostrich.lifeStages.1.labelPlural>
-  <Ostrich.lifeStages.2.label>ostrich</Ostrich.lifeStages.2.label>
-  <Ostrich.lifeStages.2.labelFemale>female ostrich</Ostrich.lifeStages.2.labelFemale>
-  <Ostrich.lifeStages.2.labelFemalePlural>female ostrichs</Ostrich.lifeStages.2.labelFemalePlural>
-  <Ostrich.lifeStages.2.labelMale>male ostrich</Ostrich.lifeStages.2.labelMale>
-  <Ostrich.lifeStages.2.labelMalePlural>male ostrichs</Ostrich.lifeStages.2.labelMalePlural>
-  <Ostrich.lifeStages.2.labelPlural>ostriches</Ostrich.lifeStages.2.labelPlural>
   
 </LanguageData>

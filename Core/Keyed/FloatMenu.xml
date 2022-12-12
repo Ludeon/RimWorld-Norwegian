@@ -171,7 +171,7 @@
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
-  <InstallImplantMinLevel>TODO</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
   <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
@@ -264,7 +264,7 @@
   <!-- EN: Equip {0} -->
   <Equip>Utruste {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(brawler vil være misfornøyd)</EquipWarningBrawler>
+  <EquipWarningBrawler>TODO</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Ikke kan utruste {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
@@ -291,34 +291,34 @@
   <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
+  <CannotPickUp>TODO</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
-  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+  <CannotPickUpAll>TODO</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->
   <PickUpOne>TODO</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>Pick up {0} (all)</PickUpAll>
+  <PickUpAll>TODO</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
-  <PickUpSome>Pick up {0}...</PickUpSome>
+  <PickUpSome>TODO</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <PickUpCount>TODO</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUpSome>TODO</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
   <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>TODO</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>TODO</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+  <GiveToPackAnimal>TODO</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>TODO</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>TODO</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>TODO</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
@@ -336,16 +336,16 @@
   <OverweightLower>TODO</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+  <CannotCarryToExit>TODO</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+  <CarryToExit>TODO</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
   <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
-  <Strip>Strip {0}</Strip>
+  <Strip>TODO</Strip>
   <!-- EN: Cannot strip {1_label} -->
-  <CannotStrip>Cannot strip {0}</CannotStrip>
+  <CannotStrip>TODO</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>TODO</CannotDrop>
   <!-- EN: Carry {0_label} -->
@@ -365,24 +365,24 @@
   <PlaceIn>TODO</PlaceIn>
 
   <!-- EN: Self-destruct here -->
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>TODO</SelfDestructHere>
   
   <!-- EN: Drop {1_label} -->
-  <Drop>Drop {0}</Drop>
+  <Drop>TODO</Drop>
 
   <!-- EN: Rest until healed -->
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
+  <UseMedicalBed>TODO</UseMedicalBed>
   <!-- EN: not injured -->
-  <NotInjured>Not injured</NotInjured>
+  <NotInjured>TODO</NotInjured>
   <!-- EN: no doctor -->
-  <NoDoctor>TODO</NoDoctor><!-- text_todo -->
+  <NoDoctor>TODO</NoDoctor>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+  <SomeoneElseSleeping>TODO</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
-  <TradeWith>Trade with {0}</TradeWith>
+  <TradeWith>TODO</TradeWith>
   <!-- EN: Cannot trade -->
-  <CannotTrade>Cannot trade</CannotTrade>
+  <CannotTrade>TODO</CannotTrade>
 
   <!-- EN: Open {0_label} -->
   <Open>TODO</Open>
@@ -390,7 +390,7 @@
   <CannotOpen>TODO</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Enter {0}</EnterMap>
+  <EnterMap>TODO</EnterMap>
   <!-- EN: Visit {0} -->
   <VisitSettlement>TODO</VisitSettlement>
   <!-- EN: Visit {0} -->
@@ -410,29 +410,29 @@
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>TODO</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <OpenCryptosleepCasket>TODO</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
   <EnterShuttle>TODO</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>TODO}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: Incapable of {0} -->
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>TODO</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>TODO</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: Will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>TODO</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>TODO</MissingTitleAbility>
 
@@ -442,32 +442,32 @@
   <WillNever>TODO</WillNever>
 
   <!-- EN: Cannot prioritize: Not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>TODO</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>TODO</NotAssigned>
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize: Research is a long-term task -->
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>TODO</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>TODO</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>TODO</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
   <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>TODO</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
-  <DropAtEdge>Drop at edge</DropAtEdge>
+  <DropAtEdge>TODO</DropAtEdge>
   <!-- EN: Drop in center -->
-  <DropInCenter>Drop in center</DropInCenter>
+  <DropInCenter>TODO</DropInCenter>
   <!-- EN: Attack {0} -->
   <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
@@ -557,5 +557,9 @@
   <CannotRomance>TODO</CannotRomance>
   <!-- EN: Romance {0} -->
   <CanRomance>TODO</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>TODO</WarningFoodDisliked>
 
 </LanguageData>

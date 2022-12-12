@@ -114,10 +114,7 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Dette er en techprint for forskningsprosjektet '{PROJECT_label}'.
-\nDen fysiske formen for techprints kan variere helt fra papirbiter med diagrammer, til avanserte selvstyrte læringsmaskiner. Uansett form har de likt brukstilfelle. De gjør forskerne trygge på at en idé er mulig, og en grov idé om designene som brukes i mer etablerte samfunn.
-\nForskerne dine trenger den grunnleggende kunnskapen som tilbys av techprints for å vite hvor de skal begynne med en gitt teknologi. Først etter at nok techprints har blitt brukt, kan forskerne utarbeide detaljene om hvordan de kan få bruk for teknologien i akkurat din situasjon.
-\nAnvending av techprints i et passende prosjekt oppfyller halvparten av den gjenværende forskningsfremgangen. I tillegg får forskere alltid en økning i sine intellektuelle ferdigheter når de anvender techprints, selv på allerede-fullførte teknologier.</TechprintDesc>
+  <TechprintDesc>Dette er en techprint for forskningsprosjektet '{PROJECT_label}'.\n\nDen fysiske formen for techprints kan variere helt fra papirbiter med diagrammer, til avanserte selvstyrte læringsmaskiner. Uansett form har de likt brukstilfelle. De gjør forskerne trygge på at en idé er mulig, og en grov idé om designene som brukes i mer etablerte samfunn.\n\nForskerne dine trenger den grunnleggende kunnskapen som tilbys av techprints for å vite hvor de skal begynne med en gitt teknologi. Først etter at nok techprints har blitt brukt, kan forskerne utarbeide detaljene om hvordan de kan få bruk for teknologien i akkurat din situasjon.\n\nAnvending av techprints i et passende prosjekt oppfyller halvparten av den gjenværende forskningsfremgangen. I tillegg får forskere alltid en økning i sine intellektuelle ferdigheter når de anvender techprints, selv på allerede-fullførte teknologier.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Låser opp</Unlocks>
 
@@ -204,5 +201,6 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>kolonist</Colonist>
-
+  
+  
 </LanguageData>

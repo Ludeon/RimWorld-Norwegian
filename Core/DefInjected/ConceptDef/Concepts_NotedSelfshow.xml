@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Alerts -->
-  <Alerts.label>Varlser</Alerts.label>
+  <Alerts.label>Varsler</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
   <Alerts.helpText>Varselet på høyresiden av skjermen vil informere deg om hendelser som trenger din oppmerksomhet.\n\nHold et øye med varslene.</Alerts.helpText>
   
@@ -123,7 +123,7 @@
   <MedicalOperations.helpText>Når du vil gjøre en medisinsk operasjon, som å høste et organ eller å installere en protese, kan du åpne en kolonists HELSE-oversikt, og bytte fra Oversikt til OPERASJONER.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
-  <Mining.label>Gruvedrift</Mining.label>
+  <Mining.label>Graving</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
   <Mining.helpText>Du velger hvilke felter som skal graves i ved å åpne ARKITEKT-menyen og velge knappen ORDRE.\n\nNoen mineraler gir STÅL, GULL, PLASTÅL, og andre materialer.</Mining.helpText>
   

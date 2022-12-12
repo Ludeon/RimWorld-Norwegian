@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: r_tip->[tip_text] -->
-  <GameplayTips.rulePack.rulesStrings.0>r_tip->[tip_text]</GameplayTips.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>r_tip->[tip_text]</li>
+  -->
+  <GameplayTips.rulePack.rulesStrings>TODO</GameplayTips.rulePack.rulesStrings>
   
 </LanguageData>

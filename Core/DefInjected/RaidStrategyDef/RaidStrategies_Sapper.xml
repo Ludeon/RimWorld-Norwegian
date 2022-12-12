@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
-  <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som om de vil grave seg rundt forsvarsverkene dine.</ImmediateAttackSappers.arrivalTextEnemy>
   <!-- EN: Raid -->
-  <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Angrep</ImmediateAttackSappers.letterLabelEnemy>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: snake -->
   <Snake.label>slange</Snake.label>
   <!-- EN: left lung -->
-  <Snake.corePart.parts.left_lung.customLabel>vesntre lunge</Snake.corePart.parts.left_lung.customLabel>
+  <Snake.corePart.parts.left_lung.customLabel>venstre lunge</Snake.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
   <Snake.corePart.parts.right_lung.customLabel>høyre lunge</Snake.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->

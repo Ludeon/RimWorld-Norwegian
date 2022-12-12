@@ -1,38 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description]. -->
-  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
-  <!-- EN: questName->The [bandit] [camp] -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>questName->The [bandit] [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>
-  <!-- EN: questName->[bandit] [camp] -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.1>questName->[bandit] [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.1>
-  <!-- EN: questName->[asker_nameDef] and the [camp] -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.2>questName->[asker_nameDef] and the [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.2>
-  <!-- EN: camp->Camp -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.3>camp->Camp</OpportunitySite_BanditCamp.questNameRules.rulesStrings.3>
-  <!-- EN: camp->Outpost -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.4>camp->Outpost</OpportunitySite_BanditCamp.questNameRules.rulesStrings.4>
-  <!-- EN: camp->Lair -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.5>camp->Lair</OpportunitySite_BanditCamp.questNameRules.rulesStrings.5>
-  <!-- EN: camp->Encampment -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.6>camp->Encampment</OpportunitySite_BanditCamp.questNameRules.rulesStrings.6>
-  <!-- EN: bandit->Bandit -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.7>bandit->Bandit</OpportunitySite_BanditCamp.questNameRules.rulesStrings.7>
-  <!-- EN: bandit->Raider -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.8>bandit->Raider</OpportunitySite_BanditCamp.questNameRules.rulesStrings.8>
-  <!-- EN: bandit->Outlaw -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.9>bandit->Outlaw</OpportunitySite_BanditCamp.questNameRules.rulesStrings.9>
-  <!-- EN: bandit->Desperado -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.10>bandit->Desperado</OpportunitySite_BanditCamp.questNameRules.rulesStrings.10>
-  <!-- EN: bandit->Fugitive -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.11>bandit->Fugitive</OpportunitySite_BanditCamp.questNameRules.rulesStrings.11>
-  <!-- EN: bandit->Marauder -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.12>bandit->Marauder</OpportunitySite_BanditCamp.questNameRules.rulesStrings.12>
-  <!-- EN: bandit->Robber -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.13>bandit->Robber</OpportunitySite_BanditCamp.questNameRules.rulesStrings.13>
-  <!-- EN: bandit->Brigand -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.14>bandit->Brigand</OpportunitySite_BanditCamp.questNameRules.rulesStrings.14>
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>TODO</OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>TODO</OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->

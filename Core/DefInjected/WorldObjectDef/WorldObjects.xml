@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
+  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
-  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.label>TODO</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
-  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.description>TODO</AttackedNonPlayerCaravan.description>
   
   <!-- EN: caravan -->
-  <Caravan.label>caravan</Caravan.label>
+  <Caravan.label>TODO</Caravan.label>
   <!-- EN: A group of traveling people. -->
-  <Caravan.description>A group of traveling people.</Caravan.description>
+  <Caravan.description>TODO</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
+  <DestroyedSettlement.label>TODO</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+  <DestroyedSettlement.description>TODO</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>landed ship</EscapeShip.label>
+  <EscapeShip.label>TODO</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
+  <EscapeShip.description>TODO</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>peace talks</PeaceTalks.label>
+  <PeaceTalks.label>TODO</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
+  <PeaceTalks.description>TODO</PeaceTalks.description>
   
   <!-- EN: waypoint -->
-  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.label>TODO</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
-  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>TODO</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>settlement</Settlement.label>
+  <Settlement.label>TODO</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>A base of one of the factions.</Settlement.description>
+  <Settlement.description>TODO</Settlement.description>
   
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
+  <TravelingTransportPods.label>TODO</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+  <TravelingTransportPods.description>TODO</TravelingTransportPods.description>
   
 </LanguageData>

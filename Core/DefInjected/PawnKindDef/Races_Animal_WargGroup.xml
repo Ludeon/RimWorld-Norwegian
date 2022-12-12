@@ -2,31 +2,10 @@
 <LanguageData>
   
   <!-- EN: warg -->
-  <Warg.label>warg</Warg.label>
-  <Warg.labelFemale>female warg</Warg.labelFemale>
-  <Warg.labelFemalePlural>female wargs</Warg.labelFemalePlural>
-  <Warg.labelMale>male warg</Warg.labelMale>
-  <Warg.labelMalePlural>male wargs</Warg.labelMalePlural>
-  <Warg.labelPlural>wargs</Warg.labelPlural>
+  <Warg.label>TODO</Warg.label>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>warg puppy</Warg.lifeStages.warg_puppy.label>
-  <Warg.lifeStages.warg_puppy.labelFemale>female warg puppy</Warg.lifeStages.warg_puppy.labelFemale>
-  <Warg.lifeStages.warg_puppy.labelFemalePlural>female warg puppies</Warg.lifeStages.warg_puppy.labelFemalePlural>
-  <Warg.lifeStages.warg_puppy.labelMale>male warg puppy</Warg.lifeStages.warg_puppy.labelMale>
-  <Warg.lifeStages.warg_puppy.labelMalePlural>male warg puppies</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <Warg.lifeStages.warg_puppy.label>TODO</Warg.lifeStages.warg_puppy.label>
   <!-- EN: warg puppies -->
   <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
-  <Warg.lifeStages.1.label>warg</Warg.lifeStages.1.label>
-  <Warg.lifeStages.1.labelFemale>female warg</Warg.lifeStages.1.labelFemale>
-  <Warg.lifeStages.1.labelFemalePlural>female wargs</Warg.lifeStages.1.labelFemalePlural>
-  <Warg.lifeStages.1.labelMale>male warg</Warg.lifeStages.1.labelMale>
-  <Warg.lifeStages.1.labelMalePlural>male wargs</Warg.lifeStages.1.labelMalePlural>
-  <Warg.lifeStages.1.labelPlural>warg</Warg.lifeStages.1.labelPlural>
-  <Warg.lifeStages.2.label>warg</Warg.lifeStages.2.label>
-  <Warg.lifeStages.2.labelFemale>female warg</Warg.lifeStages.2.labelFemale>
-  <Warg.lifeStages.2.labelFemalePlural>female wargs</Warg.lifeStages.2.labelFemalePlural>
-  <Warg.lifeStages.2.labelMale>male warg</Warg.lifeStages.2.labelMale>
-  <Warg.lifeStages.2.labelMalePlural>male wargs</Warg.lifeStages.2.labelMalePlural>
-  <Warg.lifeStages.2.labelPlural>warg</Warg.lifeStages.2.labelPlural>
   
 </LanguageData>

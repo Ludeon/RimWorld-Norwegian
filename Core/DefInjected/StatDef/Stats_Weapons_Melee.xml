@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: blunt damage -->
-  <BluntDamageMultiplier.label>blunt damage</BluntDamageMultiplier.label>
+  <BluntDamageMultiplier.label>TODO</BluntDamageMultiplier.label>
   <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
-  <BluntDamageMultiplier.description>Multiplier on damage with blunt attacks for items made of this material.</BluntDamageMultiplier.description>
+  <BluntDamageMultiplier.description>TODO</BluntDamageMultiplier.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeWeapon_AverageArmorPenetration.label>TODO</MeleeWeapon_AverageArmorPenetration.label>
@@ -27,8 +27,8 @@
   <MeleeWeapon_DamageMultiplier.description>TODO</MeleeWeapon_DamageMultiplier.description>
   
   <!-- EN: sharp damage -->
-  <SharpDamageMultiplier.label>sharp damage</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.label>TODO</SharpDamageMultiplier.label>
   <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
-  <SharpDamageMultiplier.description>Multiplier on damage with sharp attacks like cutting or stabbing for items made of this material.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.description>TODO</SharpDamageMultiplier.description>
   
 </LanguageData>

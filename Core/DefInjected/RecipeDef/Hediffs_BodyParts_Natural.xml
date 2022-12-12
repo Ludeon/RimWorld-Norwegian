@@ -4,28 +4,28 @@
   <!-- EN: install heart -->
   <InstallNaturalHeart.label>installer hjerte</InstallNaturalHeart.label>
   <!-- EN: Install a biological heart. -->
-  <InstallNaturalHeart.description>Installerer hjerte.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.description>Installer et biologisk hjerte.</InstallNaturalHeart.description>
   <!-- EN: Installing heart. -->
   <InstallNaturalHeart.jobString>Installerer hjerte.</InstallNaturalHeart.jobString>
   
   <!-- EN: install kidney -->
   <InstallNaturalKidney.label>installer nyre</InstallNaturalKidney.label>
   <!-- EN: Install a biological kidney. -->
-  <InstallNaturalKidney.description>Installerer nyre.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.description>Installer en biologisk nyre.</InstallNaturalKidney.description>
   <!-- EN: Installing kidney. -->
   <InstallNaturalKidney.jobString>Installerer nyre.</InstallNaturalKidney.jobString>
   
   <!-- EN: install liver -->
   <InstallNaturalLiver.label>installer lever</InstallNaturalLiver.label>
   <!-- EN: Install a biological liver. -->
-  <InstallNaturalLiver.description>Installerer lever.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.description>Installer en biologisk lever.</InstallNaturalLiver.description>
   <!-- EN: Installing liver. -->
   <InstallNaturalLiver.jobString>Installerer lever.</InstallNaturalLiver.jobString>
   
   <!-- EN: install lung -->
   <InstallNaturalLung.label>installer lunge</InstallNaturalLung.label>
   <!-- EN: Install a lung. -->
-  <InstallNaturalLung.description>Installerer lunge.</InstallNaturalLung.description>
+  <InstallNaturalLung.description>Installer en lunge.</InstallNaturalLung.description>
   <!-- EN: Installing lung. -->
   <InstallNaturalLung.jobString>Installerer lunge.</InstallNaturalLung.jobString>
   

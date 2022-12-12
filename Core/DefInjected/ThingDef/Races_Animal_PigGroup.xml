@@ -28,15 +28,15 @@
   <Deer.tools.head.label>TODO</Deer.tools.head.label>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>gazelle</Gazelle.label>
+  <Gazelle.label>TODO</Gazelle.label>
   <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
-  <Gazelle.description>A small, extremely quick antelope known for its amazingly long leap.</Gazelle.description>
+  <Gazelle.description>TODO</Gazelle.description>
   <!-- EN: left hoof -->
-  <Gazelle.tools.left_hoof.label>left hoof</Gazelle.tools.left_hoof.label>
+  <Gazelle.tools.left_hoof.label>TODO</Gazelle.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Gazelle.tools.right_hoof.label>right hoof</Gazelle.tools.right_hoof.label>
+  <Gazelle.tools.right_hoof.label>TODO</Gazelle.tools.right_hoof.label>
   <!-- EN: head -->
-  <Gazelle.tools.head.label>head</Gazelle.tools.head.label>
+  <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
   
   <!-- EN: ibex -->
   <Ibex.label>steinbukk</Ibex.label>
@@ -50,13 +50,13 @@
   <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
   
   <!-- EN: pig -->
-  <Pig.label>pig</Pig.label>
+  <Pig.label>TODO</Pig.label>
   <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
-  <Pig.description>Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything.</Pig.description>
+  <Pig.description>TODO</Pig.description>
   <!-- EN: pork -->
   <Pig.race.meatLabel>TODO</Pig.race.meatLabel>
   <!-- EN: head -->
-  <Pig.tools.head.label>head</Pig.tools.head.label>
+  <Pig.tools.head.label>TODO</Pig.tools.head.label>
   
   <!-- EN: wild boar -->
   <WildBoar.label>villsvin</WildBoar.label>

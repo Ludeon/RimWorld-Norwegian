@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>beauty</Beauty.label>
+  <Beauty.label>TODO</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+  <Beauty.description>TODO</Beauty.description>
   
   <!-- EN: outdoor beauty -->
   <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
@@ -12,26 +12,26 @@
   <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>cleanliness</Cleanliness.label>
+  <Cleanliness.label>TODO</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>How clean an object is.</Cleanliness.description>
+  <Cleanliness.description>TODO</Cleanliness.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>comfort</Comfort.label>
+  <Comfort.label>TODO</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+  <Comfort.description>TODO</Comfort.description>
   
   <!-- EN: deterioration rate -->
-  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
+  <DeteriorationRate.label>TODO</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
+  <DeteriorationRate.description>TODO</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>TODO</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
-  <Flammability.label>flammability</Flammability.label>
+  <Flammability.label>TODO</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
-  <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
+  <Flammability.description>TODO</Flammability.description>
   
   <!-- EN: food poison chance -->
   <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
@@ -41,9 +41,9 @@
   <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
-  <MarketValue.label>market value</MarketValue.label>
+  <MarketValue.label>TODO</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  <MarketValue.description>TODO</MarketValue.description>
   
   <!-- EN: market value ignoring hitpoints -->
   <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
@@ -56,9 +56,9 @@
   <Mass.formatString>TODO</Mass.formatString>
   
   <!-- EN: max hit points -->
-  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
+  <MaxHitPoints.label>TODO</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <MaxHitPoints.description>TODO</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>TODO</Nutrition.label>
@@ -71,9 +71,9 @@
   <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
-  <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
+  <SellPriceFactor.label>TODO</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
-  <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+  <SellPriceFactor.description>TODO</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
@@ -83,8 +83,8 @@
   <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
-  <WorkToMake.label>work to make</WorkToMake.label>
+  <WorkToMake.label>TODO</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
-  <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
+  <WorkToMake.description>TODO</WorkToMake.description>
   
 </LanguageData>

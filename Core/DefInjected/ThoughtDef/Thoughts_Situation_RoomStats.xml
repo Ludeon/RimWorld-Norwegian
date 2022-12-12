@@ -10,21 +10,21 @@
   <!-- EN: I'm stuck in a dull hospital. -->
   <HospitalPatientRoomStats.stages.dull_hospital.description>TODO</HospitalPatientRoomStats.stages.dull_hospital.description>
   <!-- EN: slightly impressive hospital -->
-  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>beautiful hospital</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>TODO</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
   <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
-  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>This hospital is a nice place. It makes me feel better.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>TODO</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
   <!-- EN: somewhat impressive hospital -->
-  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>very beautiful hospital</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>TODO</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
   <!-- EN: My hospital is impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>This hospital is very beautiful. Staying in a place like this makes me feel better already.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>TODO</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
   <!-- EN: very impressive hospital -->
-  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>extremely beautiful hospital</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>TODO</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
   <!-- EN: My hospital is very impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>This hospital is extremely beautiful. Staying in a place like this makes me feel better already.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>TODO</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
   <!-- EN: extremely impressive hospital -->
-  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>unbelievably beautiful hospital</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>TODO</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
   <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>This hospital is unbelievably beautiful. Staying in a place like this makes me feel better already.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>TODO</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
   <!-- EN: unbelievably impressive hospital -->
   <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>TODO</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
   <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
@@ -68,36 +68,36 @@
   <PrisonBarracks.stages.wondrously_impressive_barracks.description>TODO</PrisonBarracks.stages.wondrously_impressive_barracks.description>
   
   <!-- EN: awful prison cell -->
-  <PrisonCell.stages.awful_prison_cell.label>awful prison cell</PrisonCell.stages.awful_prison_cell.label>
+  <PrisonCell.stages.awful_prison_cell.label>TODO</PrisonCell.stages.awful_prison_cell.label>
   <!-- EN: My prison cell is an awful place. -->
-  <PrisonCell.stages.awful_prison_cell.description>My prison cell is an awful place.</PrisonCell.stages.awful_prison_cell.description>
+  <PrisonCell.stages.awful_prison_cell.description>TODO</PrisonCell.stages.awful_prison_cell.description>
   <!-- EN: decent prison cell -->
   <PrisonCell.stages.decent_prison_cell.label>TODO</PrisonCell.stages.decent_prison_cell.label>
   <!-- EN: My prison cell is pretty decent. -->
   <PrisonCell.stages.decent_prison_cell.description>TODO</PrisonCell.stages.decent_prison_cell.description>
   <!-- EN: slightly impressive prison cell -->
-  <PrisonCell.stages.slightly_impressive_prison_cell.label>interesting prison cell</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>TODO</PrisonCell.stages.slightly_impressive_prison_cell.label>
   <!-- EN: My prison cell seems to be a nice place. -->
-  <PrisonCell.stages.slightly_impressive_prison_cell.description>My prison cell is very interesting.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>TODO</PrisonCell.stages.slightly_impressive_prison_cell.description>
   <!-- EN: impressive prison cell -->
-  <PrisonCell.stages.impressive_prison_cell.label>little bit impressive prison cell</PrisonCell.stages.impressive_prison_cell.label>
+  <PrisonCell.stages.impressive_prison_cell.label>TODO</PrisonCell.stages.impressive_prison_cell.label>
   <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
-  <PrisonCell.stages.impressive_prison_cell.description>My prison cell seems to be a nice place.</PrisonCell.stages.impressive_prison_cell.description>
+  <PrisonCell.stages.impressive_prison_cell.description>TODO</PrisonCell.stages.impressive_prison_cell.description>
   <!-- EN: very impressive prison cell -->
-  <PrisonCell.stages.very_impressive_prison_cell.label>impressive prison celll</PrisonCell.stages.very_impressive_prison_cell.label>
+  <PrisonCell.stages.very_impressive_prison_cell.label>TODO</PrisonCell.stages.very_impressive_prison_cell.label>
   <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.very_impressive_prison_cell.description>My prison cell is impressive. I can't believe they are keeping me in a room like this.</PrisonCell.stages.very_impressive_prison_cell.description>
+  <PrisonCell.stages.very_impressive_prison_cell.description>TODO</PrisonCell.stages.very_impressive_prison_cell.description>
   <!-- EN: extremely impressive prison cell -->
-  <PrisonCell.stages.extremely_impressive_prison_cell.label>very impressive prison cell</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>TODO</PrisonCell.stages.extremely_impressive_prison_cell.label>
   <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.extremely_impressive_prison_cell.description>My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>TODO</PrisonCell.stages.extremely_impressive_prison_cell.description>
   <!-- EN: unbelievably impressive prison cell -->
-  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>extremely impressive prison cell</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>TODO</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
   <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->
-  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>TODO</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
   <!-- EN: wondrously impressive prison cell -->
-  <PrisonCell.stages.wondrously_impressive_prison_cell.label>unbelievably impressive prison cell</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>TODO</PrisonCell.stages.wondrously_impressive_prison_cell.label>
   <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
-  <PrisonCell.stages.wondrously_impressive_prison_cell.description>My prison cell is unbelievably impressive. This is the best place ever!</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>TODO</PrisonCell.stages.wondrously_impressive_prison_cell.description>
   
 </LanguageData>

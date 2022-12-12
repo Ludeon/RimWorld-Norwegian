@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: questDescription->delayed reward -->
-  <DelayedRewardDropPods.questDescriptionRules.rulesStrings.0>questDescription->delayed reward</DelayedRewardDropPods.questDescriptionRules.rulesStrings.0>
-  <!-- EN: questName->delayed reward -->
-  <DelayedRewardDropPods.questNameRules.rulesStrings.0>questName->delayed reward</DelayedRewardDropPods.questNameRules.rulesStrings.0>
+  <!-- EN:
+    <li>questDescription->delayed reward</li>
+  -->
+  <DelayedRewardDropPods.questDescriptionRules.rulesStrings>TODO</DelayedRewardDropPods.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->delayed reward</li>
+  -->
+  <DelayedRewardDropPods.questNameRules.rulesStrings>TODO</DelayedRewardDropPods.questNameRules.rulesStrings>
   
 </LanguageData>

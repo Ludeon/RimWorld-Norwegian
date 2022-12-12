@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>henrettelse kutt</ExecutionCut.label>
+  <ExecutionCut.label>henrettelseskutt</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
   <ExecutionCut.deathMessage>{0} har blitt henrettet ved å kutte.</ExecutionCut.deathMessage>
   

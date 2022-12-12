@@ -58,7 +58,7 @@
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>TODO</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
-  <InteractingWithTraders.helpText>Du kan snakke med folk med ? over hodet.\n\nVelg en kolonist og høyreklikk på personen med ?.</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpText>Du kan snakke med folk med ? over hodet.\n\nVelg en kolonist og høyreklikk på personen med ? over hodet deres.</InteractingWithTraders.helpText>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
   <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
   

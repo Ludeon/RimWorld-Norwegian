@@ -3,39 +3,39 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Bills</TabBills>
+  <TabBills>TODO</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>Growing</TabGrowing>
+  <TabGrowing>TODO</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Character</TabCharacter>
+  <TabCharacter>TODO</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Training</TabTraining>
+  <TabTraining>TODO</TabTraining>
   <!-- EN: Prisoner -->
-  <TabPrisoner>Prisoner</TabPrisoner>
+  <TabPrisoner>TODO</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Guest</TabGuest>
+  <TabGuest>TODO</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Gear</TabGear>
+  <TabGear>TODO</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Needs</TabNeeds>
+  <TabNeeds>TODO</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>Storage</TabStorage>
+  <TabStorage>TODO</TabStorage>
   <!-- EN: Shells -->
   <TabShells>TODO</TabShells>
   <!-- EN: Health -->
-  <TabHealth>Health</TabHealth>
+  <TabHealth>TODO</TabHealth>
   <!-- EN: Race -->
-  <TabRace>Race</TabRace>
+  <TabRace>TODO</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>Basics</TabBasics>
+  <TabBasics>TODO</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Stats</TabStats>
+  <TabStats>TODO</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Records</TabRecords>
+  <TabRecords>TODO</TabRecords>
   <!-- EN: Art -->
-  <TabArt>Art</TabArt>
+  <TabArt>TODO</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Social</TabSocial>
+  <TabSocial>TODO</TabSocial>
   <!-- EN: Log -->
   <TabLog>TODO</TabLog>
   <!-- EN: Animals -->
@@ -55,17 +55,17 @@
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Add bill</AddBill>
+  <AddBill>TODO</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>TODO</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>Min skill</MinimumSkill>
+  <MinimumSkill>TODO</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>SUSPENDED</SuspendedCaps>
+  <SuspendedCaps>TODO</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Worker: {0}</BoundWorkerIs>
+  <BoundWorkerIs>TODO</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>Plant</PlantVerb>
+  <PlantVerb>TODO</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here -->
   <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
@@ -99,7 +99,7 @@
   <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
   <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>Ikke tillat</Never>
+  <Never>TODO</Never>
   <!-- EN: Not while asleep -->
   <NotWhileAsleep>TODO</NotWhileAsleep>
   <!-- EN: Breaking out now -->
@@ -113,15 +113,15 @@
   <!-- EN: The base market value of this slave if sold. -->
   <SlavePriceDescription>TODO</SlavePriceDescription>
   <!-- EN: Gets food -->
-  <GetsFood>Gets food</GetsFood>
+  <GetsFood>TODO</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>Doctors care</DoctorsCare>
+  <DoctorsCare>TODO</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Gets medicine</GetsMedicine>
+  <GetsMedicine>TODO</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
+  <ShouldTryToRecruit>TODO</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <ConsideredGuilty>TODO</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
   <!-- EN: Last resistance reduction -->
@@ -144,75 +144,75 @@
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>Move speed</MoveSpeed>
+  <MoveSpeed>TODO</MoveSpeed>
   <!-- EN: Efficiency -->
-  <Efficiency>Efficiency</Efficiency>
+  <Efficiency>TODO</Efficiency>
   <!-- EN: Part efficiency -->
   <PartEfficiency>TODO</PartEfficiency>
   <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>TODO</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>Gone</MissingBodyPart>
+  <MissingBodyPart>TODO</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
+  <DestroyedBodyPart>TODO</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
+  <ShatteredBodyPart>TODO</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>Removed</RemovedBodyPart>
+  <RemovedBodyPart>TODO</RemovedBodyPart>
   <!-- EN: Healthy -->
-  <Healthy>Healthy</Healthy>
+  <Healthy>TODO</Healthy>
   <!-- EN: In pain -->
-  <InPain>In pain</InPain>
+  <InPain>TODO</InPain>
   <!-- EN: Pain -->
-  <PainLevel>Pain</PainLevel>
+  <PainLevel>TODO</PainLevel>
   <!-- EN: Injured -->
-  <Injured>Injured</Injured>
+  <Injured>TODO</Injured>
   <!-- EN: untended injury -->
   <UntendedInjury>TODO</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>TODO</NoHealthConditions>
   <!-- EN: Whole body -->
-  <WholeBody>Whole body</WholeBody>
+  <WholeBody>TODO</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>Data processing</DataProcessing>
+  <DataProcessing>TODO</DataProcessing>
   <!-- EN: Communication -->
-  <Communication>Communication</Communication>
+  <Communication>TODO</Communication>
   <!-- EN: Affects -->
-  <Affects>Affects</Affects>
+  <Affects>TODO</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>Bleeding</BleedingRate>
+  <BleedingRate>TODO</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>death in {0}</TimeToDeath>
+  <TimeToDeath>TODO</TimeToDeath>
   <!-- EN: no immediate danger -->
-  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <WontBleedOutSoon>TODO</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>Overview</HealthOverview>
+  <HealthOverview>TODO</HealthOverview>
   <!-- EN: Operations -->
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>TODO</MedicalOperationsShort>
   <!-- EN: Modifications -->
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>TODO</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
-  <MedicalOperations>Medical operations</MedicalOperations>
+  <MedicalOperations>TODO</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>Amputate</Amputate>
+  <Amputate>TODO</Amputate>
   <!-- EN: harvest -->
   <HarvestOrgan>TODO</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>Remove</RemoveOrgan>
+  <RemoveOrgan>TODO</RemoveOrgan>
   <!-- EN: memory -->
-  <MemoryLower>memory</MemoryLower>
+  <MemoryLower>TODO</MemoryLower>
   <!-- EN: social interactions -->
-  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <SocialInteractionsLower>TODO</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>Hunger rate</HungerRate>
+  <HungerRate>TODO</HungerRate>
   <!-- EN: Food consumption -->
   <FoodConsumption>TODO</FoodConsumption>
   <!-- EN: Tiredness -->
-  <Tiredness>Tiredness</Tiredness>
+  <Tiredness>TODO</Tiredness>
   <!-- EN: Pain -->
-  <PainFactor>Pain</PainFactor>
+  <PainFactor>TODO</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>Prevents infection</PreventsInfection>
+  <PreventsInfection>TODO</PreventsInfection>
   <!-- EN: Self-tend -->
   <SelfTend>TODO</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
@@ -222,78 +222,78 @@
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
-  <None>None</None>
+  <None>TODO</None>
   <!-- EN: Very poor -->
-  <VeryPoor>Very poor</VeryPoor>
+  <VeryPoor>TODO</VeryPoor>
   <!-- EN: Poor -->
-  <Poor>Poor</Poor>
+  <Poor>TODO</Poor>
   <!-- EN: Weakened -->
-  <Weakened>Weakened</Weakened>
+  <Weakened>TODO</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>OK</GoodCondition>
+  <GoodCondition>TODO</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>Enhanced</Enhanced>
+  <Enhanced>TODO</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
+  <SeriouslyImpaired>TODO</SeriouslyImpaired>
   <!-- EN: Impaired -->
-  <Impaired>Impaired</Impaired>
+  <Impaired>TODO</Impaired>
   <!-- EN: Slightly impaired -->
-  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
+  <SlightlyImpaired>TODO</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>None</NoPain>
+  <NoPain>TODO</NoPain>
   <!-- EN: Little -->
-  <LittlePain>Little</LittlePain>
+  <LittlePain>TODO</LittlePain>
   <!-- EN: Medium -->
-  <MediumPain>Medium</MediumPain>
+  <MediumPain>TODO</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>Severe</SeverePain>
+  <SeverePain>TODO</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>Extreme</ExtremePain>
+  <ExtremePain>TODO</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
   <Trainability>TODO</Trainability>
   <!-- EN: Requires {0} trainability. -->
-  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>TODO</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: Kidnapped -->
-  <Kidnapped>Kidnapped</Kidnapped>
+  <Kidnapped>TODO</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
   <Lent>TODO</Lent>
   <!-- EN: Missing -->
   <Missing>TODO</Missing>
   <!-- EN: Slave -->
-  <Slave>Slave</Slave>
+  <Slave>TODO</Slave>
   <!-- EN: Faction leader -->
-  <FactionLeader>Faction leader</FactionLeader>
+  <FactionLeader>TODO</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>Opinion of {0}</OpinionOf>
+  <OpinionOf>TODO</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>TODO</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
-  <IAmDead>I'm dead</IAmDead>
+  <IAmDead>TODO</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <IAmPsychopath>TODO</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
   <OverallArmor>TODO</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <MassCarried>TODO</MassCarried>
   <!-- EN: Comfortable temperature range -->
-  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorBlunt>TODO</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>Sharp</ArmorSharp>
+  <ArmorSharp>TODO</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorHeat>TODO</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
@@ -420,7 +420,7 @@
   <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
 
-  <!-- EN: Auto-cut plants blocking wind turbine -->
+  <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

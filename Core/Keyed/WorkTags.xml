@@ -2,46 +2,46 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Ingen</WorkTagNone>
+  <WorkTagNone>ingen</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Intellektuelt</WorkTagIntellectual>
+  <WorkTagIntellectual>intellektuelt</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Ufagkyndig arbeid</WorkTagManualDumb>
+  <WorkTagManualDumb>ufagkyndig arbeid</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Fagkyndig arbeid</WorkTagManualSkilled>
+  <WorkTagManualSkilled>fagkyndig arbeid</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Vold</WorkTagViolent>
+  <WorkTagViolent>vold</WorkTagViolent>
   <!-- EN: shooting -->
-  <WorkTagShooting>TODO</WorkTagShooting>
+  <WorkTagShooting>skyting</WorkTagShooting>
   <!-- EN: caring -->
-  <WorkTagCaring>Omsorg</WorkTagCaring>
+  <WorkTagCaring>omsorg</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Sosialt</WorkTagSocial>
+  <WorkTagSocial>sosialt</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Animals</WorkTagAnimals>
+  <WorkTagAnimals>dyr</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Kunstnerisk</WorkTagArtistic>
+  <WorkTagArtistic>kunstnerisk</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Håndverk</WorkTagCrafting>
+  <WorkTagCrafting>håndverk</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Matlaging</WorkTagCooking>
+  <WorkTagCooking>matlaging</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Brannslukking</WorkTagFirefighting>
+  <WorkTagFirefighting>brannslukking</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Vasking</WorkTagCleaning>
+  <WorkTagCleaning>vasking</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Frakting</WorkTagHauling>
+  <WorkTagHauling>frakting</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Grøntarbeid</WorkTagPlantWork>
+  <WorkTagPlantWork>grønt arbeid</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Graving</WorkTagMining>
+  <WorkTagMining>graving</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>jakting</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <WorkTagConstructing>konstruksjon</WorkTagConstructing>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>borgerlig arbeid</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>alt arbeid</WorkTagAllWork>
 
 </LanguageData>

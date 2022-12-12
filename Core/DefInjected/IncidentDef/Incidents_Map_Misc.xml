@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <Alphabeavers.label>alfabevere</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
   <AmbrosiaSprout.label>ambrosiablomstring</AmbrosiaSprout.label>
@@ -18,15 +18,15 @@
   <ColdSnap.letterText>En uvanlig kuldebølge har slått inn over området. Pass på for hypotermi og døde avlinger.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>crop blight</CropBlight.label>
+  <CropBlight.label>TODO</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
   <FarmAnimalsWanderIn.label>gårdsdyr blir med</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.label>styrtstorm</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>Styrtstorm</Flashstorm.letterLabel>
   <Flashstorm.letterText>Store mengder lyn slår ned i et veldig lite område. Dette vil starte store branner.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->

@@ -41,9 +41,9 @@
   <Electricity.discoveredLetterTitle>TODO</Electricity.discoveredLetterTitle>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>firefoam</Firefoam.label>
+  <Firefoam.label>TODO</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+  <Firefoam.description>TODO</Firefoam.description>
   
   <!-- EN: flak armor -->
   <FlakArmor.label>TODO</FlakArmor.label>
@@ -61,9 +61,9 @@
   <GasOperation.description>TODO</GasOperation.description>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>geothermal power</GeothermalPower.label>
+  <GeothermalPower.label>TODO</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+  <GeothermalPower.description>TODO</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>TODO</Gunsmithing.label>
@@ -81,9 +81,9 @@
   <Hydroponics.description>Tillater deg å bygge hydroponiske bed som hurtig kan gro avlinger innendørs.</Hydroponics.description>
   
   <!-- EN: IEDs -->
-  <IEDs.label>Explosive IEDs</IEDs.label>
+  <IEDs.label>TODO</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDs.description>
+  <IEDs.description>TODO</IEDs.description>
   
   <!-- EN: machining -->
   <Machining.label>maskinarbeid</Machining.label>
@@ -126,9 +126,9 @@
   <SterileMaterials.description>TODO</SterileMaterials.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.label>TODO</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+  <TubeTelevision.description>TODO</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>TODO</WatermillGenerator.label>

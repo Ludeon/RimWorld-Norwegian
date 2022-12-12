@@ -11,7 +11,7 @@
   <!-- EN: Start with {0} people. -->
   <ScenPart_StartWithPawns>Start med {0} mennesker, valgt fra {1}.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
-  <ScenPart_StartWithPawns_OutOf>valgt blandt</ScenPart_StartWithPawns_OutOf>
+  <ScenPart_StartWithPawns_OutOf>valgt blant</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
   <RandomPet>tilfeldig kjæledyr</RandomPet>
 
@@ -19,10 +19,10 @@
   <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
-  <ScenPart_ArriveInDropPods>Ankomme i kapsel.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Ankomme i kapsler.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>Instillingen "{0}" vil bli universelt ganget opp med {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Innstillingen "{0}" vil bli universelt ganget opp med {1}.</ScenPart_StatFactor>
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->

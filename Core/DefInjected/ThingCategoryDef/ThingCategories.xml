@@ -35,13 +35,16 @@
   <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionisk</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  <BodyPartsNatural.label>naturlig</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>prostetisk</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
   <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
@@ -68,13 +71,13 @@
   <BuildingsPower.label>strøm</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>utvikling</BuildingsProduction.label>
+  <BuildingsProduction.label>produksjon</BuildingsProduction.label>
   
   <!-- EN: security -->
   <BuildingsSecurity.label>beskyttelse</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>romskip</BuildingsSpecial.label>
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
   <BuildingsTemperature.label>temperatur</BuildingsTemperature.label>
@@ -98,7 +101,7 @@
   <CorpsesMechanoid.label>mekanoidelik</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>narkotika</Drugs.label>
+  <Drugs.label>rusmidler</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
   <EggsFertilized.label>egg (befr.)</EggsFertilized.label>
@@ -113,7 +116,7 @@
   <FoodRaw.label>rå mat</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>mat</Foods.label>
+  <Foods.label>matvarer</Foods.label>
   
   <!-- EN: grenades -->
   <Grenades.label>håndgranater</Grenades.label>
@@ -131,7 +134,7 @@
   <Items.label>ting</Items.label>
   
   <!-- EN: misc -->
-  <ItemsMisc.label>TODO</ItemsMisc.label>
+  <ItemsMisc.label>diverse</ItemsMisc.label>
   
   <!-- EN: leathers -->
   <Leathers.label>lær</Leathers.label>

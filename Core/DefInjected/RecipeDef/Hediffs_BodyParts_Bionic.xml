@@ -4,64 +4,64 @@
   <!-- EN: install bionic arm -->
   <InstallBionicArm.label>installer bionisk arm</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>Installerer bionisk arm.</InstallBionicArm.description>
+  <InstallBionicArm.description>Installer en bionisk arm.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
   <InstallBionicArm.jobString>Installerer bionisk arm.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
-  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <InstallBionicEar.label>installer bionisk øre</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <InstallBionicEar.description>Installer et bionisk øre.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
-  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  <InstallBionicEar.jobString>Installerer bionisk øre.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>installer bionisk øye</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>Installerer bionisk øye.</InstallBionicEye.description>
+  <InstallBionicEye.description>Installer et bionisk øye.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
   <InstallBionicEye.jobString>Installerer bionisk øye.</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
-  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <InstallBionicHeart.label>installer bionisk hjerte</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <InstallBionicHeart.description>Installer et bionisk hjerte.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Installerer bionisk hjerte.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>installer bionisk ben</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>Installerer bionisk ben.</InstallBionicLeg.description>
+  <InstallBionicLeg.description>Installer et bionisk ben.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
   <InstallBionicLeg.jobString>Installerer bionisk ben.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
-  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <InstallBionicSpine.label>installer bionisk ryggrad</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <InstallBionicSpine.description>Installer en bionisk ryggrad.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  <InstallBionicSpine.jobString>Installerer bionisk ryggrad.</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
-  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <InstallBionicStomach.label>installer bionisk mage</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <InstallBionicStomach.description>Installer en bionisk mage.</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
-  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>Installerer bionisk mage.</InstallBionicStomach.jobString>
   
   <!-- EN: install bionic tongue -->
-  <InstallBionicTongue.label>install bionic tongue</InstallBionicTongue.label>
+  <InstallBionicTongue.label>installer bionisk tunge</InstallBionicTongue.label>
   <!-- EN: Install a bionic tongue. -->
-  <InstallBionicTongue.description>Install a bionic tongue.</InstallBionicTongue.description>
+  <InstallBionicTongue.description>Installer ei bionisk tunge.</InstallBionicTongue.description>
   <!-- EN: Installing bionic tongue. -->
-  <InstallBionicTongue.jobString>Installing bionic tongue.</InstallBionicTongue.jobString>
+  <InstallBionicTongue.jobString>Installerer bionisk tunge.</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>TODO</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>TODO</InstallDeathAcidifier.jobString>
   
 </LanguageData>

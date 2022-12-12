@@ -38,8 +38,8 @@
   <Spine.label>ryggrad</Spine.label>
   
   <!-- EN: tongue -->
-  <Tongue.label>TODO</Tongue.label>
+  <Tongue.label>tunge</Tongue.label>
   <!-- EN: remove -->
-  <Tongue.removeRecipeLabelOverride>TODO</Tongue.removeRecipeLabelOverride>
+  <Tongue.removeRecipeLabelOverride>fjern</Tongue.removeRecipeLabelOverride>
   
 </LanguageData>

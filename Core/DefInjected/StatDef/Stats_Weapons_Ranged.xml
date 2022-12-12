@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
+  <AccuracyLong.label>TODO</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
+  <AccuracyLong.description>TODO</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
-  <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
+  <AccuracyMedium.label>TODO</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
+  <AccuracyMedium.description>TODO</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
-  <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
+  <AccuracyShort.label>TODO</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
+  <AccuracyShort.description>TODO</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
-  <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
+  <AccuracyTouch.label>TODO</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
+  <AccuracyTouch.description>TODO</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
-  <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>TODO</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
-  <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.description>TODO</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>TODO</RangedWeapon_Cooldown.formatString>
   

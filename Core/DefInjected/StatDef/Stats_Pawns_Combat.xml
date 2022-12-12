@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
+  <AimingDelayFactor.label>TODO</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
+  <AimingDelayFactor.description>TODO</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
   <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
@@ -22,14 +22,14 @@
   <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
-  <MeleeDPS.label>melee DPS</MeleeDPS.label>
+  <MeleeDPS.label>TODO</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+  <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
+  <MeleeHitChance.label>TODO</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>Base chance to hit a target in melee.</MeleeHitChance.description>
+  <MeleeHitChance.description>TODO</MeleeHitChance.description>
   
   <!-- EN: Mortar miss radius multiplier -->
   <MortarMissRadiusFactor.label>TODO</MortarMissRadiusFactor.label>
