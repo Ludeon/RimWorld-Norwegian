@@ -2,62 +2,62 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>TODO</BionicArm.label>
+  <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>En installert bionisk arm.</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
+  <BionicArm.labelNoun>en bionisk arm</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bionisk øre</BionicEar.label>
   <!-- EN: An installed bionic ear. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Et installert bionisk øre.</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
+  <BionicEar.labelNoun>et bionisk øre</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>TODO</BionicEye.label>
+  <BionicEye.label>bionisk øye</BionicEye.label>
   <!-- EN: An installed bionic eye. -->
-  <BionicEye.description>TODO</BionicEye.description>
+  <BionicEye.description>Et installert bionisk øye.</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
+  <BionicEye.labelNoun>et bionisk øye</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
   <!-- EN: An installed bionic heart. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>Et installert bionisk hjerte.</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>et bionisk hjerte</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>TODO</BionicLeg.label>
+  <BionicLeg.label>bionisk bein</BionicLeg.label>
   <!-- EN: An installed bionic leg. -->
-  <BionicLeg.description>TODO</BionicLeg.description>
+  <BionicLeg.description>Et installert bionisk bein.</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>et bionisk bein</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   <!-- EN: An installed bionic spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>En installert bionisk ryggrad.</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bionisk mage</BionicStomach.label>
   <!-- EN: An installed bionic stomach. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>En installert bionisk mage.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>en bionisk mage</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
-  <BionicTongue.label>TODO</BionicTongue.label>
+  <BionicTongue.label>bionisk tunge</BionicTongue.label>
   <!-- EN: An installed bionic tongue. -->
-  <BionicTongue.description>TODO</BionicTongue.description>
+  <BionicTongue.description>En installert bionisk tunge.</BionicTongue.description>
   <!-- EN: a bionic tongue -->
-  <BionicTongue.labelNoun>TODO</BionicTongue.labelNoun>
+  <BionicTongue.labelNoun>en bionisk tunge</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>TODO</DeathAcidifier.label>

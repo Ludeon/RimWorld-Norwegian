@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>urarm</ArchotechArm.label>
   <!-- EN: An installed archotech arm. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>En installert urarm.</ArchotechArm.description>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>hånd</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>en urarm</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>urøye</ArchotechEye.label>
   <!-- EN: An installed archotech eye. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>Et installert urøye.</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>et urøye</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>urbein</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>Et installert urbein.</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>et urbein</ArchotechLeg.labelNoun>
   
 </LanguageData>

@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>TODO</Bite.label>
+  <Bite.label>bitt</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>TODO</Bite.description>
+  <Bite.description>Et bittsår.</Bite.description>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>arr</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
-  <Bite.injuryProps.destroyedLabel>TODO</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedLabel>Bitt av</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
-  <Bite.injuryProps.destroyedOutLabel>TODO</Bite.injuryProps.destroyedOutLabel>
+  <Bite.injuryProps.destroyedOutLabel>Bitt ut</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>TODO</Bite.labelNoun>
+  <Bite.labelNoun>et bittsår</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{0} i {1}</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
-  <Bruise.label>TODO</Bruise.label>
+  <Bruise.label>blåmerke</Bruise.label>
   <!-- EN: A bruise. -->
-  <Bruise.description>TODO</Bruise.description>
+  <Bruise.description>Et blåmerke.</Bruise.description>
   <!-- EN: a bruise -->
-  <Bruise.labelNoun>TODO</Bruise.labelNoun>
+  <Bruise.labelNoun>et blåmerke</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>TODO</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>0} i {1}</Bruise.labelNounPretty>
   
   <!-- EN: burn -->
-  <Burn.label>TODO</Burn.label>
+  <Burn.label>brannsår</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>TODO</Burn.description>
+  <Burn.description>Et brannsår.</Burn.description>
   <!-- EN: burn scar -->
-  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>brannskade</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <Burn.injuryProps.destroyedLabel>TODO</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedLabel>Brent av</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <Burn.injuryProps.destroyedOutLabel>TODO</Burn.injuryProps.destroyedOutLabel>
+  <Burn.injuryProps.destroyedOutLabel>Brent bort</Burn.injuryProps.destroyedOutLabel>
   <!-- EN: a burn -->
-  <Burn.labelNoun>TODO</Burn.labelNoun>
+  <Burn.labelNoun>et brannsår</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>TODO</Burn.labelNounPretty>
+  <Burn.labelNounPretty>{0} i {1}</Burn.labelNounPretty>
   
   <!-- EN: chemical burn -->
   <ChemicalBurn.label>TODO</ChemicalBurn.label>
@@ -56,41 +56,41 @@
   <ChemicalBurn.labelNounPretty>TODO</ChemicalBurn.labelNounPretty>
   
   <!-- EN: crack -->
-  <Crack.label>TODO</Crack.label>
+  <Crack.label>brudd</Crack.label>
   <!-- EN: A crack. -->
-  <Crack.description>TODO</Crack.description>
+  <Crack.description>Et brudd.</Crack.description>
   <!-- EN: permanent crack -->
-  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>permanent brudd</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crack wound -->
-  <Crack.labelNoun>TODO</Crack.labelNoun>
+  <Crack.labelNoun>en bruddskade</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>TODO</Crack.labelNounPretty>
+  <Crack.labelNounPretty>{0} i {1}</Crack.labelNounPretty>
   
   <!-- EN: crush -->
-  <Crush.label>TODO</Crush.label>
+  <Crush.label>knust</Crush.label>
   <!-- EN: A crushing wound. -->
-  <Crush.description>TODO</Crush.description>
+  <Crush.description>En klemskade.</Crush.description>
   <!-- EN: mangled scar -->
   <Crush.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crush wound -->
-  <Crush.labelNoun>TODO</Crush.labelNoun>
+  <Crush.labelNoun>en klemskade</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>TODO</Crush.labelNounPretty>
+  <Crush.labelNounPretty>{0} i {1}</Crush.labelNounPretty>
   
   <!-- EN: cut -->
-  <Cut.label>TODO</Cut.label>
+  <Cut.label>snittsår</Cut.label>
   <!-- EN: A cut. -->
-  <Cut.description>TODO</Cut.description>
+  <Cut.description>En flenge.</Cut.description>
   <!-- EN: cut scar -->
-  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>arr</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Cut.injuryProps.destroyedLabel>TODO</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedLabel>Skåret av</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Cut.injuryProps.destroyedOutLabel>TODO</Cut.injuryProps.destroyedOutLabel>
+  <Cut.injuryProps.destroyedOutLabel>Skåret bort</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
-  <Cut.labelNoun>TODO</Cut.labelNoun>
+  <Cut.labelNoun>en flenge</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>TODO</Cut.labelNounPretty>
+  <Cut.labelNounPretty>{0} i {1}</Cut.labelNounPretty>
   
   <!-- EN: cut -->
   <ExecutionCut.label>TODO</ExecutionCut.label>
@@ -106,107 +106,107 @@
   <ExecutionCut.labelNounPretty>TODO</ExecutionCut.labelNounPretty>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>TODO</Frostbite.label>
+  <Frostbite.label>frostbitt</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
   <Frostbite.description>TODO</Frostbite.description>
   <!-- EN: frostbite scar -->
-  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>råtearr</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
-  <Frostbite.injuryProps.destroyedLabel>TODO</Frostbite.injuryProps.destroyedLabel>
+  <Frostbite.injuryProps.destroyedLabel>Råtnet bort i koldbrann</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>TODO</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>{0} i {1}</Frostbite.labelNounPretty>
   
   <!-- EN: gunshot -->
-  <Gunshot.label>TODO</Gunshot.label>
+  <Gunshot.label>kuleskudd</Gunshot.label>
   <!-- EN: A gunshot wound. -->
-  <Gunshot.description>TODO</Gunshot.description>
+  <Gunshot.description>Et skuddsår.</Gunshot.description>
   <!-- EN: permanent gunshot injury -->
-  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>skuddarr</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
-  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>gammel skuddskade</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shot off -->
-  <Gunshot.injuryProps.destroyedLabel>TODO</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedLabel>Skutt av</Gunshot.injuryProps.destroyedLabel>
   <!-- EN: Shot out -->
-  <Gunshot.injuryProps.destroyedOutLabel>TODO</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>Skutt bort</Gunshot.injuryProps.destroyedOutLabel>
   <!-- EN: a gunshot wound -->
-  <Gunshot.labelNoun>TODO</Gunshot.labelNoun>
+  <Gunshot.labelNoun>et skuddsår</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>TODO</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>{0} i {1}</Gunshot.labelNounPretty>
   
   <!-- EN: misc -->
-  <Misc.label>TODO</Misc.label>
+  <Misc.label>diverse</Misc.label>
   <!-- EN: Miscellanous injuries. -->
   <Misc.description>TODO</Misc.description>
   <!-- EN: scar -->
   <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: an injury -->
-  <Misc.labelNoun>TODO</Misc.labelNoun>
+  <Misc.labelNoun>en skade</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>TODO</Misc.labelNounPretty>
+  <Misc.labelNounPretty>{0} i {1}</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
-  <MissingBodyPart.label>TODO</MissingBodyPart.label>
+  <MissingBodyPart.label>kroppsdel mangler</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
   <MissingBodyPart.description>TODO</MissingBodyPart.description>
   <!-- EN: a missing body part -->
-  <MissingBodyPart.labelNoun>TODO</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNoun>en manglende kroppsdel</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
-  <MissingBodyPart.labelNounPretty>TODO</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>mangler en {1}</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
-  <Scratch.label>TODO</Scratch.label>
+  <Scratch.label>skrubbsår</Scratch.label>
   <!-- EN: A scratch or tear. -->
   <Scratch.description>TODO</Scratch.description>
   <!-- EN: scratch scar -->
-  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>skrubbarr</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Scratch.injuryProps.destroyedLabel>TODO</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedLabel>Revet av</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Scratch.injuryProps.destroyedOutLabel>TODO</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.injuryProps.destroyedOutLabel>Revet ut</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
-  <Scratch.labelNoun>TODO</Scratch.labelNoun>
+  <Scratch.labelNoun>en skramme</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>TODO</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>{0} i {1}</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
-  <Shredded.label>TODO</Shredded.label>
+  <Shredded.label>kvernet</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
   <Shredded.description>TODO</Shredded.description>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>kvernarr</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Shredded.injuryProps.destroyedLabel>TODO</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedLabel>Revet av</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Shredded.injuryProps.destroyedOutLabel>TODO</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.injuryProps.destroyedOutLabel>Revet ut</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>TODO</Shredded.labelNoun>
+  <Shredded.labelNoun>et oppkvernet sår</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>TODO</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>{0} i {1}</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
-  <Stab.label>TODO</Stab.label>
+  <Stab.label>stikksår</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>TODO</Stab.description>
+  <Stab.description>Et stikksår.</Stab.description>
   <!-- EN: stab scar -->
-  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>stikkarr</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Stab.injuryProps.destroyedLabel>TODO</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedLabel>Hugd av</Stab.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Stab.injuryProps.destroyedOutLabel>TODO</Stab.injuryProps.destroyedOutLabel>
+  <Stab.injuryProps.destroyedOutLabel>Hugd ut</Stab.injuryProps.destroyedOutLabel>
   <!-- EN: a stab wound -->
-  <Stab.labelNoun>TODO</Stab.labelNoun>
+  <Stab.labelNoun>et stikksår</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>TODO</Stab.labelNounPretty>
+  <Stab.labelNounPretty>{0} i {1}</Stab.labelNounPretty>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>TODO</SurgicalCut.label>
+  <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
   <SurgicalCut.description>TODO</SurgicalCut.description>
   <!-- EN: surgical scar -->
-  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>operasjonsarr</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->
-  <SurgicalCut.labelNoun>TODO</SurgicalCut.labelNoun>
+  <SurgicalCut.labelNoun>et kirurgisk snittsår</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>TODO</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>{0} i {1}</SurgicalCut.labelNounPretty>
   
 </LanguageData>
