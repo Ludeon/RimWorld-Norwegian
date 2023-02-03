@@ -28,3 +28,4 @@ caravan - karavane
 goodwill - velvilje
 ancient - antikk
 drugs - rusmidler
+handling/handler - dressur/dressør (finnes det noe som passer bedre?)

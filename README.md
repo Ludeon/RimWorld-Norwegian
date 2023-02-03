@@ -30,4 +30,4 @@ Translators
 - Erik Raae (mr-raw) - Last update May 2018
 - Eivind Olsnes (Aiven/avienated) - Last update July 2019
 - Lauren R. Kinder - Last update October 2022
-- msigurdsen - Last update December 2022
+- msigurdsen - Last update February 3rd, 2023

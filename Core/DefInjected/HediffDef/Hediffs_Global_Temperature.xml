@@ -4,7 +4,7 @@
   <!-- EN: heatstroke -->
   <Heatstroke.label>heteslag</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>TODO</Heatstroke.description>
+  <Heatstroke.description>En generalisert forstyrrelse av kroppens funksjon forårsaket av overdreven eksponering for varme og sol. Den vedkommende blir svimmel, svak og forvirret. Restitusjon skjer raskt idet man kommer til et kjølig område, men hvis varmeeksponering fortsetter, blir heteslag kun verre frem til det ender i døden.</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>begynnende</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -19,13 +19,13 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>TODO</Hypothermia.description>
+  <Hypothermia.description>Farlig lav kjernetemperatur. Dersom man ikke kommer i varmen igjen blir hypotermi verre og vil ende i døden. Restitusjon skjer raskt idet vedkommende varmes opp igjen. Unngå hypotermi ved å bruke varme klær i kalde omgivelser.</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>begynnende</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-1.label>ufarlig</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
-  <Hypothermia.stages.minor.label>morderat</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.minor.label>moderat</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
   <Hypothermia.stages.serious.label>alvorlig</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
@@ -34,7 +34,7 @@
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>funksjonsnedsettelse fra frysning</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>En spesiell biologisk tilstand brukt av noen skapninger for å overleve ekstrem kulde. I stedet for å prøve å holde seg varm, tilpasser skapningens kroppskjemi seg for å forhindre indre frysning til tross for svært lav temperatur. Kroppsfunksjoner bremses og kapasitet reduseres, men kulden gjør ingen permanent skade. Noen biologer kaller det en våken form for dvalemodus.</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>begynnende</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->

@@ -26,7 +26,7 @@
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>Disse kolonistene ligger skadet på bakken:\n\n{0}\nSend en annen kolonist til unnsetning for å berge dem.\n\n(For å berge en skadet kolonist, velg en annen kolonist og deretter høyre-klikk på offeret og velg berg #HER.</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Disse kolonistene ligger skadet på bakken:\n\n{0}\nSend en annen kolonist til unnsetning for å berge dem.\n\n(For å berge en skadet kolonist, velg en annen kolonist og deretter venstre trigger-knapp på offeret og velg berg #HER.</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Trenger beskyttelse</NeedDefenses>
@@ -66,9 +66,9 @@
   <NeedColonistBedsDesc>Du har flere kolonister enn du har kolonistsenger så noen vil mangle et sted å sove.\n\nLag flere senger, eller bytt en fanges seng om til en kolonistseng.\n\nHvis du ikke har noen ressurser, så er soveplasser gratis og kan plasseres umiddelbart.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Kolonist forlatt ubegravet</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>En kolonist er blitt forlatt ubegravet.\n\nDette kan ha negative innvirkninger på dine kolonisters humør.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Jeger mangler våpen</HunterLacksWeapon>
@@ -121,7 +121,7 @@
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
   <CurrentExpectationsAndRecreation>Ved nåværende forventninger ({0}), faller hver toleranse med {1} per dag våken. Det anbefales å ha {2} rekreasjonstyper. </CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>Kjedelig</bored>
+  <bored>kjeder seg</bored>
 
   <!-- EN: Boredom -->
   <Boredom>Kjedsomhet</Boredom>
@@ -131,11 +131,11 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Trenger batterier</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>Du har solcellepaneler vindmølle og ingen batterier. Dette betyr at du går tom for strøm hver gang solen går ned eller vinden stilner.\n\nBygg et batteri eller to for å garantere at du ikke går tom for strøm.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Du har solcellepanel eller vindmølle, men ingen batterier. Dette betyr at du går tom for strøm hver gang solen går ned eller vinden stilner.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
-  <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
+  <NeedBatteriesResearchedDesc>Bygg et batteri eller to for å garantere at du ikke går tom for strøm.</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
-  <NeedBatteriesNotResearchedDesc>TODO</NeedBatteriesNotResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Studer batterier og bygg et par av dem for å garantere vedvarende strøm.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Bråkmaker has ranged weapon</BrawlerHasRangedWeapon>
@@ -158,16 +158,16 @@
   <ColonistsIdleDesc>Disse kolonistene vandrer rundt uten arbeid:\n\n{0}\nDu bør vel kanskje finne noen oppgaver til dem.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Karavane stillestående</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Disse karavanene venter på at du skal sette deres neste destinasjon:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Kolonist trenger behandling</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Deretter velger du den skadde kolonisten og høyre-klikker på sykesengen for å gjøre han/hun om til en pasient.)</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>Disse kolonistene trenger medisinsk behandling. Uten det kan de dø av sine sår, eller så kan sårene bli permanente.\n\n{0}\nDu kan gi dem behandling ved å sende dem til en sykeseng.\n\n(Først, angi en sykeseng ved å velge en seng og bytt den om til å bli en sykeseng. Deretter velger du den skadde kolonisten og trykk venstre trigger-knapp på sykesengen for å gjøre dem om til en pasient.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hypotermi</AlertHypothermia>
@@ -182,7 +182,7 @@
   <!-- EN: Fire! -->
   <FireInHomeArea>Brann!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>Det brenner i hjemmeområdet!</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Det brenner i hjemmeområdet.</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Alvorlig sykdom</PawnsWithLifeThreateningDisease>
@@ -197,14 +197,14 @@
   <BilliardsNeedsSpaceDesc>Et av dine biljardbord står inntil en sperre som vil hindre kolonistene fra å bruke det.\n\nEt biljardbord trenger åpen plass omkring det på alle fire sider for å kunne brukes.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Chess table needs chairs -->
-  <ChessTablesNeedChairs>TODO</ChessTablesNeedChairs>
+  <ChessTablesNeedChairs>Sjakkbord trenger stoler</ChessTablesNeedChairs>
   <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
-  <ChessTablesNeedChairsDesc>TODO</ChessTablesNeedChairsDesc>
+  <ChessTablesNeedChairsDesc>Et av dine sjakkbord har ingen stoler.\n\nBygg stoler eller krakker rundt bordet for å tillate dine kolonister å bruke det. Opptil to personer kan bruke sjakkbordet samtidig.</ChessTablesNeedChairsDesc>
 
   <!-- EN: Poker table needs chairs -->
-  <PokerTablesNeedChairs>TODO</PokerTablesNeedChairs>
+  <PokerTablesNeedChairs>Pokerbord trenger stoler</PokerTablesNeedChairs>
   <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
-  <PokerTablesNeedChairsDesc>TODO</PokerTablesNeedChairsDesc>
+  <PokerTablesNeedChairsDesc>Et av dine pokerbord har ingen stoler.\n\nBygg stoler eller krakker rundt bordet for å tillate dine kolonister å bruke det. Opptil åtte personer kan bruke pokerbordet samtidig.</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>Jeger har skjold og skytevåpen</HunterHasShieldAndRangedWeapon>
@@ -226,112 +226,112 @@
   <ImmobileCaravanDesc>En av dine karavaner står stille fordi den er overlasset med varer.\n\nDu kan få karavanen til å bevege seg igjen ved å forlate noen eiendeler.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Bygning ubrukelig på grunn av tak</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>En eller flere av bygningene dine kan bare bli brukt hvis ikke taklagt, men det har et tak over seg. Bygningen(e) vil kunne brukes igjen dersom du fjerner taket.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Heteslag</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Følgende personer lider av heteslag:\n\n{0}\nFå dem vekk til et kjøligere område. Du kan kjøle ned rom med passive kjølere eller elektriske kjølere. Dype underjordiske rom er også naturlig kjølige, dersom de er adskilt fra luften utendørs med en dør.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Gjest misfornøyd</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Gjesten {0} krever at du holder denne personen i et godt humør. Akkurat nå er de i dårlig humør. Gjør tiltak som får dem til å føle seg bedre:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Skyttel forlater om {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Skyttelen forlater om {1}. Oppdraget {0} krever at du laster følgende personer eller ting på skyttelen før den kan sendes:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
-  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelayDescHidden>Skyttelen forlater om {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
-  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelay>Skyttel ankommer om {0}</QuestPartShuttleArriveDelay>
   <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDesc>En skyttel vil ankomme om {1}. Oppdraget {0} krever at du laster følgende personer eller ting på skyttelen før den kan sendes:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
-  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelayDescHidden>En skyttel vil ankomme om {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Monument vil bli ødelagt</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Du har bygget en bygning som ikke er tillatt inne i et av monumentene dine. Monumentet vil bli ansett som ødelagt om {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Nedtellingsaktivator {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Det finnes en nedtellingsaktivator som teller ned, og forbereder seg til å vekke mekanoider i nærheten.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} nedtellingsaktivatorer</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Det finnes {0} nedtellingsaktivatorer som teller ned, og forbereder seg til å vekke mekanoider i nærheten.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Oppdrag utløper om {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Oppdraget '{0}' vil utløpe om {1}.</QuestExpiresSoonDesc>
 
   <!-- EN: Animal filth -->
-  <AlertAnimalFilth>TODO</AlertAnimalFilth>
+  <AlertAnimalFilth>Dyreskitt</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>Et skitt-produserende dyr er innendørs på et rent gulv.\n\nDyr produserer en stor mengde skitt når de går rundt på normale gulv. Hold skitt-produserende dyr utendørs, eller på stråmatter hvor de produserer langt mindre skitt.\n\nDu kan sjekke raten på hvor mye skitt et dyr produserer i dens statistikk ved å trykke 'i'-knappen.\n\nFølgende dyr er årsaken:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
-  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeeded>Trenger kve</AlertAnimalPenNeeded>
   <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
-  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededDesc>Noen av de tamme dyrene dine streifer. Hvis de ikke inngjerdes i en kve eller taues til en karavenes samlingspunkt, vil de vandre av sted.</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
-  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededNoHandlers>Du har ingen dressørere til å ta dyrene til en kve.\n\nTildel en kolonist til arbeidstypen Dressur.</AlertAnimalPenNeededNoHandlers>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
-  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeededDescExplanation>Lag en dyrekve ved å bygge en kve-markør innenfor et inngjerdet, barrikert eller fullstendig lukket område. Velg kve-markøren for å se hvilke dyr den aksepterer og hvor mange dens kve er i stand til å holde.\n\nDine dressørere vil automatisk ta dyr til deres tildelte kve.\n\nEn kve trenger en dør eller port for å slippe inn dyr.</AlertAnimalPenNeededDescExplanation>
   
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>Kve ikke lukket</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>En dyrekve-markør er ikke innlukket.\n\nDu kan lukke inn en kve ved å bruke gjerder, barrikader, porter, vegger, eller dører for å forhindre dyr i å slippe ut.\n\nHvis du kun har ulukkede kve-markører, kan dressørene dine fortsatt ta med streifende dyr tilbake hjem - men dette må gjentas fra tid til annen når dyrene vandrer igjen.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
-  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} i dyrekve</AlertPredatorInAnimalPen>
   <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
-  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPenDesc>Et rovdyr ({ANIMAL_labelShort}) har beveget seg inn i en dyrekve.\n\nDet kan bestemme seg for å jakte på dyrene dine.\n\nDu kan drepe det, eller vente og håpe på at det forsvinner.</AlertPredatorInAnimalPenDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>Dyr vandrer av sted</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>Noen av de tamme dyrene dine er omstreifere og har begynt å vandre. Hvis de når enden av kartet vil de etter hvert forsvinne.\n\nHvis du har en innlukket dyrekve kan dressørene dine ta med dyret tilbake. Dyr i en dyrekve vil ikke begynne å vandre.\n\nFølgende dyr er omstreifende:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>Sultne dyr i kve</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Noen av de inngjerdede dyrene dine er sultne.\n\nVelg en kvemarkør og se Mat-fanen for mer detaljer.\n\nGrassetende dyr kan behøve en større kve for å kunne forsyne nok grass. Andre dyr kan behøve at høy eller liknende mat blir satt ut til dem innenfor et lagerområde.\n\nFølgende inngjerdede dyr er sultne:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>TODO</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFood>Sultne fastbindte dyr</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>TODO</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFoodDesc>Noen dyr tilbundet en karavenes samlingspunkt er sultne. Det kan hende de ikke har noe passende mat innen rekkevidde.\n\nTa med mat til dem, eller fjern dem fra samlingspunktet så de kan finne mat på egenhånd.\n\nFølgende fastbindte dyr er sultne:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>Angrep ankommer om {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>Fiender har blitt trukket til følgende steder og vil snart begynne å ankomme med styrkene sine.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>Ankommer {0} om {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
-  <FactionWillBecomeHostileIfNotLeavingWithin>TODO</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Fraksjon vil bli fiendtlig hvis du blir værende</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Disse fraksjonene vil bli fiendtlige hvis du blir værende lenger hos bosetningen eller utposten deres:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>{0} døende trær</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc>{0} ekstraherte trær kommer til å dø i løpet av under en dag. Dette vil gjøre noen kolonister misfornøyde på grunn av deres tro.\n\nDu kan forhindre dette ved å gjenplante disse trærne.</AlertMinifiedTreeAboutToDieDesc>
 
   <!-- EN: Need research bench -->
-  <NeedResearchBench>TODO</NeedResearchBench>
+  <NeedResearchBench>Trenger forskningsbenk</NeedResearchBench>
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
-  <NeedResearchBenchDesc>TODO</NeedResearchBenchDesc>
+  <NeedResearchBenchDesc>Du har et aktivt forskningsprosjekt '{0}'. Dette prosjektet krever at du bygger {1}.</NeedResearchBenchDesc>
   
 </LanguageData>

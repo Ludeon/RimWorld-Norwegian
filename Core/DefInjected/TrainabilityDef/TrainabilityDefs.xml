@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: advanced -->
-  <Advanced.label>TODO</Advanced.label>
+  <Advanced.label>avansert</Advanced.label>
   
   <!-- EN: intermediate -->
-  <Intermediate.label>TODO</Intermediate.label>
+  <Intermediate.label>middels</Intermediate.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>ingen</None.label>
   
 </LanguageData>
