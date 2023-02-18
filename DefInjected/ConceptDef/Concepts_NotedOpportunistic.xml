@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: Animals don't attack doors -->
-  <AnimalsDontAttackDoors.label>TODO</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Dyr vil ikke angripe dører</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
   <AnimalsDontAttackDoors.helpText>Mannevonde dyr vil stort sett ikke skade dører eller inaktive automatvåpen.\n\nKolonistene dine er er trygge med en vegg mellom seg og fienden. Men beistene vil vente på deg...</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>TODO</BillsTab.label>
+  <BillsTab.label>Oppgaver</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>Før kolonister kan jobbe ved en benk, må du gi arbeidsområdet en bestilling under Bestillinger. Her angir du hvilke retter og hvilket utstyr som skal lages, og om dyr skal flås. Velg Gjør for alltid om du vil at bestillingen skal var for alltid.</BillsTab.helpText>
   
@@ -17,12 +17,12 @@
   <BuildOrbitalTradeBeacon.helpText>For å drive banehandel må du bygge et handelsmerke og plassere ting i lagerområdet dens.</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>TODO</Capturing.label>
+  <Capturing.label>Fanging av fiender</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
   <Capturing.helpText>En fiende er bevisstløs. Du kan fange hen!</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>Døråpnehastighet</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
   <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
   
@@ -72,7 +72,7 @@
   <ReformCaravan.helpText>TODO</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
-  <Rescuing.label>TODO</Rescuing.label>
+  <Rescuing.label>Redningsaksjon</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpText>For å redde en skadet kolonist, velg en kolonist som kan gå, og høyreklikk på den skadde. Velg Berg.</Rescuing.helpText>
   
@@ -87,7 +87,7 @@
   <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
-  <TVForSickPeople.label>TODO</TVForSickPeople.label>
+  <TVForSickPeople.label>Underholdning</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
   <TVForSickPeople.helpText>Sengeliggende pasienter kan kose seg om du gir dem en TV å se på.</TVForSickPeople.helpText>
   

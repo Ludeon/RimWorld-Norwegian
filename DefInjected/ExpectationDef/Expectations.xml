@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: extremely low -->
-  <ExtremelyLow.label>TODO</ExtremelyLow.label>
+  <ExtremelyLow.label>ekstremt lav</ExtremelyLow.label>
   
   <!-- EN: high -->
-  <High.label>TODO</High.label>
+  <High.label>høy</High.label>
   
   <!-- EN: low -->
-  <Low.label>TODO</Low.label>
+  <Low.label>lav</Low.label>
   
   <!-- EN: moderate -->
-  <Moderate.label>TODO</Moderate.label>
+  <Moderate.label>moderat</Moderate.label>
   
   <!-- EN: sky high -->
-  <SkyHigh.label>TODO</SkyHigh.label>
+  <SkyHigh.label>skyhøy</SkyHigh.label>
   
   <!-- EN: very low -->
-  <VeryLow.label>TODO</VeryLow.label>
+  <VeryLow.label>veldig lav</VeryLow.label>
   
 </LanguageData>
