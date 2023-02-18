@@ -1,5 +1,4 @@
-RimWorld-Norwegian
-==================
+# RimWorld-Norwegian
 
 The Norwegian translation of RimWorld.
 
@@ -7,17 +6,17 @@ See [this link](http://ludeon.com/forums/index.php?topic=2933.0) for license inf
 
 Google Spreadsheet for translation progress: https://docs.google.com/spreadsheets/d/1HqYDZsiX3TXFnJ5JU7c0RdvzyeKcTnWgTmOPeT00vdA/edit?usp=sharing
 
-Updates
-======
+# Updates
 
 #### 15.05.18
+
 Added Google Spreadsheet for translation. Initial version. Only added the "Keys" directory. Document has write access.
 
 #### 14.05.18
+
 Cleaned up main directory. Please keep the original file and directory structure, people. Will update to 0.18.
 
-Translators
-======
+# Translators
 
 - Darky - Last update August 2014
 - IllusionDistort - Last update December 2014
@@ -27,7 +26,7 @@ Translators
 - Bendik Berg - Last update January 2019
 - ApertureAlex - Last update March 2017
 - EirikBirkeland - Last update November 2017
-- Erik Raae (mr-raw) - Last update May 2018
 - Eivind Olsnes (Aiven/avienated) - Last update July 2019
 - Lauren R. Kinder - Last update October 2022
 - msigurdsen - Last update February 3rd, 2023
+- Erik Raae (mr-raw) - Last update February 2023
