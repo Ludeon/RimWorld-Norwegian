@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>TODO</Barricade.label>
+  <Barricade.label>barrikade</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
-  <Barricade.description>TODO</Barricade.description>
+  <Barricade.description>En midjehøy barriere som brukes som dekning mot innkommende skudd. Barrikader er stygge, men gir bedre dekning enn andre lave objekter. Barrikader blokkerer visse typer dyr på samme måte som gjerder gjør.</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>sandsekker</Sandbags.label>
@@ -37,9 +37,9 @@
   <TrapIED_Incendiary.description>Et par branngranater koblet til en trykkplate. Den kan ikke plasseres ved siden av andre feller. Rolige dyr kan oppdage den.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>røyk-mine</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
+  <TrapIED_Smoke.description>Et par røykgranater koblet til en trykkplate. Den kan ikke plasseres ved siden av andre feller. Rolige dyr kan oppdage den.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
   <TrapSpike.label>spikerfelle</TrapSpike.label>
