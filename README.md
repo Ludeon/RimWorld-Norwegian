@@ -26,7 +26,7 @@ Cleaned up main directory. Please keep the original file and directory structure
 - Bendik Berg - Last update January 2019
 - ApertureAlex - Last update March 2017
 - EirikBirkeland - Last update November 2017
-- Eivind Olsnes (Aiven/avienated) - Last update July 2019
+- Aiven - Last update July 2019
 - Lauren R. Kinder - Last update October 2022
 - msigurdsen - Last update February 3rd, 2023
 - Erik Raae (mr-raw) - Last update February 2023
