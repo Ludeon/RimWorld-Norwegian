@@ -225,12 +225,10 @@
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
     <li>terrain_word(p=6)->lake</li>
-    <li>terrain_word->sea</li>
     <li>terrain_word->pond</li>
     <li>terrain_word->basin</li>
     <li>terrain_word->reservoir</li>
     <li>terrain_word(p=0.3)->puddle</li>
-    <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
   <NamerLake.rulePack.rulesStrings>
@@ -353,7 +351,7 @@
   <NamerOcean.rulePack.rulesStrings>
     <li>r_name->[standardname]</li>
     <li>r_name(p=0.2)->[ocean_adjective][terrain_word]</li>
-    <li>ocean_adjective->[color]</li>
+    <li>ocean_adjective->[Color]</li>
     <li>ocean_adjective->fiske</li>
     <li>ocean_adjective->seiler</li>
     <li>ocean_adjective->torske</li>
@@ -402,10 +400,9 @@
   </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_name(p=0.1)->lake [narrative_name]</li>
     <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->lagoon</li>
     <li>terrain_word->ocean</li>
-    <li>terrain_word->lake</li>
   -->
   <NamerSea.rulePack.rulesStrings>
     <li>r_name->[standardname]</li>
@@ -619,7 +616,7 @@
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
     <li>standardname->[gen_pre][terrain_word]</li>
     <li>standardname(p=0.05)->[standardstory]</li>
-    <li>standardname(p=0.05)->[gen_pos] [terrain_indef]]</li>
+    <li>standardname(p=0.05)->[gen_pos] [terrain_indef]</li>
     <li>standardstory->[subject]s [story_result_pre][terrain_indef]</li>
     <li>gen_end(p=0.2)->[norsk_outlander]</li>
     <li>gen_end->[NamePerson]</li>
@@ -745,7 +742,6 @@
     <li>animal_bestemt->alpakkaen</li>
     <li>animal_bestemt->anda</li>
     <li>animal_bestemt->antilopa</li>
-    <li>animal_bestemt->apen</li>
     <li>animal_bestemt->apen</li>
     <li>animal_bestemt->armadilloen</li>
     <li>animal_bestemt->barrakudaen</li>
@@ -936,7 +932,6 @@
     <li>animal_pre->alpakka</li>
     <li>animal_pre->and</li>
     <li>animal_pre->antilope</li>
-    <li>animal_pre->ape</li>
     <li>animal_pre->ape</li>
     <li>animal_pre->armadillo</li>
     <li>animal_pre->barrakuda</li>
